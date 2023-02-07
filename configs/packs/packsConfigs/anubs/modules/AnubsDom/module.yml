@@ -1,0 +1,22 @@
+module:
+    name: AnubsDom
+    inputPath: D:\animations\anubs\1346682956_AnubSLAL01.2023LE\00 Data\SLAL
+        H\Meshes\actors\character\animations\Anubs Human
+    slalJsonConfig: D:\animations\anubs\1346682956_AnubSLAL01.2023LE\00 Data\SLAL
+        H\SLAnims\json\HUMAN NEW.json
+    include:
+        - ffmfemdom2
+        - ffmfemdom
+        - ffmfemdom3
+        - chairfemdom
+        - thronefemdom
+        - aamazon
+        - anubdomcow
+        - anubfemdom
+        - facesit
+        - boundtable
+        - femfoot
+        - ffmreversal
+        - hge
+        - afc2
+    exclude: []

@@ -1,0 +1,9 @@
+furnitureMap:
+    bed: []
+    bench: []
+    chair: []
+    cookingpot: []
+    shelf: []
+    table: []
+    wall:
+        - bgwall

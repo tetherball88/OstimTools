@@ -1,0 +1,1040 @@
+{
+    "bggentle": {
+        "name": "Anubs Big Guy Gentle(Basescale 1.15)",
+        "actorsKeyword": "fm",
+        "stages": [
+            {
+                "actors": [
+                    {
+                        "position": "0",
+                        "scale": "1.15",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "male",
+                        "penisAngle": "0"
+                    },
+                    {
+                        "position": "1",
+                        "scale": "1",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "female"
+                    }
+                ],
+                "meta": {
+                    "tags": "anubs,bigguy,dirty,sex,vaginal,mf,standing"
+                },
+                "id": "AnubsBigGuy|fmPos|Ap|bggentle-1",
+                "fileName": "AnubsBigGuy_Ap-bggentle_1"
+            },
+            {
+                "actors": [
+                    {
+                        "position": "0",
+                        "scale": "1.15",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "male",
+                        "penisAngle": "0"
+                    },
+                    {
+                        "position": "1",
+                        "scale": "1",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "female"
+                    }
+                ],
+                "meta": {
+                    "tags": "anubs,bigguy,dirty,sex,vaginal,mf,standing"
+                },
+                "id": "AnubsBigGuy|fmPos|Ap|bggentle-2",
+                "fileName": "AnubsBigGuy_Ap-bggentle_2"
+            },
+            {
+                "actors": [
+                    {
+                        "position": "0",
+                        "scale": "1.15",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "male",
+                        "penisAngle": "0"
+                    },
+                    {
+                        "position": "1",
+                        "scale": "1",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "female"
+                    }
+                ],
+                "meta": {
+                    "tags": "anubs,bigguy,dirty,sex,vaginal,mf,standing"
+                },
+                "id": "AnubsBigGuy|fmPos|Ap|bggentle-3",
+                "fileName": "AnubsBigGuy_Ap-bggentle_3"
+            },
+            {
+                "actors": [
+                    {
+                        "position": "0",
+                        "scale": "1.15",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "male",
+                        "penisAngle": "0"
+                    },
+                    {
+                        "position": "1",
+                        "scale": "1",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "female"
+                    }
+                ],
+                "meta": {
+                    "tags": "anubs,bigguy,dirty,sex,vaginal,mf,standing"
+                },
+                "id": "AnubsBigGuy|fmPos|Ap|bggentle-4",
+                "fileName": "AnubsBigGuy_Ap-bggentle_4"
+            },
+            {
+                "actors": [
+                    {
+                        "position": "0",
+                        "scale": "1.15",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "male",
+                        "penisAngle": "0"
+                    },
+                    {
+                        "position": "1",
+                        "scale": "1",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "female"
+                    }
+                ],
+                "meta": {
+                    "tags": "anubs,bigguy,dirty,sex,vaginal,mf,standing"
+                },
+                "id": "AnubsBigGuy|fmPos|Ap|bggentle-5",
+                "fileName": "AnubsBigGuy_Ap-bggentle_5"
+            },
+            {
+                "actors": [
+                    {
+                        "position": "0",
+                        "scale": "1.15",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "male",
+                        "penisAngle": "0"
+                    },
+                    {
+                        "position": "1",
+                        "scale": "1",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "female"
+                    }
+                ],
+                "meta": {
+                    "tags": "anubs,bigguy,dirty,sex,vaginal,mf,standing"
+                },
+                "id": "AnubsBigGuy|fmPos|Ap|bggentle-6",
+                "fileName": "AnubsBigGuy_Ap-bggentle_6"
+            },
+            {
+                "actors": [
+                    {
+                        "position": "0",
+                        "scale": "1.15",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "male",
+                        "penisAngle": "0"
+                    },
+                    {
+                        "position": "1",
+                        "scale": "1",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "female"
+                    }
+                ],
+                "meta": {
+                    "tags": "anubs,bigguy,dirty,sex,vaginal,mf,standing"
+                },
+                "id": "AnubsBigGuy|fmPos|Ap|bggentle-7",
+                "fileName": "AnubsBigGuy_Ap-bggentle_7"
+            }
+        ],
+        "folders": {
+            "moduleName": "AnubsBigGuy",
+            "posFolderName": "fmPos",
+            "classFolderName": "Ap",
+            "animName": "bggentle"
+        }
+    },
+    "bgnelson": {
+        "name": "Anubs Big Guy Nelson (Basescale 1.15)",
+        "actorsKeyword": "fm",
+        "stages": [
+            {
+                "actors": [
+                    {
+                        "position": "0",
+                        "scale": "1.15",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "male",
+                        "penisAngle": "0"
+                    },
+                    {
+                        "position": "1",
+                        "scale": "1",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "female"
+                    }
+                ],
+                "meta": {
+                    "tags": "anubs,bigguy,dirty,vaginal,standing,lying,sex"
+                },
+                "id": "AnubsBigGuy|fmPos|Ap|bgnelson-1",
+                "fileName": "AnubsBigGuy_Ap-bgnelson_1"
+            },
+            {
+                "actors": [
+                    {
+                        "position": "0",
+                        "scale": "1.15",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "male",
+                        "penisAngle": "0"
+                    },
+                    {
+                        "position": "1",
+                        "scale": "1",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "female"
+                    }
+                ],
+                "meta": {
+                    "tags": "anubs,bigguy,dirty,vaginal,standing,lying,sex"
+                },
+                "id": "AnubsBigGuy|fmPos|Ap|bgnelson-2",
+                "fileName": "AnubsBigGuy_Ap-bgnelson_2"
+            },
+            {
+                "actors": [
+                    {
+                        "position": "0",
+                        "scale": "1.15",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "male",
+                        "penisAngle": "0"
+                    },
+                    {
+                        "position": "1",
+                        "scale": "1",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "female"
+                    }
+                ],
+                "meta": {
+                    "tags": "anubs,bigguy,dirty,vaginal,standing,lying,sex"
+                },
+                "id": "AnubsBigGuy|fmPos|Ap|bgnelson-3",
+                "fileName": "AnubsBigGuy_Ap-bgnelson_3"
+            },
+            {
+                "actors": [
+                    {
+                        "position": "0",
+                        "scale": "1.15",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "male",
+                        "penisAngle": "0"
+                    },
+                    {
+                        "position": "1",
+                        "scale": "1",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "female"
+                    }
+                ],
+                "meta": {
+                    "tags": "anubs,bigguy,dirty,vaginal,standing,lying,sex"
+                },
+                "id": "AnubsBigGuy|fmPos|Ap|bgnelson-4",
+                "fileName": "AnubsBigGuy_Ap-bgnelson_4"
+            },
+            {
+                "actors": [
+                    {
+                        "position": "0",
+                        "scale": "1.15",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "male",
+                        "penisAngle": "0"
+                    },
+                    {
+                        "position": "1",
+                        "scale": "1",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "female"
+                    }
+                ],
+                "meta": {
+                    "tags": "anubs,bigguy,dirty,vaginal,standing,lying,sex"
+                },
+                "id": "AnubsBigGuy|fmPos|Ap|bgnelson-5",
+                "fileName": "AnubsBigGuy_Ap-bgnelson_5"
+            },
+            {
+                "actors": [
+                    {
+                        "position": "0",
+                        "scale": "1.15",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "male",
+                        "penisAngle": "0"
+                    },
+                    {
+                        "position": "1",
+                        "scale": "1",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "female"
+                    }
+                ],
+                "meta": {
+                    "tags": "anubs,bigguy,dirty,vaginal,standing,lying,sex"
+                },
+                "id": "AnubsBigGuy|fmPos|Ap|bgnelson-6",
+                "fileName": "AnubsBigGuy_Ap-bgnelson_6"
+            }
+        ],
+        "folders": {
+            "moduleName": "AnubsBigGuy",
+            "posFolderName": "fmPos",
+            "classFolderName": "Ap",
+            "animName": "bgnelson"
+        }
+    },
+    "bgwall": {
+        "name": "Anubs BigGuy Wall(Basescale 1.15)",
+        "actorsKeyword": "fm",
+        "stages": [
+            {
+                "actors": [
+                    {
+                        "position": "0",
+                        "scale": "1.15",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "male",
+                        "penisAngle": "0"
+                    },
+                    {
+                        "position": "1",
+                        "scale": "1",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "female"
+                    }
+                ],
+                "meta": {
+                    "tags": "anubs,bigguy,dirty,sex,vaginal,mf,furniture,doggy,doggystyle,wall,invisfurn",
+                    "furniture": "wall"
+                },
+                "id": "AnubsBigGuy|fmWallPos|Ap|bgwall-1",
+                "fileName": "AnubsBigGuy_Ap-bgwall_1"
+            },
+            {
+                "actors": [
+                    {
+                        "position": "0",
+                        "scale": "1.15",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "male",
+                        "penisAngle": "0"
+                    },
+                    {
+                        "position": "1",
+                        "scale": "1",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "female"
+                    }
+                ],
+                "meta": {
+                    "tags": "anubs,bigguy,dirty,sex,vaginal,mf,furniture,doggy,doggystyle,wall,invisfurn",
+                    "furniture": "wall"
+                },
+                "id": "AnubsBigGuy|fmWallPos|Ap|bgwall-2",
+                "fileName": "AnubsBigGuy_Ap-bgwall_2"
+            },
+            {
+                "actors": [
+                    {
+                        "position": "0",
+                        "scale": "1.15",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "male",
+                        "penisAngle": "0"
+                    },
+                    {
+                        "position": "1",
+                        "scale": "1",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "female"
+                    }
+                ],
+                "meta": {
+                    "tags": "anubs,bigguy,dirty,sex,vaginal,mf,furniture,doggy,doggystyle,wall,invisfurn",
+                    "furniture": "wall"
+                },
+                "id": "AnubsBigGuy|fmWallPos|Ap|bgwall-3",
+                "fileName": "AnubsBigGuy_Ap-bgwall_3"
+            },
+            {
+                "actors": [
+                    {
+                        "position": "0",
+                        "scale": "1.15",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "male",
+                        "penisAngle": "0"
+                    },
+                    {
+                        "position": "1",
+                        "scale": "1",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "female"
+                    }
+                ],
+                "meta": {
+                    "tags": "anubs,bigguy,dirty,sex,vaginal,mf,furniture,doggy,doggystyle,wall,invisfurn",
+                    "furniture": "wall"
+                },
+                "id": "AnubsBigGuy|fmWallPos|Ap|bgwall-4",
+                "fileName": "AnubsBigGuy_Ap-bgwall_4"
+            },
+            {
+                "actors": [
+                    {
+                        "position": "0",
+                        "scale": "1.15",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "male",
+                        "penisAngle": "0"
+                    },
+                    {
+                        "position": "1",
+                        "scale": "1",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "female"
+                    }
+                ],
+                "meta": {
+                    "tags": "anubs,bigguy,dirty,sex,vaginal,mf,furniture,doggy,doggystyle,wall,invisfurn",
+                    "furniture": "wall"
+                },
+                "id": "AnubsBigGuy|fmWallPos|Ap|bgwall-5",
+                "fileName": "AnubsBigGuy_Ap-bgwall_5"
+            },
+            {
+                "actors": [
+                    {
+                        "position": "0",
+                        "scale": "1.15",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "male",
+                        "penisAngle": "0"
+                    },
+                    {
+                        "position": "1",
+                        "scale": "1",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "female"
+                    }
+                ],
+                "meta": {
+                    "tags": "anubs,bigguy,dirty,sex,vaginal,mf,furniture,doggy,doggystyle,wall,invisfurn",
+                    "furniture": "wall"
+                },
+                "id": "AnubsBigGuy|fmWallPos|Ap|bgwall-6",
+                "fileName": "AnubsBigGuy_Ap-bgwall_6"
+            }
+        ],
+        "folders": {
+            "moduleName": "AnubsBigGuy",
+            "posFolderName": "fmWallPos",
+            "classFolderName": "Ap",
+            "animName": "bgwall"
+        }
+    },
+    "bigguydoggy": {
+        "name": "Anubs BigGuy Doggystyle(Basescale 1.15)",
+        "actorsKeyword": "fm",
+        "stages": [
+            {
+                "actors": [
+                    {
+                        "position": "0",
+                        "scale": "1.15",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "male",
+                        "penisAngle": "0"
+                    },
+                    {
+                        "position": "1",
+                        "scale": "1",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "female"
+                    }
+                ],
+                "meta": {
+                    "tags": "anubs,bigguy,dirty,sex,vaginal,mf,furniture,doggy,doggystyle"
+                },
+                "id": "AnubsBigGuy|fmPos|Ap|bigguydoggy-1",
+                "fileName": "AnubsBigGuy_Ap-bigguydoggy_1"
+            },
+            {
+                "actors": [
+                    {
+                        "position": "0",
+                        "scale": "1.15",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "male",
+                        "penisAngle": "0"
+                    },
+                    {
+                        "position": "1",
+                        "scale": "1",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "female"
+                    }
+                ],
+                "meta": {
+                    "tags": "anubs,bigguy,dirty,sex,vaginal,mf,furniture,doggy,doggystyle"
+                },
+                "id": "AnubsBigGuy|fmPos|Ap|bigguydoggy-2",
+                "fileName": "AnubsBigGuy_Ap-bigguydoggy_2"
+            },
+            {
+                "actors": [
+                    {
+                        "position": "0",
+                        "scale": "1.15",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "male",
+                        "penisAngle": "0"
+                    },
+                    {
+                        "position": "1",
+                        "scale": "1",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "female"
+                    }
+                ],
+                "meta": {
+                    "tags": "anubs,bigguy,dirty,sex,vaginal,mf,furniture,doggy,doggystyle"
+                },
+                "id": "AnubsBigGuy|fmPos|Ap|bigguydoggy-3",
+                "fileName": "AnubsBigGuy_Ap-bigguydoggy_3"
+            },
+            {
+                "actors": [
+                    {
+                        "position": "0",
+                        "scale": "1.15",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "male",
+                        "penisAngle": "0"
+                    },
+                    {
+                        "position": "1",
+                        "scale": "1",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "female"
+                    }
+                ],
+                "meta": {
+                    "tags": "anubs,bigguy,dirty,sex,vaginal,mf,furniture,doggy,doggystyle"
+                },
+                "id": "AnubsBigGuy|fmPos|Ap|bigguydoggy-4",
+                "fileName": "AnubsBigGuy_Ap-bigguydoggy_4"
+            },
+            {
+                "actors": [
+                    {
+                        "position": "0",
+                        "scale": "1.15",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "male",
+                        "penisAngle": "0"
+                    },
+                    {
+                        "position": "1",
+                        "scale": "1",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "female"
+                    }
+                ],
+                "meta": {
+                    "tags": "anubs,bigguy,dirty,sex,vaginal,mf,furniture,doggy,doggystyle"
+                },
+                "id": "AnubsBigGuy|fmPos|Ap|bigguydoggy-5",
+                "fileName": "AnubsBigGuy_Ap-bigguydoggy_5"
+            },
+            {
+                "actors": [
+                    {
+                        "position": "0",
+                        "scale": "1.15",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "male",
+                        "penisAngle": "0"
+                    },
+                    {
+                        "position": "1",
+                        "scale": "1",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "female"
+                    }
+                ],
+                "meta": {
+                    "tags": "anubs,bigguy,dirty,sex,vaginal,mf,furniture,doggy,doggystyle"
+                },
+                "id": "AnubsBigGuy|fmPos|Ap|bigguydoggy-6",
+                "fileName": "AnubsBigGuy_Ap-bigguydoggy_6"
+            }
+        ],
+        "folders": {
+            "moduleName": "AnubsBigGuy",
+            "posFolderName": "fmPos",
+            "classFolderName": "Ap",
+            "animName": "bigguydoggy"
+        }
+    },
+    "bigguysitting": {
+        "name": "Anubs BigGuy Sitting(Basescale 1.15)",
+        "actorsKeyword": "fm",
+        "stages": [
+            {
+                "actors": [
+                    {
+                        "position": "0",
+                        "scale": "1.15",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "male",
+                        "penisAngle": "0"
+                    },
+                    {
+                        "position": "1",
+                        "scale": "1",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "female"
+                    }
+                ],
+                "meta": {
+                    "tags": "anubs,bigguy,dirty,sex,vaginal,mf,furniture,cowgirl"
+                },
+                "id": "AnubsBigGuy|fmPos|Ap|bigguysitting-1",
+                "fileName": "AnubsBigGuy_Ap-bigguysitting_1"
+            },
+            {
+                "actors": [
+                    {
+                        "position": "0",
+                        "scale": "1.15",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "male",
+                        "penisAngle": "0"
+                    },
+                    {
+                        "position": "1",
+                        "scale": "1",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "female"
+                    }
+                ],
+                "meta": {
+                    "tags": "anubs,bigguy,dirty,sex,vaginal,mf,furniture,cowgirl"
+                },
+                "id": "AnubsBigGuy|fmPos|Ap|bigguysitting-2",
+                "fileName": "AnubsBigGuy_Ap-bigguysitting_2"
+            },
+            {
+                "actors": [
+                    {
+                        "position": "0",
+                        "scale": "1.15",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "male",
+                        "penisAngle": "0"
+                    },
+                    {
+                        "position": "1",
+                        "scale": "1",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "female"
+                    }
+                ],
+                "meta": {
+                    "tags": "anubs,bigguy,dirty,sex,vaginal,mf,furniture,cowgirl"
+                },
+                "id": "AnubsBigGuy|fmPos|Ap|bigguysitting-3",
+                "fileName": "AnubsBigGuy_Ap-bigguysitting_3"
+            },
+            {
+                "actors": [
+                    {
+                        "position": "0",
+                        "scale": "1.15",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "male",
+                        "penisAngle": "0"
+                    },
+                    {
+                        "position": "1",
+                        "scale": "1",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "female"
+                    }
+                ],
+                "meta": {
+                    "tags": "anubs,bigguy,dirty,sex,vaginal,mf,furniture,cowgirl"
+                },
+                "id": "AnubsBigGuy|fmPos|Ap|bigguysitting-4",
+                "fileName": "AnubsBigGuy_Ap-bigguysitting_4"
+            },
+            {
+                "actors": [
+                    {
+                        "position": "0",
+                        "scale": "1.15",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "male",
+                        "penisAngle": "0"
+                    },
+                    {
+                        "position": "1",
+                        "scale": "1",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "female"
+                    }
+                ],
+                "meta": {
+                    "tags": "anubs,bigguy,dirty,sex,vaginal,mf,furniture,cowgirl"
+                },
+                "id": "AnubsBigGuy|fmPos|Ap|bigguysitting-5",
+                "fileName": "AnubsBigGuy_Ap-bigguysitting_5"
+            },
+            {
+                "actors": [
+                    {
+                        "position": "0",
+                        "scale": "1.15",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "male",
+                        "penisAngle": "0"
+                    },
+                    {
+                        "position": "1",
+                        "scale": "1",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "female"
+                    }
+                ],
+                "meta": {
+                    "tags": "anubs,bigguy,dirty,sex,vaginal,mf,furniture,cowgirl"
+                },
+                "id": "AnubsBigGuy|fmPos|Ap|bigguysitting-6",
+                "fileName": "AnubsBigGuy_Ap-bigguysitting_6"
+            },
+            {
+                "actors": [
+                    {
+                        "position": "0",
+                        "scale": "1.15",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "male",
+                        "penisAngle": "0"
+                    },
+                    {
+                        "position": "1",
+                        "scale": "1",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "female"
+                    }
+                ],
+                "meta": {
+                    "tags": "anubs,bigguy,dirty,sex,vaginal,mf,furniture,cowgirl"
+                },
+                "id": "AnubsBigGuy|fmPos|Ap|bigguysitting-7",
+                "fileName": "AnubsBigGuy_Ap-bigguysitting_7"
+            }
+        ],
+        "folders": {
+            "moduleName": "AnubsBigGuy",
+            "posFolderName": "fmPos",
+            "classFolderName": "Ap",
+            "animName": "bigguysitting"
+        }
+    },
+    "mmfbigguys": {
+        "name": "Anubs  MMF Big Guys (Base Scale 1.15)",
+        "actorsKeyword": "fmm",
+        "stages": [
+            {
+                "actors": [
+                    {
+                        "position": "0",
+                        "scale": "1.15",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "male",
+                        "penisAngle": "0"
+                    },
+                    {
+                        "position": "1",
+                        "scale": "1",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "female"
+                    },
+                    {
+                        "position": "2",
+                        "scale": "1.15",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "male",
+                        "penisAngle": "0"
+                    }
+                ],
+                "meta": {
+                    "tags": "anubs,bigguy,dirty,sex,vaginal,mmf,fmm,anal,group,aggressivedefault,aggressive"
+                },
+                "id": "AnubsBigGuy|fmmPos|Ap|mmfbigguys-1",
+                "fileName": "AnubsBigGuy_Ap-mmfbigguys_1"
+            },
+            {
+                "actors": [
+                    {
+                        "position": "0",
+                        "scale": "1.15",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "male",
+                        "penisAngle": "0"
+                    },
+                    {
+                        "position": "1",
+                        "scale": "1",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "female"
+                    },
+                    {
+                        "position": "2",
+                        "scale": "1.15",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "male",
+                        "penisAngle": "0"
+                    }
+                ],
+                "meta": {
+                    "tags": "anubs,bigguy,dirty,sex,vaginal,mmf,fmm,anal,group,aggressivedefault,aggressive"
+                },
+                "id": "AnubsBigGuy|fmmPos|Ap|mmfbigguys-2",
+                "fileName": "AnubsBigGuy_Ap-mmfbigguys_2"
+            },
+            {
+                "actors": [
+                    {
+                        "position": "0",
+                        "scale": "1.15",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "male",
+                        "penisAngle": "0"
+                    },
+                    {
+                        "position": "1",
+                        "scale": "1",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "female"
+                    },
+                    {
+                        "position": "2",
+                        "scale": "1.15",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "male",
+                        "penisAngle": "0"
+                    }
+                ],
+                "meta": {
+                    "tags": "anubs,bigguy,dirty,sex,vaginal,mmf,fmm,anal,group,aggressivedefault,aggressive"
+                },
+                "id": "AnubsBigGuy|fmmPos|Ap|mmfbigguys-3",
+                "fileName": "AnubsBigGuy_Ap-mmfbigguys_3"
+            },
+            {
+                "actors": [
+                    {
+                        "position": "0",
+                        "scale": "1.15",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "male",
+                        "penisAngle": "0"
+                    },
+                    {
+                        "position": "1",
+                        "scale": "1",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "female"
+                    },
+                    {
+                        "position": "2",
+                        "scale": "1.15",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "male",
+                        "penisAngle": "0"
+                    }
+                ],
+                "meta": {
+                    "tags": "anubs,bigguy,dirty,sex,vaginal,mmf,fmm,anal,group,aggressivedefault,aggressive"
+                },
+                "id": "AnubsBigGuy|fmmPos|Ap|mmfbigguys-4",
+                "fileName": "AnubsBigGuy_Ap-mmfbigguys_4"
+            },
+            {
+                "actors": [
+                    {
+                        "position": "0",
+                        "scale": "1.15",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "male",
+                        "penisAngle": "0"
+                    },
+                    {
+                        "position": "1",
+                        "scale": "1",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "female"
+                    },
+                    {
+                        "position": "2",
+                        "scale": "1.15",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "male",
+                        "penisAngle": "0"
+                    }
+                ],
+                "meta": {
+                    "tags": "anubs,bigguy,dirty,sex,vaginal,mmf,fmm,anal,group,aggressivedefault,aggressive"
+                },
+                "id": "AnubsBigGuy|fmmPos|Ap|mmfbigguys-5",
+                "fileName": "AnubsBigGuy_Ap-mmfbigguys_5"
+            },
+            {
+                "actors": [
+                    {
+                        "position": "0",
+                        "scale": "1.15",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "male",
+                        "penisAngle": "0"
+                    },
+                    {
+                        "position": "1",
+                        "scale": "1",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "female"
+                    },
+                    {
+                        "position": "2",
+                        "scale": "1.15",
+                        "feetOnGround": "Replace me!!!",
+                        "tags": "",
+                        "gender": "male",
+                        "penisAngle": "0"
+                    }
+                ],
+                "meta": {
+                    "tags": "anubs,bigguy,dirty,sex,vaginal,mmf,fmm,anal,group,aggressivedefault,aggressive"
+                },
+                "id": "AnubsBigGuy|fmmPos|Ap|mmfbigguys-6",
+                "fileName": "AnubsBigGuy_Ap-mmfbigguys_6"
+            }
+        ],
+        "folders": {
+            "moduleName": "AnubsBigGuy",
+            "posFolderName": "fmmPos",
+            "classFolderName": "Ap",
+            "animName": "mmfbigguys"
+        }
+    }
+}

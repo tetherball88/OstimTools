@@ -1,4 +1,5 @@
 import type { Configuration } from 'webpack';
+import path from 'path';
 
 import { rules } from './webpack.rules';
 
@@ -14,5 +15,10 @@ export const mainConfig: Configuration = {
   },
   resolve: {
     extensions: ['.js', '.ts', '.jsx', '.tsx', '.css', '.json'],
+    alias: {
+        "~packs": path.resolve(__dirname, 'src/apps/packs'),
+        "~connectAddon": path.resolve(__dirname, 'src/apps/connectAddon'),
+        "~common": path.resolve(__dirname, 'src/common'),
+    }
   },
 };

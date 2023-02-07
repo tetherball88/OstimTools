@@ -1,0 +1,17 @@
+.terminal-container {
+    padding: 20px;
+    background-color: black;
+    height: 100vh;
+    color: white;
+    font: 1.3rem Inconsolata, monospace;
+    display: flex;
+    flex-direction: column-reverse;
+    overflow:auto;
+    word-break: break-all;
+}
+
+
+.terminal-container::selection {
+    background: #0080FF;
+    text-shadow: none;
+}

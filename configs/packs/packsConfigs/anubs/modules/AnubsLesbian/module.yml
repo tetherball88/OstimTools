@@ -1,0 +1,14 @@
+module:
+    name: AnubsLesbian
+    inputPath: D:\animations\anubs\1346682956_AnubSLAL01.2023LE\00 Data\SLAL
+        H\Meshes\actors\character\animations\Anubs Human
+    slalJsonConfig: D:\animations\anubs\1346682956_AnubSLAL01.2023LE\00 Data\SLAL
+        H\SLAnims\json\HUMAN NEW.json
+    include:
+        - fffmistress
+        - lesbian
+        - lesbiandomination
+        - lesbianff
+        - lesbianwc
+        - lesbianwc
+    exclude: []

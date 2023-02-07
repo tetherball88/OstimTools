@@ -1,0 +1,9 @@
+module:
+    name: AyasatoAnimations
+    inputPath: D:\animations\ayasato\SL - Ayasato Animations 1.1 SLAL SSE\SL -
+        Ayasato Animations 1.1
+        SLAL\Data\meshes\actors\character\animations\AyasatoAnims
+    slalJsonConfig: D:\animations\ayasato\SL - Ayasato Animations 1.1 SLAL SSE\SL -
+        Ayasato Animations 1.1 SLAL\Data\SLAnims\json\AyasatoAnims.json
+    include: []
+    exclude: []

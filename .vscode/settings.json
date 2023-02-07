@@ -1,3 +1,9 @@
 {
-    "workbench.colorTheme": "dfa-dark"
+    "workbench.colorTheme": "dfa-dark",
+    "search.exclude": {
+        "**/.git": true,
+        "**/node_modules": true,
+        "**/out": true,
+        "**/.webpack": true
+    },
 }

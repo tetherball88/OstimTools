@@ -1,0 +1,10 @@
+module:
+    name: AnubsSolo
+    inputPath: D:\animations\anubs\1346682956_AnubSLAL01.2023LE\00 Data\SLAL
+        H\Meshes\actors\character\animations\Anubs Human
+    slalJsonConfig: D:\animations\anubs\1346682956_AnubSLAL01.2023LE\00 Data\SLAL
+        H\SLAnims\json\HUMAN NEW.json
+    include:
+        - fmast1
+        - fmast2
+    exclude: []

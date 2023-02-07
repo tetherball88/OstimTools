@@ -1,0 +1,6 @@
+module:
+    name: BillyHuman
+    inputPath: D:\animations\billyy\709064974_SLAL_Billyy_Animationsv6.3SE\SLAL_Billyy_Human\meshes\actors\character\animations\Billyy_Human
+    slalJsonConfig: D:\animations\billyy\709064974_SLAL_Billyy_Animationsv6.3SE\SLAL_Billyy_Human\SLAnims\json\Billyy_Human.json
+    include: []
+    exclude: []
