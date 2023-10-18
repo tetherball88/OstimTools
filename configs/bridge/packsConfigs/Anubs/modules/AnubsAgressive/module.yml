@@ -1,0 +1,35 @@
+module:
+    name: AnubsAgressive
+    inputPath: D:\animations\anubs\1537070476_AnubSLAL022023SSELLver\00 Data\SLAL
+        H\Meshes\actors\character\animations\Anubs Human
+    slalJsonConfig: D:\animations\anubs\1537070476_AnubSLAL022023SSELLver\00
+        Data\SLAL H\SLAnims\json\HUMAN NEW.json
+    include:
+        - AnubsAnubagra
+        - AnubsBound
+        - AnubsChained
+        - AnubsChainedCelling
+        - AnubsChaingallow
+        - AnubsFf
+        - AnubsHumandoggy
+        - AnubsMagick
+        - AnubsMindControl
+        - AnubsMissionaryR
+        - AnubsParalysis
+        - AnubsPole
+        - AnubsRape
+        - AnubsRejection
+        - AnubsSDefeat
+        - AnubsUnc
+        - AnubsUnc2
+        - AnubsVs
+        - AnubsX
+        - AnubsBoundtable
+        - AnubsBoundtable2
+        - AnubsFcowgirl
+        - AnubsHogtie3some
+        - AnubsChoke
+        - AnubsThronechain
+        - AnubsChest
+    exclude: []
+    nemesisPrefix: anuagr

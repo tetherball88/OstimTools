@@ -1,0 +1,11 @@
+module:
+    name: AnubsBG
+    inputPath: D:\animations\anubs\1537070476_AnubSLAL022023SSELLver\00 Data\SLAL
+        BG\Meshes\actors\character\animations\Anubs Bigguy
+    slalJsonConfig: D:\animations\anubs\1537070476_AnubSLAL022023SSELLver\00
+        Data\SLAL BG\SLAnims\json\HUMAN BIGGUY.json
+    include: []
+    exclude:
+        - AnubsAbg
+        - AnubsMmfBigguys
+    nemesisPrefix: anubgu

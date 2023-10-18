@@ -1,8 +1,8 @@
 {
   "name": "ostim-tools",
   "productName": "Ostim tools",
-  "version": "1.1.0",
-  "description": "Ostim animationsmanaging tools",
+  "version": "2.0.0",
+  "description": "Ostim animations managing tools",
   "main": ".webpack/main",
   "scripts": {
     "start": "electron-forge start --inspect-electron",
@@ -25,6 +25,7 @@
     "@electron-forge/maker-squirrel": "^6.0.4",
     "@electron-forge/plugin-webpack": "^6.0.4",
     "@electron-forge/publisher-github": "^6.4.2",
+    "@types/glob": "^8.0.1",
     "@types/react": "^18.2.30",
     "@types/react-beautiful-dnd": "^13.1.6",
     "@types/react-dom": "^18.2.14",
@@ -53,8 +54,11 @@
     "@mui/icons-material": "^5.14.14",
     "@mui/lab": "^5.0.0-alpha.119",
     "@mui/material": "^5.14.14",
+    "@types/archiver": "^5.3.4",
+    "archiver": "^6.0.1",
     "electron-squirrel-startup": "^1.0.0",
-    "glob": "^10.3.10",
+    "glob": "^8.0.0",
+    "jsonschema": "^1.4.1",
     "material-ui-confirm": "^3.0.9",
     "notistack": "^3.0.1",
     "react": "^18.2.0",
@@ -62,8 +66,7 @@
     "react-dom": "^18.2.0",
     "react-hook-form": "^7.47.0",
     "semver": "^7.5.4",
-    "update-electron-app": "^2.0.1",
-    "xml2js": "^0.4.23",
-    "yaml": "^2.3.3"
+    "yaml": "^2.3.3",
+    "zustand": "^4.4.3"
   }
 }

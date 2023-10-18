@@ -1,0 +1,9 @@
+module:
+    name: AnubsFurniture
+    inputPath: D:\animations\anubs\1537070476_AnubSLAL022023SSELLver\00 Data\SLAL
+        IF\Meshes\actors\character\animations\Anubs Invis
+    slalJsonConfig: D:\animations\anubs\1537070476_AnubSLAL022023SSELLver\00
+        Data\SLAL IF\SLAnims\json\HUMAN INVIS.json
+    include: []
+    exclude: []
+    nemesisPrefix: anufur

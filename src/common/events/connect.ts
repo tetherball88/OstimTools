@@ -1,7 +1,7 @@
 import { ipcMain } from 'electron';
 
-import { handleSelectFile, handleSelectDirectory } from './handlers';
-import { SELECT_FILE, SELECT_DIRECTORY } from './events';
+import { eventsMap } from '~common/events/eventsMap';
 
-ipcMain.handle(SELECT_FILE, handleSelectFile)
-ipcMain.handle(SELECT_DIRECTORY, handleSelectDirectory)
+Object.entries(eventsMap).forEach(([eventName, handler]) => {
+    ipcMain.handle(eventName, (event, ...otherArgs) => handler(otherArgs[0]));
+})

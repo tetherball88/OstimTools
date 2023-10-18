@@ -1,0 +1,9 @@
+module:
+    name: BillyysOrgy
+    inputPath: D:\animations\billyy\SLAL_Billyy_Animations v7.1
+        SE\SLAL_BIllyy_HumanOrgy\meshes\actors\character\animations\Billyy_HumanOrgy
+    slalJsonConfig: D:\animations\billyy\SLAL_Billyy_Animations v7.1
+        SE\SLAL_BIllyy_HumanOrgy\SLAnims\json\Billyy_HumanOrgy.json
+    include: []
+    exclude: []
+    nemesisPrefix: bilorg

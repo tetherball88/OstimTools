@@ -1,0 +1,9 @@
+module:
+    name: BillyysLesbian
+    inputPath: D:\animations\billyy\SLAL_Billyy_Animations v7.1
+        SE\SLAL_Billyy_HumanLesbian\meshes\actors\character\animations\Billyy_HumanLesbian
+    slalJsonConfig: D:\animations\billyy\SLAL_Billyy_Animations v7.1
+        SE\SLAL_Billyy_HumanLesbian\SLAnims\json\Billyy_HumanLesbian.json
+    include: []
+    exclude: []
+    nemesisPrefix: billes

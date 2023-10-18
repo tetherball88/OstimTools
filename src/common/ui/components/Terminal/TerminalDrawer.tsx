@@ -17,7 +17,7 @@ interface TerminalDrawerProps {
 }
 
 export const TerminalDrawer: FC<TerminalDrawerProps> = ({ open, toggle }) => {
-    const { commandInProgress } = useMainState();
+    const commandInProgress = useMainState(state => state.commandInProgress);
     
     const toggleHandler = () => toggle(!open);
     const closeHandler = () => toggle(false);

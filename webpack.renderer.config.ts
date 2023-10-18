@@ -17,7 +17,7 @@ export const rendererConfig: Configuration = {
   resolve: {
     extensions: ['.js', '.ts', '.jsx', '.tsx', '.css'],
     alias: {
-        "~packs": path.resolve(__dirname, 'src/apps/packs'),
+        "~bridge": path.resolve(__dirname, 'src/apps/bridge'),
         "~connectAddon": path.resolve(__dirname, 'src/apps/connectAddon'),
         "~common": path.resolve(__dirname, 'src/common'),
     }

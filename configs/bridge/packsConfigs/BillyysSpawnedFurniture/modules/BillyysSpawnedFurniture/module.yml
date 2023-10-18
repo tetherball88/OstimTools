@@ -1,0 +1,19 @@
+module:
+    name: BillyysSpawnedFurniture
+    inputPath: D:\animations\billyy\SLAL_Billyy_Animations v7.1
+        SE\SLAL_Billyy_HumanFurniture\meshes\actors\character\animations\Billyy_HumanFurniture
+    slalJsonConfig: D:\animations\billyy\SLAL_Billyy_Animations v7.1
+        SE\SLAL_Billyy_HumanFurniture\SLAnims\json\Billyy_HumanFurniture.json
+    include: []
+    exclude:
+        - BillyyPilloryfuck1
+        - BillyyXcrossfuck
+        - BillyyXcrossfuck2
+        - BillyyXcrossreverseanal
+        - BillyyTiltwmiss
+        - BillyyTiltwside
+        - BillyyTiltwfist
+        - BillyyTiltwff
+        - BillyyTiltwff2
+        - BillyyStockadefuckmachine
+    nemesisPrefix: bilsfu

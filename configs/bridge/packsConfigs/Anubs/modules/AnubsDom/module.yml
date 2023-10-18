@@ -1,0 +1,25 @@
+module:
+    name: AnubsDom
+    inputPath: D:\animations\anubs\1537070476_AnubSLAL022023SSELLver\00 Data\SLAL
+        H\Meshes\actors\character\animations\Anubs Human
+    slalJsonConfig: D:\animations\anubs\1537070476_AnubSLAL022023SSELLver\00
+        Data\SLAL H\SLAnims\json\HUMAN NEW.json
+    include:
+        - AnubsFfmfemdom2
+        - AnubsFfmfemdom
+        - AnubsFfmFemdom3
+        - AnubsAAmazon
+        - AnubsAnubdomcow
+        - AnubsAnubfemdom
+        - AnubsFacesit
+        - AnubsFemfoot
+        - AnubsFfmReversal
+        - AnubsHge
+        - AnubsAfc2
+        - AnubsAmazon
+        - AnubsKnife
+        - AnubsMbf
+        - AnubsSwordCg
+        - AnubsHypno
+    exclude: []
+    nemesisPrefix: anudom

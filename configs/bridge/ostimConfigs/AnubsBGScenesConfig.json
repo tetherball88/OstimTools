@@ -1,0 +1,2251 @@
+{
+    "AnubsAbg": {
+        "name": "Anubs Big Guy Rape (Basescale 1.15)",
+        "actorsKeyword": "fm",
+        "stages": [
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": -7,
+                        "scale": 1.15,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "suspended"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "anubs",
+                        "aggressive"
+                    ]
+                },
+                "id": "AnubsAbg-1",
+                "fileName": "AnubsAbg_1",
+                "actions": [
+                    {
+                        "type": "rubbingclitoris",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "holdingneck",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ],
+                "noRandomSelection": true
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1.15,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "suspended",
+                            "handstanding"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "anubs",
+                        "aggressive"
+                    ]
+                },
+                "id": "AnubsAbg-2",
+                "fileName": "AnubsAbg_2",
+                "actions": [
+                    {
+                        "type": "cunnilingus",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "gropingbutt",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "holdingbody",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ],
+                "noRandomSelection": true
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 9,
+                        "scale": 1.15,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "suspended"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "anubs",
+                        "aggressive"
+                    ]
+                },
+                "id": "AnubsAbg-3",
+                "fileName": "AnubsAbg_3",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "holdingbody",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ],
+                "noRandomSelection": true
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": -4,
+                        "scale": 1.15,
+                        "feetOnGround": true,
+                        "tags": [
+                            "squatting"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "allfours",
+                            "bendover",
+                            "facingaway"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "anubs",
+                        "aggressive"
+                    ]
+                },
+                "id": "AnubsAbg-4",
+                "fileName": "AnubsAbg_4",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "gropingbutt",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 9,
+                        "scale": 1.15,
+                        "feetOnGround": false,
+                        "tags": [
+                            "lyingback",
+                            "onbottom"
+                        ],
+                        "autoTransitions": {
+                            "climax": "AnubsAbg-6"
+                        }
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "lyingback",
+                            "ontop",
+                            "facingaway"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "anubs",
+                        "aggressive"
+                    ]
+                },
+                "id": "AnubsAbg-5",
+                "fileName": "AnubsAbg_5",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "holdingneck",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ],
+                "noRandomSelection": true
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 4,
+                        "scale": 1.15,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "kneeling"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "anubs",
+                        "bigguy",
+                        "aggressive",
+                        "transition"
+                    ]
+                },
+                "id": "AnubsAbg-6",
+                "fileName": "AnubsAbg_6",
+                "actions": [
+                    {
+                        "type": "malemasturbation",
+                        "actor": 0
+                    },
+                    {
+                        "type": "facial",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "holdinghead",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ],
+                "noRandomSelection": true
+            }
+        ],
+        "folders": {
+            "moduleName": "AnubsBG",
+            "posFolderName": "fmPos",
+            "animName": "AnubsAbg"
+        },
+        "hkxAnnotations": {
+            "AnubsAbg_6_0.hkx": {
+                "duration": 6.666667,
+                "annotationLines": "0.000000 FootLeft\n0.666667 FootRight\n1.500000 OStimClimax"
+            }
+        }
+    },
+    "AnubsBgGentle": {
+        "name": "Anubs Big Guy Gentle(Basescale 1.15)",
+        "actorsKeyword": "fm",
+        "stages": [
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1.15,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "anubs",
+                        "bigguy"
+                    ]
+                },
+                "id": "AnubsBgGentle-1",
+                "fileName": "AnubsBgGentle_1",
+                "actions": [
+                    {
+                        "type": "kissing",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "hug",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "hug",
+                        "actor": 1,
+                        "target": 0
+                    }
+                ],
+                "noRandomSelection": true
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 8,
+                        "scale": 1.15,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "squatting"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "anubs",
+                        "bigguy"
+                    ]
+                },
+                "id": "AnubsBgGentle-2",
+                "fileName": "AnubsBgGentle_2",
+                "actions": [
+                    {
+                        "type": "boobjob",
+                        "actor": 1,
+                        "target": 0
+                    }
+                ],
+                "noRandomSelection": true
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1.15,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "suspended"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "anubs",
+                        "bigguy"
+                    ]
+                },
+                "id": "AnubsBgGentle-3",
+                "fileName": "AnubsBgGentle_3",
+                "actions": [
+                    {
+                        "type": "thighjob",
+                        "actor": 1,
+                        "target": 0,
+                        "performer": 0
+                    },
+                    {
+                        "type": "holdinghip",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ],
+                "noRandomSelection": true
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 6,
+                        "scale": 1.15,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing",
+                            "spreadlegs"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "anubs",
+                        "bigguy"
+                    ]
+                },
+                "id": "AnubsBgGentle-4",
+                "fileName": "AnubsBgGentle_4",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "holdingleg",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ],
+                "noRandomSelection": true
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 3,
+                        "scale": 1.15,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing",
+                            "spreadlegs"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "anubs",
+                        "bigguy"
+                    ]
+                },
+                "id": "AnubsBgGentle-5",
+                "fileName": "AnubsBgGentle_5",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "holdingleg",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ],
+                "noRandomSelection": true
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 6,
+                        "scale": 1.15,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ],
+                        "autoTransitions": {
+                            "climax": "AnubsBgGentle-7"
+                        }
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "suspended"
+                        ],
+                        "autoTransitions": {
+                            "climax": "AnubsBgGentle-7"
+                        }
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "anubs",
+                        "bigguy"
+                    ]
+                },
+                "id": "AnubsBgGentle-6",
+                "fileName": "AnubsBgGentle_6",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "kissing",
+                        "actor": 1,
+                        "target": 0
+                    },
+                    {
+                        "type": "holdingbody",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ],
+                "noRandomSelection": true
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 8,
+                        "scale": 1.15,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing",
+                            "climaxing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "suspended"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "anubs",
+                        "bigguy",
+                        "transition"
+                    ]
+                },
+                "id": "AnubsBgGentle-7",
+                "fileName": "AnubsBgGentle_7",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "hug",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "holdingbody",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ],
+                "noRandomSelection": true
+            }
+        ],
+        "folders": {
+            "moduleName": "AnubsBG",
+            "posFolderName": "fmPos",
+            "animName": "AnubsBgGentle"
+        },
+        "hkxAnnotations": {
+            "AnubsBgGentle_7_0.hkx": {
+                "duration": 10,
+                "annotationLines": "0.000000 FootLeft\n0.666667 FootRight\n1.500000 OStimClimax"
+            },
+            "AnubsBgGentle_7_1.hkx": {
+                "duration": 10,
+                "annotationLines": "0.000000 FootLeft\n0.666667 FootRight\n1.500000 OStimClimax"
+            }
+        }
+    },
+    "AnubsBgNelson": {
+        "name": "Anubs Big Guy Nelson (Basescale 1.15)",
+        "actorsKeyword": "fm",
+        "stages": [
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1.15,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing",
+                            "facingaway"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "anubs",
+                        "bigguy"
+                    ]
+                },
+                "id": "AnubsBgNelson-1",
+                "fileName": "AnubsBgNelson_1",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ],
+                "noRandomSelection": true
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 9,
+                        "scale": 1.15,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "suspended",
+                            "facingaway",
+                            "spreadlegs"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "anubs",
+                        "bigguy"
+                    ]
+                },
+                "id": "AnubsBgNelson-2",
+                "fileName": "AnubsBgNelson_2",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "holdingbody",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "holdingneck",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ],
+                "noRandomSelection": true
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 9,
+                        "scale": 1.15,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "suspended",
+                            "facingaway",
+                            "spreadlegs"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "anubs",
+                        "bigguy"
+                    ]
+                },
+                "id": "AnubsBgNelson-3",
+                "fileName": "AnubsBgNelson_3",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "holdingthigh",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ],
+                "noRandomSelection": true
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 9,
+                        "scale": 1.15,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "suspended",
+                            "facingaway",
+                            "spreadlegs"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "anubs",
+                        "bigguy"
+                    ]
+                },
+                "id": "AnubsBgNelson-4",
+                "fileName": "AnubsBgNelson_4",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "holdingleg",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "holdinghead",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ],
+                "noRandomSelection": true
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 9,
+                        "scale": 1.15,
+                        "feetOnGround": true,
+                        "tags": [
+                            "lyingback",
+                            "onbottom"
+                        ],
+                        "autoTransitions": {
+                            "climax": "AnubsBgNelson-6"
+                        }
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "lyingback",
+                            "ontop",
+                            "facingaway",
+                            "spreadlegs"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "anubs",
+                        "bigguy"
+                    ]
+                },
+                "id": "AnubsBgNelson-5",
+                "fileName": "AnubsBgNelson_5",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "holdingleg",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "holdinghead",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ],
+                "noRandomSelection": true
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 9,
+                        "scale": 1.15,
+                        "feetOnGround": true,
+                        "tags": [
+                            "lyingback",
+                            "onbottom",
+                            "climaxing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "lyingback",
+                            "ontop",
+                            "facingaway"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "anubs",
+                        "bigguy",
+                        "transition"
+                    ]
+                },
+                "id": "AnubsBgNelson-6",
+                "fileName": "AnubsBgNelson_6",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "rubbingclitoris",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "holdingneck",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ],
+                "noRandomSelection": true
+            }
+        ],
+        "folders": {
+            "moduleName": "AnubsBG",
+            "posFolderName": "fmPos",
+            "animName": "AnubsBgNelson"
+        },
+        "hkxAnnotations": {
+            "AnubsBgNelson_6_0.hkx": {
+                "duration": 11,
+                "annotationLines": "0.000000 FootLeft\n0.666667 FootRight\n1.500000 OStimClimax"
+            }
+        }
+    },
+    "AnubsBgWall": {
+        "name": "Anubs BigGuy Wall(Basescale 1.15)",
+        "actorsKeyword": "fm",
+        "stages": [
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1.15,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing",
+                            "facingaway"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "anubs",
+                        "bigguy"
+                    ],
+                    "furniture": "wall"
+                },
+                "id": "AnubsBgWall-1",
+                "fileName": "AnubsBgWall_1",
+                "actions": [
+                    {
+                        "type": "vaginalfingering",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ],
+                "noRandomSelection": true
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1.15,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "anubs",
+                        "bigguy"
+                    ],
+                    "furniture": "wall"
+                },
+                "id": "AnubsBgWall-2",
+                "fileName": "AnubsBgWall_2",
+                "actions": [
+                    {
+                        "type": "kissing",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "holdingneck",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ],
+                "noRandomSelection": true
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1.15,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing",
+                            "facingaway",
+                            "bendover"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "anubs",
+                        "bigguy"
+                    ],
+                    "furniture": "wall"
+                },
+                "id": "AnubsBgWall-3",
+                "fileName": "AnubsBgWall_3",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "holdinghead",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ],
+                "noRandomSelection": true
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1.15,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing",
+                            "facingaway",
+                            "bendover"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "anubs",
+                        "bigguy"
+                    ],
+                    "furniture": "wall"
+                },
+                "id": "AnubsBgWall-4",
+                "fileName": "AnubsBgWall_4",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "holdingarm",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ],
+                "noRandomSelection": true
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1.15,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ],
+                        "autoTransitions": {
+                            "climax": "AnubsBgWall-6"
+                        }
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "suspended",
+                            "facingaway"
+                        ],
+                        "autoTransitions": {
+                            "climax": "AnubsBgWall-6"
+                        }
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "anubs",
+                        "bigguy"
+                    ],
+                    "furniture": "wall"
+                },
+                "id": "AnubsBgWall-5",
+                "fileName": "AnubsBgWall_5",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "holdingbody",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ],
+                "noRandomSelection": true
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 3,
+                        "scale": 1.15,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "suspended",
+                            "facingaway"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "anubs",
+                        "bigguy",
+                        "transition"
+                    ],
+                    "furniture": "wall"
+                },
+                "id": "AnubsBgWall-6",
+                "fileName": "AnubsBgWall_6",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ],
+                "noRandomSelection": true
+            }
+        ],
+        "folders": {
+            "moduleName": "AnubsBG",
+            "posFolderName": "fmPos",
+            "animName": "AnubsBgWall"
+        },
+        "hkxAnnotations": {
+            "AnubsBgWall_6_0.hkx": {
+                "duration": 10,
+                "annotationLines": "0.000000 FootLeft\n0.666667 FootRight\n1.500000 OStimClimax"
+            },
+            "AnubsBgWall_6_1.hkx": {
+                "duration": 10,
+                "annotationLines": "0.000000 FootLeft\n0.666667 FootRight\n1.500000 OStimClimax"
+            }
+        }
+    },
+    "AnubsBigguyDoggy": {
+        "name": "Anubs BigGuy Doggystyle(Basescale 1.15)",
+        "actorsKeyword": "fm",
+        "stages": [
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1.15,
+                        "feetOnGround": false,
+                        "tags": [
+                            "kneeling"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "kneeling",
+                            "facingaway"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "anubs",
+                        "bigguy",
+                        "dirty",
+                        "sex",
+                        "vaginal",
+                        "mf",
+                        "furniture",
+                        "doggy",
+                        "doggystyle"
+                    ]
+                },
+                "id": "AnubsBigguyDoggy-1",
+                "fileName": "AnubsBigguyDoggy_1",
+                "actions": [
+                    {
+                        "type": "analsex",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "rubbingclitoris",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "holdinghead",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ],
+                "noRandomSelection": true
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 6,
+                        "scale": 1.15,
+                        "feetOnGround": false,
+                        "tags": [
+                            "allfours"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "allfours",
+                            "facingaway"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "anubs",
+                        "bigguy",
+                        "doggystyle"
+                    ]
+                },
+                "id": "AnubsBigguyDoggy-2",
+                "fileName": "AnubsBigguyDoggy_2",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ],
+                "noRandomSelection": true
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 2,
+                        "scale": 1.15,
+                        "feetOnGround": false,
+                        "tags": [
+                            "kneeling"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "kneeling",
+                            "bendover",
+                            "facingaway"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "anubs",
+                        "bigguy",
+                        "doggystyle"
+                    ]
+                },
+                "id": "AnubsBigguyDoggy-3",
+                "fileName": "AnubsBigguyDoggy_3",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "holdingarm",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ],
+                "noRandomSelection": true
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 1,
+                        "scale": 1.15,
+                        "feetOnGround": true,
+                        "tags": [
+                            "squatting"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "kneeling",
+                            "bendover",
+                            "facingaway"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "anubs",
+                        "bigguy",
+                        "doggystyle"
+                    ]
+                },
+                "id": "AnubsBigguyDoggy-4",
+                "fileName": "AnubsBigguyDoggy_4",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ],
+                "noRandomSelection": true
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 2,
+                        "scale": 1.15,
+                        "feetOnGround": false,
+                        "tags": [
+                            "allfours"
+                        ],
+                        "autoTransitions": {
+                            "climax": "AnubsBigguyDoggy-6"
+                        }
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "lyingfront",
+                            "facingaway"
+                        ],
+                        "autoTransitions": {
+                            "climax": "AnubsBigguyDoggy-6"
+                        }
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "anubs",
+                        "bigguy"
+                    ]
+                },
+                "id": "AnubsBigguyDoggy-5",
+                "fileName": "AnubsBigguyDoggy_5",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ],
+                "noRandomSelection": true
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 4,
+                        "scale": 1.15,
+                        "feetOnGround": false,
+                        "tags": [
+                            "allfours",
+                            "climaxing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "lyingfront",
+                            "facingaway"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "anubs",
+                        "bigguy",
+                        "dirty",
+                        "sex",
+                        "vaginal",
+                        "mf",
+                        "furniture",
+                        "doggy",
+                        "doggystyle",
+                        "transition"
+                    ]
+                },
+                "id": "AnubsBigguyDoggy-6",
+                "fileName": "AnubsBigguyDoggy_6",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ],
+                "noRandomSelection": true
+            }
+        ],
+        "folders": {
+            "moduleName": "AnubsBG",
+            "posFolderName": "fmPos",
+            "animName": "AnubsBigguyDoggy"
+        },
+        "hkxAnnotations": {
+            "AnubsBigguyDoggy_6_0.hkx": {
+                "duration": 9.333333,
+                "annotationLines": "0.000000 FootLeft\n0.666667 FootRight\n1.500000 OStimClimax"
+            },
+            "AnubsBigguyDoggy_6_1.hkx": {
+                "duration": 9.333333,
+                "annotationLines": "0.000000 FootLeft\n0.666667 FootRight\n1.500000 OStimClimax"
+            }
+        }
+    },
+    "AnubsBigguySitting": {
+        "name": "Anubs BigGuy Sitting(Basescale 1.15)",
+        "actorsKeyword": "fm",
+        "stages": [
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1.15,
+                        "feetOnGround": true,
+                        "tags": [
+                            "sitting"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "allfours",
+                            "facingaway",
+                            "ontop"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "anubs",
+                        "bigguy"
+                    ]
+                },
+                "id": "AnubsBigguySitting-1",
+                "fileName": "AnubsBigguySitting_1",
+                "actions": [
+                    {
+                        "type": "vaginalfingering",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ],
+                "noRandomSelection": true
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1.15,
+                        "feetOnGround": true,
+                        "tags": [
+                            "sitting"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "sitting",
+                            "ontop"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "anubs",
+                        "bigguy"
+                    ]
+                },
+                "id": "AnubsBigguySitting-2",
+                "fileName": "AnubsBigguySitting_2",
+                "actions": [
+                    {
+                        "type": "vaginalfingering",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "hug",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ],
+                "noRandomSelection": true
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 8,
+                        "scale": 1.15,
+                        "feetOnGround": true,
+                        "tags": [
+                            "sitting"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "suspended"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "anubs",
+                        "bigguy"
+                    ]
+                },
+                "id": "AnubsBigguySitting-3",
+                "fileName": "AnubsBigguySitting_3",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "holdingbody",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "hug",
+                        "actor": 1,
+                        "target": 0
+                    }
+                ],
+                "noRandomSelection": true
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 5,
+                        "scale": 1.15,
+                        "feetOnGround": true,
+                        "tags": [
+                            "sitting"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "squatting"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "anubs",
+                        "bigguy",
+                        "cowgirl"
+                    ]
+                },
+                "id": "AnubsBigguySitting-4",
+                "fileName": "AnubsBigguySitting_4",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "hug",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "hug",
+                        "actor": 1,
+                        "target": 0
+                    }
+                ],
+                "noRandomSelection": true
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 3,
+                        "scale": 1.15,
+                        "feetOnGround": true,
+                        "tags": [
+                            "sitting"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "squatting"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "anubs",
+                        "bigguy",
+                        "cowgirl"
+                    ]
+                },
+                "id": "AnubsBigguySitting-5",
+                "fileName": "AnubsBigguySitting_5",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ],
+                "noRandomSelection": true
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 6,
+                        "scale": 1.15,
+                        "feetOnGround": true,
+                        "tags": [
+                            "sitting"
+                        ],
+                        "autoTransitions": {
+                            "climax": "AnubsBigguySitting-7"
+                        }
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "squatting"
+                        ],
+                        "autoTransitions": {
+                            "climax": "AnubsBigguySitting-7"
+                        }
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "anubs",
+                        "bigguy",
+                        "cowgirl"
+                    ]
+                },
+                "id": "AnubsBigguySitting-6",
+                "fileName": "AnubsBigguySitting_6",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1,
+                        "performer": 1
+                    }
+                ],
+                "noRandomSelection": true
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 5,
+                        "scale": 1.15,
+                        "feetOnGround": true,
+                        "tags": [
+                            "sitting",
+                            "climaxing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "sitting",
+                            "ontop"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "anubs",
+                        "bigguy",
+                        "dirty",
+                        "sex",
+                        "vaginal",
+                        "mf",
+                        "furniture",
+                        "cowgirl",
+                        "transition"
+                    ]
+                },
+                "id": "AnubsBigguySitting-7",
+                "fileName": "AnubsBigguySitting_7",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "kissing",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "holdingbody",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "hug",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ],
+                "noRandomSelection": true
+            }
+        ],
+        "folders": {
+            "moduleName": "AnubsBG",
+            "posFolderName": "fmPos",
+            "animName": "AnubsBigguySitting"
+        },
+        "hkxAnnotations": {
+            "AnubsBigguySitting_7_0.hkx": {
+                "duration": 9.333333,
+                "annotationLines": "0.000000 FootLeft\n0.666667 FootRight\n1.500000 OStimClimax"
+            },
+            "AnubsBigguySitting_7_1.hkx": {
+                "duration": 9.333333,
+                "annotationLines": "0.000000 FootLeft\n0.666667 FootRight\n1.500000 OStimClimax"
+            }
+        }
+    },
+    "AnubsMmfBigguys": {
+        "name": "Anubs  MMF Big Guys (Base Scale 1.15)",
+        "actorsKeyword": "fmm",
+        "stages": [
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1.15,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1.15,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "suspended",
+                            "spreadlegs"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "anubs",
+                        "bigguy",
+                        "aggressive"
+                    ]
+                },
+                "id": "AnubsMmfBigguys-1",
+                "fileName": "AnubsMmfBigguys_1",
+                "actions": [
+                    {
+                        "type": "holdingarm",
+                        "actor": 0,
+                        "target": 2
+                    },
+                    {
+                        "type": "vaginalfingering",
+                        "actor": 1,
+                        "target": 2
+                    },
+                    {
+                        "type": "holdingleg",
+                        "actor": 1,
+                        "target": 2
+                    }
+                ],
+                "noRandomSelection": true
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1.15,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1.15,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "suspended"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "anubs",
+                        "bigguy",
+                        "aggressive"
+                    ]
+                },
+                "id": "AnubsMmfBigguys-2",
+                "fileName": "AnubsMmfBigguys_2",
+                "actions": [
+                    {
+                        "type": "blowjob",
+                        "actor": 2,
+                        "target": 0,
+                        "performer": 0
+                    },
+                    {
+                        "type": "holdinghead",
+                        "actor": 0,
+                        "target": 2
+                    },
+                    {
+                        "type": "holdingarm",
+                        "actor": 2,
+                        "target": 0
+                    },
+                    {
+                        "type": "cunnilingus",
+                        "actor": 1,
+                        "target": 2
+                    },
+                    {
+                        "type": "holdingbody",
+                        "actor": 1,
+                        "target": 2
+                    }
+                ],
+                "noRandomSelection": true
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": -1,
+                        "scale": 1.15,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1.15,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing",
+                            "bendover"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "anubs",
+                        "bigguy",
+                        "aggressive"
+                    ]
+                },
+                "id": "AnubsMmfBigguys-3",
+                "fileName": "AnubsMmfBigguys_3",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 2
+                    },
+                    {
+                        "type": "holdingarm",
+                        "actor": 0,
+                        "target": 2
+                    },
+                    {
+                        "type": "holdinghead",
+                        "actor": 1,
+                        "target": 2
+                    }
+                ],
+                "noRandomSelection": true
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": -2,
+                        "scale": 1.15,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 3,
+                        "scale": 1.15,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "suspended"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "anubs",
+                        "bigguy",
+                        "aggressive"
+                    ]
+                },
+                "id": "AnubsMmfBigguys-4",
+                "fileName": "AnubsMmfBigguys_4",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 2
+                    },
+                    {
+                        "type": "holdingleg",
+                        "actor": 0,
+                        "target": 2
+                    },
+                    {
+                        "type": "holdingarm",
+                        "actor": 1,
+                        "target": 2
+                    },
+                    {
+                        "type": "boobjob",
+                        "actor": 2,
+                        "target": 1,
+                        "performer": 1
+                    }
+                ],
+                "noRandomSelection": true
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1.15,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ],
+                        "autoTransitions": {
+                            "climax": "AnubsMmfBigguys-6"
+                        }
+                    },
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 9,
+                        "scale": 1.15,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ],
+                        "autoTransitions": {
+                            "climax": "AnubsMmfBigguys-6"
+                        }
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "suspended"
+                        ],
+                        "autoTransitions": {
+                            "climax": "AnubsMmfBigguys-6"
+                        }
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "anubs",
+                        "bigguy",
+                        "aggressive"
+                    ]
+                },
+                "id": "AnubsMmfBigguys-5",
+                "fileName": "AnubsMmfBigguys_5",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 2
+                    },
+                    {
+                        "type": "holdingleg",
+                        "actor": 0,
+                        "target": 2
+                    },
+                    {
+                        "type": "analsex",
+                        "actor": 1,
+                        "target": 2
+                    },
+                    {
+                        "type": "holdingbody",
+                        "actor": 1,
+                        "target": 2
+                    }
+                ],
+                "noRandomSelection": true
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 1,
+                        "scale": 1.15,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 9,
+                        "scale": 1.15,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "suspended"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "anubs",
+                        "bigguy",
+                        "aggressive",
+                        "transition"
+                    ]
+                },
+                "id": "AnubsMmfBigguys-6",
+                "fileName": "AnubsMmfBigguys_6",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 2
+                    },
+                    {
+                        "type": "holdingleg",
+                        "actor": 0,
+                        "target": 2
+                    },
+                    {
+                        "type": "analsex",
+                        "actor": 1,
+                        "target": 2
+                    },
+                    {
+                        "type": "hug",
+                        "actor": 2,
+                        "target": 0
+                    }
+                ],
+                "noRandomSelection": true
+            }
+        ],
+        "folders": {
+            "moduleName": "AnubsBG",
+            "posFolderName": "fmmPos",
+            "animName": "AnubsMmfBigguys"
+        },
+        "hkxAnnotations": {
+            "AnubsMmfBigguys_6_0.hkx": {
+                "duration": 10.666667,
+                "annotationLines": "0.000000 FootLeft\n0.666667 FootRight\n1.500000 OStimClimax"
+            },
+            "AnubsMmfBigguys_6_1.hkx": {
+                "duration": 10.666667,
+                "annotationLines": "0.000000 FootLeft\n0.666667 FootRight\n1.500000 OStimClimax"
+            },
+            "AnubsMmfBigguys_6_2.hkx": {
+                "duration": 10.666667,
+                "annotationLines": "0.000000 FootLeft\n0.666667 FootRight"
+            }
+        }
+    }
+}

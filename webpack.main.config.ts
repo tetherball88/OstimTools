@@ -16,8 +16,7 @@ export const mainConfig: Configuration = {
   resolve: {
     extensions: ['.js', '.ts', '.jsx', '.tsx', '.css', '.json'],
     alias: {
-        "~packs": path.resolve(__dirname, 'src/apps/packs'),
-        "~connectAddon": path.resolve(__dirname, 'src/apps/connectAddon'),
+        "~bridge": path.resolve(__dirname, 'src/apps/bridge'),
         "~common": path.resolve(__dirname, 'src/common'),
     }
   },

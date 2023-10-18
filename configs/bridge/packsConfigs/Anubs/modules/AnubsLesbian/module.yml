@@ -1,0 +1,13 @@
+module:
+    name: AnubsLesbian
+    inputPath: D:\animations\anubs\1537070476_AnubSLAL022023SSELLver\00 Data\SLAL
+        H\Meshes\actors\character\animations\Anubs Human
+    slalJsonConfig: D:\animations\anubs\1537070476_AnubSLAL022023SSELLver\00
+        Data\SLAL H\SLAnims\json\HUMAN NEW.json
+    include:
+        - AnubsLesbiandomination
+        - AnubsLesbian
+        - AnubsLesbianFf
+        - AnubsFffmistress
+    exclude: []
+    nemesisPrefix: anules
