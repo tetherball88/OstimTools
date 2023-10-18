@@ -6,10 +6,8 @@ import IconButton from '@mui/material/IconButton';
 import InputAdornment from '@mui/material/InputAdornment';
 import TextField, { TextFieldProps } from '@mui/material/TextField';
 import FileOpenIcon from '@mui/icons-material/FileOpen';
-import { useSendCommand } from '~common/ui/hooks/useSendCommand';
+import { useSendCommand } from '~bridge/ui/hooks/useSendCommand';
 import { SELECT_FILE } from '~common/events/events';
-
-
 
 interface TextFieldFileProps extends ControllerRenderProps<any, any> {
     label: string;
@@ -24,7 +22,7 @@ export const TextFieldFile = forwardRef<HTMLDivElement, TextFieldFileProps>(func
     const { formState: { errors }, trigger } = useFormContext<any>();
     const sendCommand = useSendCommand();
     const onButtonClick = async () => {
-        const res = await sendCommand(SELECT_FILE, 'Selecting directory...', {filters});
+        const res = await sendCommand(SELECT_FILE, 'Selecting file...', {filters});
 
         if(res) {
             const { filePaths: [file] } = res;

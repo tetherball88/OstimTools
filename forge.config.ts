@@ -20,8 +20,8 @@ const config: ForgeConfig = {
         }),
     ],
     packagerConfig: {
-        appVersion: '1.0.0',
-        asar: true
+        asar: true,
+        appVersion: "1.0.0",
     },
     plugins: [
         new WebpackPlugin({
@@ -70,7 +70,7 @@ const config: ForgeConfig = {
             server?.close();
             server = null;
 
-            const artifacts = results[0].artifacts
+            const artifacts = results[0].artifacts.filter(art => fs.existsSync(art))
             
             for(const [index, art] of artifacts.entries()) {
                 const fileName = art.split('\\').reverse()[0]

@@ -1,0 +1,2051 @@
+{
+    "sources": [
+        "D:\\MO2\\mods\\OStim Standalone - Advanced Adult Animation Framework",
+        "D:\\MO2\\mods\\CustomStartingOstimScenes"
+    ],
+    "scenes": [
+        {
+            "name": "OStim1PSittingF",
+            "actorsKeyword": "f",
+            "length": 2,
+            "speeds": [
+                {
+                    "animation": "OStim1PSittingF"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "sitting"
+                    ],
+                    "feetOnGround": false
+                }
+            ]
+        },
+        {
+            "name": "OStim1PStandingF",
+            "actorsKeyword": "f",
+            "length": 2,
+            "speeds": [
+                {
+                    "animation": "OStim1PStandingF"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                }
+            ]
+        },
+        {
+            "name": "OStim1PSittingM",
+            "actorsKeyword": "m",
+            "length": 2,
+            "speeds": [
+                {
+                    "animation": "OStim1PSittingM"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "male",
+                    "tags": [
+                        "sitting"
+                    ],
+                    "feetOnGround": false
+                }
+            ]
+        },
+        {
+            "name": "OStim1PStandingM",
+            "actorsKeyword": "m",
+            "length": 2,
+            "speeds": [
+                {
+                    "animation": "OStim1PStandingM"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "male",
+                    "scale": 1.03,
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                }
+            ]
+        },
+        {
+            "name": "OStim2PKneelingLyingFF",
+            "actorsKeyword": "ff",
+            "length": 2,
+            "speeds": [
+                {
+                    "animation": "OStim2PKneelingLyingFF"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "female",
+                    "lookUp": -40,
+                    "tags": [
+                        "kneeling"
+                    ],
+                    "feetOnGround": false
+                },
+                {
+                    "intendedSex": "female",
+                    "lookUp": -85,
+                    "tags": [
+                        "lyingback"
+                    ],
+                    "feetOnGround": false
+                }
+            ]
+        },
+        {
+            "name": "OStim2PStandingCloseFF",
+            "actorsKeyword": "ff",
+            "length": 2,
+            "speeds": [
+                {
+                    "animation": "OStim2PStandingCloseFF"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                },
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                }
+            ]
+        },
+        {
+            "name": "OStim2PBothLyingMF",
+            "actorsKeyword": "fm",
+            "length": 2,
+            "speeds": [
+                {
+                    "animation": "OStim2PBothLyingMF"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "male",
+                    "sosBend": 9,
+                    "scale": 1.03,
+                    "lookLeft": 50,
+                    "tags": [
+                        "lyingback"
+                    ],
+                    "feetOnGround": false
+                },
+                {
+                    "intendedSex": "female",
+                    "lookLeft": -50,
+                    "tags": [
+                        "lyingback"
+                    ],
+                    "feetOnGround": false
+                }
+            ]
+        },
+        {
+            "name": "OStim2PStandingApartMF",
+            "actorsKeyword": "fm",
+            "length": 2,
+            "speeds": [
+                {
+                    "animation": "OStim2PStandingApartMF"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "male",
+                    "sosBend": 7,
+                    "scale": 1.03,
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                },
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                }
+            ]
+        },
+        {
+            "name": "OStim2PKneelingLyingFrontMM",
+            "actorsKeyword": "mm",
+            "length": 2,
+            "speeds": [
+                {
+                    "animation": "OStim2PKneelingLyingFrontMM"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "male",
+                    "sosBend": 1,
+                    "lookUp": -30,
+                    "tags": [
+                        "kneeling"
+                    ],
+                    "feetOnGround": false
+                },
+                {
+                    "intendedSex": "male",
+                    "sosBend": -10,
+                    "lookLeft": -90,
+                    "lookUp": -20,
+                    "tags": [
+                        "lying"
+                    ],
+                    "feetOnGround": false
+                }
+            ]
+        },
+        {
+            "name": "OStim2PStandingApartMM",
+            "actorsKeyword": "mm",
+            "length": 2,
+            "speeds": [
+                {
+                    "animation": "OStim2PStandingApartMM"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "male",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                },
+                {
+                    "intendedSex": "male",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                }
+            ]
+        },
+        {
+            "name": "OStim3PLyingFFF",
+            "actorsKeyword": "fff",
+            "length": 2,
+            "speeds": [
+                {
+                    "animation": "OStim3PLyingFFF"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "lyingback"
+                    ],
+                    "feetOnGround": false
+                },
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "kneeling"
+                    ],
+                    "feetOnGround": false
+                },
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "kneeling"
+                    ],
+                    "feetOnGround": false
+                }
+            ]
+        },
+        {
+            "name": "OStim3PStandingFFF",
+            "actorsKeyword": "fff",
+            "length": 2,
+            "speeds": [
+                {
+                    "animation": "OStim3PStandingFFF"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                },
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                },
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                }
+            ]
+        },
+        {
+            "name": "OStim3PLyingMFF",
+            "actorsKeyword": "ffm",
+            "length": 2,
+            "speeds": [
+                {
+                    "animation": "OStim3PLyingMFF"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "male",
+                    "tags": [
+                        "lyingback"
+                    ],
+                    "feetOnGround": false
+                },
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "kneeling"
+                    ],
+                    "feetOnGround": false
+                },
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "kneeling"
+                    ],
+                    "feetOnGround": false
+                }
+            ]
+        },
+        {
+            "name": "OStim3PStandingMFF",
+            "actorsKeyword": "ffm",
+            "length": 2,
+            "speeds": [
+                {
+                    "animation": "OStim3PStandingMFF"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "male",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                },
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                },
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                }
+            ]
+        },
+        {
+            "name": "OStim3PLyingMMF",
+            "actorsKeyword": "fmm",
+            "length": 10,
+            "speeds": [
+                {
+                    "animation": "OStim3PLyingMMF"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "male",
+                    "tags": [
+                        "lyingback"
+                    ],
+                    "feetOnGround": false,
+                    "sosBend": -10,
+                    "lookUp": -80,
+                    "lookLeft": 40
+                },
+                {
+                    "intendedSex": "male",
+                    "tags": [
+                        "lyingback"
+                    ],
+                    "feetOnGround": false,
+                    "sosBend": -10,
+                    "lookUp": -60,
+                    "lookLeft": -10
+                },
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "lyingback"
+                    ],
+                    "feetOnGround": false,
+                    "lookUp": -70,
+                    "lookLeft": -30
+                }
+            ]
+        },
+        {
+            "name": "OStim3PStandingMMF",
+            "actorsKeyword": "fmm",
+            "length": 10,
+            "speeds": [
+                {
+                    "animation": "OStim3PStandingMMF"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "male",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true,
+                    "sosBend": -10,
+                    "lookUp": -50,
+                    "lookLeft": 40
+                },
+                {
+                    "intendedSex": "male",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true,
+                    "sosBend": -10,
+                    "lookUp": -30,
+                    "lookLeft": 10
+                },
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true,
+                    "lookUp": 20,
+                    "lookLeft": -80
+                }
+            ]
+        },
+        {
+            "name": "OStim3PLyingMMM",
+            "actorsKeyword": "mmm",
+            "length": 2,
+            "speeds": [
+                {
+                    "animation": "OStim3PLyingMMM"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "male",
+                    "tags": [
+                        "lyingback"
+                    ],
+                    "feetOnGround": false
+                },
+                {
+                    "intendedSex": "male",
+                    "tags": [
+                        "kneeling"
+                    ],
+                    "feetOnGround": false
+                },
+                {
+                    "intendedSex": "male",
+                    "tags": [
+                        "kneeling"
+                    ],
+                    "feetOnGround": false
+                }
+            ]
+        },
+        {
+            "name": "OStim3PStandingMMM",
+            "actorsKeyword": "mmm",
+            "length": 2,
+            "speeds": [
+                {
+                    "animation": "OStim3PStandingMMM"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "male",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                },
+                {
+                    "intendedSex": "male",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                },
+                {
+                    "intendedSex": "male",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                }
+            ]
+        },
+        {
+            "name": "OStim4PLyingMMMF",
+            "actorsKeyword": "fmmm",
+            "length": 10,
+            "speeds": [
+                {
+                    "animation": "OStim4PLyingMMMF"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "male",
+                    "tags": [
+                        "lyingback"
+                    ],
+                    "feetOnGround": false,
+                    "sosBend": -10,
+                    "lookUp": -80,
+                    "lookLeft": 40
+                },
+                {
+                    "intendedSex": "male",
+                    "tags": [
+                        "lyingback"
+                    ],
+                    "feetOnGround": false,
+                    "sosBend": -10,
+                    "lookUp": -60,
+                    "lookLeft": -10
+                },
+                {
+                    "intendedSex": "male",
+                    "tags": [
+                        "sitting"
+                    ],
+                    "feetOnGround": false,
+                    "sosBend": -10
+                },
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "lyingback"
+                    ],
+                    "feetOnGround": false,
+                    "lookUp": -70,
+                    "lookLeft": -30
+                }
+            ]
+        },
+        {
+            "name": "OStim4PStandingMMMF",
+            "actorsKeyword": "fmmm",
+            "length": 10,
+            "speeds": [
+                {
+                    "animation": "OStim4PStandingMMMF"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "male",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true,
+                    "sosBend": -10,
+                    "lookUp": -50,
+                    "lookLeft": 40
+                },
+                {
+                    "intendedSex": "male",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true,
+                    "sosBend": -10,
+                    "lookUp": -30,
+                    "lookLeft": 10
+                },
+                {
+                    "intendedSex": "male",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true,
+                    "sosBend": -10
+                },
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true,
+                    "lookUp": 20,
+                    "lookLeft": -80
+                }
+            ]
+        },
+        {
+            "name": "OStim5PLyingMMMMF",
+            "actorsKeyword": "fmmmm",
+            "length": 10,
+            "speeds": [
+                {
+                    "animation": "OStim5PLyingMMMMF"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "male",
+                    "tags": [
+                        "lyingback"
+                    ],
+                    "feetOnGround": false,
+                    "sosBend": -10,
+                    "lookUp": -80,
+                    "lookLeft": 40
+                },
+                {
+                    "intendedSex": "male",
+                    "tags": [
+                        "lyingback"
+                    ],
+                    "feetOnGround": false,
+                    "sosBend": -10,
+                    "lookUp": -60,
+                    "lookLeft": -10
+                },
+                {
+                    "intendedSex": "male",
+                    "tags": [
+                        "sitting"
+                    ],
+                    "feetOnGround": false,
+                    "sosBend": -10
+                },
+                {
+                    "intendedSex": "male",
+                    "tags": [
+                        "sitting"
+                    ],
+                    "feetOnGround": false,
+                    "sosBend": -10
+                },
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "lyingback"
+                    ],
+                    "feetOnGround": false,
+                    "lookUp": -70,
+                    "lookLeft": -30
+                }
+            ]
+        },
+        {
+            "name": "OStim5PStandingMMMMF",
+            "actorsKeyword": "fmmmm",
+            "length": 10,
+            "speeds": [
+                {
+                    "animation": "OStim5PStandingMMMMF"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "male",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true,
+                    "sosBend": -10,
+                    "lookUp": -50,
+                    "lookLeft": 40
+                },
+                {
+                    "intendedSex": "male",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true,
+                    "sosBend": -10,
+                    "lookUp": -30,
+                    "lookLeft": 10
+                },
+                {
+                    "intendedSex": "male",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true,
+                    "sosBend": -10
+                },
+                {
+                    "intendedSex": "male",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true,
+                    "sosBend": -10
+                },
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true,
+                    "lookUp": 20,
+                    "lookLeft": -80
+                }
+            ]
+        },
+        {
+            "name": "OStimBench1PSittingF",
+            "furniture": "bench",
+            "actorsKeyword": "f",
+            "length": 2,
+            "speeds": [
+                {
+                    "animation": "OStimBench1PSittingF"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "sitting"
+                    ],
+                    "feetOnGround": false
+                }
+            ]
+        },
+        {
+            "name": "OStimBench1PSittingM",
+            "furniture": "bench",
+            "actorsKeyword": "m",
+            "length": 2,
+            "speeds": [
+                {
+                    "animation": "OStimBench1PSittingM"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "male",
+                    "tags": [
+                        "sitting"
+                    ],
+                    "feetOnGround": false
+                }
+            ]
+        },
+        {
+            "name": "OStimBench2PBothSittingFF",
+            "furniture": "bench",
+            "actorsKeyword": "ff",
+            "length": 2,
+            "speeds": [
+                {
+                    "animation": "OStimBench2PBothSittingFF"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "female",
+                    "scale": 1.03,
+                    "tags": [
+                        "sitting"
+                    ],
+                    "feetOnGround": false
+                },
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "sitting"
+                    ],
+                    "feetOnGround": false
+                }
+            ]
+        },
+        {
+            "name": "OStimBench2PBothSittingMF",
+            "furniture": "bench",
+            "actorsKeyword": "fm",
+            "length": 2,
+            "speeds": [
+                {
+                    "animation": "OStimBench2PBothSittingMF"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "male",
+                    "scale": 1.03,
+                    "tags": [
+                        "sitting"
+                    ],
+                    "feetOnGround": false
+                },
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "sitting"
+                    ],
+                    "feetOnGround": false
+                }
+            ]
+        },
+        {
+            "name": "OStimBench2PBothSittingMM",
+            "furniture": "bench",
+            "actorsKeyword": "mm",
+            "length": 2,
+            "speeds": [
+                {
+                    "animation": "OStimBench2PBothSittingMM"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "male",
+                    "scale": 1.03,
+                    "tags": [
+                        "sitting"
+                    ],
+                    "feetOnGround": false
+                },
+                {
+                    "intendedSex": "male",
+                    "tags": [
+                        "sitting"
+                    ],
+                    "feetOnGround": false
+                }
+            ]
+        },
+        {
+            "name": "OStimChair1PSittingF",
+            "furniture": "chair",
+            "actorsKeyword": "f",
+            "length": 2,
+            "speeds": [
+                {
+                    "animation": "OStimBench1PSittingF"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "sitting"
+                    ],
+                    "feetOnGround": false
+                }
+            ]
+        },
+        {
+            "name": "OStimChair1PSittingM",
+            "furniture": "chair",
+            "actorsKeyword": "m",
+            "length": 2,
+            "speeds": [
+                {
+                    "animation": "OStimBench1PSittingM"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "male",
+                    "tags": [
+                        "sitting"
+                    ],
+                    "feetOnGround": false
+                }
+            ]
+        },
+        {
+            "name": "OStimChair2PSittingStandingFF",
+            "furniture": "chair",
+            "actorsKeyword": "ff",
+            "length": 2,
+            "speeds": [
+                {
+                    "animation": "OStimBench2PSittingStandingFF"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "sitting"
+                    ],
+                    "feetOnGround": false
+                },
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                }
+            ]
+        },
+        {
+            "name": "OStimChair2PStandingSittingFF",
+            "furniture": "chair",
+            "actorsKeyword": "ff",
+            "length": 2,
+            "speeds": [
+                {
+                    "animation": "OStimBench2PStandingSittingFF"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                },
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "sitting"
+                    ],
+                    "feetOnGround": false
+                }
+            ]
+        },
+        {
+            "name": "OStimChair2PSittingStandingMF",
+            "furniture": "chair",
+            "actorsKeyword": "fm",
+            "length": 2,
+            "speeds": [
+                {
+                    "animation": "OStimBench2PSittingStandingMF"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "male",
+                    "scale": 1.03,
+                    "tags": [
+                        "sitting"
+                    ],
+                    "feetOnGround": false
+                },
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                }
+            ]
+        },
+        {
+            "name": "OStimChair2PStandingSittingMF",
+            "furniture": "chair",
+            "actorsKeyword": "fm",
+            "length": 2,
+            "speeds": [
+                {
+                    "animation": "OStimBench2PStandingSittingMF"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "male",
+                    "scale": 1.03,
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                },
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "sitting"
+                    ],
+                    "feetOnGround": false
+                }
+            ]
+        },
+        {
+            "name": "OStimChair2PSittingStandingMM",
+            "furniture": "chair",
+            "actorsKeyword": "mm",
+            "length": 2,
+            "speeds": [
+                {
+                    "animation": "OStimBench2PSittingStandingMM"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "male",
+                    "scale": 1.03,
+                    "tags": [
+                        "sitting"
+                    ],
+                    "feetOnGround": false
+                },
+                {
+                    "intendedSex": "male",
+                    "scale": 1.03,
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                }
+            ]
+        },
+        {
+            "name": "OStimChair2PStandingSittingMM",
+            "furniture": "chair",
+            "actorsKeyword": "mm",
+            "length": 2,
+            "speeds": [
+                {
+                    "animation": "OStimBench2PStandingSittingMM"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "male",
+                    "scale": 1.03,
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                },
+                {
+                    "intendedSex": "male",
+                    "scale": 1.03,
+                    "tags": [
+                        "sitting"
+                    ],
+                    "feetOnGround": false
+                }
+            ]
+        },
+        {
+            "name": "OStimCookingPot1PCookingF",
+            "furniture": "cookingpot",
+            "actorsKeyword": "f",
+            "length": 2,
+            "speeds": [
+                {
+                    "animation": "OStim1PStandingF"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                }
+            ]
+        },
+        {
+            "name": "OStimCookingPot1PCookingM",
+            "furniture": "cookingpot",
+            "actorsKeyword": "m",
+            "length": 2,
+            "speeds": [
+                {
+                    "animation": "OStim1PStandingM"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "male",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                }
+            ]
+        },
+        {
+            "name": "OStimCookingPot2PBehindFF",
+            "furniture": "cookingpot",
+            "actorsKeyword": "ff",
+            "length": 2,
+            "speeds": [
+                {
+                    "animation": "OStimCookingPot2PBehindFF"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "female",
+                    "scale": 1.03,
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                },
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "facingaway",
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                }
+            ]
+        },
+        {
+            "name": "OStimCookingPot2PBehindMF",
+            "furniture": "cookingpot",
+            "actorsKeyword": "fm",
+            "length": 2,
+            "speeds": [
+                {
+                    "animation": "OStimCookingPot2PBehindMF"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "male",
+                    "scale": 1.03,
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                },
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "facingaway",
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                }
+            ]
+        },
+        {
+            "name": "OStimCookingPot2PBehindMM",
+            "furniture": "cookingpot",
+            "actorsKeyword": "mm",
+            "length": 2,
+            "speeds": [
+                {
+                    "animation": "OStimCookingPot2PBehindMM"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "male",
+                    "scale": 1.03,
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                },
+                {
+                    "intendedSex": "male",
+                    "tags": [
+                        "facingaway",
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                }
+            ]
+        },
+        {
+            "name": "OStimShelf1PStandingF",
+            "furniture": "shelf",
+            "actorsKeyword": "f",
+            "length": 2,
+            "speeds": [
+                {
+                    "animation": "OStimShelf1PStandingF"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                }
+            ]
+        },
+        {
+            "name": "OStimShelf1PStandingM",
+            "furniture": "shelf",
+            "actorsKeyword": "m",
+            "length": 2,
+            "speeds": [
+                {
+                    "animation": "OStimShelf1PStandingM"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "male",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                }
+            ]
+        },
+        {
+            "name": "OStimShelf2PBehindFF",
+            "furniture": "shelf",
+            "actorsKeyword": "ff",
+            "length": 2,
+            "speeds": [
+                {
+                    "animation": "OStimShelf2PBehindFF"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "female",
+                    "scale": 1.03,
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                },
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "facingaway",
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                }
+            ]
+        },
+        {
+            "name": "OStimShelf2PBendOverFF",
+            "furniture": "shelf",
+            "actorsKeyword": "ff",
+            "length": 2,
+            "speeds": [
+                {
+                    "animation": "OStimShelf2PBendOverFF"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "female",
+                    "scale": 1.03,
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                },
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "bendover",
+                        "facingaway",
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                }
+            ]
+        },
+        {
+            "name": "OStimShelf2PBehindMF",
+            "furniture": "shelf",
+            "actorsKeyword": "fm",
+            "length": 2,
+            "speeds": [
+                {
+                    "animation": "OStimShelf2PBehindMF"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "male",
+                    "scale": 1.03,
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                },
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "facingaway",
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                }
+            ]
+        },
+        {
+            "name": "OStimShelf2PBendOverMF",
+            "furniture": "shelf",
+            "actorsKeyword": "fm",
+            "length": 2,
+            "speeds": [
+                {
+                    "animation": "OStimShelf2PBendOverMF"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "male",
+                    "scale": 1.03,
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                },
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "bendover",
+                        "facingaway",
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                }
+            ]
+        },
+        {
+            "name": "OStimShelf2PBehindMM",
+            "furniture": "shelf",
+            "actorsKeyword": "mm",
+            "length": 2,
+            "speeds": [
+                {
+                    "animation": "OStimShelf2PBehindMM"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "male",
+                    "scale": 1.03,
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                },
+                {
+                    "intendedSex": "male",
+                    "tags": [
+                        "facingaway",
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                }
+            ]
+        },
+        {
+            "name": "OStimTable1PSittingF",
+            "furniture": "table",
+            "actorsKeyword": "f",
+            "length": 2,
+            "speeds": [
+                {
+                    "animation": "OStimTable1PSittingF"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "sitting"
+                    ],
+                    "feetOnGround": false
+                }
+            ]
+        },
+        {
+            "name": "OStimTable1PSittingM",
+            "furniture": "table",
+            "actorsKeyword": "m",
+            "length": 2,
+            "speeds": [
+                {
+                    "animation": "OStimTable1PSittingM"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "male",
+                    "tags": [
+                        "sitting"
+                    ],
+                    "feetOnGround": false
+                }
+            ]
+        },
+        {
+            "name": "OStimTable2PBehindFF",
+            "furniture": "table",
+            "actorsKeyword": "ff",
+            "length": 2,
+            "speeds": [
+                {
+                    "animation": "OStimTable2PBehindFF"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "female",
+                    "scale": 1.03,
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                },
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "facingaway",
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                }
+            ]
+        },
+        {
+            "name": "OStimTable2PStandingLeaningFF",
+            "furniture": "table",
+            "actorsKeyword": "ff",
+            "length": 2,
+            "speeds": [
+                {
+                    "animation": "OStimTable2PStandingLeaningFF"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "female",
+                    "scale": 1.03,
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                },
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                }
+            ]
+        },
+        {
+            "name": "OStimTable2PStandingSittingFF",
+            "furniture": "table",
+            "actorsKeyword": "ff",
+            "length": 2,
+            "speeds": [
+                {
+                    "animation": "OStimTable2PStandingSittingFF"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "female",
+                    "scale": 1.03,
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                },
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "sitting"
+                    ],
+                    "feetOnGround": false
+                }
+            ]
+        },
+        {
+            "name": "OStimTable2PBehindMF",
+            "furniture": "table",
+            "actorsKeyword": "fm",
+            "length": 2,
+            "speeds": [
+                {
+                    "animation": "OStimTable2PBehindMF"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "male",
+                    "scale": 1.03,
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                },
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "facingaway",
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                }
+            ]
+        },
+        {
+            "name": "OStimTable2PStandingLeaningMF",
+            "furniture": "table",
+            "actorsKeyword": "fm",
+            "length": 2,
+            "speeds": [
+                {
+                    "animation": "OStimTable2PStandingLeaningMF"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "male",
+                    "scale": 1.03,
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                },
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                }
+            ]
+        },
+        {
+            "name": "OStimTable2PStandingSittingMF",
+            "furniture": "table",
+            "actorsKeyword": "fm",
+            "length": 2,
+            "speeds": [
+                {
+                    "animation": "OStimTable2PStandingSittingMF"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "male",
+                    "scale": 1.03,
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                },
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "sitting"
+                    ],
+                    "feetOnGround": false
+                }
+            ]
+        },
+        {
+            "name": "OStimTable2PStandingLeaningMM",
+            "furniture": "table",
+            "actorsKeyword": "mm",
+            "length": 2,
+            "speeds": [
+                {
+                    "animation": "OStimTable2PStandingLeaningMM"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "male",
+                    "scale": 1.03,
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                },
+                {
+                    "intendedSex": "male",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                }
+            ]
+        },
+        {
+            "name": "OStimWall1PLeaningF",
+            "furniture": "wall",
+            "actorsKeyword": "f",
+            "length": 2,
+            "speeds": [
+                {
+                    "animation": "OStimWall1PLeaningF"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                }
+            ]
+        },
+        {
+            "name": "OStimWall1PLeaningM",
+            "furniture": "wall",
+            "actorsKeyword": "m",
+            "length": 2,
+            "speeds": [
+                {
+                    "animation": "OStimWall1PLeaningM"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "male",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                }
+            ]
+        },
+        {
+            "name": "OStimWall2PStandingLeaningFF",
+            "furniture": "wall",
+            "actorsKeyword": "ff",
+            "length": 2,
+            "speeds": [
+                {
+                    "animation": "OStimWall2PStandingLeaningFF"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                },
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                }
+            ]
+        },
+        {
+            "name": "OStimWall2PStandingLeaningMF",
+            "furniture": "wall",
+            "actorsKeyword": "fm",
+            "length": 2,
+            "speeds": [
+                {
+                    "animation": "OStimWall2PStandingLeaningMF"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "male",
+                    "scale": 1,
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                },
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                }
+            ]
+        },
+        {
+            "name": "OStimWall2PStandingLeaningMM",
+            "furniture": "wall",
+            "actorsKeyword": "mm",
+            "length": 2,
+            "speeds": [
+                {
+                    "animation": "OStimWall2PStandingLeaningMM"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "male",
+                    "scale": 1,
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                },
+                {
+                    "intendedSex": "male",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                }
+            ]
+        },
+        {
+            "name": "4PLyingMFFF",
+            "actorsKeyword": "fffm",
+            "length": 10,
+            "speeds": [
+                {
+                    "animation": "OStim4PLyingMMMF"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "male",
+                    "tags": [
+                        "lyingback"
+                    ],
+                    "feetOnGround": false,
+                    "sosBend": -10,
+                    "lookUp": -80,
+                    "lookLeft": 40
+                },
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "lyingback"
+                    ],
+                    "feetOnGround": false,
+                    "lookUp": -60,
+                    "lookLeft": -10
+                },
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "sitting"
+                    ],
+                    "feetOnGround": false
+                },
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "lyingback"
+                    ],
+                    "feetOnGround": false,
+                    "lookUp": -70,
+                    "lookLeft": -30
+                }
+            ]
+        },
+        {
+            "name": "4PStandingMFFF",
+            "actorsKeyword": "fffm",
+            "length": 10,
+            "speeds": [
+                {
+                    "animation": "OStim4PStandingMMMF"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "male",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true,
+                    "sosBend": -10,
+                    "lookUp": -50,
+                    "lookLeft": 40
+                },
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true,
+                    "lookUp": -30,
+                    "lookLeft": 10
+                },
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                },
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true,
+                    "lookUp": 20,
+                    "lookLeft": -80
+                }
+            ]
+        },
+        {
+            "name": "4PLyingMMFF",
+            "actorsKeyword": "ffmm",
+            "length": 10,
+            "speeds": [
+                {
+                    "animation": "OStim4PLyingMMMF"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "male",
+                    "tags": [
+                        "lyingback"
+                    ],
+                    "feetOnGround": false,
+                    "sosBend": -10,
+                    "lookUp": -80,
+                    "lookLeft": 40
+                },
+                {
+                    "intendedSex": "male",
+                    "tags": [
+                        "lyingback"
+                    ],
+                    "feetOnGround": false,
+                    "sosBend": -10,
+                    "lookUp": -60,
+                    "lookLeft": -10
+                },
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "sitting"
+                    ],
+                    "feetOnGround": false
+                },
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "lyingback"
+                    ],
+                    "feetOnGround": false,
+                    "lookUp": -70,
+                    "lookLeft": -30
+                }
+            ]
+        },
+        {
+            "name": "4PStandingMMFFF",
+            "actorsKeyword": "ffmm",
+            "length": 10,
+            "speeds": [
+                {
+                    "animation": "OStim4PStandingMMMF"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "male",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true,
+                    "sosBend": -10,
+                    "lookUp": -50,
+                    "lookLeft": 40
+                },
+                {
+                    "intendedSex": "male",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true,
+                    "sosBend": -10,
+                    "lookUp": -30,
+                    "lookLeft": 10
+                },
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                },
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true,
+                    "lookUp": 20,
+                    "lookLeft": -80
+                }
+            ]
+        },
+        {
+            "name": "5PLyingMFFFF",
+            "actorsKeyword": "ffffm",
+            "length": 10,
+            "speeds": [
+                {
+                    "animation": "OStim5PLyingMMMMF"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "male",
+                    "tags": [
+                        "lyingback"
+                    ],
+                    "feetOnGround": false,
+                    "sosBend": -10,
+                    "lookUp": -80,
+                    "lookLeft": 40
+                },
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "lyingback"
+                    ],
+                    "feetOnGround": false,
+                    "lookUp": -60,
+                    "lookLeft": -10
+                },
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "sitting"
+                    ],
+                    "feetOnGround": false
+                },
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "sitting"
+                    ],
+                    "feetOnGround": false
+                },
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "lyingback"
+                    ],
+                    "feetOnGround": false,
+                    "lookUp": -70,
+                    "lookLeft": -30
+                }
+            ]
+        },
+        {
+            "name": "5PStandingMFFFF",
+            "actorsKeyword": "ffffm",
+            "length": 10,
+            "speeds": [
+                {
+                    "animation": "OStim5PStandingMMMMF"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "male",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true,
+                    "sosBend": -10,
+                    "lookUp": -50,
+                    "lookLeft": 40
+                },
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true,
+                    "lookUp": -30,
+                    "lookLeft": 10
+                },
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                },
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                },
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true,
+                    "lookUp": 20,
+                    "lookLeft": -80
+                }
+            ]
+        }
+    ]
+}

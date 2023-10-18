@@ -17,11 +17,8 @@
             "*": [
                 "node_modules/*"
             ],
-            "~packs/*": [
-                "src/apps/packs/*"
-            ],
-            "~connectAddon/*": [
-                "src/apps/connectAddon/*"
+            "~bridge/*": [
+                "src/apps/bridge/*"
             ],
             "~common/*": [
                 "src/common/*"
@@ -30,7 +27,7 @@
     },
     "include": [
         "src/**/*"
-, "configs/connectAddon/config.ts"    ],
+    ],
     "exclude": [
         "src/logic/porting-animations.ts"
     ]

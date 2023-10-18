@@ -1,0 +1,26 @@
+module:
+    name: AnubsSpawnFurniture
+    inputPath: D:\animations\anubs\1537070476_AnubSLAL022023SSELLver\00 Data\SLAL
+        H\Meshes\actors\character\animations\Anubs Human
+    slalJsonConfig: D:\animations\anubs\1537070476_AnubSLAL022023SSELLver\00
+        Data\SLAL H\SLAnims\json\HUMAN NEW.json
+    include:
+        - AnubsABedsleep
+        - AnubsAChairCg
+        - AnubsAdultBarTable
+        - AnubsAdultBath
+        - AnubsAdultStool
+        - AnubsASide
+        - AnubsASofa
+        - AnubsBedP
+        - AnubsCaged
+        - AnubsDrunk
+        - AnubsAdultRbed2
+        - AnubsFfmBed
+        - AnubsTw
+        - AnubsChairDoggy
+        - AnubsThroneFemdom
+        - AnubsAdultBench
+        - AnubsChairfemdom
+    exclude: []
+    nemesisPrefix: anusfu

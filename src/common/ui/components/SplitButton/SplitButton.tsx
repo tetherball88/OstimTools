@@ -10,11 +10,10 @@ import Popper from '@mui/material/Popper';
 import MenuItem from '@mui/material/MenuItem';
 import MenuList from '@mui/material/MenuList';
 import Tooltip from '@mui/material/Tooltip';
-
-import { MapInvokers } from '~common/ui/hooks/useSendCommand';
+import { useSendCommand } from '~bridge/ui/hooks/useSendCommand';
 
 export type SplitButtonOptionType = {
-    command: keyof MapInvokers;
+    command: Parameters<ReturnType<typeof useSendCommand>>[0];
     tooltip: string;
     text: string;
     message: string;

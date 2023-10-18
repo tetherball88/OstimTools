@@ -12,7 +12,9 @@ interface LockScreenProps {
 }
 
 export const LockScreen: FC<LockScreenProps> = ({ message, open = false }) => {
-    const { commandInProgress, commandMessage } = useMainState();
+    const commandInProgress = useMainState(state => state.commandInProgress);
+    const commandMessage = useMainState(state => state.commandMessage);
+    
     return (
         <Backdrop
             sx={{ color: '#fff', zIndex: (theme) => theme.zIndex.drawer - 1, display: 'flex', flexDirection: 'column' }}

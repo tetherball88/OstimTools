@@ -1,0 +1,36 @@
+module:
+    name: BillyysGroup
+    inputPath: D:\animations\billyy\SLAL_Billyy_Animations v7.1
+        SE\SLAL_Billyy_Human\meshes\actors\character\animations\Billyy_Human
+    slalJsonConfig: D:\animations\billyy\SLAL_Billyy_Animations v7.1
+        SE\SLAL_Billyy_Human\SLAnims\json\Billyy_Human.json
+    include:
+        - BillyyBillyy4pgangbang3
+        - Billyy3p69a
+        - Billyy3parcspita
+        - Billyy3pdoublebj
+        - Billyy3pdp1
+        - Billyy3pdp2
+        - Billyy3pdp3
+        - Billyy3pdp4
+        - Billyy3pkneelspit
+        - Billyy3pmissspit1
+        - Billyy3prcgspit
+        - Billyy3pspit1
+        - Billyy3pspita2
+        - Billyy3pspitdoga
+        - Billyy3pstandspit1
+        - Billyy4pgang4
+        - Billyy4pgang5
+        - Billyy4pgang6
+        - Billyy4pgang7
+        - Billyy4pgb1
+        - Billyy4pgb2
+        - Billyy4pgb8
+        - Billyy4pserv1
+        - Billyy4pservgob
+        - Billyy5pgb1
+        - Billyy5pgb2
+        - Billyy5pgb3
+    exclude: []        
+    nemesisPrefix: bilgro

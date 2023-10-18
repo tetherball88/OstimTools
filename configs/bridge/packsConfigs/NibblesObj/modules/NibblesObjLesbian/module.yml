@@ -1,0 +1,10 @@
+module:
+    name: NibblesObjLesbian
+    inputPath: D:\animations\nibbles\SLAL NibblesAnims
+        5.81\Objects\Meshes\actors\character\animations\NibblesAnims_Object
+    slalJsonConfig: D:\animations\nibbles\SLAL NibblesAnims
+        5.81\Objects\SLAnims\json\NibblesAnims_OBJECTS.json
+    include:
+        - NibblesLesbianhaycun
+    exclude: []
+    nemesisPrefix: nibole
