@@ -117,12 +117,11 @@ export const copyHkx = async (config: CombinedConfig) => {
     logger.log(`--- Started copying animation files for ${moduleName}`);
     const slalPrefix = await getSlalPrefix(slalJsonConfig);
 
-    if (typeof slalPrefix === 'undefined') {
-        logger.error('Couldn\'t find SLAL animation prefix from SLAL source txt file');
-        return;
+    if (slalPrefix === '') {
+        logger.warn('Couldn\'t find SLAL animation prefix from SLAL source txt file');
     }
 
-    const slalConfig = await readSlalConfig(slalJsonConfig, slalPrefix, pack.author);
+    const slalConfig = await readSlalConfig(slalJsonConfig, slalPrefix, pack.author, inputPath);
 
     if (!slalConfig) {
         logger.error(`Couldn't parse and read slal config for files copying for module ${moduleName}`)
@@ -131,7 +130,7 @@ export const copyHkx = async (config: CombinedConfig) => {
 
     await writeFile(`${outputNemesisAnimlistTxt}\\${nemesisTxtFileName}`, '');
 
-    const files = await glob(`${inputPath}\\*.hkx`);
+    const files = await glob(`${inputPath}\\*.{hkx,HKX}`);
 
     if (!files?.length) {
         logger.error(`Couldn't find any hkx files in the inputPath: ${inputPath}. Please make sure you provided correct inputPath with animations' hkx files.`);

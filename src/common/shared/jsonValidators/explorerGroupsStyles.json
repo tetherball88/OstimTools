@@ -1,0 +1,28 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "properties": {
+        "background-color": {
+            "description": "Node's background color",
+            "format": "color",
+            "type": "string"
+        },
+        "border-color": {
+            "description": "Node's border color",
+            "format": "color",
+            "type": "string"
+        },
+        "color": {
+            "description": "Node's text color",
+            "format": "color",
+            "type": "string"
+        },
+        "text-outline-color": {
+            "description": "Color for outline text if present",
+            "format": "color",
+            "type": "string"
+        }
+    },
+    "title": "Group/s colors",
+    "type": "object"
+}
+

@@ -1,0 +1,778 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "anyOf": [
+        {
+            "$ref": "#/definitions/OstimSceneOrigin"
+        },
+        {
+            "$ref": "#/definitions/OstimSceneDestination"
+        },
+        {
+            "$ref": "#/definitions/OstimSceneWithNavigation"
+        }
+    ],
+    "definitions": {
+        "OstimSceneDestination": {
+            "additionalProperties": false,
+            "properties": {
+                "actions": {
+                    "description": "a list of actions",
+                    "items": {
+                        "additionalProperties": false,
+                        "properties": {
+                            "actor": {
+                                "description": "the index of the action actor",
+                                "type": "number"
+                            },
+                            "performer": {
+                                "description": "the index of the action performer\ndefaults to action's actor",
+                                "type": "number"
+                            },
+                            "target": {
+                                "description": "the index of the action target\ndefaults to action's actor",
+                                "type": "number"
+                            },
+                            "type": {
+                                "description": "the type of the action (see actions README https://github.com/VersuchDrei/OStimNG/blob/main/data/SKSE/Plugins/OStim/actions%20README.txt)",
+                                "type": "string"
+                            }
+                        },
+                        "required": [
+                            "actor",
+                            "type"
+                        ],
+                        "type": "object"
+                    },
+                    "type": "array"
+                },
+                "actors": {
+                    "description": "a list of actors",
+                    "items": {
+                        "additionalProperties": false,
+                        "properties": {
+                            "animationIndex": {
+                                "description": "the index of the animation to play (see speed fields: animation)\nthis can be used to invert the roles of a scene without having to register the animations twice\ndefaults to the actors index",
+                                "type": "number"
+                            },
+                            "autoTransitions": {
+                                "$ref": "#/definitions/Record<string,string>",
+                                "description": "a map of auto transition ids and destination sceneIDs for this actor"
+                            },
+                            "expressionAction": {
+                                "description": "the index of the action that takes priority for the actors facial expression (see actions README https://github.com/VersuchDrei/OStimNG/blob/main/data/SKSE/Plugins/OStim/actions%20README.txt)",
+                                "type": "number"
+                            },
+                            "expressionOverride": {
+                                "description": "an expression set to override the actors expression in this scene (see facial expressions README https://github.com/VersuchDrei/OStimNG/blob/main/data/SKSE/Plugins/OStim/facial%20expressions%20README.txt)",
+                                "type": "string"
+                            },
+                            "feetOnGround": {
+                                "description": "if true heel scaling is in effect, if false the heel offset will be removed\nthis value defaults to true if the actor has the \"standing\" or \"squatting\" tag and false otherwise",
+                                "type": "boolean"
+                            },
+                            "intendedSex": {
+                                "default": "any",
+                                "description": "the intended sex of this actor\npossible values are \"male\" and \"female\"\nthis can be used to limit navigation to this scene by sex without any action in it requiring it\nfor example because one of the actors makes a feminine pose that would look weird on a male",
+                                "enum": [
+                                    "any",
+                                    "female",
+                                    "male"
+                                ],
+                                "type": "string"
+                            },
+                            "lookDown": {
+                                "default": 0,
+                                "description": "alternative to lookUp with inverted values\nif lookUp is defined this field is ignored",
+                                "type": "number"
+                            },
+                            "lookLeft": {
+                                "default": 0,
+                                "description": "the mfg value for the eyes to look left\npossible values range from -100 to 100, with negative ones causing a look right",
+                                "type": "number"
+                            },
+                            "lookRight": {
+                                "default": 0,
+                                "description": "alternative to lookLeft with inverted values\nif lookLeft is defined this field is ignored",
+                                "type": "number"
+                            },
+                            "lookUp": {
+                                "default": 0,
+                                "description": "the mfg value for the eyes to look up\npossible values range from -100 to 100, with negative ones causing a look down",
+                                "type": "number"
+                            },
+                            "noStrip": {
+                                "default": false,
+                                "description": "if true the actor does not get undressed, no matter the actions involved",
+                                "type": "boolean"
+                            },
+                            "scale": {
+                                "default": 1,
+                                "description": "the scale of the actor",
+                                "type": "number"
+                            },
+                            "scaleHeight": {
+                                "default": 120.748,
+                                "description": "the height against which the heel offset should be scaled\nthis can be used to keep the most important part (for example the schlong in a penetrative scene) always at the same height, no matter the heel offset\nthe default value is the total height of the vanilla skeleton",
+                                "type": "number"
+                            },
+                            "sosBend": {
+                                "default": 0,
+                                "description": "the SoSBend value for the actor\nsos angles range from -9 to 9, additionally -10 will cause a flaccid schlong\nthese cause the SoSBendX animation event to be send to the actor, with X being the sosBend value",
+                                "enum": [
+                                    -1,
+                                    -2,
+                                    -3,
+                                    -4,
+                                    -5,
+                                    -6,
+                                    -7,
+                                    -8,
+                                    -9,
+                                    0,
+                                    1,
+                                    2,
+                                    3,
+                                    4,
+                                    5,
+                                    6,
+                                    7,
+                                    8,
+                                    9
+                                ],
+                                "type": "number"
+                            },
+                            "tags": {
+                                "description": "a list of tags for this actor (see list of commonly used actor tags https://github.com/VersuchDrei/OStimNG/blob/main/data/SKSE/Plugins/OStim/list%20of%20commonly%20used%20actor%20tags.txt)",
+                                "items": {
+                                    "type": "string"
+                                },
+                                "type": "array"
+                            },
+                            "type": {
+                                "default": "npc",
+                                "description": "the type of the actor (see actor types README https://github.com/VersuchDrei/OStimNG/blob/main/data/SKSE/Plugins/OStim/actor%20types%20README.txt )",
+                                "type": "string"
+                            }
+                        },
+                        "type": "object"
+                    },
+                    "type": "array"
+                },
+                "autoTransitions": {
+                    "$ref": "#/definitions/Record<string,string>",
+                    "description": "a map of auto transition ids and destination sceneIDs for this scene"
+                },
+                "defaultSpeed": {
+                    "default": 0,
+                    "description": "the index of the default speed of the scene",
+                    "type": "number"
+                },
+                "destination": {
+                    "description": "(only for transition) the sceneID of the transition destination\nadding this property turns this node into a transition, that means it will be played once and then automatically moves to the destination scene\nif this property is filled the \"navigations\" property will be ignored",
+                    "type": "string"
+                },
+                "furniture": {
+                    "description": "the furniture type of this scene",
+                    "type": "string"
+                },
+                "length": {
+                    "description": "the duration of the animation in seconds",
+                    "type": "number"
+                },
+                "modpack": {
+                    "description": "the display name of the modpack in game",
+                    "type": "string"
+                },
+                "name": {
+                    "description": "the display name of the scene in game",
+                    "type": "string"
+                },
+                "noRandomSelection": {
+                    "default": false,
+                    "description": "if true this scene will never be chosen by random selections",
+                    "type": "boolean"
+                },
+                "speeds": {
+                    "description": "a list of available speeds for the scene",
+                    "items": {
+                        "additionalProperties": false,
+                        "properties": {
+                            "animation": {
+                                "description": "the animation event name of the animation to play for this speed\nthis animation will be send as animation event to the actors with _X appended, X being the actors index",
+                                "type": "string"
+                            },
+                            "displaySpeed": {
+                                "description": "the speed value to display in game",
+                                "type": "number"
+                            },
+                            "playbackSpeed": {
+                                "default": 1,
+                                "description": "the speed at which to play the animation\nin order for this to work the animation has to be registered with a Nemesis patch that links it to the OStimSpeed graph variable",
+                                "type": "number"
+                            }
+                        },
+                        "required": [
+                            "animation"
+                        ],
+                        "type": "object"
+                    },
+                    "type": "array"
+                },
+                "tags": {
+                    "description": "a list of tags for this scene",
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                }
+            },
+            "required": [
+                "destination",
+                "length",
+                "modpack",
+                "name",
+                "speeds"
+            ],
+            "type": "object"
+        },
+        "OstimSceneNavigation": {
+            "anyOf": [
+                {
+                    "$ref": "#/definitions/OstimSceneNavigationDestination"
+                },
+                {
+                    "$ref": "#/definitions/OstimSceneNavigationOrigin"
+                }
+            ]
+        },
+        "OstimSceneNavigationDestination": {
+            "additionalProperties": false,
+            "properties": {
+                "border": {
+                    "default": "ffffff",
+                    "description": "the hexadecimal RBG code of the icon border",
+                    "type": "string"
+                },
+                "description": {
+                    "description": "the display text of the navigation in game",
+                    "type": "string"
+                },
+                "destination": {
+                    "description": "the destination of the navigation\nif you use this a navigation option is added to this scene that leads to the destination scene\nthis is the preferred way, you should always use this over \"origin\" when navigating within an animation pack",
+                    "type": "string"
+                },
+                "icon": {
+                    "description": "the path to the .dds file to be used as the icon\nthis path will be appended to \"../Data/Interface/OStim/icons\", the file ending \".dds\" will be added automatically",
+                    "type": "string"
+                },
+                "noWarnings": {
+                    "default": false,
+                    "description": "disables warnings about origin or destination not existing\nthis can be used to prevent spamming the log when connecting to other animation packs that a user might not have installed\ndoesn't prevent warnings about mismatching furniture types or actor counts",
+                    "type": "boolean"
+                },
+                "priority": {
+                    "default": 0,
+                    "description": "a priority for the order of the navigation options in the menu\nthe navigations are sorted ascending, so lower priorities will show first\nconventional priorities in idles are:\n    0 other idles\n    1000 romantic scenes\n    2000 undressing scenes\n    3000 sexual scenes\nconventional priorities in other scenes are:\n    -1000 return to idle\n        0 detail changes (e.g. put hands on hips)\n    1000 positional changes (e.g. kneel down during HJ)\n    2000 action changes (e.g. go from HJ to BJ)\n    3000 climax\nit is recommended to stick to the convention so that navigation options always have a logical order\nnumbers can be slightly adjusted for fine tuning (e.g. 1999 instead of 2000 if you want it to be the first in its class)",
+                    "type": "number"
+                }
+            },
+            "required": [
+                "description",
+                "destination"
+            ],
+            "type": "object"
+        },
+        "OstimSceneNavigationOrigin": {
+            "additionalProperties": false,
+            "properties": {
+                "border": {
+                    "default": "ffffff",
+                    "description": "the hexadecimal RBG code of the icon border",
+                    "type": "string"
+                },
+                "description": {
+                    "description": "the display text of the navigation in game",
+                    "type": "string"
+                },
+                "icon": {
+                    "description": "the path to the .dds file to be used as the icon\nthis path will be appended to \"../Data/Interface/OStim/icons\", the file ending \".dds\" will be added automatically",
+                    "type": "string"
+                },
+                "noWarnings": {
+                    "default": false,
+                    "description": "disables warnings about origin or destination not existing\nthis can be used to prevent spamming the log when connecting to other animation packs that a user might not have installed\ndoesn't prevent warnings about mismatching furniture types or actor counts",
+                    "type": "boolean"
+                },
+                "origin": {
+                    "description": "the origin of the navigation option\nif you use this a navigation option is added to the origin scene that leads to this scene\nthis can be used to create navigations from scenes of other animation packs to your scene without overwriting them\nyou should never use \"origin\" and \"destination\" at the same time",
+                    "type": "string"
+                },
+                "priority": {
+                    "default": 0,
+                    "description": "a priority for the order of the navigation options in the menu\nthe navigations are sorted ascending, so lower priorities will show first\nconventional priorities in idles are:\n    0 other idles\n    1000 romantic scenes\n    2000 undressing scenes\n    3000 sexual scenes\nconventional priorities in other scenes are:\n    -1000 return to idle\n        0 detail changes (e.g. put hands on hips)\n    1000 positional changes (e.g. kneel down during HJ)\n    2000 action changes (e.g. go from HJ to BJ)\n    3000 climax\nit is recommended to stick to the convention so that navigation options always have a logical order\nnumbers can be slightly adjusted for fine tuning (e.g. 1999 instead of 2000 if you want it to be the first in its class)",
+                    "type": "number"
+                }
+            },
+            "required": [
+                "description",
+                "origin"
+            ],
+            "type": "object"
+        },
+        "OstimSceneOrigin": {
+            "additionalProperties": false,
+            "properties": {
+                "actions": {
+                    "description": "a list of actions",
+                    "items": {
+                        "additionalProperties": false,
+                        "properties": {
+                            "actor": {
+                                "description": "the index of the action actor",
+                                "type": "number"
+                            },
+                            "performer": {
+                                "description": "the index of the action performer\ndefaults to action's actor",
+                                "type": "number"
+                            },
+                            "target": {
+                                "description": "the index of the action target\ndefaults to action's actor",
+                                "type": "number"
+                            },
+                            "type": {
+                                "description": "the type of the action (see actions README https://github.com/VersuchDrei/OStimNG/blob/main/data/SKSE/Plugins/OStim/actions%20README.txt)",
+                                "type": "string"
+                            }
+                        },
+                        "required": [
+                            "actor",
+                            "type"
+                        ],
+                        "type": "object"
+                    },
+                    "type": "array"
+                },
+                "actors": {
+                    "description": "a list of actors",
+                    "items": {
+                        "additionalProperties": false,
+                        "properties": {
+                            "animationIndex": {
+                                "description": "the index of the animation to play (see speed fields: animation)\nthis can be used to invert the roles of a scene without having to register the animations twice\ndefaults to the actors index",
+                                "type": "number"
+                            },
+                            "autoTransitions": {
+                                "$ref": "#/definitions/Record<string,string>",
+                                "description": "a map of auto transition ids and destination sceneIDs for this actor"
+                            },
+                            "expressionAction": {
+                                "description": "the index of the action that takes priority for the actors facial expression (see actions README https://github.com/VersuchDrei/OStimNG/blob/main/data/SKSE/Plugins/OStim/actions%20README.txt)",
+                                "type": "number"
+                            },
+                            "expressionOverride": {
+                                "description": "an expression set to override the actors expression in this scene (see facial expressions README https://github.com/VersuchDrei/OStimNG/blob/main/data/SKSE/Plugins/OStim/facial%20expressions%20README.txt)",
+                                "type": "string"
+                            },
+                            "feetOnGround": {
+                                "description": "if true heel scaling is in effect, if false the heel offset will be removed\nthis value defaults to true if the actor has the \"standing\" or \"squatting\" tag and false otherwise",
+                                "type": "boolean"
+                            },
+                            "intendedSex": {
+                                "default": "any",
+                                "description": "the intended sex of this actor\npossible values are \"male\" and \"female\"\nthis can be used to limit navigation to this scene by sex without any action in it requiring it\nfor example because one of the actors makes a feminine pose that would look weird on a male",
+                                "enum": [
+                                    "any",
+                                    "female",
+                                    "male"
+                                ],
+                                "type": "string"
+                            },
+                            "lookDown": {
+                                "default": 0,
+                                "description": "alternative to lookUp with inverted values\nif lookUp is defined this field is ignored",
+                                "type": "number"
+                            },
+                            "lookLeft": {
+                                "default": 0,
+                                "description": "the mfg value for the eyes to look left\npossible values range from -100 to 100, with negative ones causing a look right",
+                                "type": "number"
+                            },
+                            "lookRight": {
+                                "default": 0,
+                                "description": "alternative to lookLeft with inverted values\nif lookLeft is defined this field is ignored",
+                                "type": "number"
+                            },
+                            "lookUp": {
+                                "default": 0,
+                                "description": "the mfg value for the eyes to look up\npossible values range from -100 to 100, with negative ones causing a look down",
+                                "type": "number"
+                            },
+                            "noStrip": {
+                                "default": false,
+                                "description": "if true the actor does not get undressed, no matter the actions involved",
+                                "type": "boolean"
+                            },
+                            "scale": {
+                                "default": 1,
+                                "description": "the scale of the actor",
+                                "type": "number"
+                            },
+                            "scaleHeight": {
+                                "default": 120.748,
+                                "description": "the height against which the heel offset should be scaled\nthis can be used to keep the most important part (for example the schlong in a penetrative scene) always at the same height, no matter the heel offset\nthe default value is the total height of the vanilla skeleton",
+                                "type": "number"
+                            },
+                            "sosBend": {
+                                "default": 0,
+                                "description": "the SoSBend value for the actor\nsos angles range from -9 to 9, additionally -10 will cause a flaccid schlong\nthese cause the SoSBendX animation event to be send to the actor, with X being the sosBend value",
+                                "enum": [
+                                    -1,
+                                    -2,
+                                    -3,
+                                    -4,
+                                    -5,
+                                    -6,
+                                    -7,
+                                    -8,
+                                    -9,
+                                    0,
+                                    1,
+                                    2,
+                                    3,
+                                    4,
+                                    5,
+                                    6,
+                                    7,
+                                    8,
+                                    9
+                                ],
+                                "type": "number"
+                            },
+                            "tags": {
+                                "description": "a list of tags for this actor (see list of commonly used actor tags https://github.com/VersuchDrei/OStimNG/blob/main/data/SKSE/Plugins/OStim/list%20of%20commonly%20used%20actor%20tags.txt)",
+                                "items": {
+                                    "type": "string"
+                                },
+                                "type": "array"
+                            },
+                            "type": {
+                                "default": "npc",
+                                "description": "the type of the actor (see actor types README https://github.com/VersuchDrei/OStimNG/blob/main/data/SKSE/Plugins/OStim/actor%20types%20README.txt )",
+                                "type": "string"
+                            }
+                        },
+                        "type": "object"
+                    },
+                    "type": "array"
+                },
+                "autoTransitions": {
+                    "$ref": "#/definitions/Record<string,string>",
+                    "description": "a map of auto transition ids and destination sceneIDs for this scene"
+                },
+                "defaultSpeed": {
+                    "default": 0,
+                    "description": "the index of the default speed of the scene",
+                    "type": "number"
+                },
+                "furniture": {
+                    "description": "the furniture type of this scene",
+                    "type": "string"
+                },
+                "length": {
+                    "description": "the duration of the animation in seconds",
+                    "type": "number"
+                },
+                "modpack": {
+                    "description": "the display name of the modpack in game",
+                    "type": "string"
+                },
+                "name": {
+                    "description": "the display name of the scene in game",
+                    "type": "string"
+                },
+                "noRandomSelection": {
+                    "default": false,
+                    "description": "if true this scene will never be chosen by random selections",
+                    "type": "boolean"
+                },
+                "origin": {
+                    "description": "(only for transition) the sceneID of the transition origin\nif the transition is already in the navigations of the origin scene this field doesn't have to (and shouldn't) be filled\nif this field is filled you can also add the \"priority\", \"description\", \"icon\", \"border\" and \"noWarnings\" fields directly to the scene and use them like you would for a regular navigation",
+                    "type": "string"
+                },
+                "speeds": {
+                    "description": "a list of available speeds for the scene",
+                    "items": {
+                        "additionalProperties": false,
+                        "properties": {
+                            "animation": {
+                                "description": "the animation event name of the animation to play for this speed\nthis animation will be send as animation event to the actors with _X appended, X being the actors index",
+                                "type": "string"
+                            },
+                            "displaySpeed": {
+                                "description": "the speed value to display in game",
+                                "type": "number"
+                            },
+                            "playbackSpeed": {
+                                "default": 1,
+                                "description": "the speed at which to play the animation\nin order for this to work the animation has to be registered with a Nemesis patch that links it to the OStimSpeed graph variable",
+                                "type": "number"
+                            }
+                        },
+                        "required": [
+                            "animation"
+                        ],
+                        "type": "object"
+                    },
+                    "type": "array"
+                },
+                "tags": {
+                    "description": "a list of tags for this scene",
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                }
+            },
+            "required": [
+                "length",
+                "modpack",
+                "name",
+                "origin",
+                "speeds"
+            ],
+            "type": "object"
+        },
+        "OstimSceneWithNavigation": {
+            "additionalProperties": false,
+            "properties": {
+                "actions": {
+                    "description": "a list of actions",
+                    "items": {
+                        "additionalProperties": false,
+                        "properties": {
+                            "actor": {
+                                "description": "the index of the action actor",
+                                "type": "number"
+                            },
+                            "performer": {
+                                "description": "the index of the action performer\ndefaults to action's actor",
+                                "type": "number"
+                            },
+                            "target": {
+                                "description": "the index of the action target\ndefaults to action's actor",
+                                "type": "number"
+                            },
+                            "type": {
+                                "description": "the type of the action (see actions README https://github.com/VersuchDrei/OStimNG/blob/main/data/SKSE/Plugins/OStim/actions%20README.txt)",
+                                "type": "string"
+                            }
+                        },
+                        "required": [
+                            "actor",
+                            "type"
+                        ],
+                        "type": "object"
+                    },
+                    "type": "array"
+                },
+                "actors": {
+                    "description": "a list of actors",
+                    "items": {
+                        "additionalProperties": false,
+                        "properties": {
+                            "animationIndex": {
+                                "description": "the index of the animation to play (see speed fields: animation)\nthis can be used to invert the roles of a scene without having to register the animations twice\ndefaults to the actors index",
+                                "type": "number"
+                            },
+                            "autoTransitions": {
+                                "$ref": "#/definitions/Record<string,string>",
+                                "description": "a map of auto transition ids and destination sceneIDs for this actor"
+                            },
+                            "expressionAction": {
+                                "description": "the index of the action that takes priority for the actors facial expression (see actions README https://github.com/VersuchDrei/OStimNG/blob/main/data/SKSE/Plugins/OStim/actions%20README.txt)",
+                                "type": "number"
+                            },
+                            "expressionOverride": {
+                                "description": "an expression set to override the actors expression in this scene (see facial expressions README https://github.com/VersuchDrei/OStimNG/blob/main/data/SKSE/Plugins/OStim/facial%20expressions%20README.txt)",
+                                "type": "string"
+                            },
+                            "feetOnGround": {
+                                "description": "if true heel scaling is in effect, if false the heel offset will be removed\nthis value defaults to true if the actor has the \"standing\" or \"squatting\" tag and false otherwise",
+                                "type": "boolean"
+                            },
+                            "intendedSex": {
+                                "default": "any",
+                                "description": "the intended sex of this actor\npossible values are \"male\" and \"female\"\nthis can be used to limit navigation to this scene by sex without any action in it requiring it\nfor example because one of the actors makes a feminine pose that would look weird on a male",
+                                "enum": [
+                                    "any",
+                                    "female",
+                                    "male"
+                                ],
+                                "type": "string"
+                            },
+                            "lookDown": {
+                                "default": 0,
+                                "description": "alternative to lookUp with inverted values\nif lookUp is defined this field is ignored",
+                                "type": "number"
+                            },
+                            "lookLeft": {
+                                "default": 0,
+                                "description": "the mfg value for the eyes to look left\npossible values range from -100 to 100, with negative ones causing a look right",
+                                "type": "number"
+                            },
+                            "lookRight": {
+                                "default": 0,
+                                "description": "alternative to lookLeft with inverted values\nif lookLeft is defined this field is ignored",
+                                "type": "number"
+                            },
+                            "lookUp": {
+                                "default": 0,
+                                "description": "the mfg value for the eyes to look up\npossible values range from -100 to 100, with negative ones causing a look down",
+                                "type": "number"
+                            },
+                            "noStrip": {
+                                "default": false,
+                                "description": "if true the actor does not get undressed, no matter the actions involved",
+                                "type": "boolean"
+                            },
+                            "scale": {
+                                "default": 1,
+                                "description": "the scale of the actor",
+                                "type": "number"
+                            },
+                            "scaleHeight": {
+                                "default": 120.748,
+                                "description": "the height against which the heel offset should be scaled\nthis can be used to keep the most important part (for example the schlong in a penetrative scene) always at the same height, no matter the heel offset\nthe default value is the total height of the vanilla skeleton",
+                                "type": "number"
+                            },
+                            "sosBend": {
+                                "default": 0,
+                                "description": "the SoSBend value for the actor\nsos angles range from -9 to 9, additionally -10 will cause a flaccid schlong\nthese cause the SoSBendX animation event to be send to the actor, with X being the sosBend value",
+                                "enum": [
+                                    -1,
+                                    -2,
+                                    -3,
+                                    -4,
+                                    -5,
+                                    -6,
+                                    -7,
+                                    -8,
+                                    -9,
+                                    0,
+                                    1,
+                                    2,
+                                    3,
+                                    4,
+                                    5,
+                                    6,
+                                    7,
+                                    8,
+                                    9
+                                ],
+                                "type": "number"
+                            },
+                            "tags": {
+                                "description": "a list of tags for this actor (see list of commonly used actor tags https://github.com/VersuchDrei/OStimNG/blob/main/data/SKSE/Plugins/OStim/list%20of%20commonly%20used%20actor%20tags.txt)",
+                                "items": {
+                                    "type": "string"
+                                },
+                                "type": "array"
+                            },
+                            "type": {
+                                "default": "npc",
+                                "description": "the type of the actor (see actor types README https://github.com/VersuchDrei/OStimNG/blob/main/data/SKSE/Plugins/OStim/actor%20types%20README.txt )",
+                                "type": "string"
+                            }
+                        },
+                        "type": "object"
+                    },
+                    "type": "array"
+                },
+                "autoTransitions": {
+                    "$ref": "#/definitions/Record<string,string>",
+                    "description": "a map of auto transition ids and destination sceneIDs for this scene"
+                },
+                "defaultSpeed": {
+                    "default": 0,
+                    "description": "the index of the default speed of the scene",
+                    "type": "number"
+                },
+                "furniture": {
+                    "description": "the furniture type of this scene",
+                    "type": "string"
+                },
+                "length": {
+                    "description": "the duration of the animation in seconds",
+                    "type": "number"
+                },
+                "modpack": {
+                    "description": "the display name of the modpack in game",
+                    "type": "string"
+                },
+                "name": {
+                    "description": "the display name of the scene in game",
+                    "type": "string"
+                },
+                "navigations": {
+                    "description": "a list of navigation options from or to this scene",
+                    "items": {
+                        "$ref": "#/definitions/OstimSceneNavigation"
+                    },
+                    "type": "array"
+                },
+                "noRandomSelection": {
+                    "default": false,
+                    "description": "if true this scene will never be chosen by random selections",
+                    "type": "boolean"
+                },
+                "speeds": {
+                    "description": "a list of available speeds for the scene",
+                    "items": {
+                        "additionalProperties": false,
+                        "properties": {
+                            "animation": {
+                                "description": "the animation event name of the animation to play for this speed\nthis animation will be send as animation event to the actors with _X appended, X being the actors index",
+                                "type": "string"
+                            },
+                            "displaySpeed": {
+                                "description": "the speed value to display in game",
+                                "type": "number"
+                            },
+                            "playbackSpeed": {
+                                "default": 1,
+                                "description": "the speed at which to play the animation\nin order for this to work the animation has to be registered with a Nemesis patch that links it to the OStimSpeed graph variable",
+                                "type": "number"
+                            }
+                        },
+                        "required": [
+                            "animation"
+                        ],
+                        "type": "object"
+                    },
+                    "type": "array"
+                },
+                "tags": {
+                    "description": "a list of tags for this scene",
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                }
+            },
+            "required": [
+                "length",
+                "modpack",
+                "name",
+                "navigations",
+                "speeds"
+            ],
+            "type": "object"
+        },
+        "Record<string,string>": {
+            "additionalProperties": false,
+            "type": "object"
+        }
+    },
+    "description": "A scene defines what animations are played and what navigation options the player has from there.\nThey're also full of metadata and other information.\nThe sceneID which is referred to in other parts of the documentation is the scenes filename without the .json extension.\nThe scene parser also parses subfolders, but folder names are not part of the sceneID, only the filename.\nIf two files have the same filename one of them will overwrite the other, the order of which is overwriting which is not predictable.\nSo it is recommended to start all your scene names with your personal signature to avoid incompatibilities."
+}
+

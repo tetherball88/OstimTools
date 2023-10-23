@@ -1,0 +1,13 @@
+module:
+    name: LeitoGroup
+    inputPath: D:\animations\leito\SLAL_AnimationsByLeito_v1.6\01-NonCreature\meshes\actors\character\animations\AnimationsByLeito
+    slalJsonConfig: D:\animations\leito\SLAL_AnimationsByLeito_v1.6\01-NonCreature\SLAnims\json\AnimationsByLeito.json
+    include:
+        - LeitoFfm1
+        - LeitoFfm2
+        - LeitoFfm3
+        - LeitoMmf1
+        - LeitoMmf2
+        - LeitoMmf3
+    exclude: []
+    nemesisPrefix: leigro

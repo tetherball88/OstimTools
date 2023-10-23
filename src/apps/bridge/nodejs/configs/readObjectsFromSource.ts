@@ -1,15 +1,29 @@
 
 import path from 'path'
+import { readObjectsFromBehavior } from '~bridge/nodejs/configs/readObjectsFromBehavior';
 import { formatAnimName } from '~bridge/nodejs/utils';
-import { getFileName, readFile } from '~common/nodejs/utils';
+import { getFileName, logger, readFile } from '~common/nodejs/utils';
 
 export type SlalObjectsActor = { stage: number | 'all'; objects: string[] }
 export type SlalObjects = Record<string, SlalObjectsActor[]>
 
-export const readObjectsFromSource = async function(slalJsonPath: string, prefix: string, author: string) {
+export const readObjectsFromSource = async function(slalJsonPath: string, prefix: string, author: string, inputPath: string) {
     const slalJsonName = getFileName(slalJsonPath);
     const slalTxtSourseFilePath = path.resolve(path.dirname(slalJsonPath), `../source/${slalJsonName}.txt`);
-    const content = await readFile(slalTxtSourseFilePath)
+    let content = ''
+
+    try {
+        content = await readFile(slalTxtSourseFilePath)
+    } catch(e) {
+        logger.warn(e.message)
+
+        try {
+            return await readObjectsFromBehavior(inputPath, prefix, author)
+        } catch(e) {
+            logger.warn(e.message)
+        }
+    }
+    
     const blocks: string[] = content.replace(/^#.*\n/gm, '').split('Animation(')
     const animations: Record<string, SlalObjects> = {}
     

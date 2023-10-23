@@ -10,13 +10,13 @@ import { ParsedSlalConfig, ParsedSlalConfigAnimation, SlalConfig } from "~bridge
  * @param prefix 
  * @returns 
  */
-export const readSlalConfig = async (slalJsonConfig: string, prefix: string, author: string) => {
+export const readSlalConfig = async (slalJsonConfig: string, prefix: string, author: string, inputPath: string) => {
     if (!slalJsonConfig) {
         logger.warn('No slal config path was provided.')
         return;
     }
     
-    const objects = await readObjectsFromSource(slalJsonConfig, prefix, author);
+    const objects = await readObjectsFromSource(slalJsonConfig, prefix, author, inputPath);
 
     return (await readJson(slalJsonConfig) as SlalConfig).animations.reduce<ParsedSlalConfig>((acc, animConfig) => {
         let { id } = animConfig;

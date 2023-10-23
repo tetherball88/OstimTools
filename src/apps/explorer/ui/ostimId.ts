@@ -1,0 +1,1 @@
+export const OSTIM_ID = 'ostimStandaloneAdvancedAdultAnimationFramework'

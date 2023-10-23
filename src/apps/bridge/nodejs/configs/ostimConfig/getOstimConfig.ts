@@ -2,7 +2,7 @@ import { logger, readJson } from "~common/nodejs/utils";
 import { getBridgeConfigPath } from "~bridge/nodejs/utils";
 import { CombinedConfig, OstimConfig } from "~bridge/types";
 import { convertOldOstimConfig } from "~bridge/nodejs/configs/convertOldConfigs/convertOldOstimConfig";
-import { validateOstimConfig } from "~common/nodejs/jsonValidators/validateOstimConfig";
+import { validateOstimConfig } from "~common/shared/jsonValidators/validateOstimConfig";
 import { checkAndRenameOldOstimConfigFilename } from "~bridge/nodejs/configs/convertOldConfigs/renameOldConfigs";
 
 

@@ -18,6 +18,7 @@ export const mainConfig: Configuration = {
     alias: {
         "~bridge": path.resolve(__dirname, 'src/apps/bridge'),
         "~common": path.resolve(__dirname, 'src/common'),
+        "~explorer": path.resolve(__dirname, 'src/apps/explorer'),
     }
   },
 };

@@ -1,0 +1,1235 @@
+[
+    {
+        "data": {
+            "id": "OStim1PSittingF"
+        },
+        "position": {
+            "x": 1224.3038654691054,
+            "y": -111.66296918527607
+        }
+    },
+    {
+        "data": {
+            "id": "OStim1PStandingF"
+        },
+        "position": {
+            "x": 1222.9128797586284,
+            "y": -256.8168530260374
+        }
+    },
+    {
+        "data": {
+            "id": "OStim1PSittingM"
+        },
+        "position": {
+            "x": 1010.8669115960827,
+            "y": -107.2096914332654
+        }
+    },
+    {
+        "data": {
+            "id": "OStim1PStandingM"
+        },
+        "position": {
+            "x": 1024.5305486646503,
+            "y": -256.83230115397066
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PKneelingLyingFF"
+        },
+        "position": {
+            "x": 2611.296414520638,
+            "y": 738.0055745685829
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PSittingFF"
+        },
+        "position": {
+            "x": 1788.1865895776132,
+            "y": 1118.1630896373233
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PStandingCloseFF"
+        },
+        "position": {
+            "x": 2802.192789731234,
+            "y": 1514.3827204042177
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PBothLyingMF"
+        },
+        "position": {
+            "x": 3700.749994277954,
+            "y": 945.9541118388568
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PDoggyIdleMF"
+        },
+        "position": {
+            "x": 2185.99999666214,
+            "y": 1347.4761883304232
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PLyingKneelingMF"
+        },
+        "position": {
+            "x": 4045.3985003707976,
+            "y": 950.7066601675338
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PLyingOnTopMF"
+        },
+        "position": {
+            "x": 3706.8195611420683,
+            "y": 1319.7015837692081
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PSittingMF"
+        },
+        "position": {
+            "x": 3168.857138088771,
+            "y": 946.8398261245711
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PStandingApartMF"
+        },
+        "position": {
+            "x": 2476.9999961853027,
+            "y": 1701.6314538551785
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PStandingApartToHoldingMF"
+        },
+        "position": {
+            "x": 3678.9265528184637,
+            "y": 2242.6809546167724
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PStandingApartToSittingMF"
+        },
+        "position": {
+            "x": 3171.290146865395,
+            "y": 735.8628235905552
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PStandingApartToStandingSquattingMF"
+        },
+        "position": {
+            "x": 2868.015030547269,
+            "y": 2563.434703725418
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PStandingHoldingFromBehindMF"
+        },
+        "position": {
+            "x": 1320.3727401414142,
+            "y": 2677.8069865841317
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PStandingHoldingFromBehindToHoldingMF"
+        },
+        "position": {
+            "x": 737.0902288899033,
+            "y": 2239.1753883319666
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PStandingHoldingMF"
+        },
+        "position": {
+            "x": 2223.6842311883993,
+            "y": 2376.205394512606
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PStandingHoldingToApartMF"
+        },
+        "position": {
+            "x": 2092.49999666214,
+            "y": 1884.2678172531237
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PStandingHoldingToHoldingFromBehindMF"
+        },
+        "position": {
+            "x": 1698.3819938493957,
+            "y": 2209.8284696437263
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PStandingSquattingMF"
+        },
+        "position": {
+            "x": 3124.871956922086,
+            "y": 2724.1445827581792
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PStandingSquattingToStandingApartMF"
+        },
+        "position": {
+            "x": 3340.738194473517,
+            "y": 2575.676781539323
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PStandingApartToHandHoldingLowMF"
+        },
+        "position": {
+            "x": 2810.9999957084656,
+            "y": 1697.917168140893
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PStandingCuddleFromBehindMF"
+        },
+        "position": {
+            "x": 1305.4148495504362,
+            "y": 2293.9074406731515
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PStandingCuddleHoldingHeadMF"
+        },
+        "position": {
+            "x": 1473.9999976158142,
+            "y": 2076.934482966116
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PStandingGrindingDryMF"
+        },
+        "position": {
+            "x": 1769.6363607753408,
+            "y": 2683.382099629549
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PStandingGropingBreastsFromBehindMF"
+        },
+        "position": {
+            "x": 953.9244232584077,
+            "y": 2891.3483918850893
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PStandingGropingBreastsMF"
+        },
+        "position": {
+            "x": 2091.99999666214,
+            "y": 1740.2678172531237
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PStandingHandHoldingHighMF"
+        },
+        "position": {
+            "x": 2093.39999666214,
+            "y": 1812.2678172531237
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PStandingHandHoldingKissMF"
+        },
+        "position": {
+            "x": 1179.0909071835604,
+            "y": 1494.9821039210838
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PStandingHandHoldingLowMF"
+        },
+        "position": {
+            "x": 3144.9999952316284,
+            "y": 1703.1171681408928
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PStandingHandHoldingToApartMF"
+        },
+        "position": {
+            "x": 2100.99999666214,
+            "y": 1499.291313904006
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PStandingHeadPattingMF"
+        },
+        "position": {
+            "x": 3376.9999947547913,
+            "y": 1710.0505014742262
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PStandingHoldingChinHugMF"
+        },
+        "position": {
+            "x": 1187.1249980926514,
+            "y": 2068.2678162994494
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PStandingHoldingChinKissMF"
+        },
+        "position": {
+            "x": 878.5999985694885,
+            "y": 1608.9821034442466
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PStandingHoldingChinMF"
+        },
+        "position": {
+            "x": 2073.833329995473,
+            "y": 2005.267816537868
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PStandingHoldingChinToHoldingChinHugMF"
+        },
+        "position": {
+            "x": 2402.9999961853027,
+            "y": 1932.9344836813718
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PStandingHugFromBehindMF"
+        },
+        "position": {
+            "x": 862.7639670165404,
+            "y": 2529.5037086015295
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PStandingHugMF"
+        },
+        "position": {
+            "x": 2060.99999666214,
+            "y": 2080.6487686804016
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PStandingKissEmbraceMF"
+        },
+        "position": {
+            "x": 642.9999990463257,
+            "y": 1492.6709928099726
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PStandingKissGropingButtMF"
+        },
+        "position": {
+            "x": 348.99999952316284,
+            "y": 1458.7619021393002
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PStandingKissHoldingHipMF"
+        },
+        "position": {
+            "x": 40,
+            "y": 1319.0476169018518
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PStandingKissMF"
+        },
+        "position": {
+            "x": 2060.99999666214,
+            "y": 1427.291313904006
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PStandingSpankIdleMF"
+        },
+        "position": {
+            "x": 1800.525337228906,
+            "y": 2957.556318993253
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PStandingSpankMF"
+        },
+        "position": {
+            "x": 1803.8169153471008,
+            "y": 3168.272758615409
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PStandingApartHandjobMF"
+        },
+        "position": {
+            "x": 1028.2777784176317,
+            "y": 1164.6344956900418
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PStandingFingeringFromBehindMF"
+        },
+        "position": {
+            "x": 1412.4142296590896,
+            "y": 3023.177869263521
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PStandingHandjobRKissMF"
+        },
+        "position": {
+            "x": 1766.4545425935225,
+            "y": 1300.7619026161374
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PStandingKissFingeringMF"
+        },
+        "position": {
+            "x": 1483.4999976158142,
+            "y": 1414.7619021393002
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PStandingNippleSuckingMF"
+        },
+        "position": {
+            "x": 1765.999997138977,
+            "y": 1712.2678174915422
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PUndressBoots1MF"
+        },
+        "position": {
+            "x": 2432.417308911304,
+            "y": 3053.239496488971
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PUndressBottom0MF"
+        },
+        "position": {
+            "x": 3480.3315148577462,
+            "y": 2893.8344489396186
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PUndressBottom1MF"
+        },
+        "position": {
+            "x": 2428.417308911304,
+            "y": 3156.67651194447
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PUndressGloves1MF"
+        },
+        "position": {
+            "x": 3100.0839746242964,
+            "y": 3269.282812592359
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PUndressHead1MF"
+        },
+        "position": {
+            "x": 3101.393850268275,
+            "y": 3138.338408613298
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PUndressingHub0MF"
+        },
+        "position": {
+            "x": 3115.4949540357684,
+            "y": 2893.8344489396186
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PUndressingHub1MF"
+        },
+        "position": {
+            "x": 2725.873796181159,
+            "y": 3054.7826973732067
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PUndressingHubMF"
+        },
+        "position": {
+            "x": 2714.264963876681,
+            "y": 3156.7460875476877
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PUndressTop1MF"
+        },
+        "position": {
+            "x": 3104.013601556233,
+            "y": 3044.070522665653
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PStandingApartToVampireBiteFemaleMF"
+        },
+        "position": {
+            "x": 3685.4265528184637,
+            "y": 2170.6809546167724
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PStandingDrainedMaleMF"
+        },
+        "position": {
+            "x": 4681.004734654056,
+            "y": 1976.599333364172
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PStandingVampireBiteFemaleMF"
+        },
+        "position": {
+            "x": 4020.9265523416266,
+            "y": 2170.6809546167724
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PStandingVampireBiteFemaleToDrainedMaleMF"
+        },
+        "position": {
+            "x": 4255.926551864791,
+            "y": 2170.6809546167724
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PStandingApartToVampireBiteMaleMF"
+        },
+        "position": {
+            "x": 3690.9265528184637,
+            "y": 2089.6809550936096
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PStandingDrainedFemaleMF"
+        },
+        "position": {
+            "x": 3685.999994277954,
+            "y": 1864.9344839197904
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PStandingVampireBiteMaleMF"
+        },
+        "position": {
+            "x": 4026.4265523416266,
+            "y": 2089.6809550936096
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PStandingVampireBiteMaleToDrainedFemaleMF"
+        },
+        "position": {
+            "x": 4024.7216458511575,
+            "y": 1965.039627160334
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PKneelingLyingFrontMM"
+        },
+        "position": {
+            "x": 2127.4027738080604,
+            "y": 738.5639054865326
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PKneelingLyingMM"
+        },
+        "position": {
+            "x": 1759.0547623293985,
+            "y": 750.6777919600379
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PKneelingLyingToLyingKneelingMM"
+        },
+        "position": {
+            "x": 1581.7214639032563,
+            "y": 521.6913154352916
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PLyingKneelingMM"
+        },
+        "position": {
+            "x": 1411.1682627047628,
+            "y": 752.4154882244204
+        }
+    },
+    {
+        "data": {
+            "id": "OStim2PStandingApartMM"
+        },
+        "position": {
+            "x": 1349.706887374477,
+            "y": 1050.807391144505
+        }
+    },
+    {
+        "data": {
+            "id": "OStim3PLyingFFF"
+        },
+        "position": {
+            "x": -1318.1041741077804,
+            "y": 1010.8388397031961
+        }
+    },
+    {
+        "data": {
+            "id": "OStim3PStandingFFF"
+        },
+        "position": {
+            "x": -1504.6325570026725,
+            "y": 1013.0746358777167
+        }
+    },
+    {
+        "data": {
+            "id": "OStim3PLyingMFF"
+        },
+        "position": {
+            "x": -1463.8854543668658,
+            "y": 1221.493485908333
+        }
+    },
+    {
+        "data": {
+            "id": "OStim3PStandingMFF"
+        },
+        "position": {
+            "x": -1915.1967113160179,
+            "y": 1018.7153739207654
+        }
+    },
+    {
+        "data": {
+            "id": "OStim3PLyingMMF"
+        },
+        "position": {
+            "x": -1144.6848579014325,
+            "y": 1324.7082726680435
+        }
+    },
+    {
+        "data": {
+            "id": "OStim3PStandingMMF"
+        },
+        "position": {
+            "x": -1801.849530296291,
+            "y": 1321.1077026163568
+        }
+    },
+    {
+        "data": {
+            "id": "OStim3PLyingMMM"
+        },
+        "position": {
+            "x": -934.4622582028098,
+            "y": 858.5024610174964
+        }
+    },
+    {
+        "data": {
+            "id": "OStim3PStandingMMM"
+        },
+        "position": {
+            "x": -1636.3362872064615,
+            "y": 853.9704869403615
+        }
+    },
+    {
+        "data": {
+            "id": "OStim4PLyingMFFF"
+        },
+        "position": {
+            "x": 1077.8890510498854,
+            "y": 731.1241537061638
+        }
+    },
+    {
+        "data": {
+            "id": "OStim4PStandingMFFF"
+        },
+        "position": {
+            "x": 567.9223193416614,
+            "y": 724.953790774561
+        }
+    },
+    {
+        "data": {
+            "id": "OStim4PLyingMMFF"
+        },
+        "position": {
+            "x": 1073.070444180571,
+            "y": 476.75757415609485
+        }
+    },
+    {
+        "data": {
+            "id": "OStim4PStandingMMFF"
+        },
+        "position": {
+            "x": 567.7481621676856,
+            "y": 469.4094476482555
+        }
+    },
+    {
+        "data": {
+            "id": "OStim4PLyingMMMF"
+        },
+        "position": {
+            "x": 938.3296951651761,
+            "y": 586.7945759487495
+        }
+    },
+    {
+        "data": {
+            "id": "OStim4PStandingMMMF"
+        },
+        "position": {
+            "x": 696.7593681539485,
+            "y": 578.1797672599783
+        }
+    },
+    {
+        "data": {
+            "id": "OStim5PLyingMFFFF"
+        },
+        "position": {
+            "x": 1944.4516291664856,
+            "y": -40.47005887675742
+        }
+    },
+    {
+        "data": {
+            "id": "OStim5PStandingMFFFF"
+        },
+        "position": {
+            "x": 2186.126085941006,
+            "y": 129.48521859879628
+        }
+    },
+    {
+        "data": {
+            "id": "OStim5PLyingMMMMF"
+        },
+        "position": {
+            "x": 2186.7247738844762,
+            "y": -40.75228312270836
+        }
+    },
+    {
+        "data": {
+            "id": "OStim5PStandingMMMMF"
+        },
+        "position": {
+            "x": 1943.1781484405394,
+            "y": 132.61131133018057
+        }
+    },
+    {
+        "data": {
+            "id": "OStimBench1PSittingF"
+        },
+        "position": {
+            "x": -148.42234510070782,
+            "y": 245.34830595580726
+        }
+    },
+    {
+        "data": {
+            "id": "OStimBench1PSittingM"
+        },
+        "position": {
+            "x": 91.23116487721572,
+            "y": 244.40836570927445
+        }
+    },
+    {
+        "data": {
+            "id": "OStimBench2PBothSittingFF"
+        },
+        "position": {
+            "x": 4069.898220866095,
+            "y": 33.72019312447864
+        }
+    },
+    {
+        "data": {
+            "id": "OStimBench2PBothSittingMF"
+        },
+        "position": {
+            "x": 4336.144633884399,
+            "y": -197.46947480695317
+        }
+    },
+    {
+        "data": {
+            "id": "OStimBench2PBothSittingMM"
+        },
+        "position": {
+            "x": 4120.827098009393,
+            "y": -386.45555584763974
+        }
+    },
+    {
+        "data": {
+            "id": "OStimChair1PSittingF"
+        },
+        "position": {
+            "x": 99.45818284112171,
+            "y": 115.28791380867636
+        }
+    },
+    {
+        "data": {
+            "id": "OStimChair1PSittingM"
+        },
+        "position": {
+            "x": -146.73572995105684,
+            "y": 111.42845397685277
+        }
+    },
+    {
+        "data": {
+            "id": "OStimChair2PSittingKneelingFF"
+        },
+        "position": {
+            "x": 3910.6837825328644,
+            "y": 254.21345646233132
+        }
+    },
+    {
+        "data": {
+            "id": "OStimChair2PSittingStandingFF"
+        },
+        "position": {
+            "x": 3454.7531289289473,
+            "y": 419.15885079170926
+        }
+    },
+    {
+        "data": {
+            "id": "OStimChair2PStandingSittingFF"
+        },
+        "position": {
+            "x": 3394.353899932651,
+            "y": 106.94850664654902
+        }
+    },
+    {
+        "data": {
+            "id": "OStimChair2PSittingKneelingMF"
+        },
+        "position": {
+            "x": 4045.8459404849273,
+            "y": 405.83816534704863
+        }
+    },
+    {
+        "data": {
+            "id": "OStimChair2PSittingStandingMF"
+        },
+        "position": {
+            "x": 4220.1050936858655,
+            "y": 255.1211007626437
+        }
+    },
+    {
+        "data": {
+            "id": "OStimChair2PStandingSittingMF"
+        },
+        "position": {
+            "x": 4488.132428821756,
+            "y": 208.26371798402673
+        }
+    },
+    {
+        "data": {
+            "id": "OStimChair2PSittingStandingMM"
+        },
+        "position": {
+            "x": 3996.004244848985,
+            "y": -196.4070637013971
+        }
+    },
+    {
+        "data": {
+            "id": "OStimChair2PStandingSittingMM"
+        },
+        "position": {
+            "x": 3372.985403803961,
+            "y": -34.513852172856865
+        }
+    },
+    {
+        "data": {
+            "id": "OStimCookingPot1PCookingF"
+        },
+        "position": {
+            "x": -465.5275906535328,
+            "y": -357.174908258937
+        }
+    },
+    {
+        "data": {
+            "id": "OStimCookingPot1PCookingM"
+        },
+        "position": {
+            "x": -715.5001048966051,
+            "y": -356.52028423908683
+        }
+    },
+    {
+        "data": {
+            "id": "OStimCookingPot2PBehindFF"
+        },
+        "position": {
+            "x": -1297.6267411557164,
+            "y": -181.0629792371469
+        }
+    },
+    {
+        "data": {
+            "id": "OStimCookingPot2PBehindApproachMF"
+        },
+        "position": {
+            "x": -1465.7041395125652,
+            "y": -47.22971874150326
+        }
+    },
+    {
+        "data": {
+            "id": "OStimCookingPot2PBehindMF"
+        },
+        "position": {
+            "x": -1152.7822648158026,
+            "y": -47.99762896837859
+        }
+    },
+    {
+        "data": {
+            "id": "OStimCookingPot2PBehindMM"
+        },
+        "position": {
+            "x": -1041.3044308633253,
+            "y": -182.10374965250216
+        }
+    },
+    {
+        "data": {
+            "id": "OStimShelf1PBendOverF"
+        },
+        "position": {
+            "x": 515.3626139083367,
+            "y": -256.09173568746024
+        }
+    },
+    {
+        "data": {
+            "id": "OStimShelf1PStandingF"
+        },
+        "position": {
+            "x": 744.8618127083041,
+            "y": -339.99626572842215
+        }
+    },
+    {
+        "data": {
+            "id": "OStimShelf1PStandingM"
+        },
+        "position": {
+            "x": 519.8617781941251,
+            "y": -409.9492148532439
+        }
+    },
+    {
+        "data": {
+            "id": "OStimShelf2PBehindFF"
+        },
+        "position": {
+            "x": 781.3515346595619,
+            "y": -25.734602048934192
+        }
+    },
+    {
+        "data": {
+            "id": "OStimShelf2PBendOverFF"
+        },
+        "position": {
+            "x": 481.1954415188558,
+            "y": 119.69360238440069
+        }
+    },
+    {
+        "data": {
+            "id": "OStimShelf2PBehindMF"
+        },
+        "position": {
+            "x": 768.3656522274822,
+            "y": 174.5152703137526
+        }
+    },
+    {
+        "data": {
+            "id": "OStimShelf2PBendOverMF"
+        },
+        "position": {
+            "x": 486.3963057372081,
+            "y": 33.29187394769619
+        }
+    },
+    {
+        "data": {
+            "id": "OStimShelf2PBehindMM"
+        },
+        "position": {
+            "x": 477.75758514170195,
+            "y": -65.54771086616216
+        }
+    },
+    {
+        "data": {
+            "id": "OStimTable1PSittingF"
+        },
+        "position": {
+            "x": -156.59940737765032,
+            "y": 506.50349096882246
+        }
+    },
+    {
+        "data": {
+            "id": "OStimTable1PSittingM"
+        },
+        "position": {
+            "x": 91.72068983530417,
+            "y": 505.20034399778723
+        }
+    },
+    {
+        "data": {
+            "id": "OStimTable2PBehindFF"
+        },
+        "position": {
+            "x": -1042.3649978161511,
+            "y": 221.75766566319544
+        }
+    },
+    {
+        "data": {
+            "id": "OStimTable2PStandingLeaningFF"
+        },
+        "position": {
+            "x": -1042.40464559061,
+            "y": 432.4896340401705
+        }
+    },
+    {
+        "data": {
+            "id": "OStimTable2PStandingSittingFF"
+        },
+        "position": {
+            "x": -1672.0858460352617,
+            "y": 452.13776869985804
+        }
+    },
+    {
+        "data": {
+            "id": "OStimTable2PBehindMF"
+        },
+        "position": {
+            "x": -1366.3614842180837,
+            "y": 214.71999509724515
+        }
+    },
+    {
+        "data": {
+            "id": "OStimTable2PStandingLeaningMF"
+        },
+        "position": {
+            "x": -1442.1161174278839,
+            "y": 650.3411510242445
+        }
+    },
+    {
+        "data": {
+            "id": "OStimTable2PStandingSittingMF"
+        },
+        "position": {
+            "x": -1746.4553360909915,
+            "y": 657.7450843857314
+        }
+    },
+    {
+        "data": {
+            "id": "OStimTable2PStandingLeaningMM"
+        },
+        "position": {
+            "x": -1041.0551221721728,
+            "y": 638.1303071001889
+        }
+    },
+    {
+        "data": {
+            "id": "OStimWall1PLeaningF"
+        },
+        "position": {
+            "x": -148.73929362006723,
+            "y": 381.51818225498613
+        }
+    },
+    {
+        "data": {
+            "id": "OStimWall1PLeaningM"
+        },
+        "position": {
+            "x": 93.63453091608618,
+            "y": 380.76442749649516
+        }
+    },
+    {
+        "data": {
+            "id": "OStimWall2PStandingLeaningFF"
+        },
+        "position": {
+            "x": 2916.40605048214,
+            "y": 34.49547695617946
+        }
+    },
+    {
+        "data": {
+            "id": "OStimWall2PStandingLeaningMF"
+        },
+        "position": {
+            "x": 2661.0000014305115,
+            "y": 40
+        }
+    },
+    {
+        "data": {
+            "id": "OStimWall2PStandingLeaningMM"
+        },
+        "position": {
+            "x": 2784.112015658781,
+            "y": 197.48504930448803
+        }
+    },
+    {
+        "data": {
+            "id": "OStim Standalone - Advanced Adult Animation Framework"
+        },
+        "position": {
+            "x": 1657.241105186134,
+            "y": 1614.2652647348252
+        }
+    },
+    {
+        "data": {
+            "id": "e504a28c-2103-4a6f-acef-a3b9e0dee674"
+        },
+        "position": {
+            "x": 578.0564626446533,
+            "y": -85.06969053806746
+        }
+    },
+    {
+        "data": {
+            "id": "external"
+        },
+        "position": {
+            "x": -485.7975450142579,
+            "y": 75.70870831391035
+        }
+    }
+]

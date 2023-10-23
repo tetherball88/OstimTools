@@ -5,21 +5,23 @@ import IconButton from '@mui/material/IconButton';
 import InputAdornment from '@mui/material/InputAdornment';
 import TextField, { TextFieldProps } from '@mui/material/TextField';
 import FolderOpenIcon from '@mui/icons-material/FolderOpen';
-import { useSendCommand } from '~bridge/ui/hooks/useSendCommand';
+import { useSendCommand } from '~common/ui/hooks/useSendCommand';
 import { SELECT_DIRECTORY } from '~common/events/events';
+import { OpenDialogOptions } from 'electron';
 
-interface TextFieldDirectoryProps extends ControllerRenderProps<any, any> {
+interface TextFieldDIrectoryProps extends ControllerRenderProps<any, any> {
     label: string;
     value: string
     onChange: (value: string) => void
     FieldProps?: Omit<TextFieldProps, 'value' | 'label' | 'InputProps' | 'variant'>
+    dialogOptions?: Omit<OpenDialogOptions, 'properties'>
 }
 
-export const TextFieldDirectory = forwardRef<HTMLDivElement, TextFieldDirectoryProps>(function TextFieldDirectory({ value, label, onChange, FieldProps, ...otherProps }, ref) {
+export const TextFieldDirectory = forwardRef<HTMLDivElement, TextFieldDIrectoryProps>(function TextFieldDirectory({ value, label, onChange, FieldProps, dialogOptions, ...otherProps }, ref) {
     const { formState: { errors }, trigger } = useFormContext<any>();
     const sendCommand = useSendCommand();
     const onButtonClick = async () => {
-        const res = await sendCommand(SELECT_DIRECTORY, 'Selecting directory...', {});
+        const res = await sendCommand(SELECT_DIRECTORY, 'Selecting directory...', dialogOptions || {});
 
         if(res) {
             const { filePaths: [directory] } = res;

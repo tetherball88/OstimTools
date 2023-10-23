@@ -6,7 +6,7 @@ import TextField from '@mui/material/TextField';
 import Tooltip from '@mui/material/Tooltip';
 
 import { ModuleSpecificConfig, AnimationFromModule } from "~bridge/types";
-import { AutocompleteWithCheckboxes, TextFieldDirectory, TextFieldFile } from '~common/ui/components';
+import { AutocompleteWithCheckboxesControlled, TextFieldDirectory, TextFieldFile } from '~common/ui/components';
 
 interface ModuleConfigFormProps {
     disableModuleName?: boolean
@@ -85,33 +85,31 @@ export const ModuleConfigForm: FC<ModuleConfigFormProps> = ({ disableModuleName 
                 />
             </Grid>
             <Grid item xs={12}>
-                <Controller
-                    name="module.include"
-                    control={control}
-                    render={({ field }) => (
-                        <AutocompleteWithCheckboxes
-                            formControlProps={field}
-                            disabled={!values.module.inputPath}
-                            label="Include animations(Empty - means all animations)"
-                            data={Object.keys(allAnimations).filter(anim => !values.module.exclude.includes(anim))}
-                            placeholder="Select animations"
-                        />
-                    )}
+                <AutocompleteWithCheckboxesControlled<ModuleSpecificConfig, string>
+                    formControl={{
+                        name: 'module.include'
+                    }}
+                    disabled={!values.module.inputPath}
+                    options={Object.keys(allAnimations).filter(anim => !values.module.exclude.includes(anim))}
+                    getOptionLabel={o => o}
+                    FieldProps={{
+                        label: 'Include animations(Empty - means all animations)',
+                        placeholder: 'Select animations'
+                    }}
                 />
             </Grid>
             <Grid item xs={12}>
-                <Controller
-                    name="module.exclude"
-                    control={control}
-                    render={({ field }) => (
-                        <AutocompleteWithCheckboxes
-                            formControlProps={field}
-                            disabled={!values.module.inputPath}
-                            label="Exclude animations"
-                            data={Object.keys(allAnimations).filter(anim => !values.module.include.includes(anim))}
-                            placeholder="Select animations"
-                        />
-                    )}
+                <AutocompleteWithCheckboxesControlled<ModuleSpecificConfig, string>
+                    formControl={{
+                        name: 'module.exclude'
+                    }}
+                    disabled={!values.module.inputPath}
+                    options={Object.keys(allAnimations).filter(anim => !values.module.include.includes(anim))}
+                    getOptionLabel={o => o}
+                    FieldProps={{
+                        label: "Exclude animations",
+                        placeholder: 'Select animations'
+                    }}
                 />
             </Grid>
         </Grid>

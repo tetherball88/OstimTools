@@ -11,7 +11,7 @@ import childProcess from 'child_process';
 const exec = util.promisify(childProcess.exec);
 
 // const modPath = "D:\\repos\\OA3PP-for-OStim-SA";
-const modPath = "D:\\Billyy_HumanFurniture"
+const modPath = "D:\\animations\\leito\\SLAL_AnimationsByLeito_v1.6\\"
 const hkanno = "D:\\Tools\\hkanno64-001\\hkanno64.exe";
 
 const hkAnnoFolder = path.dirname(hkanno)

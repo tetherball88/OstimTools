@@ -3,5 +3,38 @@ module:
     inputPath: D:\animations\leito\SLAL_AnimationsByLeito_v1.6\01-NonCreature\meshes\actors\character\animations\AnimationsByLeito
     slalJsonConfig: D:\animations\leito\SLAL_AnimationsByLeito_v1.6\01-NonCreature\SLAnims\json\AnimationsByLeito.json
     include: []
-    exclude: []
+    exclude: 
+        - LeitoBed69
+        - LeitoBedAnalDoggy
+        - LeitoBedAnalReCow
+        - LeitoBedCowgirl
+        - LeitoBedDoggy
+        - LeitoBedFeetMissionary
+        - LeitoBedMissionary
+        - LeitoPilloryDoggy
+        - LeitoThroneAnalDoggy
+        - LeitoThroneAnalReCow
+        - LeitoThroneBj
+        - LeitoThroneCowgirl
+        - LeitoThroneCunnilingus
+        - LeitoThroneDoggy
+        - LeitoThroneMissionary
+        - LeitoUnicorn
+        - LeitoXcrossDoggy
+        - LeitoXcrossStanding
+        - LeitoFfm1
+        - LeitoFfm2
+        - LeitoFfm3
+        - LeitoMmf1
+        - LeitoMmf2
+        - LeitoMmf3
+        - LeitoLesbian1
+        - LeitoLesbian2
+        - LeitoLesbianDildo1
+        - LeitoLesbianDildo2
+        - LeitoFSoloDildoAnal
+        - LeitoFSoloDildoVag
+        - LeitoFSoloToyCowgirlVag
+        - LeitoFSoloToyReCowAnal
+        - LeitoFSoloChair
     nemesisPrefix: leihum

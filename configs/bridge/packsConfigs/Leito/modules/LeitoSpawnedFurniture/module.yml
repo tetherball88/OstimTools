@@ -1,0 +1,23 @@
+module:
+    name: LeitoSpawnedFurniture
+    inputPath: D:\animations\leito\SLAL_AnimationsByLeito_v1.6\01-NonCreature\meshes\actors\character\animations\AnimationsByLeito
+    slalJsonConfig: D:\animations\leito\SLAL_AnimationsByLeito_v1.6\01-NonCreature\SLAnims\json\AnimationsByLeito_Furniture.json
+    include:
+        - LeitoBed69
+        - LeitoBedAnalDoggy
+        - LeitoBedAnalReCow
+        - LeitoBedCowgirl
+        - LeitoBedDoggy
+        - LeitoBedFeetMissionary
+        - LeitoBedMissionary
+        - LeitoThroneAnalDoggy
+        - LeitoThroneAnalReCow
+        - LeitoThroneBj
+        - LeitoThroneCowgirl
+        - LeitoThroneCunnilingus
+        - LeitoThroneDoggy
+        - LeitoThroneMissionary
+        - LeitoUnicorn
+        - LeitoFSoloChair
+    exclude: []
+    nemesisPrefix: leisfu

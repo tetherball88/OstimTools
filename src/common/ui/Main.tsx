@@ -1,5 +1,4 @@
 import { useState } from "react";
-import { SnackbarProvider } from 'notistack';
 
 import Container from '@mui/material/Container';
 import Tab from '@mui/material/Tab';
@@ -12,19 +11,24 @@ import { Packs } from "~bridge/ui/Packs";
 import { TerminalDrawer } from "~common/ui/components/Terminal";
 import { LockScreen } from "~common/ui/components/LockScreen";
 import { START_UPDATING } from "~common/events/events";
+import { Explorer } from "~explorer/ui/Explorer";
 
 export const Main = () => {
     const [currentTab, setCurrentTab] = useState(0);
-    const [openTerminal, setOpenTerminal] = useState(false);
+    const [openTerminal, setOpenTerminalOrig] = useState(false);
     const theme = useTheme()
     const [isUpdating, setIsUpdating] = useState(false);
+
+    const setOpenTerminal = (op: boolean) => {
+        setOpenTerminalOrig(op)
+    }
 
     window.api.on(START_UPDATING, () => {
         setIsUpdating(true)
     })
 
     return (
-        <SnackbarProvider maxSnack={3}>
+        <>
             <Backdrop open={isUpdating}>
                 <Box sx={{ display: 'flex', flexDirection: 'column', color: "#fff", alignItems: 'center', textAlign: "center", zIndex: 1200 }}>
                     <Typography variant="h2">Update is in progress...</Typography>
@@ -58,6 +62,7 @@ export const Main = () => {
                         indicatorColor="secondary"
                     >
                         <Tab label="bridge" value={0} />
+                        <Tab label="explorer" value={1} />
                     </Tabs>
                 </AppBar>
                 <Box
@@ -73,12 +78,11 @@ export const Main = () => {
                     }}
                 >
                     {currentTab === 0 && <Packs />}
-                    {/* {currentTab === 1 && <ConnectAddonHub />} */}
+                    {currentTab === 1 && <Explorer />}
                 </Box>
                 <TerminalDrawer open={openTerminal} toggle={(newOpen) => setOpenTerminal(newOpen)} />
                 <LockScreen />
             </Container >
-        </SnackbarProvider>
-
+        </>
     )
 }

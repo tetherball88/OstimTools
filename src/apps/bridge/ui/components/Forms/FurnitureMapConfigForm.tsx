@@ -1,11 +1,11 @@
 import { FC } from 'react';
-import { Controller, useFormContext } from 'react-hook-form';
+import { useFormContext } from 'react-hook-form';
 
 import Alert from '@mui/material/Alert';
 import Grid from '@mui/material/Grid';
 
 import { FurnitureTypes, ModuleSpecificConfig, AnimationFromModule } from "~bridge/types";
-import { AutocompleteWithCheckboxes } from '~common/ui/components';
+import { AutocompleteWithCheckboxesControlled } from '~common/ui/components';
 
 interface FurnitureMapConfigFormProps {
     selectedAnimations: AnimationFromModule
@@ -14,7 +14,7 @@ interface FurnitureMapConfigFormProps {
 const furnitures: FurnitureTypes[] = ['bed', 'bench', 'chair', 'cookingpot', 'shelf', 'table', 'wall'];
 
 export const FurnitureMapConfigForm: FC<FurnitureMapConfigFormProps> = ({ selectedAnimations }) => {
-    const { control, getValues } = useFormContext<ModuleSpecificConfig>();
+    const {  getValues } = useFormContext<ModuleSpecificConfig>();
     const values = getValues()
     
     return (
@@ -23,19 +23,17 @@ export const FurnitureMapConfigForm: FC<FurnitureMapConfigFormProps> = ({ select
             {
                 furnitures.map(furniture => (
                     <Grid key={furniture} item xs={12}>
-                        <Controller
-                            name={`furnitureMap.${furniture}`}
-                            control={control}
-                            render={({ field }) => (
-                                <AutocompleteWithCheckboxes
-                                    formControlProps={field}
-                                    disabled={!values.module.inputPath}
-                                    label={furniture}
-                                    data={Object.keys(selectedAnimations)}
-                                    placeholder="Select animations"
-                                    notInDataMsg="Animation in this furniture isn't in module animations list"
-                                />
-                            )}
+                        <AutocompleteWithCheckboxesControlled<ModuleSpecificConfig, string>
+                            formControl={{
+                                name: `furnitureMap.${furniture}`
+                            }}
+                            disabled={!values.module.inputPath}
+                            options={Object.keys(selectedAnimations)}
+                            getOptionLabel={o => o}
+                            FieldProps={{
+                                label: furniture,
+                                placeholder: "Select animations",
+                            }}
                         />
                     </Grid>
                 ))

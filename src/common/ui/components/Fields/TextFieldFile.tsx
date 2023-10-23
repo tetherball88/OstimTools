@@ -6,8 +6,7 @@ import IconButton from '@mui/material/IconButton';
 import InputAdornment from '@mui/material/InputAdornment';
 import TextField, { TextFieldProps } from '@mui/material/TextField';
 import FileOpenIcon from '@mui/icons-material/FileOpen';
-import { useSendCommand } from '~bridge/ui/hooks/useSendCommand';
-import { SELECT_FILE } from '~common/events/events';
+import { useOpenFileSelect } from '~common/ui/hooks/useOpenFileSelect';
 
 interface TextFieldFileProps extends ControllerRenderProps<any, any> {
     label: string;
@@ -20,17 +19,15 @@ interface TextFieldFileProps extends ControllerRenderProps<any, any> {
 
 export const TextFieldFile = forwardRef<HTMLDivElement, TextFieldFileProps>(function TextFieldFile({ value, label, onChange, filters, FieldProps, ...otherProps }, ref) {
     const { formState: { errors }, trigger } = useFormContext<any>();
-    const sendCommand = useSendCommand();
-    const onButtonClick = async () => {
-        const res = await sendCommand(SELECT_FILE, 'Selecting file...', {filters});
-
-        if(res) {
-            const { filePaths: [file] } = res;
+    const { open } = useOpenFileSelect({
+        onChange: ([file]) => {
             onChange(file);
             trigger(otherProps.name);
+        },
+        dialogOptions: {
+            filters,
         }
-    }
-    
+    })
     const error = get(errors, otherProps.name);
 
     return (
@@ -47,7 +44,7 @@ export const TextFieldFile = forwardRef<HTMLDivElement, TextFieldFileProps>(func
             InputProps={{
                 endAdornment: (
                     <InputAdornment position="end">
-                        <IconButton color="primary" onClick={onButtonClick}><FileOpenIcon /></IconButton>
+                        <IconButton color="primary" onClick={open}><FileOpenIcon /></IconButton>
                     </InputAdornment>
                 )
             }}

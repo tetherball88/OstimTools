@@ -1,0 +1,11 @@
+module:
+    name: LeitoLesbian
+    inputPath: D:\animations\leito\SLAL_AnimationsByLeito_v1.6\01-NonCreature\meshes\actors\character\animations\AnimationsByLeito
+    slalJsonConfig: D:\animations\leito\SLAL_AnimationsByLeito_v1.6\01-NonCreature\SLAnims\json\AnimationsByLeito.json
+    include:
+        - LeitoLesbian1
+        - LeitoLesbian2
+        - LeitoLesbianDildo1
+        - LeitoLesbianDildo2
+    exclude: []
+    nemesisPrefix: leiles

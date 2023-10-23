@@ -11,7 +11,7 @@ export const getSlalPrefix = async (slalJsonConfig: string) => {
 
         return match?.[1] || '';
     } catch {
-        return;
+        return '';
     }
 
 }

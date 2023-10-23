@@ -1,0 +1,228 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "definitions": {
+        "Pick<ColorProps,\"background-color\">": {
+            "properties": {
+                "background-color": {
+                    "description": "Node's background color",
+                    "format": "color",
+                    "type": "string"
+                }
+            },
+            "required": [
+                "background-color"
+            ],
+            "type": "object"
+        },
+        "Pick<ColorProps,\"border-color\">": {
+            "properties": {
+                "border-color": {
+                    "description": "Node's border color",
+                    "format": "color",
+                    "type": "string"
+                }
+            },
+            "required": [
+                "border-color"
+            ],
+            "type": "object"
+        },
+        "Pick<ColorProps,\"color\"|\"background-color\"|\"text-outline-color\"|\"border-color\">": {
+            "properties": {
+                "background-color": {
+                    "description": "Node's background color",
+                    "format": "color",
+                    "type": "string"
+                },
+                "border-color": {
+                    "description": "Node's border color",
+                    "format": "color",
+                    "type": "string"
+                },
+                "color": {
+                    "description": "Node's text color",
+                    "format": "color",
+                    "type": "string"
+                },
+                "text-outline-color": {
+                    "description": "Color for outline text if present",
+                    "format": "color",
+                    "type": "string"
+                }
+            },
+            "required": [
+                "background-color",
+                "border-color",
+                "color",
+                "text-outline-color"
+            ],
+            "type": "object"
+        },
+        "Pick<ColorProps,\"color\"|\"background-color\"|\"text-outline-color\"|\"overlay-color\">": {
+            "properties": {
+                "background-color": {
+                    "description": "Node's background color",
+                    "format": "color",
+                    "type": "string"
+                },
+                "color": {
+                    "description": "Node's text color",
+                    "format": "color",
+                    "type": "string"
+                },
+                "overlay-color": {
+                    "description": "???",
+                    "format": "color",
+                    "type": "string"
+                },
+                "text-outline-color": {
+                    "description": "Color for outline text if present",
+                    "format": "color",
+                    "type": "string"
+                }
+            },
+            "required": [
+                "background-color",
+                "color",
+                "overlay-color",
+                "text-outline-color"
+            ],
+            "type": "object"
+        },
+        "Pick<ColorProps,\"line-color\">": {
+            "properties": {
+                "line-color": {
+                    "description": "Edge's line and arrow color",
+                    "format": "color",
+                    "type": "string"
+                }
+            },
+            "required": [
+                "line-color"
+            ],
+            "type": "object"
+        },
+        "Pick<ColorProps,\"text-outline-color\"|\"line-color\">": {
+            "properties": {
+                "line-color": {
+                    "description": "Edge's line and arrow color",
+                    "format": "color",
+                    "type": "string"
+                },
+                "text-outline-color": {
+                    "description": "Color for outline text if present",
+                    "format": "color",
+                    "type": "string"
+                }
+            },
+            "required": [
+                "line-color",
+                "text-outline-color"
+            ],
+            "type": "object"
+        }
+    },
+    "properties": {
+        "core": {
+            "properties": {
+                "core": {
+                    "$ref": "#/definitions/Pick<ColorProps,\"background-color\">"
+                }
+            },
+            "required": [
+                "core"
+            ],
+            "title": "Core colors",
+            "type": "object"
+        },
+        "edges": {
+            "properties": {
+                "edge": {
+                    "$ref": "#/definitions/Pick<ColorProps,\"text-outline-color\"|\"line-color\">",
+                    "title": "Regular edge"
+                },
+                "edge[type = \"autoTrans\"]": {
+                    "$ref": "#/definitions/Pick<ColorProps,\"line-color\">",
+                    "title": "Scene's auto transition"
+                },
+                "edge[type = \"autoTransActor\"]": {
+                    "$ref": "#/definitions/Pick<ColorProps,\"line-color\">",
+                    "title": "Actor's auto transition"
+                },
+                "edge[type = \"navDestination\"]": {
+                    "$ref": "#/definitions/Pick<ColorProps,\"line-color\">",
+                    "title": "Nav item with \"destination\""
+                },
+                "edge[type = \"navOrigin\"]": {
+                    "$ref": "#/definitions/Pick<ColorProps,\"line-color\">",
+                    "title": "Nav item with \"origin\""
+                },
+                "edge[type = \"transDestination\"]": {
+                    "$ref": "#/definitions/Pick<ColorProps,\"line-color\">",
+                    "title": "Transition with \"destination\""
+                },
+                "edge[type = \"transOrigin\"]": {
+                    "$ref": "#/definitions/Pick<ColorProps,\"line-color\">",
+                    "title": "Transition with \"origin\""
+                }
+            },
+            "required": [
+                "edge",
+                "edge[type = \"autoTrans\"]",
+                "edge[type = \"autoTransActor\"]",
+                "edge[type = \"navDestination\"]",
+                "edge[type = \"navOrigin\"]",
+                "edge[type = \"transDestination\"]",
+                "edge[type = \"transOrigin\"]"
+            ],
+            "title": "Colors for edges",
+            "type": "object"
+        },
+        "nodes": {
+            "properties": {
+                "node": {
+                    "$ref": "#/definitions/Pick<ColorProps,\"color\"|\"background-color\"|\"text-outline-color\"|\"overlay-color\">",
+                    "title": "Regular node"
+                },
+                "node.found": {
+                    "$ref": "#/definitions/Pick<ColorProps,\"background-color\">",
+                    "title": "Filtered nodes"
+                },
+                "node:childless:selected": {
+                    "$ref": "#/definitions/Pick<ColorProps,\"border-color\">",
+                    "title": "Selected node"
+                },
+                "node:parent": {
+                    "$ref": "#/definitions/Pick<ColorProps,\"color\"|\"background-color\"|\"text-outline-color\"|\"border-color\">",
+                    "title": "Group node"
+                },
+                "node:parent:selected": {
+                    "$ref": "#/definitions/Pick<ColorProps,\"border-color\">",
+                    "title": "Selected group node"
+                },
+                "node[?missingNode]": {
+                    "$ref": "#/definitions/Pick<ColorProps,\"background-color\">",
+                    "title": "Missing node"
+                }
+            },
+            "required": [
+                "node",
+                "node.found",
+                "node:childless:selected",
+                "node:parent",
+                "node:parent:selected",
+                "node[?missingNode]"
+            ],
+            "title": "Colors for nodes",
+            "type": "object"
+        }
+    },
+    "required": [
+        "core",
+        "edges",
+        "nodes"
+    ],
+    "title": "Global colors",
+    "type": "object"
+}
+

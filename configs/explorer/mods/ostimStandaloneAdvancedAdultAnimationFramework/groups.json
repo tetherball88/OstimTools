@@ -1,0 +1,125 @@
+{
+    "b8204f4d-6583-4dda-9f4f-7ec3aab5bf90": {
+        "id": "b8204f4d-6583-4dda-9f4f-7ec3aab5bf90",
+        "name": "Table",
+        "children": [
+            "OStimTable2PBehindFF",
+            "OStimTable2PStandingLeaningFF",
+            "OStimTable2PStandingSittingFF",
+            "OStimTable2PBehindMF",
+            "OStimTable2PStandingLeaningMF",
+            "OStimTable2PStandingSittingMF",
+            "OStimTable2PStandingLeaningMM"
+        ]
+    },
+    "b3aacbd7-fe03-4b8d-9ffd-e75c359885c6": {
+        "id": "b3aacbd7-fe03-4b8d-9ffd-e75c359885c6",
+        "name": "3P",
+        "children": [
+            "OStim3PLyingFFF",
+            "OStim3PStandingFFF",
+            "OStim3PLyingMFF",
+            "OStim3PStandingMFF",
+            "OStim3PLyingMMF",
+            "OStim3PStandingMMF",
+            "OStim3PLyingMMM",
+            "OStim3PStandingMMM"
+        ]
+    },
+    "29d9b60d-f825-42c5-be94-9623ff9d1253": {
+        "id": "29d9b60d-f825-42c5-be94-9623ff9d1253",
+        "name": "Cooking pot",
+        "children": [
+            "OStimCookingPot2PBehindFF",
+            "OStimCookingPot2PBehindApproachMF",
+            "OStimCookingPot2PBehindMF",
+            "OStimCookingPot2PBehindMM"
+        ]
+    },
+    "fe45f487-258b-40b8-955e-316d5f4e7438": {
+        "id": "fe45f487-258b-40b8-955e-316d5f4e7438",
+        "name": "CookingPot1P",
+        "children": [
+            "OStimCookingPot1PCookingF",
+            "OStimCookingPot1PCookingM"
+        ]
+    },
+    "1688443e-ea54-49bd-aaad-2a3e522b860f": {
+        "id": "1688443e-ea54-49bd-aaad-2a3e522b860f",
+        "name": "Shelf1P",
+        "children": [
+            "OStimShelf1PBendOverF",
+            "OStimShelf1PStandingM",
+            "OStimShelf1PStandingF"
+        ]
+    },
+    "551eaf57-c76f-4d1c-8dc7-6f34baa3795b": {
+        "id": "551eaf57-c76f-4d1c-8dc7-6f34baa3795b",
+        "name": "1P",
+        "children": [
+            "OStim1PStandingM",
+            "OStim1PStandingF",
+            "OStim1PSittingF",
+            "OStim1PSittingM"
+        ]
+    },
+    "c56f3396-fe24-4a31-a0fc-cece4ef990b2": {
+        "id": "c56f3396-fe24-4a31-a0fc-cece4ef990b2",
+        "name": "Shelf2P",
+        "children": [
+            "OStimShelf2PBendOverFF",
+            "OStimShelf2PBehindMM",
+            "OStimShelf2PBendOverMF",
+            "OStimShelf2PBehindFF",
+            "OStimShelf2PBehindMF"
+        ]
+    },
+    "f902673a-533b-4c17-ac27-9419bcf0b408": {
+        "id": "f902673a-533b-4c17-ac27-9419bcf0b408",
+        "name": "4P",
+        "children": [
+            "OStim4PLyingMFFF",
+            "OStim4PStandingMFFF",
+            "OStim4PLyingMMFF",
+            "OStim4PStandingMMFF",
+            "OStim4PLyingMMMF",
+            "OStim4PStandingMMMF"
+        ]
+    },
+    "b75677ec-6a1b-47d0-ae60-4a60dcdde3fa": {
+        "id": "b75677ec-6a1b-47d0-ae60-4a60dcdde3fa",
+        "name": "Wall2p",
+        "children": [
+            "OStimWall2PStandingLeaningMF",
+            "OStimWall2PStandingLeaningFF",
+            "OStimWall2PStandingLeaningMM"
+        ]
+    },
+    "585ee2a7-592f-4e2e-ab73-047b69a934cb": {
+        "id": "585ee2a7-592f-4e2e-ab73-047b69a934cb",
+        "name": "5P",
+        "children": [
+            "OStim5PLyingMFFFF",
+            "OStim5PStandingMFFFF",
+            "OStim5PLyingMMMMF",
+            "OStim5PStandingMMMMF"
+        ]
+    },
+    "0004ac26-1a5e-494a-83ad-fe054fe6bdd8": {
+        "id": "0004ac26-1a5e-494a-83ad-fe054fe6bdd8",
+        "name": "Chair/Bench2p",
+        "children": [
+            "OStimChair2PStandingSittingFF",
+            "OStimChair2PStandingSittingMM",
+            "OStimBench2PBothSittingMM",
+            "OStimChair2PSittingStandingMM",
+            "OStimBench2PBothSittingMF",
+            "OStimChair2PStandingSittingMF",
+            "OStimChair2PSittingStandingMF",
+            "OStimBench2PBothSittingFF",
+            "OStimChair2PSittingKneelingFF",
+            "OStimChair2PSittingStandingFF",
+            "OStimChair2PSittingKneelingMF"
+        ]
+    }
+}

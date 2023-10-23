@@ -1,0 +1,12 @@
+{
+    "external": {
+        "id": "external",
+        "name": "External",
+        "children": [
+            "OStim2PLyingKneelingMF",
+            "OStim2PLyingOnTopMF",
+            "OStim2PStandingApartMF",
+            "asd"
+        ]
+    }
+}
