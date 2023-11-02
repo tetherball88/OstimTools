@@ -15,6 +15,11 @@ const getTmpFilePath = (config: CombinedConfig) => {
     return path.resolve(`${hkAnnoFolder}`, './tmp.txt')
 }
 
+const removeFootstepsLines = (annotations: string) => {
+    const regex = /(^)[\d.]+\s+(FootLeft|FootRight)\n?/gm;
+    return annotations.replace(regex, "")
+}
+
 export const readAnnotations = async (hkxFile: string, config: CombinedConfig) => {
     const { global: {hkannoExe} } = config;
     if(!hkannoExe) {
@@ -53,11 +58,11 @@ export const readAnnotations = async (hkxFile: string, config: CombinedConfig) =
 
     return {
         duration,
-        annotationLines: linesWithoutHash
+        annotationLines: linesWithoutHash ? removeFootstepsLines(linesWithoutHash) : null
     }
 }
 
-export const updateAnnotations = async (hkxFile:string, oldContent: string, addContent: string | null, config: CombinedConfig) => {
+export const updateAnnotations = async (hkxFile:string, oldContent: string | null, addContent: string | null, config: CombinedConfig) => {
     const { global: {hkannoExe} } = config;
     if(!hkannoExe) {
         throw new Error('You didn\'t provide hkanno exe path.');
@@ -69,9 +74,12 @@ export const updateAnnotations = async (hkxFile:string, oldContent: string, addC
     
     const hkAnnoFolder = path.dirname(hkannoExe)
     const tmpFilePath = getTmpFilePath(config)
-    let newContent = oldContent
+    let newContent = oldContent || ''
     if(addContent) {
-        newContent += `\n${addContent}`
+        if(newContent) {
+            newContent += '\n'
+        } 
+        newContent += addContent
     }
 
     await writeFile(tmpFilePath, newContent)
@@ -81,4 +89,6 @@ export const updateAnnotations = async (hkxFile:string, oldContent: string, addC
     });
 
     await remove(tmpFilePath)
+
+    return newContent;
 }

@@ -1,0 +1,730 @@
+{
+    "B_TiltWFF_A1_S1.hkx": {
+        "before": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 126\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 126\r\n# numAnnotations: 0\r\n"
+    },
+    "B_TiltWFF_A1_S2.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 126\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 126\r\n# numAnnotations: 0\r\n"
+    },
+    "B_TiltWFF_A1_S3.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 126\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 126\r\n# numAnnotations: 0\r\n"
+    },
+    "B_TiltWFF_A1_S4.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 126\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 126\r\n# numAnnotations: 0\r\n"
+    },
+    "B_TiltWFF_A1_S5.hkx": {
+        "before": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 126\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 126\r\n# numAnnotations: 0\r\n"
+    },
+    "B_TiltWFF_A2_S1.hkx": {
+        "before": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "B_TiltWFF_A2_S2.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "B_TiltWFF_A2_S3.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "B_TiltWFF_A2_S4.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "B_TiltWFF_A2_S5.hkx": {
+        "before": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "B_TiltWFF2_A1_S1.hkx": {
+        "before": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 126\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 126\r\n# numAnnotations: 0\r\n"
+    },
+    "B_TiltWFF2_A1_S2.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 126\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 126\r\n# numAnnotations: 0\r\n"
+    },
+    "B_TiltWFF2_A1_S3.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 126\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 126\r\n# numAnnotations: 0\r\n"
+    },
+    "B_TiltWFF2_A1_S4.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 126\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 126\r\n# numAnnotations: 0\r\n"
+    },
+    "B_TiltWFF2_A1_S5.hkx": {
+        "before": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 126\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 126\r\n# numAnnotations: 0\r\n"
+    },
+    "B_TiltWFF2_A2_S1.hkx": {
+        "before": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "B_TiltWFF2_A2_S2.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "B_TiltWFF2_A2_S3.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "B_TiltWFF2_A2_S4.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "B_TiltWFF2_A2_S5.hkx": {
+        "before": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "B_TiltWFist_A1_S1.hkx": {
+        "before": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 126\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 126\r\n# numAnnotations: 0\r\n"
+    },
+    "B_TiltWFist_A1_S2.hkx": {
+        "before": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 126\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 126\r\n# numAnnotations: 0\r\n"
+    },
+    "B_TiltWFist_A1_S3.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 126\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 126\r\n# numAnnotations: 0\r\n"
+    },
+    "B_TiltWFist_A1_S4.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 126\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 126\r\n# numAnnotations: 0\r\n"
+    },
+    "B_TiltWFist_A1_S5.hkx": {
+        "before": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 126\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 126\r\n# numAnnotations: 0\r\n"
+    },
+    "B_TiltWFist_A2_S1.hkx": {
+        "before": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "B_TiltWFist_A2_S2.hkx": {
+        "before": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "B_TiltWFist_A2_S3.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "B_TiltWFist_A2_S4.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "B_TiltWFist_A2_S5.hkx": {
+        "before": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "B_TiltWMiss_A1_S1.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 126\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 126\r\n# numAnnotations: 0\r\n"
+    },
+    "B_TiltWMiss_A1_S2.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 126\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 126\r\n# numAnnotations: 0\r\n"
+    },
+    "B_TiltWMiss_A1_S3.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 126\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 126\r\n# numAnnotations: 0\r\n"
+    },
+    "B_TiltWMiss_A1_S4.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 126\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 126\r\n# numAnnotations: 0\r\n"
+    },
+    "B_TiltWMiss_A1_S5.hkx": {
+        "before": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 126\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 126\r\n# numAnnotations: 0\r\n"
+    },
+    "B_TiltWMiss_A2_S1.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "B_TiltWMiss_A2_S2.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "B_TiltWMiss_A2_S3.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "B_TiltWMiss_A2_S4.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "B_TiltWMiss_A2_S5.hkx": {
+        "before": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "B_TiltWSide_A1_S1.hkx": {
+        "before": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 126\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 126\r\n# numAnnotations: 0\r\n"
+    },
+    "B_TiltWSide_A1_S2.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 126\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 126\r\n# numAnnotations: 0\r\n"
+    },
+    "B_TiltWSide_A1_S3.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 126\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 126\r\n# numAnnotations: 0\r\n"
+    },
+    "B_TiltWSide_A1_S4.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 126\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 126\r\n# numAnnotations: 0\r\n"
+    },
+    "B_TiltWSide_A1_S5.hkx": {
+        "before": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 126\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 126\r\n# numAnnotations: 0\r\n"
+    },
+    "B_TiltWSide_A2_S1.hkx": {
+        "before": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "B_TiltWSide_A2_S2.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "B_TiltWSide_A2_S3.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "B_TiltWSide_A2_S4.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "B_TiltWSide_A2_S5.hkx": {
+        "before": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_3pGloryHoleSpitroast_A1_S1.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_3pGloryHoleSpitroast_A1_S2.hkx": {
+        "before": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_3pGloryHoleSpitroast_A1_S3.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_3pGloryHoleSpitroast_A1_S4.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_3pGloryHoleSpitroast_A1_S5.hkx": {
+        "before": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_3pGloryHoleSpitroast_A2_S1.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_3pGloryHoleSpitroast_A2_S2.hkx": {
+        "before": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_3pGloryHoleSpitroast_A2_S3.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_3pGloryHoleSpitroast_A2_S4.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_3pGloryHoleSpitroast_A2_S5.hkx": {
+        "before": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_3pGloryHoleSpitroast_A3_S1.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_3pGloryHoleSpitroast_A3_S2.hkx": {
+        "before": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_3pGloryHoleSpitroast_A3_S3.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_3pGloryHoleSpitroast_A3_S4.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_3pGloryHoleSpitroast_A3_S5.hkx": {
+        "before": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_AlchemyWorkBenchFuck_A1_S1.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_AlchemyWorkBenchFuck_A1_S2.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_AlchemyWorkBenchFuck_A1_S3.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_AlchemyWorkBenchFuck_A1_S4.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_AlchemyWorkBenchFuck_A1_S5.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_AlchemyWorkBenchFuck_A1_S6.hkx": {
+        "before": "# numOriginalFrames: 253\r\n# duration: 8.400000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 253\r\n# duration: 8.400000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_AlchemyWorkBenchFuck_A2_S1.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_AlchemyWorkBenchFuck_A2_S2.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_AlchemyWorkBenchFuck_A2_S3.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_AlchemyWorkBenchFuck_A2_S4.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_AlchemyWorkBenchFuck_A2_S5.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_AlchemyWorkBenchFuck_A2_S6.hkx": {
+        "before": "# numOriginalFrames: 253\r\n# duration: 8.400000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 253\r\n# duration: 8.400000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_ChairDildo_A1_S1.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_ChairDildo_A1_S2.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_ChairDildo_A1_S3.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_ChairDildo_A1_S4.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_ChairDildo_A1_S5.hkx": {
+        "before": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_EnchantingWorkBenchFuck_A1_S1.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_EnchantingWorkBenchFuck_A1_S2.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_EnchantingWorkBenchFuck_A1_S3.hkx": {
+        "before": "# numOriginalFrames: 235\r\n# duration: 7.800000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 235\r\n# duration: 7.800000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_EnchantingWorkBenchFuck_A1_S4.hkx": {
+        "before": "# numOriginalFrames: 239\r\n# duration: 7.933333\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 239\r\n# duration: 7.933333\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_EnchantingWorkBenchFuck_A1_S5.hkx": {
+        "before": "# numOriginalFrames: 253\r\n# duration: 8.400000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 253\r\n# duration: 8.400000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_EnchantingWorkBenchFuck_A2_S1.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_EnchantingWorkBenchFuck_A2_S2.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_EnchantingWorkBenchFuck_A2_S3.hkx": {
+        "before": "# numOriginalFrames: 236\r\n# duration: 7.833333\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.033333 FootLeft\r\n0.700000 FootRight\r\n",
+        "after": "# numOriginalFrames: 236\r\n# duration: 7.833333\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_EnchantingWorkBenchFuck_A2_S4.hkx": {
+        "before": "# numOriginalFrames: 239\r\n# duration: 7.933333\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 239\r\n# duration: 7.933333\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_EnchantingWorkBenchFuck_A2_S5.hkx": {
+        "before": "# numOriginalFrames: 253\r\n# duration: 8.400000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 253\r\n# duration: 8.400000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_FuroTub1_A1_S1.hkx": {
+        "before": "# numOriginalFrames: 211\r\n# duration: 7.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 211\r\n# duration: 7.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_FuroTub1_A1_S2.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_FuroTub1_A1_S3.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_FuroTub1_A1_S4.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_FuroTub1_A1_S5.hkx": {
+        "before": "# numOriginalFrames: 253\r\n# duration: 8.400000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 253\r\n# duration: 8.400000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_FuroTub2_A1_S1.hkx": {
+        "before": "# numOriginalFrames: 253\r\n# duration: 8.400000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 253\r\n# duration: 8.400000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_FuroTub2_A1_S2.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_FuroTub2_A1_S3.hkx": {
+        "before": "# numOriginalFrames: 235\r\n# duration: 7.800000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 235\r\n# duration: 7.800000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_FuroTub2_A1_S4.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_FuroTub2_A1_S5.hkx": {
+        "before": "# numOriginalFrames: 253\r\n# duration: 8.400000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 253\r\n# duration: 8.400000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_GloryHoleBlowjob_A1_S1.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_GloryHoleBlowjob_A1_S2.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_GloryHoleBlowjob_A1_S3.hkx": {
+        "before": "# numOriginalFrames: 361\r\n# duration: 12.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 361\r\n# duration: 12.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_GloryHoleBlowjob_A1_S4.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_GloryHoleBlowjob_A1_S5.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_GloryHoleBlowjob_A2_S1.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_GloryHoleBlowjob_A2_S2.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_GloryHoleBlowjob_A2_S3.hkx": {
+        "before": "# numOriginalFrames: 361\r\n# duration: 12.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 361\r\n# duration: 12.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_GloryHoleBlowjob_A2_S4.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_GloryHoleBlowjob_A2_S5.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_GloryHoleFuck_A1_S1.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_GloryHoleFuck_A1_S2.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_GloryHoleFuck_A1_S3.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_GloryHoleFuck_A1_S4.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_GloryHoleFuck_A1_S5.hkx": {
+        "before": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_GloryHoleFuck_A2_S1.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_GloryHoleFuck_A2_S2.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_GloryHoleFuck_A2_S3.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_GloryHoleFuck_A2_S4.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_GloryHoleFuck_A2_S5.hkx": {
+        "before": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_GloryHoleStuckFuck_A1_S1.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_GloryHoleStuckFuck_A1_S2.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_GloryHoleStuckFuck_A1_S3.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_GloryHoleStuckFuck_A1_S4.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_GloryHoleStuckFuck_A1_S5.hkx": {
+        "before": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_GloryHoleStuckFuck_A2_S1.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_GloryHoleStuckFuck_A2_S2.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_GloryHoleStuckFuck_A2_S3.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_GloryHoleStuckFuck_A2_S4.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_GloryHoleStuckFuck_A2_S5.hkx": {
+        "before": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 251\r\n# duration: 8.333333\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_PilloryFuck1_A1_S1.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_PilloryFuck1_A1_S2.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_PilloryFuck1_A1_S3.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_PilloryFuck1_A1_S4.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_PilloryFuck1_A1_S5.hkx": {
+        "before": "# numOriginalFrames: 211\r\n# duration: 7.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 211\r\n# duration: 7.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_PilloryFuck1_A2_S1.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_PilloryFuck1_A2_S2.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_PilloryFuck1_A2_S3.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_PilloryFuck1_A2_S4.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_PilloryFuck1_A2_S5.hkx": {
+        "before": "# numOriginalFrames: 211\r\n# duration: 7.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 211\r\n# duration: 7.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_StockadeFuckMachine_A1_S1.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_StockadeFuckMachine_A1_S2.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_StockadeFuckMachine_A1_S3.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_StockadeFuckMachine_A1_S4.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_StockadeFuckMachine_A1_S5.hkx": {
+        "before": "# numOriginalFrames: 253\r\n# duration: 8.400000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 253\r\n# duration: 8.400000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_StockadeFuckMachine_A2_S1.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_StockadeFuckMachine_A2_S2.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_StockadeFuckMachine_A2_S3.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_StockadeFuckMachine_A2_S4.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_StockadeFuckMachine_A2_S5.hkx": {
+        "before": "# numOriginalFrames: 253\r\n# duration: 8.400000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 253\r\n# duration: 8.400000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_XCrossFuck_A1_S1.hkx": {
+        "before": "# numOriginalFrames: 239\r\n# duration: 7.933333\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 239\r\n# duration: 7.933333\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_XCrossFuck_A1_S2.hkx": {
+        "before": "# numOriginalFrames: 235\r\n# duration: 7.800000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 235\r\n# duration: 7.800000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_XCrossFuck_A1_S3.hkx": {
+        "before": "# numOriginalFrames: 239\r\n# duration: 7.933333\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 239\r\n# duration: 7.933333\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_XCrossFuck_A1_S4.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_XCrossFuck_A1_S5.hkx": {
+        "before": "# numOriginalFrames: 211\r\n# duration: 7.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 211\r\n# duration: 7.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_XCrossFuck_A2_S1.hkx": {
+        "before": "# numOriginalFrames: 239\r\n# duration: 7.933333\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 239\r\n# duration: 7.933333\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_XCrossFuck_A2_S2.hkx": {
+        "before": "# numOriginalFrames: 235\r\n# duration: 7.800000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 235\r\n# duration: 7.800000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_XCrossFuck_A2_S3.hkx": {
+        "before": "# numOriginalFrames: 239\r\n# duration: 7.933333\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 239\r\n# duration: 7.933333\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_XCrossFuck_A2_S4.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_XCrossFuck_A2_S5.hkx": {
+        "before": "# numOriginalFrames: 211\r\n# duration: 7.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 211\r\n# duration: 7.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_XCrossFuck2_A1_S1.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_XCrossFuck2_A1_S2.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_XCrossFuck2_A1_S3.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_XCrossFuck2_A1_S4.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_XCrossFuck2_A1_S5.hkx": {
+        "before": "# numOriginalFrames: 253\r\n# duration: 8.400000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 253\r\n# duration: 8.400000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_XCrossFuck2_A2_S1.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_XCrossFuck2_A2_S2.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_XCrossFuck2_A2_S3.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_XCrossFuck2_A2_S4.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_XCrossFuck2_A2_S5.hkx": {
+        "before": "# numOriginalFrames: 253\r\n# duration: 8.400000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 253\r\n# duration: 8.400000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_XCrossReverseAnal_A1_S1.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_XCrossReverseAnal_A1_S2.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_XCrossReverseAnal_A1_S3.hkx": {
+        "before": "# numOriginalFrames: 235\r\n# duration: 7.800000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 235\r\n# duration: 7.800000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_XCrossReverseAnal_A1_S4.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_XCrossReverseAnal_A1_S5.hkx": {
+        "before": "# numOriginalFrames: 253\r\n# duration: 8.400000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 253\r\n# duration: 8.400000\r\n# numAnnotationTracks: 115\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_XCrossReverseAnal_A2_S1.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_XCrossReverseAnal_A2_S2.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_XCrossReverseAnal_A2_S3.hkx": {
+        "before": "# numOriginalFrames: 235\r\n# duration: 7.800000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 235\r\n# duration: 7.800000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_XCrossReverseAnal_A2_S4.hkx": {
+        "before": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 241\r\n# duration: 8.000000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    },
+    "Billyy_XCrossReverseAnal_A2_S5.hkx": {
+        "before": "# numOriginalFrames: 253\r\n# duration: 8.400000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 2\r\n0.000000 FootLeft\r\n0.666667 FootRight\r\n",
+        "after": "# numOriginalFrames: 253\r\n# duration: 8.400000\r\n# numAnnotationTracks: 242\r\n# numAnnotations: 0\r\n"
+    }
+}

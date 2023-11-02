@@ -1,12 +1,15 @@
-import { logger } from "~common/nodejs/utils";
-import { checkHkanno, updateAnnotations } from '~bridge/nodejs/utils';
+import { glob, logger, writeJson } from "~common/nodejs/utils";
+import { checkHkanno, parseAnimationPath, updateAnnotations } from '~bridge/nodejs/utils';
 import { checkIfAnimationExcluded } from "~bridge/shared/checkIfAnimationExcluded";
 import { isAnimationClimax } from "~bridge/shared/isAnimationClimax";
 import { CombinedConfig, OstimConfig } from "~bridge/types";
 
 export const applyAnnotations = async (config: CombinedConfig, ostimConfig: OstimConfig) => {
     logger.log('--- Started adding annotations')
-    const { outputAnimPath } = config
+    const { outputAnimPath, outputScenesJsonConfigPath, scenesJsonConfigFilename } = config
+    const files = await glob(`${config.outputAnimPath}\\**\\*.hkx`);
+    const visited: Record<string, boolean> = {}
+    
     try {
         const hasHkanno = await checkHkanno(config);
 
@@ -16,26 +19,33 @@ export const applyAnnotations = async (config: CombinedConfig, ostimConfig: Osti
             return;
         }
 
-        for(const [animName, animValue] of Object.entries(ostimConfig)) {
-            if(checkIfAnimationExcluded(animName, config)) {
+        for(const file of files) {
+            const { animName } = parseAnimationPath(file);
+    
+            if(checkIfAnimationExcluded(animName, config) || visited[animName]) {
                 continue
             }
 
-            const oldAnnotations = ostimConfig[animName].hkxAnnotations
-            
-            for(const [stageIndex, stage] of animValue.stages.entries()) {
+            visited[animName] = true
+
+            const animConfig = ostimConfig[animName]
+            const oldAnnotations = animConfig.hkxAnnotations
+
+            for(const [stageIndex, stage] of animConfig.stages.entries()) {
                 for(const [actorIndex] of stage.actors.entries()) {
                     try {
                         const fileName = `${animName}_${stageIndex + 1}_${actorIndex}.hkx`
-                        const animFilePath = `${outputAnimPath}\\${animValue.folders.posFolderName}\\${animName}\\${fileName}`
-                        const oldAnnotationLines = oldAnnotations?.[fileName]?.annotationLines
+                        const animFilePath = `${outputAnimPath}\\${animConfig.folders.posFolderName}\\${animName}\\${fileName}`
+                        const oldFileAnnotations = oldAnnotations?.[fileName]
 
-                        if(oldAnnotationLines) {
+                        if(oldFileAnnotations) {
                             let addNewContent: string | null = null
-                            if(isAnimationClimax(ostimConfig[animName], stageIndex, actorIndex) && !oldAnnotationLines.includes('OStimClimax')) {
+                            if(isAnimationClimax(ostimConfig[animName], stageIndex, actorIndex) && !oldFileAnnotations.annotationLines?.includes('OStimClimax')) {
                                 addNewContent = '1.500000 OStimClimax'
                             }
-                            await updateAnnotations(animFilePath, oldAnnotationLines, addNewContent, config)
+                            const newAnnotationLines = await updateAnnotations(animFilePath, oldFileAnnotations.annotationLines, addNewContent, config)
+
+                            oldFileAnnotations.annotationLines = newAnnotationLines;
                         }
                     } catch(e) {
                         logger.warn(e);
@@ -47,6 +57,8 @@ export const applyAnnotations = async (config: CombinedConfig, ostimConfig: Osti
     } catch(e) {
         logger.warn(e.message)
     }
+
+    await writeJson(`${outputScenesJsonConfigPath}\\${scenesJsonConfigFilename}`, ostimConfig);
 
     logger.log('--- Finished adding annotations')
 
