@@ -120,6 +120,7 @@
                                 "description": "the SoSBend value for the actor\nsos angles range from -9 to 9, additionally -10 will cause a flaccid schlong\nthese cause the SoSBendX animation event to be send to the actor, with X being the sosBend value",
                                 "enum": [
                                     -1,
+                                    -10,
                                     -2,
                                     -3,
                                     -4,
@@ -427,6 +428,7 @@
                                 "description": "the SoSBend value for the actor\nsos angles range from -9 to 9, additionally -10 will cause a flaccid schlong\nthese cause the SoSBendX animation event to be send to the actor, with X being the sosBend value",
                                 "enum": [
                                     -1,
+                                    -10,
                                     -2,
                                     -3,
                                     -4,
@@ -650,6 +652,7 @@
                                 "description": "the SoSBend value for the actor\nsos angles range from -9 to 9, additionally -10 will cause a flaccid schlong\nthese cause the SoSBendX animation event to be send to the actor, with X being the sosBend value",
                                 "enum": [
                                     -1,
+                                    -10,
                                     -2,
                                     -3,
                                     -4,

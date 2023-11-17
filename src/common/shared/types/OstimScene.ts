@@ -100,7 +100,7 @@ export type OstimSceneActor = {
      * these cause the SoSBendX animation event to be send to the actor, with X being the sosBend value
      * @default 0
      */
-    sosBend?: -9 | -8 | -7 | -6 | -5 | -4 | -3 | -2 | -1 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9
+    sosBend?: -10 | -9 | -8 | -7 | -6 | -5 | -4 | -3 | -2 | -1 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9
     /**
      * if true the actor does not get undressed, no matter the actions involved
      * @default false
