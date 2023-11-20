@@ -151,6 +151,31 @@
                 "duration": 10.2,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsBarrelMast-1",
+                    "duration": 11
+                },
+                {
+                    "id": "AnubsBarrelMast-2",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsBarrelMast-3",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsBarrelMast-4",
+                    "duration": 10.4
+                },
+                {
+                    "id": "AnubsBarrelMast-5",
+                    "duration": 10.2
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsDildo": {
@@ -332,6 +357,35 @@
                 "duration": 5,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsDildo-1",
+                    "duration": 5.333333
+                },
+                {
+                    "id": "AnubsDildo-2",
+                    "duration": 5.866667
+                },
+                {
+                    "id": "AnubsDildo-3",
+                    "duration": 5.6
+                },
+                {
+                    "id": "AnubsDildo-4",
+                    "duration": 5.6
+                },
+                {
+                    "id": "AnubsDildo-5",
+                    "duration": 5.4
+                },
+                {
+                    "id": "AnubsDildo-6",
+                    "duration": 5
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsFMast1": {
@@ -485,6 +539,31 @@
                 "duration": 10,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsFMast1-1",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsFMast1-2",
+                    "duration": 10.4
+                },
+                {
+                    "id": "AnubsFMast1-3",
+                    "duration": 10.2
+                },
+                {
+                    "id": "AnubsFMast1-4",
+                    "duration": 11
+                },
+                {
+                    "id": "AnubsFMast1-5",
+                    "duration": 10
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsFMast2": {
@@ -635,6 +714,31 @@
                 "duration": 11,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsFMast2-1",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsFMast2-2",
+                    "duration": 10.4
+                },
+                {
+                    "id": "AnubsFMast2-3",
+                    "duration": 11
+                },
+                {
+                    "id": "AnubsFMast2-4",
+                    "duration": 10.2
+                },
+                {
+                    "id": "AnubsFMast2-5",
+                    "duration": 11
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsABedsleep": {
@@ -906,6 +1010,35 @@
                 "duration": 12,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsABedsleep-1",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsABedsleep-2",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsABedsleep-3",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsABedsleep-4",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsABedsleep-5",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsABedsleep-6",
+                    "duration": 12
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsAChairCg": {
@@ -1178,6 +1311,35 @@
                 "duration": 12,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsAChairCg-1",
+                    "duration": 9.2
+                },
+                {
+                    "id": "AnubsAChairCg-2",
+                    "duration": 10.8
+                },
+                {
+                    "id": "AnubsAChairCg-3",
+                    "duration": 11.2
+                },
+                {
+                    "id": "AnubsAChairCg-4",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsAChairCg-5",
+                    "duration": 10.4
+                },
+                {
+                    "id": "AnubsAChairCg-6",
+                    "duration": 12
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsASide": {
@@ -1474,6 +1636,39 @@
                 "duration": 9.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsASide-1",
+                    "duration": 11.2
+                },
+                {
+                    "id": "AnubsASide-2",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsASide-3",
+                    "duration": 10.2
+                },
+                {
+                    "id": "AnubsASide-4",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsASide-5",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsASide-6",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsASide-7",
+                    "duration": 9.333333
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsASofa": {
@@ -1810,6 +2005,43 @@
                 "duration": 11.2,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsASofa-1",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsASofa-2",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsASofa-3",
+                    "duration": 11.2
+                },
+                {
+                    "id": "AnubsASofa-4",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsASofa-5",
+                    "duration": 11.2
+                },
+                {
+                    "id": "AnubsASofa-6",
+                    "duration": 11.2
+                },
+                {
+                    "id": "AnubsASofa-7",
+                    "duration": 11
+                },
+                {
+                    "id": "AnubsASofa-8",
+                    "duration": 11.2
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsAdultBarTable": {
@@ -2043,6 +2275,31 @@
                 "duration": 6,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsAdultBarTable-1",
+                    "duration": 8
+                },
+                {
+                    "id": "AnubsAdultBarTable-2",
+                    "duration": 6.966667
+                },
+                {
+                    "id": "AnubsAdultBarTable-3",
+                    "duration": 6
+                },
+                {
+                    "id": "AnubsAdultBarTable-4",
+                    "duration": 5.833333
+                },
+                {
+                    "id": "AnubsAdultBarTable-5",
+                    "duration": 6
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsAdultBath": {
@@ -2250,6 +2507,31 @@
                 "duration": 5.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsAdultBath-1",
+                    "duration": 6.666667
+                },
+                {
+                    "id": "AnubsAdultBath-2",
+                    "duration": 6.6
+                },
+                {
+                    "id": "AnubsAdultBath-3",
+                    "duration": 6.333333
+                },
+                {
+                    "id": "AnubsAdultBath-4",
+                    "duration": 6.133333
+                },
+                {
+                    "id": "AnubsAdultBath-5",
+                    "duration": 5.333333
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsAdultBench": {
@@ -2473,6 +2755,31 @@
                 "duration": 11.2,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsAdultBench-1",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsAdultBench-2",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsAdultBench-3",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsAdultBench-4",
+                    "duration": 10.4
+                },
+                {
+                    "id": "AnubsAdultBench-5",
+                    "duration": 11.2
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsAdultRbed2": {
@@ -2771,6 +3078,31 @@
                 "duration": 12,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsAdultRbed2-1",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsAdultRbed2-2",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsAdultRbed2-3",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsAdultRbed2-4",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsAdultRbed2-5",
+                    "duration": 12
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsAdultStool": {
@@ -3032,6 +3364,35 @@
                 "duration": 9.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsAdultStool-1",
+                    "duration": 9.333333
+                },
+                {
+                    "id": "AnubsAdultStool-2",
+                    "duration": 10.2
+                },
+                {
+                    "id": "AnubsAdultStool-3",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsAdultStool-4",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsAdultStool-5",
+                    "duration": 10.2
+                },
+                {
+                    "id": "AnubsAdultStool-6",
+                    "duration": 9.333333
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsBedP": {
@@ -3323,6 +3684,39 @@
                 "duration": 6,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsBedP-1",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsBedP-2",
+                    "duration": 11.2
+                },
+                {
+                    "id": "AnubsBedP-3",
+                    "duration": 10.2
+                },
+                {
+                    "id": "AnubsBedP-4",
+                    "duration": 10.666667
+                },
+                {
+                    "id": "AnubsBedP-5",
+                    "duration": 10.266666
+                },
+                {
+                    "id": "AnubsBedP-6",
+                    "duration": 10.4
+                },
+                {
+                    "id": "AnubsBedP-7",
+                    "duration": 6
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsCaged": {
@@ -3710,6 +4104,47 @@
                 "duration": 9.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsCaged-1",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsCaged-2",
+                    "duration": 10.666667
+                },
+                {
+                    "id": "AnubsCaged-3",
+                    "duration": 10.2
+                },
+                {
+                    "id": "AnubsCaged-4",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsCaged-5",
+                    "duration": 10.2
+                },
+                {
+                    "id": "AnubsCaged-6",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsCaged-7",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsCaged-8",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsCaged-9",
+                    "duration": 9.333333
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsChairDoggy": {
@@ -3967,6 +4402,35 @@
                 "duration": 8.666667,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsChairDoggy-1",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsChairDoggy-2",
+                    "duration": 6.666667
+                },
+                {
+                    "id": "AnubsChairDoggy-3",
+                    "duration": 8.8
+                },
+                {
+                    "id": "AnubsChairDoggy-4",
+                    "duration": 8.666667
+                },
+                {
+                    "id": "AnubsChairDoggy-5",
+                    "duration": 5.666667
+                },
+                {
+                    "id": "AnubsChairDoggy-6",
+                    "duration": 8.666667
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsChairfemdom": {
@@ -4274,6 +4738,39 @@
                 "duration": 12,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsChairfemdom-1",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsChairfemdom-2",
+                    "duration": 11
+                },
+                {
+                    "id": "AnubsChairfemdom-3",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsChairfemdom-4",
+                    "duration": 10.2
+                },
+                {
+                    "id": "AnubsChairfemdom-5",
+                    "duration": 11.2
+                },
+                {
+                    "id": "AnubsChairfemdom-6",
+                    "duration": 11.2
+                },
+                {
+                    "id": "AnubsChairfemdom-7",
+                    "duration": 12
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsDrunk": {
@@ -4645,6 +5142,47 @@
                 "duration": 10,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsDrunk-1",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsDrunk-2",
+                    "duration": 11
+                },
+                {
+                    "id": "AnubsDrunk-3",
+                    "duration": 10.2
+                },
+                {
+                    "id": "AnubsDrunk-4",
+                    "duration": 10.2
+                },
+                {
+                    "id": "AnubsDrunk-5",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsDrunk-6",
+                    "duration": 10.4
+                },
+                {
+                    "id": "AnubsDrunk-7",
+                    "duration": 11
+                },
+                {
+                    "id": "AnubsDrunk-8",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsDrunk-9",
+                    "duration": 9.333333
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsFfmBed": {
@@ -4986,6 +5524,35 @@
                 "duration": 11,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsFfmBed-1",
+                    "duration": 24
+                },
+                {
+                    "id": "AnubsFfmBed-2",
+                    "duration": 10.666667
+                },
+                {
+                    "id": "AnubsFfmBed-3",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsFfmBed-4",
+                    "duration": 11.333333
+                },
+                {
+                    "id": "AnubsFfmBed-5",
+                    "duration": 9.333333
+                },
+                {
+                    "id": "AnubsFfmBed-6",
+                    "duration": 11
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsThroneFemdom": {
@@ -5015,7 +5582,7 @@
                 "meta": {
                     "tags": [
                         "anubs",
-                        "femodm"
+                        "femdom"
                     ]
                 },
                 "id": "AnubsThroneFemdom-1",
@@ -5052,7 +5619,7 @@
                 "meta": {
                     "tags": [
                         "anubs",
-                        "femodm"
+                        "femdom"
                     ]
                 },
                 "id": "AnubsThroneFemdom-2",
@@ -5100,7 +5667,7 @@
                     "tags": [
                         "anubs",
                         "cowgirl",
-                        "femodm"
+                        "femdom"
                     ]
                 },
                 "id": "AnubsThroneFemdom-3",
@@ -5142,7 +5709,7 @@
                     "tags": [
                         "anubs",
                         "cowgirl",
-                        "femodm"
+                        "femdom"
                     ]
                 },
                 "id": "AnubsThroneFemdom-4",
@@ -5183,7 +5750,7 @@
                     "tags": [
                         "anubs",
                         "cowgirl",
-                        "femodm",
+                        "femdom",
                         "transition"
                     ]
                 },
@@ -5214,6 +5781,31 @@
                 "duration": 5.6,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsThroneFemdom-1",
+                    "duration": 6.6
+                },
+                {
+                    "id": "AnubsThroneFemdom-2",
+                    "duration": 6.166667
+                },
+                {
+                    "id": "AnubsThroneFemdom-3",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsThroneFemdom-4",
+                    "duration": 6.5
+                },
+                {
+                    "id": "AnubsThroneFemdom-5",
+                    "duration": 5.6
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsTw": {
@@ -5546,6 +6138,35 @@
                 "duration": 8,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsTw-1",
+                    "duration": 6.666667
+                },
+                {
+                    "id": "AnubsTw-2",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsTw-3",
+                    "duration": 7
+                },
+                {
+                    "id": "AnubsTw-4",
+                    "duration": 11.333333
+                },
+                {
+                    "id": "AnubsTw-5",
+                    "duration": 6
+                },
+                {
+                    "id": "AnubsTw-6",
+                    "duration": 8
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsFffmistress": {
@@ -5899,6 +6520,35 @@
                 "duration": 5.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsFffmistress-1",
+                    "duration": 13
+                },
+                {
+                    "id": "AnubsFffmistress-2",
+                    "duration": 16
+                },
+                {
+                    "id": "AnubsFffmistress-3",
+                    "duration": 14
+                },
+                {
+                    "id": "AnubsFffmistress-4",
+                    "duration": 14
+                },
+                {
+                    "id": "AnubsFffmistress-5",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsFffmistress-6",
+                    "duration": 5.333333
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsLesbian": {
@@ -6154,6 +6804,35 @@
                 "duration": 12,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsLesbian-1",
+                    "duration": 10.733334
+                },
+                {
+                    "id": "AnubsLesbian-2",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsLesbian-3",
+                    "duration": 10.4
+                },
+                {
+                    "id": "AnubsLesbian-4",
+                    "duration": 10.2
+                },
+                {
+                    "id": "AnubsLesbian-5",
+                    "duration": 11.2
+                },
+                {
+                    "id": "AnubsLesbian-6",
+                    "duration": 12
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsLesbianFf": {
@@ -6417,6 +7096,35 @@
                 "duration": 5.6,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsLesbianFf-1",
+                    "duration": 10.666667
+                },
+                {
+                    "id": "AnubsLesbianFf-2",
+                    "duration": 10.8
+                },
+                {
+                    "id": "AnubsLesbianFf-3",
+                    "duration": 11.333333
+                },
+                {
+                    "id": "AnubsLesbianFf-4",
+                    "duration": 10.8
+                },
+                {
+                    "id": "AnubsLesbianFf-5",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsLesbianFf-6",
+                    "duration": 5.6
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsLesbiandomination": {
@@ -6744,6 +7452,39 @@
                 "duration": 6,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsLesbiandomination-1",
+                    "duration": 5.6
+                },
+                {
+                    "id": "AnubsLesbiandomination-2",
+                    "duration": 5.6
+                },
+                {
+                    "id": "AnubsLesbiandomination-3",
+                    "duration": 5.866667
+                },
+                {
+                    "id": "AnubsLesbiandomination-4",
+                    "duration": 6.4
+                },
+                {
+                    "id": "AnubsLesbiandomination-5",
+                    "duration": 6.066667
+                },
+                {
+                    "id": "AnubsLesbiandomination-6",
+                    "duration": 6
+                },
+                {
+                    "id": "AnubsLesbiandomination-7",
+                    "duration": 6
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsAAmazon": {
@@ -7013,6 +7754,35 @@
                 "duration": 12,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsAAmazon-1",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsAAmazon-2",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsAAmazon-3",
+                    "duration": 10.2
+                },
+                {
+                    "id": "AnubsAAmazon-4",
+                    "duration": 10.4
+                },
+                {
+                    "id": "AnubsAAmazon-5",
+                    "duration": 11
+                },
+                {
+                    "id": "AnubsAAmazon-6",
+                    "duration": 12
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsAfc2": {
@@ -7308,6 +8078,35 @@
                 "duration": 6,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsAfc2-1",
+                    "duration": 6.066667
+                },
+                {
+                    "id": "AnubsAfc2-2",
+                    "duration": 6.233333
+                },
+                {
+                    "id": "AnubsAfc2-3",
+                    "duration": 6
+                },
+                {
+                    "id": "AnubsAfc2-4",
+                    "duration": 6.066667
+                },
+                {
+                    "id": "AnubsAfc2-5",
+                    "duration": 6.066667
+                },
+                {
+                    "id": "AnubsAfc2-6",
+                    "duration": 6
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsAmazon": {
@@ -7552,6 +8351,31 @@
                 "duration": 8.666667,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsAmazon-1",
+                    "duration": 7
+                },
+                {
+                    "id": "AnubsAmazon-2",
+                    "duration": 8.333333
+                },
+                {
+                    "id": "AnubsAmazon-3",
+                    "duration": 6.666667
+                },
+                {
+                    "id": "AnubsAmazon-4",
+                    "duration": 9.333333
+                },
+                {
+                    "id": "AnubsAmazon-5",
+                    "duration": 8.666667
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsAnubdomcow": {
@@ -7784,6 +8608,31 @@
                 "duration": 5.8,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsAnubdomcow-1",
+                    "duration": 5.6
+                },
+                {
+                    "id": "AnubsAnubdomcow-2",
+                    "duration": 5.133333
+                },
+                {
+                    "id": "AnubsAnubdomcow-3",
+                    "duration": 11.333333
+                },
+                {
+                    "id": "AnubsAnubdomcow-4",
+                    "duration": 11.266666
+                },
+                {
+                    "id": "AnubsAnubdomcow-5",
+                    "duration": 5.8
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsAnubfemdom": {
@@ -8038,6 +8887,31 @@
                 "duration": 1.666667,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsAnubfemdom-1",
+                    "duration": 3.3
+                },
+                {
+                    "id": "AnubsAnubfemdom-2",
+                    "duration": 3.966667
+                },
+                {
+                    "id": "AnubsAnubfemdom-3",
+                    "duration": 2.633333
+                },
+                {
+                    "id": "AnubsAnubfemdom-4",
+                    "duration": 0.633333
+                },
+                {
+                    "id": "AnubsAnubfemdom-5",
+                    "duration": 1.666667
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsFacesit": {
@@ -8265,6 +9139,31 @@
                 "duration": 10.666667,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsFacesit-1",
+                    "duration": 6.333333
+                },
+                {
+                    "id": "AnubsFacesit-2",
+                    "duration": 5.6
+                },
+                {
+                    "id": "AnubsFacesit-3",
+                    "duration": 11.2
+                },
+                {
+                    "id": "AnubsFacesit-4",
+                    "duration": 5.333333
+                },
+                {
+                    "id": "AnubsFacesit-5",
+                    "duration": 10.666667
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsFemfoot": {
@@ -8547,6 +9446,35 @@
                 "duration": 6.666667,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsFemfoot-1",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsFemfoot-2",
+                    "duration": 5.866667
+                },
+                {
+                    "id": "AnubsFemfoot-3",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsFemfoot-4",
+                    "duration": 6.066667
+                },
+                {
+                    "id": "AnubsFemfoot-5",
+                    "duration": 12.8
+                },
+                {
+                    "id": "AnubsFemfoot-6",
+                    "duration": 6.666667
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsFfmFemdom3": {
@@ -8798,6 +9726,27 @@
                 "duration": 6.4,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsFfmFemdom3-1",
+                    "duration": 14
+                },
+                {
+                    "id": "AnubsFfmFemdom3-2",
+                    "duration": 6.8
+                },
+                {
+                    "id": "AnubsFfmFemdom3-3",
+                    "duration": 6
+                },
+                {
+                    "id": "AnubsFfmFemdom3-4",
+                    "duration": 6.4
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsFfmReversal": {
@@ -9142,6 +10091,35 @@
                 "duration": 12,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsFfmReversal-1",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsFfmReversal-2",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsFfmReversal-3",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsFfmReversal-4",
+                    "duration": 5
+                },
+                {
+                    "id": "AnubsFfmReversal-5",
+                    "duration": 11
+                },
+                {
+                    "id": "AnubsFfmReversal-6",
+                    "duration": 12
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsFfmfemdom": {
@@ -9398,6 +10376,27 @@
                 "duration": 6,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsFfmfemdom-1",
+                    "duration": 6
+                },
+                {
+                    "id": "AnubsFfmfemdom-2",
+                    "duration": 6.533333
+                },
+                {
+                    "id": "AnubsFfmfemdom-3",
+                    "duration": 6.066667
+                },
+                {
+                    "id": "AnubsFfmfemdom-4",
+                    "duration": 6
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsFfmfemdom2": {
@@ -9661,6 +10660,27 @@
                 "duration": 7,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsFfmfemdom2-1",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsFfmfemdom2-2",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsFfmfemdom2-3",
+                    "duration": 6.5
+                },
+                {
+                    "id": "AnubsFfmfemdom2-4",
+                    "duration": 7
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsHge": {
@@ -10068,6 +11088,39 @@
                 "duration": 12,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsHge-1",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsHge-2",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsHge-3",
+                    "duration": 11
+                },
+                {
+                    "id": "AnubsHge-4",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsHge-5",
+                    "duration": 10.4
+                },
+                {
+                    "id": "AnubsHge-6",
+                    "duration": 11
+                },
+                {
+                    "id": "AnubsHge-7",
+                    "duration": 12
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsHypno": {
@@ -10392,6 +11445,43 @@
                 "duration": 12,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsHypno-1",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsHypno-2",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsHypno-3",
+                    "duration": 11
+                },
+                {
+                    "id": "AnubsHypno-4",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsHypno-5",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsHypno-6",
+                    "duration": 11.2
+                },
+                {
+                    "id": "AnubsHypno-7",
+                    "duration": 11
+                },
+                {
+                    "id": "AnubsHypno-8",
+                    "duration": 12
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsKnife": {
@@ -10657,6 +11747,35 @@
                 "duration": 6.666667,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsKnife-1",
+                    "duration": 6.666667
+                },
+                {
+                    "id": "AnubsKnife-2",
+                    "duration": 8.333333
+                },
+                {
+                    "id": "AnubsKnife-3",
+                    "duration": 6
+                },
+                {
+                    "id": "AnubsKnife-4",
+                    "duration": 5
+                },
+                {
+                    "id": "AnubsKnife-5",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsKnife-6",
+                    "duration": 6.666667
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsMbf": {
@@ -10881,6 +12000,31 @@
                 "duration": 11,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsMbf-1",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsMbf-2",
+                    "duration": 10.2
+                },
+                {
+                    "id": "AnubsMbf-3",
+                    "duration": 11.2
+                },
+                {
+                    "id": "AnubsMbf-4",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsMbf-5",
+                    "duration": 11
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsSwordCg": {
@@ -11138,6 +12282,35 @@
                 "duration": 6.166667,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsSwordCg-1",
+                    "duration": 20
+                },
+                {
+                    "id": "AnubsSwordCg-2",
+                    "duration": 6.3
+                },
+                {
+                    "id": "AnubsSwordCg-3",
+                    "duration": 6.066667
+                },
+                {
+                    "id": "AnubsSwordCg-4",
+                    "duration": 5.333333
+                },
+                {
+                    "id": "AnubsSwordCg-5",
+                    "duration": 5.666667
+                },
+                {
+                    "id": "AnubsSwordCg-6",
+                    "duration": 6.166667
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsA69": {
@@ -11417,6 +12590,35 @@
                 "duration": 11.2,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsA69-1",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsA69-2",
+                    "duration": 11
+                },
+                {
+                    "id": "AnubsA69-3",
+                    "duration": 11.333333
+                },
+                {
+                    "id": "AnubsA69-4",
+                    "duration": 11
+                },
+                {
+                    "id": "AnubsA69-5",
+                    "duration": 12.133333
+                },
+                {
+                    "id": "AnubsA69-6",
+                    "duration": 11.2
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsAPronebone": {
@@ -11636,6 +12838,31 @@
                 "duration": 11.666667,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsAPronebone-1",
+                    "duration": 12.000001
+                },
+                {
+                    "id": "AnubsAPronebone-2",
+                    "duration": 11.333333
+                },
+                {
+                    "id": "AnubsAPronebone-3",
+                    "duration": 10.4
+                },
+                {
+                    "id": "AnubsAPronebone-4",
+                    "duration": 11.4
+                },
+                {
+                    "id": "AnubsAPronebone-5",
+                    "duration": 11.666667
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsAShotacowgirl": {
@@ -11905,6 +13132,35 @@
                 "duration": 10,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsAShotacowgirl-1",
+                    "duration": 9.333333
+                },
+                {
+                    "id": "AnubsAShotacowgirl-2",
+                    "duration": 10.2
+                },
+                {
+                    "id": "AnubsAShotacowgirl-3",
+                    "duration": 11.2
+                },
+                {
+                    "id": "AnubsAShotacowgirl-4",
+                    "duration": 10.4
+                },
+                {
+                    "id": "AnubsAShotacowgirl-5",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsAShotacowgirl-6",
+                    "duration": 10
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsASt": {
@@ -12176,6 +13432,35 @@
                 "duration": 7,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsASt-1",
+                    "duration": 6
+                },
+                {
+                    "id": "AnubsASt-2",
+                    "duration": 5.866667
+                },
+                {
+                    "id": "AnubsASt-3",
+                    "duration": 6.066667
+                },
+                {
+                    "id": "AnubsASt-4",
+                    "duration": 5.866667
+                },
+                {
+                    "id": "AnubsASt-5",
+                    "duration": 5.4
+                },
+                {
+                    "id": "AnubsASt-6",
+                    "duration": 7
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsAanaldoggy": {
@@ -12428,6 +13713,35 @@
                 "duration": 5.733333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsAanaldoggy-1",
+                    "duration": 15
+                },
+                {
+                    "id": "AnubsAanaldoggy-2",
+                    "duration": 5.2
+                },
+                {
+                    "id": "AnubsAanaldoggy-3",
+                    "duration": 6
+                },
+                {
+                    "id": "AnubsAanaldoggy-4",
+                    "duration": 5.133333
+                },
+                {
+                    "id": "AnubsAanaldoggy-5",
+                    "duration": 5.5
+                },
+                {
+                    "id": "AnubsAanaldoggy-6",
+                    "duration": 5.733333
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsAdultDoggy2": {
@@ -12693,6 +14007,35 @@
                 "duration": 9.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsAdultDoggy2-1",
+                    "duration": 10.2
+                },
+                {
+                    "id": "AnubsAdultDoggy2-2",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsAdultDoggy2-3",
+                    "duration": 10.4
+                },
+                {
+                    "id": "AnubsAdultDoggy2-4",
+                    "duration": 11
+                },
+                {
+                    "id": "AnubsAdultDoggy2-5",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsAdultDoggy2-6",
+                    "duration": 9.333333
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsAdultFootjob": {
@@ -12936,6 +14279,35 @@
                 "duration": 11,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsAdultFootjob-1",
+                    "duration": 10.4
+                },
+                {
+                    "id": "AnubsAdultFootjob-2",
+                    "duration": 11
+                },
+                {
+                    "id": "AnubsAdultFootjob-3",
+                    "duration": 11.2
+                },
+                {
+                    "id": "AnubsAdultFootjob-4",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsAdultFootjob-5",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsAdultFootjob-6",
+                    "duration": 11
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsAdultLs": {
@@ -13203,6 +14575,35 @@
                 "duration": 4.6,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsAdultLs-1",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsAdultLs-2",
+                    "duration": 5.666667
+                },
+                {
+                    "id": "AnubsAdultLs-3",
+                    "duration": 5.6
+                },
+                {
+                    "id": "AnubsAdultLs-4",
+                    "duration": 6
+                },
+                {
+                    "id": "AnubsAdultLs-5",
+                    "duration": 5.133333
+                },
+                {
+                    "id": "AnubsAdultLs-6",
+                    "duration": 4.6
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsAdultMatingpress": {
@@ -13412,6 +14813,31 @@
                 "duration": 10,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsAdultMatingpress-1",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsAdultMatingpress-2",
+                    "duration": 10.4
+                },
+                {
+                    "id": "AnubsAdultMatingpress-3",
+                    "duration": 11
+                },
+                {
+                    "id": "AnubsAdultMatingpress-4",
+                    "duration": 11.2
+                },
+                {
+                    "id": "AnubsAdultMatingpress-5",
+                    "duration": 10
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsAdultRcg2": {
@@ -13712,6 +15138,39 @@
                 "duration": 11,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsAdultRcg2-1",
+                    "duration": 6.066667
+                },
+                {
+                    "id": "AnubsAdultRcg2-2",
+                    "duration": 12.666667
+                },
+                {
+                    "id": "AnubsAdultRcg2-3",
+                    "duration": 5.333333
+                },
+                {
+                    "id": "AnubsAdultRcg2-4",
+                    "duration": 11.2
+                },
+                {
+                    "id": "AnubsAdultRcg2-5",
+                    "duration": 11.2
+                },
+                {
+                    "id": "AnubsAdultRcg2-6",
+                    "duration": 11.4
+                },
+                {
+                    "id": "AnubsAdultRcg2-7",
+                    "duration": 11
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsAdultSleep": {
@@ -13941,6 +15400,31 @@
                 "duration": 6.666667,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsAdultSleep-1",
+                    "duration": 10.666667
+                },
+                {
+                    "id": "AnubsAdultSleep-2",
+                    "duration": 7
+                },
+                {
+                    "id": "AnubsAdultSleep-3",
+                    "duration": 6.333333
+                },
+                {
+                    "id": "AnubsAdultSleep-4",
+                    "duration": 6
+                },
+                {
+                    "id": "AnubsAdultSleep-5",
+                    "duration": 6.666667
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsAdultSpooning": {
@@ -14160,6 +15644,31 @@
                 "duration": 7.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsAdultSpooning-1",
+                    "duration": 7
+                },
+                {
+                    "id": "AnubsAdultSpooning-2",
+                    "duration": 6.5
+                },
+                {
+                    "id": "AnubsAdultSpooning-3",
+                    "duration": 7.2
+                },
+                {
+                    "id": "AnubsAdultSpooning-4",
+                    "duration": 6.6
+                },
+                {
+                    "id": "AnubsAdultSpooning-5",
+                    "duration": 7.333333
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsAdultTease2": {
@@ -14396,6 +15905,35 @@
                 "duration": 12,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsAdultTease2-1",
+                    "duration": 5.833333
+                },
+                {
+                    "id": "AnubsAdultTease2-2",
+                    "duration": 5.6
+                },
+                {
+                    "id": "AnubsAdultTease2-3",
+                    "duration": 5.333333
+                },
+                {
+                    "id": "AnubsAdultTease2-4",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsAdultTease2-5",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsAdultTease2-6",
+                    "duration": 12
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsAdultmissionary": {
@@ -14664,6 +16202,35 @@
                 "duration": 9.6,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsAdultmissionary-1",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsAdultmissionary-2",
+                    "duration": 10.2
+                },
+                {
+                    "id": "AnubsAdultmissionary-3",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsAdultmissionary-4",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsAdultmissionary-5",
+                    "duration": 11
+                },
+                {
+                    "id": "AnubsAdultmissionary-6",
+                    "duration": 9.6
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsAhb": {
@@ -14988,6 +16555,35 @@
                 "duration": 7,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsAhb-1",
+                    "duration": 8
+                },
+                {
+                    "id": "AnubsAhb-2",
+                    "duration": 12.133333
+                },
+                {
+                    "id": "AnubsAhb-3",
+                    "duration": 7
+                },
+                {
+                    "id": "AnubsAhb-4",
+                    "duration": 6.5
+                },
+                {
+                    "id": "AnubsAhb-5",
+                    "duration": 6
+                },
+                {
+                    "id": "AnubsAhb-6",
+                    "duration": 7
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsAm2": {
@@ -15224,6 +16820,31 @@
                 "duration": 6.666667,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsAm2-1",
+                    "duration": 6
+                },
+                {
+                    "id": "AnubsAm2-2",
+                    "duration": 5.866667
+                },
+                {
+                    "id": "AnubsAm2-3",
+                    "duration": 6.233333
+                },
+                {
+                    "id": "AnubsAm2-4",
+                    "duration": 4.333333
+                },
+                {
+                    "id": "AnubsAm2-5",
+                    "duration": 6.666667
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsAnubdoggystyle": {
@@ -15536,6 +17157,39 @@
                 "duration": 5.5,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsAnubdoggystyle-1",
+                    "duration": 5
+                },
+                {
+                    "id": "AnubsAnubdoggystyle-2",
+                    "duration": 5.866667
+                },
+                {
+                    "id": "AnubsAnubdoggystyle-3",
+                    "duration": 6.066667
+                },
+                {
+                    "id": "AnubsAnubdoggystyle-4",
+                    "duration": 6
+                },
+                {
+                    "id": "AnubsAnubdoggystyle-5",
+                    "duration": 5.866667
+                },
+                {
+                    "id": "AnubsAnubdoggystyle-6",
+                    "duration": 5.7
+                },
+                {
+                    "id": "AnubsAnubdoggystyle-7",
+                    "duration": 5.5
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsAsq": {
@@ -15793,6 +17447,35 @@
                 "duration": 5.733333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsAsq-1",
+                    "duration": 7.2
+                },
+                {
+                    "id": "AnubsAsq-2",
+                    "duration": 6.3
+                },
+                {
+                    "id": "AnubsAsq-3",
+                    "duration": 6.233333
+                },
+                {
+                    "id": "AnubsAsq-4",
+                    "duration": 6.066667
+                },
+                {
+                    "id": "AnubsAsq-5",
+                    "duration": 6
+                },
+                {
+                    "id": "AnubsAsq-6",
+                    "duration": 5.733333
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsBm": {
@@ -16027,6 +17710,31 @@
                 "duration": 6.666667,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsBm-1",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsBm-2",
+                    "duration": 6
+                },
+                {
+                    "id": "AnubsBm-3",
+                    "duration": 6.066667
+                },
+                {
+                    "id": "AnubsBm-4",
+                    "duration": 6.233333
+                },
+                {
+                    "id": "AnubsBm-5",
+                    "duration": 6.666667
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsCancun": {
@@ -16460,6 +18168,31 @@
                 "duration": 7,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsD6b-1",
+                    "duration": 5.866667
+                },
+                {
+                    "id": "AnubsD6b-2",
+                    "duration": 6
+                },
+                {
+                    "id": "AnubsD6b-3",
+                    "duration": 5.866667
+                },
+                {
+                    "id": "AnubsD6b-4",
+                    "duration": 6.233333
+                },
+                {
+                    "id": "AnubsD6b-5",
+                    "duration": 7
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsD6s": {
@@ -16877,6 +18610,39 @@
                 "duration": 7.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsD6s-1",
+                    "duration": 7
+                },
+                {
+                    "id": "AnubsD6s-2",
+                    "duration": 6.533333
+                },
+                {
+                    "id": "AnubsD6s-3",
+                    "duration": 6.333333
+                },
+                {
+                    "id": "AnubsD6s-4",
+                    "duration": 6.233333
+                },
+                {
+                    "id": "AnubsD6s-5",
+                    "duration": 6
+                },
+                {
+                    "id": "AnubsD6s-6",
+                    "duration": 6
+                },
+                {
+                    "id": "AnubsD6s-7",
+                    "duration": 7.333333
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsDeltafeet": {
@@ -17089,6 +18855,31 @@
                 "duration": 6.233333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsDeltafeet-1",
+                    "duration": 16
+                },
+                {
+                    "id": "AnubsDeltafeet-2",
+                    "duration": 13.333333
+                },
+                {
+                    "id": "AnubsDeltafeet-3",
+                    "duration": 6.4
+                },
+                {
+                    "id": "AnubsDeltafeet-4",
+                    "duration": 6.666667
+                },
+                {
+                    "id": "AnubsDeltafeet-5",
+                    "duration": 6.233333
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsFfmMistress": {
@@ -17427,6 +19218,35 @@
                 "duration": 12,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsFfmMistress-1",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsFfmMistress-2",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsFfmMistress-3",
+                    "duration": 5.6
+                },
+                {
+                    "id": "AnubsFfmMistress-4",
+                    "duration": 5.666667
+                },
+                {
+                    "id": "AnubsFfmMistress-5",
+                    "duration": 11.733334
+                },
+                {
+                    "id": "AnubsFfmMistress-6",
+                    "duration": 12
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsFfmSleep": {
@@ -17799,6 +19619,39 @@
                 "duration": 12,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsFfmSleep-1",
+                    "duration": 24
+                },
+                {
+                    "id": "AnubsFfmSleep-2",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsFfmSleep-3",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsFfmSleep-4",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsFfmSleep-5",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsFfmSleep-6",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsFfmSleep-7",
+                    "duration": 12
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsFfmm": {
@@ -17894,12 +19747,7 @@
                 ],
                 "meta": {
                     "tags": [
-                        "anubs",
-                        "sex",
-                        "mmff",
-                        "ffmm",
-                        "",
-                        "group"
+                        "anubs"
                     ]
                 },
                 "id": "AnubsFfmm-2",
@@ -18192,6 +20040,35 @@
             "moduleName": "AnubsHuman",
             "posFolderName": "ffmmPos",
             "animName": "AnubsFfmm"
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsFfmm-1",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsFfmm-2",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsFfmm-3",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsFfmm-4",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsFfmm-5",
+                    "duration": 6.5
+                },
+                {
+                    "id": "AnubsFfmm-6",
+                    "duration": 13.2
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsFmm3some": {
@@ -18567,6 +20444,35 @@
                 "duration": 11,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsFmm3some-1",
+                    "duration": 10.4
+                },
+                {
+                    "id": "AnubsFmm3some-2",
+                    "duration": 11.4
+                },
+                {
+                    "id": "AnubsFmm3some-3",
+                    "duration": 11.2
+                },
+                {
+                    "id": "AnubsFmm3some-4",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsFmm3some-5",
+                    "duration": 10.4
+                },
+                {
+                    "id": "AnubsFmm3some-6",
+                    "duration": 11
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsForeplay": {
@@ -18816,6 +20722,35 @@
                 "duration": 12,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsForeplay-1",
+                    "duration": 11.333333
+                },
+                {
+                    "id": "AnubsForeplay-2",
+                    "duration": 10.4
+                },
+                {
+                    "id": "AnubsForeplay-3",
+                    "duration": 10.4
+                },
+                {
+                    "id": "AnubsForeplay-4",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsForeplay-5",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsForeplay-6",
+                    "duration": 12
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsGangbang": {
@@ -19139,6 +21074,27 @@
                 "duration": 6,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsGangbang-1",
+                    "duration": 16
+                },
+                {
+                    "id": "AnubsGangbang-2",
+                    "duration": 6
+                },
+                {
+                    "id": "AnubsGangbang-3",
+                    "duration": 6.066667
+                },
+                {
+                    "id": "AnubsGangbang-4",
+                    "duration": 6
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsHold": {
@@ -19468,6 +21424,39 @@
                 "duration": 8,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsHold-1",
+                    "duration": 6
+                },
+                {
+                    "id": "AnubsHold-2",
+                    "duration": 8
+                },
+                {
+                    "id": "AnubsHold-3",
+                    "duration": 8
+                },
+                {
+                    "id": "AnubsHold-4",
+                    "duration": 7.5
+                },
+                {
+                    "id": "AnubsHold-5",
+                    "duration": 7.333333
+                },
+                {
+                    "id": "AnubsHold-6",
+                    "duration": 4
+                },
+                {
+                    "id": "AnubsHold-7",
+                    "duration": 8
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsImpreg": {
@@ -19742,6 +21731,35 @@
                 "duration": 9.066667,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsImpreg-1",
+                    "duration": 12.266666
+                },
+                {
+                    "id": "AnubsImpreg-2",
+                    "duration": 6.3
+                },
+                {
+                    "id": "AnubsImpreg-3",
+                    "duration": 5.7
+                },
+                {
+                    "id": "AnubsImpreg-4",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsImpreg-5",
+                    "duration": 5.2
+                },
+                {
+                    "id": "AnubsImpreg-6",
+                    "duration": 9.066667
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsJacko": {
@@ -20012,6 +22030,35 @@
                 "duration": 9.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsJacko-1",
+                    "duration": 11.2
+                },
+                {
+                    "id": "AnubsJacko-2",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsJacko-3",
+                    "duration": 11
+                },
+                {
+                    "id": "AnubsJacko-4",
+                    "duration": 10.4
+                },
+                {
+                    "id": "AnubsJacko-5",
+                    "duration": 10.2
+                },
+                {
+                    "id": "AnubsJacko-6",
+                    "duration": 9.333333
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsLegupfuck": {
@@ -20249,6 +22296,31 @@
                 "duration": 4.7,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsLegupfuck-1",
+                    "duration": 5
+                },
+                {
+                    "id": "AnubsLegupfuck-2",
+                    "duration": 5.333333
+                },
+                {
+                    "id": "AnubsLegupfuck-3",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsLegupfuck-4",
+                    "duration": 10.666667
+                },
+                {
+                    "id": "AnubsLegupfuck-5",
+                    "duration": 4.7
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsLustcowgirl": {
@@ -20546,6 +22618,39 @@
                 "duration": 8,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsLustcowgirl-1",
+                    "duration": 6
+                },
+                {
+                    "id": "AnubsLustcowgirl-2",
+                    "duration": 5.333333
+                },
+                {
+                    "id": "AnubsLustcowgirl-3",
+                    "duration": 6
+                },
+                {
+                    "id": "AnubsLustcowgirl-4",
+                    "duration": 7
+                },
+                {
+                    "id": "AnubsLustcowgirl-5",
+                    "duration": 7
+                },
+                {
+                    "id": "AnubsLustcowgirl-6",
+                    "duration": 9
+                },
+                {
+                    "id": "AnubsLustcowgirl-7",
+                    "duration": 8
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsMagickFfm": {
@@ -20944,6 +23049,35 @@
                 "duration": 6.933333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsMagickFfm-1",
+                    "duration": 6.066667
+                },
+                {
+                    "id": "AnubsMagickFfm-2",
+                    "duration": 16
+                },
+                {
+                    "id": "AnubsMagickFfm-3",
+                    "duration": 6
+                },
+                {
+                    "id": "AnubsMagickFfm-4",
+                    "duration": 6.3
+                },
+                {
+                    "id": "AnubsMagickFfm-5",
+                    "duration": 6
+                },
+                {
+                    "id": "AnubsMagickFfm-6",
+                    "duration": 6.933333
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsMf": {
@@ -21164,6 +23298,31 @@
                 "duration": 6.5,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsMf-1",
+                    "duration": 6.6
+                },
+                {
+                    "id": "AnubsMf-2",
+                    "duration": 6
+                },
+                {
+                    "id": "AnubsMf-3",
+                    "duration": 6.233333
+                },
+                {
+                    "id": "AnubsMf-4",
+                    "duration": 6
+                },
+                {
+                    "id": "AnubsMf-5",
+                    "duration": 6.5
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsMisionary": {
@@ -21519,6 +23678,43 @@
                 "duration": 6.666667,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsMisionary-1",
+                    "duration": 6.666667
+                },
+                {
+                    "id": "AnubsMisionary-2",
+                    "duration": 6.666667
+                },
+                {
+                    "id": "AnubsMisionary-3",
+                    "duration": 7.933333
+                },
+                {
+                    "id": "AnubsMisionary-4",
+                    "duration": 4.666667
+                },
+                {
+                    "id": "AnubsMisionary-5",
+                    "duration": 7
+                },
+                {
+                    "id": "AnubsMisionary-6",
+                    "duration": 7.366667
+                },
+                {
+                    "id": "AnubsMisionary-7",
+                    "duration": 7.366667
+                },
+                {
+                    "id": "AnubsMisionary-8",
+                    "duration": 6.666667
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsMmfRape": {
@@ -22129,6 +24325,31 @@
                 "duration": 15,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsMmocg-1",
+                    "duration": 6
+                },
+                {
+                    "id": "AnubsMmocg-2",
+                    "duration": 6
+                },
+                {
+                    "id": "AnubsMmocg-3",
+                    "duration": 6.066667
+                },
+                {
+                    "id": "AnubsMmocg-4",
+                    "duration": 5.866667
+                },
+                {
+                    "id": "AnubsMmocg-5",
+                    "duration": 15
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsNelson": {
@@ -22374,6 +24595,31 @@
                 "duration": 10,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsNelson-1",
+                    "duration": 2.666667
+                },
+                {
+                    "id": "AnubsNelson-2",
+                    "duration": 0.633333
+                },
+                {
+                    "id": "AnubsNelson-3",
+                    "duration": 7.333333
+                },
+                {
+                    "id": "AnubsNelson-4",
+                    "duration": 3
+                },
+                {
+                    "id": "AnubsNelson-5",
+                    "duration": 10
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsRcowgirl": {
@@ -22654,6 +24900,35 @@
                 "duration": 5.5,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsRcowgirl-1",
+                    "duration": 8.666667
+                },
+                {
+                    "id": "AnubsRcowgirl-2",
+                    "duration": 6
+                },
+                {
+                    "id": "AnubsRcowgirl-3",
+                    "duration": 5
+                },
+                {
+                    "id": "AnubsRcowgirl-4",
+                    "duration": 5.633333
+                },
+                {
+                    "id": "AnubsRcowgirl-5",
+                    "duration": 6
+                },
+                {
+                    "id": "AnubsRcowgirl-6",
+                    "duration": 5.5
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsRune": {
@@ -23045,6 +25320,47 @@
                 "duration": 5,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsRune-1",
+                    "duration": 8
+                },
+                {
+                    "id": "AnubsRune-2",
+                    "duration": 6
+                },
+                {
+                    "id": "AnubsRune-3",
+                    "duration": 5.666667
+                },
+                {
+                    "id": "AnubsRune-4",
+                    "duration": 6.6
+                },
+                {
+                    "id": "AnubsRune-5",
+                    "duration": 6.333333
+                },
+                {
+                    "id": "AnubsRune-6",
+                    "duration": 6
+                },
+                {
+                    "id": "AnubsRune-7",
+                    "duration": 6.233333
+                },
+                {
+                    "id": "AnubsRune-8",
+                    "duration": 6
+                },
+                {
+                    "id": "AnubsRune-9",
+                    "duration": 5
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsSinner": {
@@ -23349,6 +25665,35 @@
                 "duration": 12,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsSinner-1",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsSinner-2",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsSinner-3",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsSinner-4",
+                    "duration": 10.2
+                },
+                {
+                    "id": "AnubsSinner-5",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsSinner-6",
+                    "duration": 12
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsSquatingbj": {
@@ -23560,6 +25905,31 @@
                 "duration": 6.4,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsSquatingbj-1",
+                    "duration": 6
+                },
+                {
+                    "id": "AnubsSquatingbj-2",
+                    "duration": 5.666667
+                },
+                {
+                    "id": "AnubsSquatingbj-3",
+                    "duration": 6.066667
+                },
+                {
+                    "id": "AnubsSquatingbj-4",
+                    "duration": 6
+                },
+                {
+                    "id": "AnubsSquatingbj-5",
+                    "duration": 6.4
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsStandingnew": {
@@ -23870,6 +26240,39 @@
                 "duration": 8.533334,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsStandingnew-1",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsStandingnew-2",
+                    "duration": 11.2
+                },
+                {
+                    "id": "AnubsStandingnew-3",
+                    "duration": 10.4
+                },
+                {
+                    "id": "AnubsStandingnew-4",
+                    "duration": 11
+                },
+                {
+                    "id": "AnubsStandingnew-5",
+                    "duration": 8.4
+                },
+                {
+                    "id": "AnubsStandingnew-6",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsStandingnew-7",
+                    "duration": 8.533334
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsTraining": {
@@ -24119,6 +26522,35 @@
                 "duration": 6.666667,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsTraining-1",
+                    "duration": 6.666667
+                },
+                {
+                    "id": "AnubsTraining-2",
+                    "duration": 10.266666
+                },
+                {
+                    "id": "AnubsTraining-3",
+                    "duration": 6.666667
+                },
+                {
+                    "id": "AnubsTraining-4",
+                    "duration": 8
+                },
+                {
+                    "id": "AnubsTraining-5",
+                    "duration": 6
+                },
+                {
+                    "id": "AnubsTraining-6",
+                    "duration": 6.666667
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsVamp1": {
@@ -24411,6 +26843,35 @@
                 "duration": 9.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsVamp1-1",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsVamp1-2",
+                    "duration": 10.4
+                },
+                {
+                    "id": "AnubsVamp1-3",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsVamp1-4",
+                    "duration": 10.4
+                },
+                {
+                    "id": "AnubsVamp1-5",
+                    "duration": 11
+                },
+                {
+                    "id": "AnubsVamp1-6",
+                    "duration": 9.333333
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsVampfemale": {
@@ -24669,6 +27130,35 @@
                 "duration": 10.4,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsVampfemale-1",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsVampfemale-2",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsVampfemale-3",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsVampfemale-4",
+                    "duration": 10.4
+                },
+                {
+                    "id": "AnubsVampfemale-5",
+                    "duration": 11
+                },
+                {
+                    "id": "AnubsVampfemale-6",
+                    "duration": 10.4
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsAnubagra": {
@@ -24863,6 +27353,27 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsAnubagra-1",
+                    "duration": 3.333333
+                },
+                {
+                    "id": "AnubsAnubagra-2",
+                    "duration": 6.666667
+                },
+                {
+                    "id": "AnubsAnubagra-3",
+                    "duration": 4
+                },
+                {
+                    "id": "AnubsAnubagra-4",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsBound": {
@@ -25074,6 +27585,27 @@
                 "duration": 5.5,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsBound-1",
+                    "duration": 6.6
+                },
+                {
+                    "id": "AnubsBound-2",
+                    "duration": 5.333333
+                },
+                {
+                    "id": "AnubsBound-3",
+                    "duration": 6
+                },
+                {
+                    "id": "AnubsBound-4",
+                    "duration": 5.5
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsBoundtable": {
@@ -25274,6 +27806,27 @@
                 "duration": 4.666667,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsBoundtable-1",
+                    "duration": 6.666667
+                },
+                {
+                    "id": "AnubsBoundtable-2",
+                    "duration": 6
+                },
+                {
+                    "id": "AnubsBoundtable-3",
+                    "duration": 6
+                },
+                {
+                    "id": "AnubsBoundtable-4",
+                    "duration": 4.666667
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsBoundtable2": {
@@ -25663,6 +28216,35 @@
                 "duration": 12,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsBoundtable2-1",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsBoundtable2-2",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsBoundtable2-3",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsBoundtable2-4",
+                    "duration": 10.4
+                },
+                {
+                    "id": "AnubsBoundtable2-5",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsBoundtable2-6",
+                    "duration": 12
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsChained": {
@@ -25921,6 +28503,35 @@
                 "duration": 11,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsChained-1",
+                    "duration": 11
+                },
+                {
+                    "id": "AnubsChained-2",
+                    "duration": 10.4
+                },
+                {
+                    "id": "AnubsChained-3",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsChained-4",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsChained-5",
+                    "duration": 10.2
+                },
+                {
+                    "id": "AnubsChained-6",
+                    "duration": 11
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsChainedCelling": {
@@ -26228,6 +28839,39 @@
                 "duration": 9.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsChainedCelling-1",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsChainedCelling-2",
+                    "duration": 10.2
+                },
+                {
+                    "id": "AnubsChainedCelling-3",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsChainedCelling-4",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsChainedCelling-5",
+                    "duration": 10.4
+                },
+                {
+                    "id": "AnubsChainedCelling-6",
+                    "duration": 11
+                },
+                {
+                    "id": "AnubsChainedCelling-7",
+                    "duration": 9.333333
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsChaingallow": {
@@ -26497,6 +29141,35 @@
                 "duration": 10,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsChaingallow-1",
+                    "duration": 11
+                },
+                {
+                    "id": "AnubsChaingallow-2",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsChaingallow-3",
+                    "duration": 11
+                },
+                {
+                    "id": "AnubsChaingallow-4",
+                    "duration": 10.4
+                },
+                {
+                    "id": "AnubsChaingallow-5",
+                    "duration": 11.2
+                },
+                {
+                    "id": "AnubsChaingallow-6",
+                    "duration": 10
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsChest": {
@@ -26779,6 +29452,27 @@
                 "duration": 13.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsChest-1",
+                    "duration": 8.333333
+                },
+                {
+                    "id": "AnubsChest-2",
+                    "duration": 6.666667
+                },
+                {
+                    "id": "AnubsChest-3",
+                    "duration": 5
+                },
+                {
+                    "id": "AnubsChest-4",
+                    "duration": 13.333333
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsChoke": {
@@ -27052,6 +29746,35 @@
                 "duration": 6,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsChoke-1",
+                    "duration": 8
+                },
+                {
+                    "id": "AnubsChoke-2",
+                    "duration": 5.333333
+                },
+                {
+                    "id": "AnubsChoke-3",
+                    "duration": 8
+                },
+                {
+                    "id": "AnubsChoke-4",
+                    "duration": 6
+                },
+                {
+                    "id": "AnubsChoke-5",
+                    "duration": 6
+                },
+                {
+                    "id": "AnubsChoke-6",
+                    "duration": 6
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsFcowgirl": {
@@ -27291,6 +30014,27 @@
                 "duration": 6.666667,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsFcowgirl-1",
+                    "duration": 6
+                },
+                {
+                    "id": "AnubsFcowgirl-2",
+                    "duration": 6.4
+                },
+                {
+                    "id": "AnubsFcowgirl-3",
+                    "duration": 6.5
+                },
+                {
+                    "id": "AnubsFcowgirl-4",
+                    "duration": 6.666667
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsFf": {
@@ -27576,6 +30320,35 @@
                 "duration": 7.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsFf-1",
+                    "duration": 7
+                },
+                {
+                    "id": "AnubsFf-2",
+                    "duration": 6.6
+                },
+                {
+                    "id": "AnubsFf-3",
+                    "duration": 6
+                },
+                {
+                    "id": "AnubsFf-4",
+                    "duration": 6
+                },
+                {
+                    "id": "AnubsFf-5",
+                    "duration": 6.933333
+                },
+                {
+                    "id": "AnubsFf-6",
+                    "duration": 7.333333
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsHogtie3some": {
@@ -27954,6 +30727,35 @@
                 "duration": 11.666667,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsHogtie3some-1",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsHogtie3some-2",
+                    "duration": 11
+                },
+                {
+                    "id": "AnubsHogtie3some-3",
+                    "duration": 11.2
+                },
+                {
+                    "id": "AnubsHogtie3some-4",
+                    "duration": 11
+                },
+                {
+                    "id": "AnubsHogtie3some-5",
+                    "duration": 10.4
+                },
+                {
+                    "id": "AnubsHogtie3some-6",
+                    "duration": 11.666667
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsHumandoggy": {
@@ -28183,6 +30985,31 @@
                 "duration": 6.5,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsHumandoggy-1",
+                    "duration": 5.333333
+                },
+                {
+                    "id": "AnubsHumandoggy-2",
+                    "duration": 6.066667
+                },
+                {
+                    "id": "AnubsHumandoggy-3",
+                    "duration": 6
+                },
+                {
+                    "id": "AnubsHumandoggy-4",
+                    "duration": 6
+                },
+                {
+                    "id": "AnubsHumandoggy-5",
+                    "duration": 6.5
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsMagick": {
@@ -28451,6 +31278,35 @@
                 "duration": 6,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsMagick-1",
+                    "duration": 6.666667
+                },
+                {
+                    "id": "AnubsMagick-2",
+                    "duration": 6.233333
+                },
+                {
+                    "id": "AnubsMagick-3",
+                    "duration": 6
+                },
+                {
+                    "id": "AnubsMagick-4",
+                    "duration": 6
+                },
+                {
+                    "id": "AnubsMagick-5",
+                    "duration": 5.866667
+                },
+                {
+                    "id": "AnubsMagick-6",
+                    "duration": 6
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsMindControl": {
@@ -28784,6 +31640,43 @@
                 "duration": 6.666667,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsMindControl-1",
+                    "duration": 5.333333
+                },
+                {
+                    "id": "AnubsMindControl-2",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsMindControl-3",
+                    "duration": 4.333333
+                },
+                {
+                    "id": "AnubsMindControl-4",
+                    "duration": 6.666667
+                },
+                {
+                    "id": "AnubsMindControl-5",
+                    "duration": 6.066667
+                },
+                {
+                    "id": "AnubsMindControl-6",
+                    "duration": 6.066667
+                },
+                {
+                    "id": "AnubsMindControl-7",
+                    "duration": 6
+                },
+                {
+                    "id": "AnubsMindControl-8",
+                    "duration": 6.666667
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsMissionaryR": {
@@ -29109,7 +32002,44 @@
             "AnubsMissionaryR_7_0.hkx": {
                 "duration": 10.666667,
                 "annotationLines": "1.500000 OStimClimax"
+            },
+            "AnubsMissionaryR_7_1.hkx": {
+                "duration": 10.666667,
+                "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsMissionaryR-1",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsMissionaryR-2",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsMissionaryR-3",
+                    "duration": 11
+                },
+                {
+                    "id": "AnubsMissionaryR-4",
+                    "duration": 10.8
+                },
+                {
+                    "id": "AnubsMissionaryR-5",
+                    "duration": 10.666667
+                },
+                {
+                    "id": "AnubsMissionaryR-6",
+                    "duration": 10.666667
+                },
+                {
+                    "id": "AnubsMissionaryR-7",
+                    "duration": 10.666667
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsParalysis": {
@@ -29372,6 +32302,35 @@
                 "duration": 3,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsParalysis-1",
+                    "duration": 3.333333
+                },
+                {
+                    "id": "AnubsParalysis-2",
+                    "duration": 6.666667
+                },
+                {
+                    "id": "AnubsParalysis-3",
+                    "duration": 5.3
+                },
+                {
+                    "id": "AnubsParalysis-4",
+                    "duration": 6
+                },
+                {
+                    "id": "AnubsParalysis-5",
+                    "duration": 8
+                },
+                {
+                    "id": "AnubsParalysis-6",
+                    "duration": 3
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsPole": {
@@ -29630,6 +32589,35 @@
             "moduleName": "AnubsAgressive",
             "posFolderName": "fmPos",
             "animName": "AnubsPole"
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsPole-1",
+                    "duration": 10.4
+                },
+                {
+                    "id": "AnubsPole-2",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsPole-3",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsPole-4",
+                    "duration": 10.4
+                },
+                {
+                    "id": "AnubsPole-5",
+                    "duration": 11
+                },
+                {
+                    "id": "AnubsPole-6",
+                    "duration": 10
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsRape": {
@@ -30018,6 +33006,47 @@
                 "duration": 6.4,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsRape-1",
+                    "duration": 6.666667
+                },
+                {
+                    "id": "AnubsRape-2",
+                    "duration": 6.666667
+                },
+                {
+                    "id": "AnubsRape-3",
+                    "duration": 6.4
+                },
+                {
+                    "id": "AnubsRape-4",
+                    "duration": 5.866667
+                },
+                {
+                    "id": "AnubsRape-5",
+                    "duration": 6.066667
+                },
+                {
+                    "id": "AnubsRape-6",
+                    "duration": 6.6
+                },
+                {
+                    "id": "AnubsRape-7",
+                    "duration": 6
+                },
+                {
+                    "id": "AnubsRape-8",
+                    "duration": 6.6
+                },
+                {
+                    "id": "AnubsRape-9",
+                    "duration": 6.4
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsRejection": {
@@ -30376,6 +33405,43 @@
                 "duration": 18.833334,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsRejection-1",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsRejection-2",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsRejection-3",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsRejection-4",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsRejection-5",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsRejection-6",
+                    "duration": 5.666667
+                },
+                {
+                    "id": "AnubsRejection-7",
+                    "duration": 11
+                },
+                {
+                    "id": "AnubsRejection-8",
+                    "duration": 18.833334
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsSDefeat": {
@@ -30691,6 +33757,39 @@
                 "duration": 11,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsSDefeat-1",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsSDefeat-2",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsSDefeat-3",
+                    "duration": 11.2
+                },
+                {
+                    "id": "AnubsSDefeat-4",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsSDefeat-5",
+                    "duration": 10.4
+                },
+                {
+                    "id": "AnubsSDefeat-6",
+                    "duration": 11
+                },
+                {
+                    "id": "AnubsSDefeat-7",
+                    "duration": 11
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsThronechain": {
@@ -30943,6 +34042,35 @@
                 "duration": 12,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsThronechain-1",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsThronechain-2",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsThronechain-3",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsThronechain-4",
+                    "duration": 11
+                },
+                {
+                    "id": "AnubsThronechain-5",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsThronechain-6",
+                    "duration": 12
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsUnc": {
@@ -31176,6 +34304,31 @@
                 "duration": 8.8,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsUnc-1",
+                    "duration": 6.5
+                },
+                {
+                    "id": "AnubsUnc-2",
+                    "duration": 6
+                },
+                {
+                    "id": "AnubsUnc-3",
+                    "duration": 6
+                },
+                {
+                    "id": "AnubsUnc-4",
+                    "duration": 6.066667
+                },
+                {
+                    "id": "AnubsUnc-5",
+                    "duration": 8.8
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsUnc2": {
@@ -31407,6 +34560,31 @@
                 "duration": 5,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsUnc2-1",
+                    "duration": 5.6
+                },
+                {
+                    "id": "AnubsUnc2-2",
+                    "duration": 5.833333
+                },
+                {
+                    "id": "AnubsUnc2-3",
+                    "duration": 5.7
+                },
+                {
+                    "id": "AnubsUnc2-4",
+                    "duration": 5.333333
+                },
+                {
+                    "id": "AnubsUnc2-5",
+                    "duration": 5
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsVs": {
@@ -31648,6 +34826,31 @@
                 "duration": 7.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsVs-1",
+                    "duration": 7.333333
+                },
+                {
+                    "id": "AnubsVs-2",
+                    "duration": 8
+                },
+                {
+                    "id": "AnubsVs-3",
+                    "duration": 6.066667
+                },
+                {
+                    "id": "AnubsVs-4",
+                    "duration": 6.233333
+                },
+                {
+                    "id": "AnubsVs-5",
+                    "duration": 7.333333
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsX": {
@@ -31903,6 +35106,35 @@
                 "duration": 5.5,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsX-1",
+                    "duration": 5.866667
+                },
+                {
+                    "id": "AnubsX-2",
+                    "duration": 6
+                },
+                {
+                    "id": "AnubsX-3",
+                    "duration": 6.066667
+                },
+                {
+                    "id": "AnubsX-4",
+                    "duration": 6
+                },
+                {
+                    "id": "AnubsX-5",
+                    "duration": 6
+                },
+                {
+                    "id": "AnubsX-6",
+                    "duration": 5.5
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsAbg": {
@@ -32527,6 +35759,39 @@
                 "duration": 10,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsBgGentle-1",
+                    "duration": 9.6
+                },
+                {
+                    "id": "AnubsBgGentle-2",
+                    "duration": 10.733334
+                },
+                {
+                    "id": "AnubsBgGentle-3",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsBgGentle-4",
+                    "duration": 11
+                },
+                {
+                    "id": "AnubsBgGentle-5",
+                    "duration": 11.266666
+                },
+                {
+                    "id": "AnubsBgGentle-6",
+                    "duration": 11
+                },
+                {
+                    "id": "AnubsBgGentle-7",
+                    "duration": 10
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsBgNelson": {
@@ -32838,6 +36103,35 @@
                 "duration": 11,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsBgNelson-1",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsBgNelson-2",
+                    "duration": 10.2
+                },
+                {
+                    "id": "AnubsBgNelson-3",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsBgNelson-4",
+                    "duration": 10.4
+                },
+                {
+                    "id": "AnubsBgNelson-5",
+                    "duration": 11
+                },
+                {
+                    "id": "AnubsBgNelson-6",
+                    "duration": 11
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsBgWall": {
@@ -33121,6 +36415,35 @@
                 "duration": 10,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsBgWall-1",
+                    "duration": 10.2
+                },
+                {
+                    "id": "AnubsBgWall-2",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsBgWall-3",
+                    "duration": 11.2
+                },
+                {
+                    "id": "AnubsBgWall-4",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsBgWall-5",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsBgWall-6",
+                    "duration": 10
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsBigguyDoggy": {
@@ -33152,12 +36475,6 @@
                     "tags": [
                         "anubs",
                         "bigguy",
-                        "dirty",
-                        "sex",
-                        "vaginal",
-                        "mf",
-                        "furniture",
-                        "doggy",
                         "doggystyle"
                     ]
                 },
@@ -33376,12 +36693,6 @@
                     "tags": [
                         "anubs",
                         "bigguy",
-                        "dirty",
-                        "sex",
-                        "vaginal",
-                        "mf",
-                        "furniture",
-                        "doggy",
                         "doggystyle",
                         "transition"
                     ]
@@ -33412,6 +36723,35 @@
                 "duration": 9.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsBigguyDoggy-1",
+                    "duration": 10.666666
+                },
+                {
+                    "id": "AnubsBigguyDoggy-2",
+                    "duration": 9.2
+                },
+                {
+                    "id": "AnubsBigguyDoggy-3",
+                    "duration": 11.2
+                },
+                {
+                    "id": "AnubsBigguyDoggy-4",
+                    "duration": 9.799999
+                },
+                {
+                    "id": "AnubsBigguyDoggy-5",
+                    "duration": 10.4
+                },
+                {
+                    "id": "AnubsBigguyDoggy-6",
+                    "duration": 9.333333
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsBigguySitting": {
@@ -33704,12 +37044,6 @@
                     "tags": [
                         "anubs",
                         "bigguy",
-                        "dirty",
-                        "sex",
-                        "vaginal",
-                        "mf",
-                        "furniture",
-                        "cowgirl",
                         "transition"
                     ]
                 },
@@ -33754,6 +37088,39 @@
                 "duration": 9.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsBigguySitting-1",
+                    "duration": 11
+                },
+                {
+                    "id": "AnubsBigguySitting-2",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsBigguySitting-3",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsBigguySitting-4",
+                    "duration": 11.2
+                },
+                {
+                    "id": "AnubsBigguySitting-5",
+                    "duration": 10.4
+                },
+                {
+                    "id": "AnubsBigguySitting-6",
+                    "duration": 11
+                },
+                {
+                    "id": "AnubsBigguySitting-7",
+                    "duration": 9.333333
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsMmfBigguys": {
@@ -34471,6 +37838,39 @@
                 "duration": 11,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsABed2-1",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsABed2-2",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsABed2-3",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsABed2-4",
+                    "duration": 10.2
+                },
+                {
+                    "id": "AnubsABed2-5",
+                    "duration": 10.4
+                },
+                {
+                    "id": "AnubsABed2-6",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsABed2-7",
+                    "duration": 11
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsAInvTable": {
@@ -34796,6 +38196,39 @@
                 "duration": 9.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsAInvTable-1",
+                    "duration": 9.333333
+                },
+                {
+                    "id": "AnubsAInvTable-2",
+                    "duration": 10.4
+                },
+                {
+                    "id": "AnubsAInvTable-3",
+                    "duration": 11.4
+                },
+                {
+                    "id": "AnubsAInvTable-4",
+                    "duration": 11.2
+                },
+                {
+                    "id": "AnubsAInvTable-5",
+                    "duration": 10.4
+                },
+                {
+                    "id": "AnubsAInvTable-6",
+                    "duration": 10.4
+                },
+                {
+                    "id": "AnubsAInvTable-7",
+                    "duration": 9.333333
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsATable": {
@@ -35101,6 +38534,39 @@
                 "duration": 12,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsATable-1",
+                    "duration": 10.4
+                },
+                {
+                    "id": "AnubsATable-2",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsATable-3",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsATable-4",
+                    "duration": 10.4
+                },
+                {
+                    "id": "AnubsATable-5",
+                    "duration": 11
+                },
+                {
+                    "id": "AnubsATable-6",
+                    "duration": 10.2
+                },
+                {
+                    "id": "AnubsATable-7",
+                    "duration": 12
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsAWall4": {
@@ -35322,6 +38788,31 @@
                 "duration": 10.666667,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsAWall4-1",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsAWall4-2",
+                    "duration": 10.4
+                },
+                {
+                    "id": "AnubsAWall4-3",
+                    "duration": 11
+                },
+                {
+                    "id": "AnubsAWall4-4",
+                    "duration": 10.8
+                },
+                {
+                    "id": "AnubsAWall4-5",
+                    "duration": 10.666667
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsAWallc": {
@@ -35352,13 +38843,7 @@
                 "meta": {
                     "tags": [
                         "anubs",
-                        "dirty",
-                        "sex",
-                        "vaginal",
-                        "mf",
-                        "doggystyle",
-                        "standing",
-                        "wall"
+                        "doggystyle"
                     ],
                     "furniture": "wall"
                 },
@@ -35395,13 +38880,7 @@
                 "meta": {
                     "tags": [
                         "anubs",
-                        "dirty",
-                        "sex",
-                        "vaginal",
-                        "mf",
-                        "doggystyle",
-                        "standing",
-                        "wall"
+                        "doggystyle"
                     ],
                     "furniture": "wall"
                 },
@@ -35440,13 +38919,7 @@
                 "meta": {
                     "tags": [
                         "anubs",
-                        "dirty",
-                        "sex",
-                        "vaginal",
-                        "mf",
-                        "doggystyle",
-                        "standing",
-                        "wall"
+                        "doggystyle"
                     ],
                     "furniture": "wall"
                 },
@@ -35485,13 +38958,7 @@
                 "meta": {
                     "tags": [
                         "anubs",
-                        "dirty",
-                        "sex",
-                        "vaginal",
-                        "mf",
-                        "doggystyle",
-                        "standing",
-                        "wall"
+                        "doggystyle"
                     ],
                     "furniture": "wall"
                 },
@@ -35529,13 +38996,7 @@
                 "meta": {
                     "tags": [
                         "anubs",
-                        "dirty",
-                        "sex",
-                        "vaginal",
-                        "mf",
-                        "doggystyle",
-                        "standing",
-                        "wall"
+                        "doggystyle"
                     ],
                     "furniture": "wall"
                 },
@@ -35579,13 +39040,7 @@
                 "meta": {
                     "tags": [
                         "anubs",
-                        "dirty",
-                        "sex",
-                        "vaginal",
-                        "mf",
-                        "doggystyle",
-                        "standing",
-                        "wall"
+                        "doggystyle"
                     ],
                     "furniture": "wall"
                 },
@@ -35624,13 +39079,7 @@
                 "meta": {
                     "tags": [
                         "anubs",
-                        "dirty",
-                        "sex",
-                        "vaginal",
-                        "mf",
                         "doggystyle",
-                        "standing",
-                        "wall",
                         "transition"
                     ],
                     "furniture": "wall"
@@ -35660,6 +39109,39 @@
                 "duration": 11,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsAWallc-1",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsAWallc-2",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsAWallc-3",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsAWallc-4",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsAWallc-5",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsAWallc-6",
+                    "duration": 11
+                },
+                {
+                    "id": "AnubsAWallc-7",
+                    "duration": 11
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsAdultBed": {
@@ -35922,6 +39404,35 @@
                 "duration": 5.8,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsAdultBed-1",
+                    "duration": 5.2
+                },
+                {
+                    "id": "AnubsAdultBed-2",
+                    "duration": 5.7
+                },
+                {
+                    "id": "AnubsAdultBed-3",
+                    "duration": 5.666667
+                },
+                {
+                    "id": "AnubsAdultBed-4",
+                    "duration": 5.7
+                },
+                {
+                    "id": "AnubsAdultBed-5",
+                    "duration": 6.066667
+                },
+                {
+                    "id": "AnubsAdultBed-6",
+                    "duration": 5.8
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsAnubCounter": {
@@ -36219,6 +39730,39 @@
                 "duration": 10.2,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsAnubCounter-1",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsAnubCounter-2",
+                    "duration": 10.2
+                },
+                {
+                    "id": "AnubsAnubCounter-3",
+                    "duration": 11
+                },
+                {
+                    "id": "AnubsAnubCounter-4",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsAnubCounter-5",
+                    "duration": 10.4
+                },
+                {
+                    "id": "AnubsAnubCounter-6",
+                    "duration": 10
+                },
+                {
+                    "id": "AnubsAnubCounter-7",
+                    "duration": 10.2
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsFfmBed2": {
@@ -36557,6 +40101,35 @@
                 "duration": 10.133333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsFfmBed2-1",
+                    "duration": 11
+                },
+                {
+                    "id": "AnubsFfmBed2-2",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsFfmBed2-3",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsFfmBed2-4",
+                    "duration": 11
+                },
+                {
+                    "id": "AnubsFfmBed2-5",
+                    "duration": 10.4
+                },
+                {
+                    "id": "AnubsFfmBed2-6",
+                    "duration": 10.133333
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsLesbianWc": {
@@ -36772,6 +40345,31 @@
                 "duration": 6,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsLesbianWc-1",
+                    "duration": 12
+                },
+                {
+                    "id": "AnubsLesbianWc-2",
+                    "duration": 6.666667
+                },
+                {
+                    "id": "AnubsLesbianWc-3",
+                    "duration": 6.4
+                },
+                {
+                    "id": "AnubsLesbianWc-4",
+                    "duration": 6
+                },
+                {
+                    "id": "AnubsLesbianWc-5",
+                    "duration": 5.866667
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsWallback": {
@@ -37013,6 +40611,31 @@
                 "duration": 2.166667,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsWallback-1",
+                    "duration": 5.333333
+                },
+                {
+                    "id": "AnubsWallback-2",
+                    "duration": 0.666667
+                },
+                {
+                    "id": "AnubsWallback-3",
+                    "duration": 0.466667
+                },
+                {
+                    "id": "AnubsWallback-4",
+                    "duration": 0.4
+                },
+                {
+                    "id": "AnubsWallback-5",
+                    "duration": 2.166667
+                }
+            ],
+            "tags": []
         }
     },
     "AnubsWallside": {
@@ -37258,6 +40881,355 @@
             },
             "AnubsWallside_5_1.hkx": {
                 "duration": 2.666667,
+                "annotationLines": "1.500000 OStimClimax"
+            }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsWallside-1",
+                    "duration": 1
+                },
+                {
+                    "id": "AnubsWallside-2",
+                    "duration": 0.666667
+                },
+                {
+                    "id": "AnubsWallside-3",
+                    "duration": 2.666667
+                },
+                {
+                    "id": "AnubsWallside-4",
+                    "duration": 3.333333
+                },
+                {
+                    "id": "AnubsWallside-5",
+                    "duration": 2.666667
+                }
+            ],
+            "tags": []
+        }
+    },
+    "undefined": {
+        "sequence": {
+            "scenes": [],
+            "tags": []
+        }
+    },
+    "AnubsWallfront": {
+        "name": "Anubs  Wall Front",
+        "actorsKeyword": "fm",
+        "stages": [
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 8,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "anubs"
+                    ],
+                    "furniture": "wall"
+                },
+                "id": "AnubsWallfront-1",
+                "fileName": "AnubsWallfront_1",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "holdingleg",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "pattinghead",
+                        "actor": 1,
+                        "target": 0
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 8,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "suspended"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "anubs"
+                    ],
+                    "furniture": "wall"
+                },
+                "id": "AnubsWallfront-2",
+                "fileName": "AnubsWallfront_2",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "holdinghip",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 7,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "suspended"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "anubs"
+                    ],
+                    "furniture": "wall"
+                },
+                "id": "AnubsWallfront-3",
+                "fileName": "AnubsWallfront_3",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "hugging",
+                        "actor": 1,
+                        "target": 0
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 8,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "suspended"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "anubs"
+                    ],
+                    "furniture": "wall"
+                },
+                "id": "AnubsWallfront-4",
+                "fileName": "AnubsWallfront_4",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "hugging",
+                        "actor": 1,
+                        "target": 0
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 8,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "suspended"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "anubs"
+                    ],
+                    "furniture": "wall"
+                },
+                "id": "AnubsWallfront-5",
+                "fileName": "AnubsWallfront_5",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "hugging",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "hugging",
+                        "actor": 1,
+                        "target": 0
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 8,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing",
+                            "climaxing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "suspended",
+                            "climaxing"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "anubs"
+                    ],
+                    "furniture": "wall"
+                },
+                "id": "AnubsWallfront-6",
+                "fileName": "AnubsWallfront_6",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "hugging",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "hugging",
+                        "actor": 1,
+                        "target": 0
+                    },
+                    {
+                        "type": "pattinghead",
+                        "actor": 1,
+                        "target": 0
+                    }
+                ]
+            }
+        ],
+        "folders": {
+            "moduleName": "AnubsFurniture",
+            "posFolderName": "fmWallPos",
+            "animName": "AnubsWallfront"
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "AnubsWallfront-1",
+                    "duration": 1.3
+                },
+                {
+                    "id": "AnubsWallfront-2",
+                    "duration": 0.966667
+                },
+                {
+                    "id": "AnubsWallfront-3",
+                    "duration": 0.866667
+                },
+                {
+                    "id": "AnubsWallfront-4",
+                    "duration": 0.5
+                },
+                {
+                    "id": "AnubsWallfront-5",
+                    "duration": 0.4
+                },
+                {
+                    "id": "AnubsWallfront-6",
+                    "duration": 4.633333
+                }
+            ],
+            "tags": []
+        },
+        "hkxAnnotations": {
+            "AnubsWallfront_6_0.hkx": {
+                "duration": 4.633333,
+                "annotationLines": "1.500000 OStimClimax"
+            },
+            "AnubsWallfront_6_1.hkx": {
+                "duration": 4.633333,
                 "annotationLines": "1.500000 OStimClimax"
             }
         }

@@ -37,6 +37,7 @@ export const CreateModuleConfigModal: FC<CreateModuleConfigModalProps> = ({
                 exclude: [],
             },
             furnitureMap: createEmptyFurnitureMap(),
+            transitions: []
         }, 
         mode: 'onBlur'
     });
@@ -55,6 +56,8 @@ export const CreateModuleConfigModal: FC<CreateModuleConfigModalProps> = ({
         <Dialog
             open={open}
             onClose={onClose}
+            fullWidth
+            maxWidth="md"
         >
             <FormProvider {...methods}>
                 <form onSubmit={methods.handleSubmit(onSave)}>

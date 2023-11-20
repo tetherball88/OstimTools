@@ -11,9 +11,10 @@ export interface AutocompleteControlledProps<TFieldValues extends FieldValues, T
     label?: string
     onChange?: (value: any) => void
     getValue?: (value: any) => any
+    freeSolo?: FreeSolo
 }
 
-export const AutocompleteControlled = <TFieldValues extends FieldValues, T, FreeSolo extends boolean = false>({ label, onChange, getValue = val => val, formControl, ...other }: AutocompleteControlledProps<TFieldValues, T, FreeSolo>): ReturnType<FC> => {
+export const AutocompleteControlled = <TFieldValues extends FieldValues, T, FreeSolo extends boolean = boolean>({ label, onChange, getValue = val => val, formControl, ...other }: AutocompleteControlledProps<TFieldValues, T, FreeSolo>): ReturnType<FC> => {
     const { control, formState: { errors } } = useFormContext<TFieldValues>()
 
     const error = get(errors, formControl.name);

@@ -11,6 +11,7 @@ import { FurnitureMapConfigForm } from './FurnitureMapConfigForm';
 import { invokeValidateInputPath, invokeValidateSlalJsonPath } from '~bridge/events/invokers';
 import { GET_ALL_ANIMATIONS } from '~bridge/events/events';
 import { useSendCommand } from '~bridge/ui/hooks/useSendCommand';
+import { TransitionsConfigForm } from '~bridge/ui/components/Forms/TransitionsConfigForm';
 
 export interface ModuleFormsProps {
     disableModuleName?: boolean
@@ -75,10 +76,12 @@ export const ModuleForms: FC<ModuleFormsProps> = ({ disableModuleName = false, a
                 scrollButtons="auto"
             >
                 <Tab label={<Badge badgeContent="!" color="error" invisible={!errors.module}>Base</Badge>} />
+                <Tab label="Transitions" disabled={!Object.keys(selectedAnimations).length} />
                 <Tab label="Furniture map" disabled={!Object.keys(selectedAnimations).length} />
             </Tabs>
             {currentTab === 0 && <ModuleConfigForm disableModuleName={disableModuleName} allAnimations={allAnimations} />}
-            {currentTab === 1 && <FurnitureMapConfigForm selectedAnimations={selectedAnimations} />}
+            {currentTab === 1 && <TransitionsConfigForm selectedAnimations={selectedAnimations} />}
+            {currentTab === 2 && <FurnitureMapConfigForm selectedAnimations={selectedAnimations} />}
         </>
     )
 }

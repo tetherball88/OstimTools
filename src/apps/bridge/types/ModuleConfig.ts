@@ -48,9 +48,18 @@ export interface ModuleFurnitureMapConfig {
     furnitureMap: Record<FurnitureTypes, string[]>
 }
 
-export type ModuleSections = 'module' | 'furnitureMap';
+export interface TransitionConfig {
+    sceneId: string
+    destinationId: string
+}
+
+export interface ModuleTransitionsConfig {
+    transitions?: TransitionConfig[]
+}
+
+export type ModuleSections = 'module' | 'furnitureMap' | 'transitions';
 
 /**
  * Other configs which should be set up per pack
  */
-export interface ModuleSpecificConfig extends ModuleConfig, ModuleFurnitureMapConfig { }
+export interface ModuleSpecificConfig extends ModuleConfig, ModuleFurnitureMapConfig, ModuleTransitionsConfig {}

@@ -18,3 +18,13 @@ export const isSceneClimax = (animConfig: OstimConfigAnimation, stageIndex: numb
 
     return false
 }
+
+export const isSceneTransition = (animConfig: OstimConfigAnimation, stageIndex: number) => {
+    if(stageIndex < 0) {
+        return false
+    }
+    
+    const stage: OstimConfigAnimationStage | undefined = animConfig.stages[stageIndex]
+
+    return stage.meta.tags?.includes('transition')
+}

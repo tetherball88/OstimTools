@@ -37,6 +37,16 @@ export interface HkxAnnoation {
     duration: number
 }
 
+export interface OstimConfigSequenceScene {
+    id: string
+    duration: number
+}
+
+export interface OstimConfigSequence {
+    scenes: OstimConfigSequenceScene[],
+    tags: string[]
+}
+
 /**
  * Full object represents whole animation serie with multiple stages
  */
@@ -52,6 +62,7 @@ export interface OstimConfigAnimation {
     stages: OstimConfigAnimationStage[]
     folders: OstimConfigAnimationFolders
     hkxAnnotations?: Record<string, HkxAnnoation>
+    sequence?: OstimConfigSequence
 }
 
 export interface OstimConfig {

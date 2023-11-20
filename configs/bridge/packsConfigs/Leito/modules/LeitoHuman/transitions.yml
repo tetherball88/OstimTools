@@ -1,0 +1,5 @@
+transitions:
+    - sceneId: LeitoKissingFemaleStart-1
+      destinationId: LeitoKissingFemaleStart-2
+    - sceneId: LeitoKissingFemaleStart-3
+      destinationId: LeitoHumanPage2

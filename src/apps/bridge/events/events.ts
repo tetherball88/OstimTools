@@ -2,6 +2,7 @@ export const LOAD_CONFIGS = 'bridge-load-configs' as const;
 export const LOAD_GLOBAL_CONFIG = 'bridge-load-global-config';
 export const LOAD_STARTING_SCENES_CONFIG = 'bridge-load-starting-scenes-config';
 export const GET_ALL_ANIMATIONS = 'bridge-get-all-animations';
+export const GET_ALL_SCENES = 'bridge-get-all-scenes';
 export const VALIDATE_NEMESIS_PATH = 'bridge-validate-nemesis-path';
 export const VALIDATE_INPUT_PATH = 'bridge-validate-input-path';
 export const VALIDATE_SLAL_JSON_PATH = 'bridge-validate-slal-json-path';
@@ -31,4 +32,7 @@ export const ANALYZE_ANNOTATIONS = 'bridge-analyze-annotations';
 
 export const SEARCH_STARTING_SCENES = 'bridge-search-starting-scenes';
 
+export const BUILD_SEQUENCES = 'bridge-build-sequences';
+
 export const ARCHIVE_MOD = 'archive-mod';
+export const ARCHIVE_PACK_SEQUENCES = 'archive-pack-sequences';

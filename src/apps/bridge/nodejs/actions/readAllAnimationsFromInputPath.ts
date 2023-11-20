@@ -1,7 +1,8 @@
 import fs from 'fs';
-import { logger, isHkxFile  } from '~common/nodejs/utils';
+import path from 'path'
+import { logger, isHkxFile, glob  } from '~common/nodejs/utils';
 import { formatAnimName, parseSlalName } from "~bridge/nodejs/utils";
-import { AnimationFromModule } from '~bridge/types';
+import { AnimationFromModule, CombinedConfig } from '~bridge/types';
 
 export const readAllAnimationsFromInputPath = async (inputPath: string, prefix: string, author: string): Promise<AnimationFromModule | void> => {
     const map: Record<string, { name: string, actors: Set<number>, stages: Set<number> }> = {};
@@ -35,4 +36,10 @@ export const readAllAnimationsFromInputPath = async (inputPath: string, prefix: 
             }
         }
     }, {});
+}
+
+export const readAllScenesFromOutputPath = async (config: CombinedConfig): Promise<string[]> => {
+    const files = await glob(`${config.outputScenePath}\\**\\*.json`);
+
+    return files.map(file => path.basename(file).replace(path.extname(file), ''))
 }

@@ -64,11 +64,14 @@ export const renderHubsAndScenes = async (groups: AnimationGroup[], config: Comb
         }
 
         const animations = group.animations as OstimConfigAnimation[]
+        
 
         for(const animation of animations) {
             for(const [index] of animation.stages.entries()) {
-                if(isSceneClimax(animation, index)) {
-                    await renderTransitionScene(animation, config, index, group)
+                
+                const transition = config.transitions?.find(({ sceneId }) => sceneId === `${animation.folders.animName}-${index + 1}`)
+                if(isSceneClimax(animation, index) || transition) {
+                    await renderTransitionScene(animation, config, index, group, transition?.destinationId)
                 } else {
                     await renderScene(animation, config, index, group)
                 }

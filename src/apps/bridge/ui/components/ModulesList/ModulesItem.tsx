@@ -1,4 +1,4 @@
-import { FC, useState } from 'react';
+import { FC, createContext, useContext, useState } from 'react';
 import { FormProvider, useForm } from 'react-hook-form';
 
 import Divider from '@mui/material/Divider';
@@ -22,6 +22,18 @@ import { useBridgeState } from '~bridge/ui/state/store';
 interface ModulesItemProps {
     module: ModuleSpecificConfig
     pack: PackConfig
+}
+
+interface ModuleContext {
+    module: ModuleSpecificConfig | null
+}
+
+const moduleContext = createContext<ModuleContext>({
+    module: null
+})
+
+export const useModuleContext = () => {
+    return useContext(moduleContext)
 }
 
 export const ModulesItem: FC<ModulesItemProps> = ({ module, pack }) => {
@@ -53,51 +65,53 @@ export const ModulesItem: FC<ModulesItemProps> = ({ module, pack }) => {
     }
 
     return (
-        <FormProvider {...methods}>
-            <Box sx={{ display: 'flex', alignItems: 'center', paddingTop: 2, paddingBottom: 2 }}>
-                <Typography sx={{ overflow: 'hidden', textOverflow: 'ellipsis', width: '150px', minWidth: '50px' }}>{module.module.name}</Typography>
-                <Box
-                    sx={{
-                        marginRight: '15px'
-                    }}
-                >
-                    <Badge badgeContent="!" color="error" invisible={allValid}>
-                        <Tooltip title={allValid ? "Edit module configuration" : "Something wrong with module's config, please fix before firther actions with this module."}>
-                            <Button
-                                variant="outlined"
-                                onClick={(e) => {
-                                    e.stopPropagation();
-                                    openEditModal();
-                                }}
-                            >
-                                Edit
-                            </Button>
-                        </Tooltip>
-                    </Badge>
+        <moduleContext.Provider value={{ module }}>
+            <FormProvider {...methods}>
+                <Box sx={{ display: 'flex', alignItems: 'center', paddingTop: 2, paddingBottom: 2 }}>
+                    <Typography sx={{ overflow: 'hidden', textOverflow: 'ellipsis', width: '150px', minWidth: '50px' }}>{module.module.name}</Typography>
+                    <Box
+                        sx={{
+                            marginRight: '15px'
+                        }}
+                    >
+                        <Badge badgeContent="!" color="error" invisible={allValid}>
+                            <Tooltip title={allValid ? "Edit module configuration" : "Something wrong with module's config, please fix before firther actions with this module."}>
+                                <Button
+                                    variant="outlined"
+                                    onClick={(e) => {
+                                        e.stopPropagation();
+                                        openEditModal();
+                                    }}
+                                >
+                                    Edit
+                                </Button>
+                            </Tooltip>
+                        </Badge>
+                    </Box>
+                    <Box sx={{ marginRight: 3 }}>
+                        <ConfirmRemoveButton tooltip="Remove module config files along with output files" onConfirm={removeModuleHandler} />
+                    </Box>
+                    <Box>
+                        {
+                            !allValid ? (
+                                <Alert severity='error' sx={{ marginBottom: 1 }}>
+                                    {
+                                        nemesisValidation ? 'Please check global config. It seems your Nemesis path is invalid' : 'Please check module\'s config.'
+                                    }
+                                </Alert>
+                            ) : null
+                        }
+                        <Actions module={module} pack={pack} disabled={!allValid} />
+                    </Box>
                 </Box>
-                <Box sx={{ marginRight: 3 }}>
-                    <ConfirmRemoveButton tooltip="Remove module config files along with output files" onConfirm={removeModuleHandler} />
-                </Box>
-                <Box>
-                    {
-                        !allValid ? (
-                            <Alert severity='error' sx={{ marginBottom: 1 }}>
-                                {
-                                    nemesisValidation ? 'Please check global config. It seems your Nemesis path is invalid' : 'Please check module\'s config.'
-                                }
-                            </Alert>
-                        ) : null
-                    }
-                    <Actions module={module} pack={pack} disabled={!allValid} />
-                </Box>
-            </Box>
-            <Divider sx={{ marginTop: 3, marginBottom: 3 }} />
-            <EditModuleConfigModal
-                open={editModule}
-                onClose={closeEditModal}
-                packName={pack.pack.name}
-                author={pack.pack.author}
-            />
-        </FormProvider>
+                <Divider sx={{ marginTop: 3, marginBottom: 3 }} />
+                <EditModuleConfigModal
+                    open={editModule}
+                    onClose={closeEditModal}
+                    packName={pack.pack.name}
+                    author={pack.pack.author}
+                />
+            </FormProvider>
+        </moduleContext.Provider>
     )
 }

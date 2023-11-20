@@ -29,4 +29,5 @@ export interface CommonConfig {
      * builds full path for this script folder + folder for scenes json config files
      */
     outputScenesJsonConfigPath: string
+    outputSequencePath: string
 }

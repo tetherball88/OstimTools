@@ -7,6 +7,7 @@ import { checkIfAnimationExcluded } from "~bridge/shared/checkIfAnimationExclude
 
 export const analyzeAnimations = async (config: CombinedConfig, ostimConfig: OstimConfig) => {
     const files = await glob(`${config.outputAnimPath}\\**\\*.hkx`);
+    const { transitions } = config
 
     try {
         const hasHkanno = await checkHkanno(config);
@@ -20,9 +21,10 @@ export const analyzeAnimations = async (config: CombinedConfig, ostimConfig: Ost
         for(const file of files) {
             const { fileName, animName } = parseAnimationPath(file);
             const [actorIndexStr, stageIndexStr] = fileName.replace('.hkx', '').split('_').reverse()
+            const isCustomTransition = !!transitions?.find(({ sceneId }) => sceneId === `${animName}-${stageIndexStr}`)
 
             if(
-                !shouldAnalyzeAnnotations(ostimConfig[animName], Number(stageIndexStr) - 1, Number(actorIndexStr)) 
+                (!shouldAnalyzeAnnotations(ostimConfig[animName], Number(stageIndexStr) - 1, Number(actorIndexStr)) && !isCustomTransition)
                 || !!ostimConfig[animName].hkxAnnotations?.[fileName]
                 || checkIfAnimationExcluded(animName, config)
             ) {

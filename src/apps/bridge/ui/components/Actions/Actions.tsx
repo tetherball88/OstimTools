@@ -8,7 +8,7 @@ import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
 import { Accordion, AccordionDetails, AccordionSummary, Typography } from "@mui/material";
 
 import { ModuleSpecificConfig, PackConfig } from '~bridge/types';
-import { ARCHIVE_MOD, CLEAN_NEMESIS, CLEAN_HKX, CLEAN_MODULE, CLEAN_HUBS_AND_SCENES, RUN_ALL, RUN_ALL_2, RUN_COPY_FILES, ANALYZE_ANNOTATIONS, APPLY_ANNOTATIONS, RUN_SCENES_HUBS, SCENES_TO_CONFIG } from "~bridge/events/events";
+import { ARCHIVE_MOD, CLEAN_NEMESIS, CLEAN_HKX, CLEAN_MODULE, CLEAN_HUBS_AND_SCENES, RUN_ALL, RUN_ALL_2, RUN_COPY_FILES, ANALYZE_ANNOTATIONS, APPLY_ANNOTATIONS, RUN_SCENES_HUBS, SCENES_TO_CONFIG, BUILD_SEQUENCES } from "~bridge/events/events";
 import { SplitButton, SplitButtonOptionType } from "~common/ui/components";
 import { useSendCommand } from "~bridge/ui/hooks/useSendCommand";
 
@@ -32,6 +32,12 @@ const buttonsGeneral: SplitButtonOptionType[] = [
         text: 'archive',
         message: 'Archiving mod...'
     },
+    {
+        command: BUILD_SEQUENCES,
+        tooltip: 'Build sequences from scenes',
+        text: 'sequences',
+        message: 'Building sequences...',
+    }
 ] as SplitButtonOptionType[]
 
 const cleanButtons: SplitButtonOptionType = {

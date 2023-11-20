@@ -41,6 +41,8 @@ export const EditModuleConfigModal: FC<EditModuleConfigModalProps> = ({
         <Dialog
             open={open}
             onClose={onClose}
+            fullWidth
+            maxWidth="md"
         >
             
                 <form onSubmit={methods.handleSubmit(onSave)}>

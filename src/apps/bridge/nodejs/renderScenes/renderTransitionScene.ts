@@ -65,11 +65,13 @@ export const renderTransitionScene = async (sceneConfig: OstimConfigAnimation, c
         }
     })
 
+    console.log(name, destination || hasNextStage ? `${animName}-${stageIndexFromOne + 1}` : `${animName}-${stageIndexFromOne - 1}`)
+
     const content: OstimScene = {
         name,
         modpack: `${author}Animations`,
         length: durationFromAnnotations,
-        destination: destination || hasNextStage ? `${animName}-${stageIndexFromOne + 1}` : `${animName}-${stageIndexFromOne - 1}`,
+        destination: destination || (hasNextStage ? `${animName}-${stageIndexFromOne + 1}` : `${animName}-${stageIndexFromOne - 1}`),
         speeds: [
             {
                 animation: stageConfig.fileName,

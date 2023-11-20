@@ -326,6 +326,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "Billyy3p69a-1",
+                    "duration": 8.333333
+                },
+                {
+                    "id": "Billyy3p69a-2",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3p69a-3",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3p69a-4",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3p69a-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "Billyy3parcspita": {
@@ -650,6 +675,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "Billyy3parcspita-1",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3parcspita-2",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3parcspita-3",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3parcspita-4",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3parcspita-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "Billyy3pdoublebj": {
@@ -1065,6 +1115,39 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "Billyy3pdoublebj-1",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pdoublebj-2",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pdoublebj-3",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pdoublebj-4",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pdoublebj-5",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pdoublebj-6",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pdoublebj-7",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "Billyy3pdp1": {
@@ -1397,6 +1480,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "Billyy3pdp1-1",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pdp1-2",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pdp1-3",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pdp1-4",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pdp1-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "Billyy3pdp2": {
@@ -1733,6 +1841,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "Billyy3pdp2-1",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pdp2-2",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pdp2-3",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pdp2-4",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pdp2-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "Billyy3pdp3": {
@@ -2081,6 +2214,31 @@
                 "duration": 8,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "Billyy3pdp3-1",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pdp3-2",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pdp3-3",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pdp3-4",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pdp3-5",
+                    "duration": 8
+                }
+            ],
+            "tags": []
         }
     },
     "Billyy3pdp4": {
@@ -2257,7 +2415,8 @@
                 ],
                 "meta": {
                     "tags": [
-                        "billyy"
+                        "billyy",
+                        "transition"
                     ]
                 },
                 "id": "Billyy3pdp4-4",
@@ -2412,7 +2571,48 @@
             "Billyy3pdp4_6_2.hkx": {
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
+            },
+            "Billyy3pdp4_4_0.hkx": {
+                "duration": 21.166666,
+                "annotationLines": ""
+            },
+            "Billyy3pdp4_4_1.hkx": {
+                "duration": 21.166666,
+                "annotationLines": ""
+            },
+            "Billyy3pdp4_4_2.hkx": {
+                "duration": 21.166666,
+                "annotationLines": ""
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "Billyy3pdp4-1",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pdp4-2",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pdp4-3",
+                    "duration": 20
+                },
+                {
+                    "id": "Billyy3pdp4-4",
+                    "duration": 21.166666
+                },
+                {
+                    "id": "Billyy3pdp4-5",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pdp4-6",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "Billyy3pkneelspit": {
@@ -2745,6 +2945,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "Billyy3pkneelspit-1",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pkneelspit-2",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pkneelspit-3",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pkneelspit-4",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pkneelspit-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "Billyy3pmissspit1": {
@@ -3066,6 +3291,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "Billyy3pmissspit1-1",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pmissspit1-2",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pmissspit1-3",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pmissspit1-4",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pmissspit1-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "Billyy3prcgspit": {
@@ -3369,6 +3619,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "Billyy3prcgspit-1",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3prcgspit-2",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3prcgspit-3",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3prcgspit-4",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3prcgspit-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "Billyy3pspit1": {
@@ -3674,6 +3949,31 @@
                 "duration": 8,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "Billyy3pspit1-1",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pspit1-2",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pspit1-3",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pspit1-4",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pspit1-5",
+                    "duration": 8
+                }
+            ],
+            "tags": []
         }
     },
     "Billyy3pspita2": {
@@ -4004,6 +4304,31 @@
                 "duration": 8,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "Billyy3pspita2-1",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pspita2-2",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pspita2-3",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pspita2-4",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pspita2-5",
+                    "duration": 8
+                }
+            ],
+            "tags": []
         }
     },
     "Billyy3pspitdoga": {
@@ -4303,6 +4628,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "Billyy3pspitdoga-1",
+                    "duration": 8.333333
+                },
+                {
+                    "id": "Billyy3pspitdoga-2",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pspitdoga-3",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pspitdoga-4",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pspitdoga-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "Billyy3pstandspit1": {
@@ -4646,6 +4996,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "Billyy3pstandspit1-1",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pstandspit1-2",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pstandspit1-3",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pstandspit1-4",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pstandspit1-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "Billyy4pgang4": {
@@ -5032,6 +5407,31 @@
                 "duration": 8,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "Billyy4pgang4-1",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy4pgang4-2",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy4pgang4-3",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy4pgang4-4",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy4pgang4-5",
+                    "duration": 8
+                }
+            ],
+            "tags": []
         }
     },
     "Billyy4pgang5": {
@@ -5411,6 +5811,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "Billyy4pgang5-1",
+                    "duration": 8.333333
+                },
+                {
+                    "id": "Billyy4pgang5-2",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy4pgang5-3",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy4pgang5-4",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy4pgang5-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "Billyy4pgang6": {
@@ -5836,6 +6261,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "Billyy4pgang6-1",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy4pgang6-2",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy4pgang6-3",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy4pgang6-4",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy4pgang6-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "Billyy4pgang7": {
@@ -6288,6 +6738,35 @@
                 "duration": 8,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "Billyy4pgang7-1",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy4pgang7-2",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy4pgang7-3",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy4pgang7-4",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy4pgang7-5",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy4pgang7-6",
+                    "duration": 8
+                }
+            ],
+            "tags": []
         }
     },
     "Billyy4pgb1": {
@@ -6684,6 +7163,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "Billyy4pgb1-1",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy4pgb1-2",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy4pgb1-3",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy4pgb1-4",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy4pgb1-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "Billyy4pgb2": {
@@ -7060,6 +7564,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "Billyy4pgb2-1",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy4pgb2-2",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy4pgb2-3",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy4pgb2-4",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy4pgb2-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "Billyy4pgb8": {
@@ -7490,6 +8019,35 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "Billyy4pgb8-1",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy4pgb8-2",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy4pgb8-3",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy4pgb8-4",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy4pgb8-5",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy4pgb8-6",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "Billyy4pserv1": {
@@ -7869,6 +8427,31 @@
                 "duration": 8,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "Billyy4pserv1-1",
+                    "duration": 8.333333
+                },
+                {
+                    "id": "Billyy4pserv1-2",
+                    "duration": 8.333333
+                },
+                {
+                    "id": "Billyy4pserv1-3",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy4pserv1-4",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy4pserv1-5",
+                    "duration": 8
+                }
+            ],
+            "tags": []
         }
     },
     "Billyy4pservgob": {
@@ -8294,6 +8877,35 @@
                 "duration": 8,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "Billyy4pservgob-1",
+                    "duration": 8.333333
+                },
+                {
+                    "id": "Billyy4pservgob-2",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy4pservgob-3",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy4pservgob-4",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy4pservgob-5",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy4pservgob-6",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "Billyy5pgb1": {
@@ -8805,6 +9417,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "Billyy5pgb1-1",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy5pgb1-2",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy5pgb1-3",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy5pgb1-4",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy5pgb1-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "Billyy5pgb2": {
@@ -9352,6 +9989,35 @@
                 "duration": 8,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "Billyy5pgb2-1",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy5pgb2-2",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy5pgb2-3",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy5pgb2-4",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy5pgb2-5",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy5pgb2-6",
+                    "duration": 8
+                }
+            ],
+            "tags": []
         }
     },
     "Billyy5pgb3": {
@@ -9961,6 +10627,39 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "Billyy5pgb3-1",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy5pgb3-2",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy5pgb3-3",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy5pgb3-4",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy5pgb3-5",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy5pgb3-6",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy5pgb3-7",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "Billyy4pgangbang3": {
@@ -10389,6 +11088,31 @@
                 "duration": 8,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "Billyy4pgangbang3-1",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy4pgangbang3-2",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy4pgangbang3-3",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy4pgangbang3-4",
+                    "duration": 7.8
+                },
+                {
+                    "id": "Billyy4pgangbang3-5",
+                    "duration": 8
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyFmast1": {
@@ -10547,6 +11271,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyFmast1-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyFmast1-2",
+                    "duration": 8.333333
+                },
+                {
+                    "id": "BillyyFmast1-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyFmast1-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyFmast1-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyFmast2": {
@@ -10696,6 +11445,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyFmast2-1",
+                    "duration": 8.333333
+                },
+                {
+                    "id": "BillyyFmast2-2",
+                    "duration": 8.333333
+                },
+                {
+                    "id": "BillyyFmast2-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyFmast2-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyFmast2-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyFmast3": {
@@ -10846,6 +11620,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyFmast3-1",
+                    "duration": 8.333333
+                },
+                {
+                    "id": "BillyyFmast3-2",
+                    "duration": 8.333333
+                },
+                {
+                    "id": "BillyyFmast3-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyFmast3-4",
+                    "duration": 8.4
+                },
+                {
+                    "id": "BillyyFmast3-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyFmast4": {
@@ -10999,6 +11798,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyFmast4-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyFmast4-2",
+                    "duration": 16
+                },
+                {
+                    "id": "BillyyFmast4-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyFmast4-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyFmast4-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyFmaststaff": {
@@ -11183,6 +12007,35 @@
                 "duration": 8,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyFmaststaff-1",
+                    "duration": 8.333333
+                },
+                {
+                    "id": "BillyyFmaststaff-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyFmaststaff-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyFmaststaff-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyFmaststaff-5",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyFmaststaff-6",
+                    "duration": 8
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyMalemmug": {
@@ -11335,6 +12188,31 @@
                 "duration": 8,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyMalemmug-1",
+                    "duration": 8.333333
+                },
+                {
+                    "id": "BillyyMalemmug-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyMalemmug-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyMalemmug-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyMalemmug-5",
+                    "duration": 8
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyMkneelmast1": {
@@ -11487,6 +12365,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyMkneelmast1-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyMkneelmast1-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyMkneelmast1-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyMkneelmast1-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyMkneelmast1-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyMkneelmast2": {
@@ -11639,6 +12542,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyMkneelmast2-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyMkneelmast2-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyMkneelmast2-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyMkneelmast2-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyMkneelmast2-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyMlaymast1": {
@@ -11791,6 +12719,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyMlaymast1-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyMlaymast1-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyMlaymast1-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyMlaymast1-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyMlaymast1-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyMstandmast1": {
@@ -11943,6 +12896,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyMstandmast1-1",
+                    "duration": 8.333333
+                },
+                {
+                    "id": "BillyyMstandmast1-2",
+                    "duration": 8.333333
+                },
+                {
+                    "id": "BillyyMstandmast1-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyMstandmast1-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyMstandmast1-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyMstandmast2": {
@@ -12095,6 +13073,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyMstandmast2-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyMstandmast2-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyMstandmast2-3",
+                    "duration": 8.333333
+                },
+                {
+                    "id": "BillyyMstandmast2-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyMstandmast2-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyBehmeme": {
@@ -12322,6 +13325,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyBehmeme-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyBehmeme-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyBehmeme-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyBehmeme-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyBehmeme-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyCg2squatt": {
@@ -12537,6 +13565,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyCg2squatt-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyCg2squatt-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyCg2squatt-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyCg2squatt-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyCg2squatt-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyCganal": {
@@ -12757,6 +13810,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyCganal-1",
+                    "duration": 8.333333
+                },
+                {
+                    "id": "BillyyCganal-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyCganal-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyCganal-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyCganal-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyCggrind": {
@@ -12977,6 +14055,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyCggrind-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyCggrind-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyCggrind-3",
+                    "duration": 7.933333
+                },
+                {
+                    "id": "BillyyCggrind-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyCggrind-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyCglay": {
@@ -13207,6 +14310,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyCglay-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyCglay-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyCglay-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyCglay-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyCglay-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyCowgirl1": {
@@ -13437,6 +14565,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyCowgirl1-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyCowgirl1-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyCowgirl1-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyCowgirl1-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyCowgirl1-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyCrabmiss": {
@@ -13664,6 +14817,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyCrabmiss-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyCrabmiss-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyCrabmiss-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyCrabmiss-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyCrabmiss-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyCthighj": {
@@ -13881,6 +15059,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyCthighj-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyCthighj-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyCthighj-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyCthighj-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyCthighj-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyDogbj": {
@@ -14098,6 +15301,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyDogbj-1",
+                    "duration": 8.333333
+                },
+                {
+                    "id": "BillyyDogbj-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyDogbj-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyDogbj-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyDogbj-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyDoggy1": {
@@ -14319,6 +15547,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyDoggy1-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyDoggy1-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyDoggy1-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyDoggy1-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyDoggy1-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyDoggyarm": {
@@ -14562,6 +15815,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyDoggyarm-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyDoggyarm-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyDoggyarm-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyDoggyarm-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyDoggyarm-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyFacesitcunn": {
@@ -14769,6 +16047,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyFacesitcunn-1",
+                    "duration": 8.333333
+                },
+                {
+                    "id": "BillyyFacesitcunn-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyFacesitcunn-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyFacesitcunn-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyFacesitcunn-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyFhjmiss": {
@@ -15003,6 +16306,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyFhjmiss-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyFhjmiss-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyFhjmiss-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyFhjmiss-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyFhjmiss-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyFhjstand": {
@@ -15263,6 +16591,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyFhjstand-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyFhjstand-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyFhjstand-3",
+                    "duration": 8.333333
+                },
+                {
+                    "id": "BillyyFhjstand-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyFhjstand-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyFinger1": {
@@ -15483,6 +16836,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyFinger1-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyFinger1-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyFinger1-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyFinger1-4",
+                    "duration": 8.333333
+                },
+                {
+                    "id": "BillyyFinger1-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyFinger2": {
@@ -15708,6 +17086,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyFinger2-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyFinger2-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyFinger2-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyFinger2-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyFinger2-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyFj": {
@@ -15905,6 +17308,31 @@
                 "duration": 8,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyFj-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyFj-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyFj-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyFj-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyFj-5",
+                    "duration": 8
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyHj1": {
@@ -16142,6 +17570,31 @@
                 "duration": 8,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyHj1-1",
+                    "duration": 8.333333
+                },
+                {
+                    "id": "BillyyHj1-2",
+                    "duration": 8.333333
+                },
+                {
+                    "id": "BillyyHj1-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyHj1-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyHj1-5",
+                    "duration": 8
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyHj2": {
@@ -16349,6 +17802,31 @@
                 "duration": 8,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyHj2-1",
+                    "duration": 8.333333
+                },
+                {
+                    "id": "BillyyHj2-2",
+                    "duration": 8.333333
+                },
+                {
+                    "id": "BillyyHj2-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyHj2-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyHj2-5",
+                    "duration": 8
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyHj3lay": {
@@ -16556,6 +18034,31 @@
                 "duration": 8,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyHj3lay-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyHj3lay-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyHj3lay-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyHj3lay-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyHj3lay-5",
+                    "duration": 8
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyHold": {
@@ -16796,6 +18299,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyHold-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyHold-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyHold-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyHold-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyHold-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyKneelbj2": {
@@ -16993,6 +18521,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyKneelbj2-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyKneelbj2-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyKneelbj2-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyKneelbj2-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyKneelbj2-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyKneelbj3": {
@@ -17200,6 +18753,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyKneelbj3-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyKneelbj3-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyKneelbj3-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyKneelbj3-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyKneelbj3-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyKneff": {
@@ -17423,6 +19001,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyKneff-1",
+                    "duration": 8.333333
+                },
+                {
+                    "id": "BillyyKneff-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyKneff-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyKneff-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyKneff-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyLay692": {
@@ -17669,6 +19272,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyLay692-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLay692-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLay692-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLay692-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLay692-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyLayanal": {
@@ -17889,6 +19517,31 @@
                 "duration": 8,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyLayanal-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLayanal-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLayanal-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLayanal-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLayanal-5",
+                    "duration": 8
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyLayba": {
@@ -18134,6 +19787,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyLayba-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLayba-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLayba-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLayba-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLayba-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyLaybff": {
@@ -18360,6 +20038,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyLaybff-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLaybff-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLaybff-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLaybff-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLaybff-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyLaybjdog": {
@@ -18557,6 +20260,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyLaybjdog-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLaybjdog-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLaybjdog-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLaybjdog-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLaybjdog-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyLaycunn": {
@@ -18755,6 +20483,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyLaycunn-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLaycunn-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLaycunn-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLaycunn-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLaycunn-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyLayprone": {
@@ -18970,6 +20723,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyLayprone-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLayprone-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLayprone-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLayprone-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLayprone-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyLaytitf": {
@@ -19191,6 +20969,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyLaytitf-1",
+                    "duration": 8.333333
+                },
+                {
+                    "id": "BillyyLaytitf-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLaytitf-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLaytitf-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLaytitf-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyLotussit": {
@@ -19436,6 +21239,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyLotussit-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLotussit-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLotussit-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLotussit-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLotussit-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyMalesitbj": {
@@ -19708,6 +21536,39 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyMalesitbj-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyMalesitbj-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyMalesitbj-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyMalesitbj-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyMalesitbj-5",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyMalesitbj-6",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyMalesitbj-7",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyMatingp": {
@@ -19933,6 +21794,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyMatingp-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyMatingp-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyMatingp-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyMatingp-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyMatingp-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyMissa": {
@@ -20163,6 +22049,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyMissa-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyMissa-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyMissa-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyMissa-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyMissa-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyNellay": {
@@ -20410,6 +22321,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyNellay-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyNellay-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyNellay-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyNellay-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyNellay-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyRcg2": {
@@ -20650,6 +22586,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyRcg2-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyRcg2-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyRcg2-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyRcg2-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyRcg2-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyRevlotus": {
@@ -20889,6 +22850,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyRevlotus-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyRevlotus-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyRevlotus-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyRevlotus-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyRevlotus-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyRevlotus2": {
@@ -21126,6 +23112,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyRevlotus2-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyRevlotus2-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyRevlotus2-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyRevlotus2-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyRevlotus2-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyRjdog": {
@@ -21368,6 +23379,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyRjdog-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyRjdog-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyRjdog-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyRjdog-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyRjdog-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyySide": {
@@ -21587,6 +23623,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyySide-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyySide-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyySide-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyySide-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyySide-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyySitbj": {
@@ -21784,6 +23845,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyySitbj-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyySitbj-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyySitbj-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyySitbj-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyySitbj-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyySkiss1": {
@@ -22015,6 +24101,31 @@
             "moduleName": "BillyysHuman",
             "posFolderName": "fmPos",
             "animName": "BillyySkiss1"
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyySkiss1-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyySkiss1-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyySkiss1-3",
+                    "duration": 7.333333
+                },
+                {
+                    "id": "BillyySkiss1-4",
+                    "duration": 8.333333
+                },
+                {
+                    "id": "BillyySkiss1-5",
+                    "duration": 8
+                }
+            ],
+            "tags": []
         }
     },
     "BillyySpankdog": {
@@ -22200,6 +24311,31 @@
                 "duration": 8,
                 "annotationLines": "0.204444 OStimEvent.spank,1\n0.853333 OStimEvent.spank,1\n1.511111 OStimEvent.spank,1\n2.168889 OStimEvent.spank,1\n2.826667 OStimEvent.spank,1\n3.484445 OStimEvent.spank,1\n4.142223 OStimEvent.spank,1\n4.800001 OStimEvent.spank,1\n5.457779 OStimEvent.spank,1\n6.115557 OStimEvent.spank,1\n6.773335 OStimEvent.spank,1\n7.431113 OStimEvent.spank,1"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyySpankdog-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyySpankdog-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyySpankdog-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyySpankdog-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyySpankdog-5",
+                    "duration": 8
+                }
+            ],
+            "tags": []
         }
     },
     "BillyySpankstand": {
@@ -22392,6 +24528,31 @@
                 "duration": 8,
                 "annotationLines": "0.231111 OStimEvent.spank,1\n0.862222 OStimEvent.spank,1\n1.537777 OStimEvent.spank,1\n2.204444 OStimEvent.spank,1\n2.862222 OStimEvent.spank,1\n3.475556 OStimEvent.spank,1\n4.133333 OStimEvent.spank,1\n4.773333 OStimEvent.spank,1\n5.431111 OStimEvent.spank,1\n6.097778 OStimEvent.spank,1\n6.773333 OStimEvent.spank,1\n7.431111 OStimEvent.spank,1"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyySpankstand-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyySpankstand-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyySpankstand-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyySpankstand-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyySpankstand-5",
+                    "duration": 8
+                }
+            ],
+            "tags": []
         }
     },
     "BillyySquat": {
@@ -22625,6 +24786,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyySquat-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyySquat-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyySquat-3",
+                    "duration": 8.066667
+                },
+                {
+                    "id": "BillyySquat-4",
+                    "duration": 8.1
+                },
+                {
+                    "id": "BillyySquat-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyySquatbj": {
@@ -22850,6 +25036,31 @@
                 "duration": 8,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyySquatbj-1",
+                    "duration": 8.333333
+                },
+                {
+                    "id": "BillyySquatbj-2",
+                    "duration": 8.333333
+                },
+                {
+                    "id": "BillyySquatbj-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyySquatbj-4",
+                    "duration": 7.333333
+                },
+                {
+                    "id": "BillyySquatbj-5",
+                    "duration": 8
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyStand": {
@@ -23078,6 +25289,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyStand-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyStand-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyStand-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyStand-4",
+                    "duration": 8.1
+                },
+                {
+                    "id": "BillyyStand-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyStanda": {
@@ -23324,6 +25560,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyStanda-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyStanda-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyStanda-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyStanda-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyStanda-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyStandbj": {
@@ -23579,6 +25840,35 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyStandbj-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyStandbj-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyStandbj-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyStandbj-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyStandbj-5",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyStandbj-6",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyStandface": {
@@ -23829,6 +26119,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyStandface-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyStandface-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyStandface-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyStandface-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyStandface-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyySthighf": {
@@ -24081,6 +26396,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyySthighf-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyySthighf-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyySthighf-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyySthighf-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyySthighf-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyLayingblowjob": {
@@ -24293,6 +26633,31 @@
                 "duration": 7.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyLayingblowjob-1",
+                    "duration": 7
+                },
+                {
+                    "id": "BillyyLayingblowjob-2",
+                    "duration": 6.933333
+                },
+                {
+                    "id": "BillyyLayingblowjob-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLayingblowjob-4",
+                    "duration": 6.666667
+                },
+                {
+                    "id": "BillyyLayingblowjob-5",
+                    "duration": 7.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyLegup": {
@@ -24550,6 +26915,31 @@
                 "duration": 8.4,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyLegup-1",
+                    "duration": 7
+                },
+                {
+                    "id": "BillyyLegup-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLegup-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLegup-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLegup-5",
+                    "duration": 8.4
+                }
+            ],
+            "tags": []
         }
     },
     "BillyySpooningfacing": {
@@ -24812,6 +27202,31 @@
                 "duration": 7,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyySpooningfacing-1",
+                    "duration": 12
+                },
+                {
+                    "id": "BillyySpooningfacing-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyySpooningfacing-3",
+                    "duration": 7.8
+                },
+                {
+                    "id": "BillyySpooningfacing-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyySpooningfacing-5",
+                    "duration": 7
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyL3porgy1": {
@@ -25130,6 +27545,31 @@
                 "duration": 8,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyL3porgy1-1",
+                    "duration": 8.333333
+                },
+                {
+                    "id": "BillyyL3porgy1-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyL3porgy1-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyL3porgy1-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyL3porgy1-5",
+                    "duration": 8
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyL3porgy2": {
@@ -25421,6 +27861,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyL3porgy2-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyL3porgy2-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyL3porgy2-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyL3porgy2-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyL3porgy2-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyL3porgy3": {
@@ -25718,6 +28183,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyL3porgy3-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyL3porgy3-2",
+                    "duration": 8.333333
+                },
+                {
+                    "id": "BillyyL3porgy3-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyL3porgy3-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyL3porgy3-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyL3porgy4": {
@@ -26045,6 +28535,31 @@
                 "duration": 8,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyL3porgy4-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyL3porgy4-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyL3porgy4-3",
+                    "duration": 8.333333
+                },
+                {
+                    "id": "BillyyL3porgy4-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyL3porgy4-5",
+                    "duration": 8
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyL3porgy5": {
@@ -26350,6 +28865,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyL3porgy5-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyL3porgy5-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyL3porgy5-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyL3porgy5-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyL3porgy5-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyL3porgy6": {
@@ -26674,6 +29214,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyL3porgy6-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyL3porgy6-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyL3porgy6-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyL3porgy6-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyL3porgy6-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyL69": {
@@ -26962,6 +29527,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyL69-1",
+                    "duration": 8.333333
+                },
+                {
+                    "id": "BillyyL69-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyL69-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyL69-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyL69-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyL69side": {
@@ -27230,6 +29820,31 @@
                 "duration": 8,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyL69side-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyL69side-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyL69side-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyL69side-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyL69side-5",
+                    "duration": 8
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyLcunn1": {
@@ -27475,6 +30090,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyLcunn1-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLcunn1-2",
+                    "duration": 9
+                },
+                {
+                    "id": "BillyyLcunn1-3",
+                    "duration": 8.333333
+                },
+                {
+                    "id": "BillyyLcunn1-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLcunn1-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyLcunn2": {
@@ -27713,6 +30353,31 @@
                 "duration": 8,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyLcunn2-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLcunn2-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLcunn2-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLcunn2-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLcunn2-5",
+                    "duration": 8
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyLcunn3": {
@@ -27930,6 +30595,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyLcunn3-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLcunn3-2",
+                    "duration": 9
+                },
+                {
+                    "id": "BillyyLcunn3-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLcunn3-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLcunn3-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyLcunn4": {
@@ -28161,6 +30851,31 @@
                 "duration": 8,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyLcunn4-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLcunn4-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLcunn4-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLcunn4-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLcunn4-5",
+                    "duration": 8
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyLcunn5": {
@@ -28372,6 +31087,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyLcunn5-1",
+                    "duration": 8.333333
+                },
+                {
+                    "id": "BillyyLcunn5-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLcunn5-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLcunn5-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLcunn5-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyLesdilpile": {
@@ -28601,6 +31341,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyLesdilpile-1",
+                    "duration": 8.333333
+                },
+                {
+                    "id": "BillyyLesdilpile-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLesdilpile-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLesdilpile-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLesdilpile-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyLesdoubled1": {
@@ -28831,6 +31596,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyLesdoubled1-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLesdoubled1-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLesdoubled1-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLesdoubled1-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLesdoubled1-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyLesdoubled2": {
@@ -29085,6 +31875,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyLesdoubled2-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLesdoubled2-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLesdoubled2-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLesdoubled2-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLesdoubled2-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyLesmdil1": {
@@ -29323,6 +32138,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyLesmdil1-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLesmdil1-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLesmdil1-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLesmdil1-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLesmdil1-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyLesmdil2": {
@@ -29549,6 +32389,31 @@
                 "duration": 8,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyLesmdil2-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLesmdil2-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLesmdil2-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLesmdil2-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLesmdil2-5",
+                    "duration": 8
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyLesmdil3": {
@@ -29806,6 +32671,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyLesmdil3-1",
+                    "duration": 8.333333
+                },
+                {
+                    "id": "BillyyLesmdil3-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLesmdil3-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLesmdil3-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLesmdil3-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyLfing1": {
@@ -30036,6 +32926,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyLfing1-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLfing1-2",
+                    "duration": 7.466667
+                },
+                {
+                    "id": "BillyyLfing1-3",
+                    "duration": 9.333333
+                },
+                {
+                    "id": "BillyyLfing1-4",
+                    "duration": 8.333333
+                },
+                {
+                    "id": "BillyyLfing1-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyLfing2": {
@@ -30282,6 +33197,31 @@
                 "duration": 8,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyLfing2-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLfing2-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLfing2-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLfing2-4",
+                    "duration": 9
+                },
+                {
+                    "id": "BillyyLfing2-5",
+                    "duration": 8
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyLfing3": {
@@ -30552,6 +33492,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyLfing3-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLfing3-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLfing3-3",
+                    "duration": 8.333333
+                },
+                {
+                    "id": "BillyyLfing3-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLfing3-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyLfing4": {
@@ -30779,6 +33744,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyLfing4-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLfing4-2",
+                    "duration": 8.333333
+                },
+                {
+                    "id": "BillyyLfing4-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLfing4-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLfing4-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyLfing5": {
@@ -30991,6 +33981,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyLfing5-1",
+                    "duration": 8.333333
+                },
+                {
+                    "id": "BillyyLfing5-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLfing5-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLfing5-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLfing5-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyLskiss1": {
@@ -31222,6 +34237,31 @@
             "moduleName": "BillyysLesbian",
             "posFolderName": "ffPos",
             "animName": "BillyyLskiss1"
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyLskiss1-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLskiss1-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLskiss1-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLskiss1-4",
+                    "duration": 8.333333
+                },
+                {
+                    "id": "BillyyLskiss1-5",
+                    "duration": 8
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyLtrib1": {
@@ -31448,6 +34488,31 @@
                 "duration": 8,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyLtrib1-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLtrib1-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLtrib1-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLtrib1-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLtrib1-5",
+                    "duration": 8
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyLtrib2": {
@@ -31666,6 +34731,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyLtrib2-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLtrib2-2",
+                    "duration": 8.333333
+                },
+                {
+                    "id": "BillyyLtrib2-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLtrib2-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyLtrib2-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "Billyy3pffm69": {
@@ -31974,6 +35064,31 @@
                 "duration": 8,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "Billyy3pffm69-1",
+                    "duration": 8.333333
+                },
+                {
+                    "id": "Billyy3pffm69-2",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pffm69-3",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pffm69-4",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pffm69-5",
+                    "duration": 8
+                }
+            ],
+            "tags": []
         }
     },
     "Billyy3pffmbrj": {
@@ -32259,6 +35374,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "Billyy3pffmbrj-1",
+                    "duration": 8.333333
+                },
+                {
+                    "id": "Billyy3pffmbrj-2",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pffmbrj-3",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pffmbrj-4",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pffmbrj-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "Billyy3pffmcg": {
@@ -32562,6 +35702,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "Billyy3pffmcg-1",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pffmcg-2",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pffmcg-3",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pffmcg-4",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pffmcg-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "Billyy3pffmdog": {
@@ -32885,6 +36050,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "Billyy3pffmdog-1",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pffmdog-2",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pffmdog-3",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pffmdog-4",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pffmdog-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "Billyy3pffmdogside": {
@@ -33403,6 +36593,47 @@
                 "duration": 8,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "Billyy3pffmdogside-1",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pffmdogside-2",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pffmdogside-3",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pffmdogside-4",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pffmdogside-5",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pffmdogside-6",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pffmdogside-7",
+                    "duration": 8.333333
+                },
+                {
+                    "id": "Billyy3pffmdogside-8",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pffmdogside-9",
+                    "duration": 8
+                }
+            ],
+            "tags": []
         }
     },
     "Billyy3pffmfacefuck": {
@@ -33685,6 +36916,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "Billyy3pffmfacefuck-1",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pffmfacefuck-2",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pffmfacefuck-3",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pffmfacefuck-4",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pffmfacefuck-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "Billyy3pffmholda": {
@@ -34001,6 +37257,31 @@
                 "duration": 8,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "Billyy3pffmholda-1",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pffmholda-2",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pffmholda-3",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pffmholda-4",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pffmholda-5",
+                    "duration": 8
+                }
+            ],
+            "tags": []
         }
     },
     "Billyy3pffmmis": {
@@ -34318,6 +37599,31 @@
                 "duration": 8,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "Billyy3pffmmis-1",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pffmmis-2",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pffmmis-3",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pffmmis-4",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pffmmis-5",
+                    "duration": 8
+                }
+            ],
+            "tags": []
         }
     },
     "Billyy3pffmmisf": {
@@ -34639,6 +37945,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "Billyy3pffmmisf-1",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pffmmisf-2",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pffmmisf-3",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pffmmisf-4",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pffmmisf-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "Billyy4pfffmcg": {
@@ -35072,6 +38403,35 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "Billyy4pfffmcg-1",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy4pfffmcg-2",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy4pfffmcg-3",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy4pfffmcg-4",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy4pfffmcg-5",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy4pfffmcg-6",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "Billyy4pfffmstandline": {
@@ -35591,6 +38951,39 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "Billyy4pfffmstandline-1",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy4pfffmstandline-2",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy4pfffmstandline-3",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy4pfffmstandline-4",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy4pfffmstandline-5",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy4pfffmstandline-6",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy4pfffmstandline-7",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "Billyy4pffmmstandingswing": {
@@ -36238,6 +39631,43 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "Billyy4pffmmstandingswing-1",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy4pffmmstandingswing-2",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy4pffmmstandingswing-3",
+                    "duration": 16.666666
+                },
+                {
+                    "id": "Billyy4pffmmstandingswing-4",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy4pffmmstandingswing-5",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy4pffmmstandingswing-6",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy4pffmmstandingswing-7",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy4pffmmstandingswing-8",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "Billyy5pffffmstandline": {
@@ -36895,6 +40325,39 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "Billyy5pffffmstandline-1",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy5pffffmstandline-2",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy5pffffmstandline-3",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy5pffffmstandline-4",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy5pffffmstandline-5",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy5pffffmstandline-6",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy5pffffmstandline-7",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyFfmlaysrv": {
@@ -37205,6 +40668,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyFfmlaysrv-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyFfmlaysrv-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyFfmlaysrv-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyFfmlaysrv-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyFfmlaysrv-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyTiltwff": {
@@ -38540,6 +42028,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "Billyy3pgloryholespitroast-1",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pgloryholespitroast-2",
+                    "duration": 8.333333
+                },
+                {
+                    "id": "Billyy3pgloryholespitroast-3",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pgloryholespitroast-4",
+                    "duration": 8
+                },
+                {
+                    "id": "Billyy3pgloryholespitroast-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyAlchemyworkbenchfuck": {
@@ -38796,6 +42309,35 @@
                 "duration": 8.4,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyAlchemyworkbenchfuck-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyAlchemyworkbenchfuck-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyAlchemyworkbenchfuck-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyAlchemyworkbenchfuck-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyAlchemyworkbenchfuck-5",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyAlchemyworkbenchfuck-6",
+                    "duration": 8.4
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyChairdildo": {
@@ -38948,6 +42490,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyChairdildo-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyChairdildo-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyChairdildo-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyChairdildo-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyChairdildo-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyEnchantingworkbenchfuck": {
@@ -39199,6 +42766,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyEnchantingworkbenchfuck-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyEnchantingworkbenchfuck-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyEnchantingworkbenchfuck-3",
+                    "duration": 7.833333
+                },
+                {
+                    "id": "BillyyEnchantingworkbenchfuck-4",
+                    "duration": 7.933333
+                },
+                {
+                    "id": "BillyyEnchantingworkbenchfuck-5",
+                    "duration": 8.4
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyFurotub1": {
@@ -39367,6 +42959,31 @@
                 "duration": 8.4,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyFurotub1-1",
+                    "duration": 7
+                },
+                {
+                    "id": "BillyyFurotub1-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyFurotub1-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyFurotub1-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyFurotub1-5",
+                    "duration": 8.4
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyFurotub2": {
@@ -39519,6 +43136,31 @@
                 "duration": 8.4,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyFurotub2-1",
+                    "duration": 8.4
+                },
+                {
+                    "id": "BillyyFurotub2-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyFurotub2-3",
+                    "duration": 7.8
+                },
+                {
+                    "id": "BillyyFurotub2-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyFurotub2-5",
+                    "duration": 8.4
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyGloryholeblowjob": {
@@ -39721,6 +43363,31 @@
                 "duration": 8,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyGloryholeblowjob-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyGloryholeblowjob-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyGloryholeblowjob-3",
+                    "duration": 12
+                },
+                {
+                    "id": "BillyyGloryholeblowjob-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyGloryholeblowjob-5",
+                    "duration": 8
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyGloryholefuck": {
@@ -39942,6 +43609,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyGloryholefuck-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyGloryholefuck-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyGloryholefuck-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyGloryholefuck-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyGloryholefuck-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyGloryholestuckfuck": {
@@ -40162,6 +43854,31 @@
                 "duration": 8.333333,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "BillyyGloryholestuckfuck-1",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyGloryholestuckfuck-2",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyGloryholestuckfuck-3",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyGloryholestuckfuck-4",
+                    "duration": 8
+                },
+                {
+                    "id": "BillyyGloryholestuckfuck-5",
+                    "duration": 8.333333
+                }
+            ],
+            "tags": []
         }
     },
     "BillyyPilloryfuck1": {

@@ -3,9 +3,9 @@ import archiver from 'archiver'
 import { CombinedConfig } from '~bridge/types';
 import { logger } from '~common/nodejs/utils';
 
-export const archiveMod = (combinedConfig: CombinedConfig): Promise<void> => {
+export const archiveMod = async (combinedConfig: CombinedConfig) => {
     const packOutputPath = combinedConfig.pack.outputPath
-    return new Promise((resolve, reject) => {
+    const promise = new Promise<void>((resolve, reject) => {
         const output = fs.createWriteStream(`${packOutputPath}\\${combinedConfig.module.name}.zip`);
 
         const archive = archiver('zip');
@@ -44,4 +44,6 @@ export const archiveMod = (combinedConfig: CombinedConfig): Promise<void> => {
         archive.finalize();
     })
     
+    return await promise
 }
+

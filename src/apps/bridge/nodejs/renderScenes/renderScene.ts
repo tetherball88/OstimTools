@@ -1,7 +1,7 @@
 import { OstimConfigAnimation, CombinedConfig, AnimationGroup, OstimConfigAnimationStage } from '~bridge/types';
 import { OstimScene, OstimSceneAction, OstimSceneActor, OstimSceneNavigation } from '~bridge/types/OstimSAScene';
 import { writeFile } from '~common/nodejs/utils';
-import { isSceneClimax } from '~bridge/shared/isAnimationClimax';
+import { isSceneClimax, isSceneTransition } from '~bridge/shared/isAnimationClimax';
 
 
 /**
@@ -27,7 +27,7 @@ export const renderScene = async (sceneConfig: OstimConfigAnimation, config: Com
     const isFirst = stageIndex === 0;
     const stageIndexFromOne = stageIndex + 1;
     const nextStage: OstimConfigAnimationStage | undefined = sceneConfig.stages[stageIndex + 1]
-    const isPrevStageClimax = isSceneClimax(sceneConfig, stageIndex-1)
+    const isPrevStageTransition = isSceneTransition(sceneConfig, stageIndex-1)
     
     const navigations: OstimSceneNavigation[] = []
 
@@ -51,14 +51,17 @@ export const renderScene = async (sceneConfig: OstimConfigAnimation, config: Com
 
     if(!isFirst) {
         let prevSceneStageIndex = stageIndexFromOne - 1
-        if(isPrevStageClimax) {
+        if(isPrevStageTransition) {
             prevSceneStageIndex = stageIndexFromOne - 2
         }
-        navigations.push({
-            destination: `${animName}-${prevSceneStageIndex}`,
-            description: 'Back',
-            icon: 'OStim/symbols/arrow_left',
-        })
+
+        if(prevSceneStageIndex > 0) {
+            navigations.push({
+                destination: `${animName}-${prevSceneStageIndex}`,
+                description: 'Back',
+                icon: 'OStim/symbols/arrow_left',
+            })
+        }
     }
 
     navigations.push({

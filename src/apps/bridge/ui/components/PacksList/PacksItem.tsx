@@ -1,4 +1,4 @@
-import { FC, useState } from 'react';
+import { FC, createContext, useContext, useState } from 'react';
 
 import Typography from '@mui/material/Typography';
 import Button from '@mui/material/Button';
@@ -7,18 +7,33 @@ import Box from '@mui/material/Box';
 import TreeItem from '@mui/lab/TreeItem';
 
 import { useSendCommand } from '~bridge/ui/hooks/useSendCommand';
-import { REMOVE_PACK } from '~bridge/events/events';
+import { ARCHIVE_PACK_SEQUENCES, REMOVE_PACK } from '~bridge/events/events';
 import { ConfirmRemoveButton } from '~bridge/ui/components/ConfirmRemoveButton';
 import { ModulesList } from '~bridge/ui/components/ModulesList';
 import { EditPackConfigModal } from '~bridge/ui/components/Dialogs';
 import { useBridgeState } from '~bridge/ui/state/store';
+import { PackFullConfig } from '~bridge/types';
 
 interface PacksItemProps {
     packKey: string;
 }
 
+interface PackContext {
+    pack: PackFullConfig | null
+}
+
+const packContext = createContext<PackContext>({
+    pack: null
+})
+
+export const usePackContext = () => {
+    return useContext(packContext)
+}
+
 export const PacksItem: FC<PacksItemProps> = ({ packKey }) => {
     const [editPack, setEditPack] = useState(false);
+
+
 
     const configs = useBridgeState(state => state.configs);
     const removePack = useBridgeState(state => state.removePack);
@@ -36,7 +51,7 @@ export const PacksItem: FC<PacksItemProps> = ({ packKey }) => {
     }
 
     return (
-        <>
+        <packContext.Provider value={{ pack: packConfig }}>
             <TreeItem
                 nodeId={packKey}
                 label={(
@@ -54,10 +69,22 @@ export const PacksItem: FC<PacksItemProps> = ({ packKey }) => {
                                 Edit
                             </Button>
                         </Tooltip>
+                        <Tooltip title="Create zip with generated sequences">
+                            <Button
+                                variant="outlined"
+                                sx={{ marginLeft: 2, marginRight: '15px' }}
+                                onClick={(e) => {
+                                    e.stopPropagation();
+                                    sendCommand(ARCHIVE_PACK_SEQUENCES, 'Archiving sequences...', packConfig, packConfig.modules[0])
+                                }}
+                            >
+                                Archive sequences
+                            </Button>
+                        </Tooltip>
                         <ConfirmRemoveButton tooltip="Remove pack with all modules config files along with output files" onConfirm={removePackHandler} />
                     </Box>
                 )}
-                sx={{ 
+                sx={{
                     marginTop: 4,
                     background: '#fff',
                     '& .MuiTreeItem-group': {
@@ -70,6 +97,6 @@ export const PacksItem: FC<PacksItemProps> = ({ packKey }) => {
                 <ModulesList pack={packConfig} />
             </TreeItem>
             <EditPackConfigModal open={editPack} onClose={closeEditPackModal} packName={name} />
-        </>
+        </packContext.Provider>
     )
 }

@@ -3,10 +3,11 @@ import childProcess from 'child_process';
 import fs from "fs";
 import util from 'util';
 
-import { copyFile, glob, isHkxFile, logger, remove, writeFile, writeJson } from "~common/nodejs/utils";
+import { copyFile, glob, isHkxFile, logger, remove, writeFile } from "~common/nodejs/utils";
 import { getOstimConfig, initialOstimConfigOnFileCopy, readSlalConfig } from "~bridge/nodejs/configs";
 import { formatAnimName, getSlalPrefix, parseSlalName } from "~bridge/nodejs/utils";
 import { CombinedConfig, OstimConfig, ParsedSlalConfig } from '~bridge/types';
+import { writeOstimConfig } from '~bridge/nodejs/configs/ostimConfig/writeOstimConfig';
 
 const exec = util.promisify(childProcess.exec);
 
@@ -111,7 +112,6 @@ export const copyHkx = async (config: CombinedConfig) => {
         pack,
         outputNemesisAnimlistTxt,
         nemesisTxtFileName,
-        outputScenesJsonConfigPath
     } = config;
 
     logger.log(`--- Started copying animation files for ${moduleName}`);
@@ -148,7 +148,7 @@ export const copyHkx = async (config: CombinedConfig) => {
 
     await copyFilesForOneSeries(files, config, slalConfig, slalPrefix, ostimConfig);
 
-    await writeJson(`${outputScenesJsonConfigPath}\\${config.scenesJsonConfigFilename}`, ostimConfig);
+    await writeOstimConfig(config, ostimConfig)
 
     try {
         logger.log(`--- Started generating Nemesis patches.`);

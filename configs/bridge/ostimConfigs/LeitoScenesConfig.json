@@ -267,6 +267,31 @@
                 "duration": 1.9,
                 "annotationLines": "1.000000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "Leito69-1",
+                    "duration": 1.666667
+                },
+                {
+                    "id": "Leito69-2",
+                    "duration": 1.666667
+                },
+                {
+                    "id": "Leito69-3",
+                    "duration": 1.466667
+                },
+                {
+                    "id": "Leito69-4",
+                    "duration": 1.466667
+                },
+                {
+                    "id": "Leito69-5",
+                    "duration": 1.066667
+                }
+            ],
+            "tags": []
         }
     },
     "LeitoAnalDoggy2": {
@@ -502,6 +527,31 @@
                 "duration": 1.9,
                 "annotationLines": "1.000000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "LeitoAnalDoggy2-1",
+                    "duration": 1.166667
+                },
+                {
+                    "id": "LeitoAnalDoggy2-2",
+                    "duration": 0.733333
+                },
+                {
+                    "id": "LeitoAnalDoggy2-3",
+                    "duration": 0.4
+                },
+                {
+                    "id": "LeitoAnalDoggy2-4",
+                    "duration": 0.333333
+                },
+                {
+                    "id": "LeitoAnalDoggy2-5",
+                    "duration": 1.066667
+                }
+            ],
+            "tags": []
         }
     },
     "LeitoAnalMissionary2": {
@@ -712,6 +762,31 @@
                 "duration": 2.1,
                 "annotationLines": "1.100000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "LeitoAnalMissionary2-1",
+                    "duration": 1.6
+                },
+                {
+                    "id": "LeitoAnalMissionary2-2",
+                    "duration": 0.533333
+                },
+                {
+                    "id": "LeitoAnalMissionary2-3",
+                    "duration": 0.466667
+                },
+                {
+                    "id": "LeitoAnalMissionary2-4",
+                    "duration": 0.366667
+                },
+                {
+                    "id": "LeitoAnalMissionary2-5",
+                    "duration": 1.133333
+                }
+            ],
+            "tags": []
         }
     },
     "LeitoAnalMissionary": {
@@ -950,6 +1025,31 @@
                 "duration": 1.9,
                 "annotationLines": "1.000000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "LeitoAnalMissionary-1",
+                    "duration": 1.133333
+                },
+                {
+                    "id": "LeitoAnalMissionary-2",
+                    "duration": 0.666667
+                },
+                {
+                    "id": "LeitoAnalMissionary-3",
+                    "duration": 0.433333
+                },
+                {
+                    "id": "LeitoAnalMissionary-4",
+                    "duration": 0.4
+                },
+                {
+                    "id": "LeitoAnalMissionary-5",
+                    "duration": 1.066667
+                }
+            ],
+            "tags": []
         }
     },
     "LeitoAnalPowerbomb": {
@@ -1185,6 +1285,31 @@
                 "duration": 1.9,
                 "annotationLines": "1.000000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "LeitoAnalPowerbomb-1",
+                    "duration": 1.066667
+                },
+                {
+                    "id": "LeitoAnalPowerbomb-2",
+                    "duration": 0.466667
+                },
+                {
+                    "id": "LeitoAnalPowerbomb-3",
+                    "duration": 0.333333
+                },
+                {
+                    "id": "LeitoAnalPowerbomb-4",
+                    "duration": 0.333333
+                },
+                {
+                    "id": "LeitoAnalPowerbomb-5",
+                    "duration": 1.066667
+                }
+            ],
+            "tags": []
         }
     },
     "LeitoAnalReCow": {
@@ -1428,6 +1553,31 @@
                 "duration": 2.1,
                 "annotationLines": "1.100000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "LeitoAnalReCow-1",
+                    "duration": 1
+                },
+                {
+                    "id": "LeitoAnalReCow-2",
+                    "duration": 0.6
+                },
+                {
+                    "id": "LeitoAnalReCow-3",
+                    "duration": 0.466667
+                },
+                {
+                    "id": "LeitoAnalReCow-4",
+                    "duration": 0.3
+                },
+                {
+                    "id": "LeitoAnalReCow-5",
+                    "duration": 1.133333
+                }
+            ],
+            "tags": []
         }
     },
     "LeitoBed69": {
@@ -1672,6 +1822,31 @@
                 "duration": 2.9,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "LeitoBed69-1",
+                    "duration": 1.333333
+                },
+                {
+                    "id": "LeitoBed69-2",
+                    "duration": 1.333333
+                },
+                {
+                    "id": "LeitoBed69-3",
+                    "duration": 0.666667
+                },
+                {
+                    "id": "LeitoBed69-4",
+                    "duration": 0.6
+                },
+                {
+                    "id": "LeitoBed69-5",
+                    "duration": 1.666667
+                }
+            ],
+            "tags": []
         }
     },
     "LeitoBedAnalDoggy": {
@@ -1913,6 +2088,31 @@
                 "duration": 2.3,
                 "annotationLines": "1.200000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "LeitoBedAnalDoggy-1",
+                    "duration": 1.2
+                },
+                {
+                    "id": "LeitoBedAnalDoggy-2",
+                    "duration": 1.2
+                },
+                {
+                    "id": "LeitoBedAnalDoggy-3",
+                    "duration": 0.4
+                },
+                {
+                    "id": "LeitoBedAnalDoggy-4",
+                    "duration": 0.4
+                },
+                {
+                    "id": "LeitoBedAnalDoggy-5",
+                    "duration": 1.333333
+                }
+            ],
+            "tags": []
         }
     },
     "LeitoBedAnalReCow": {
@@ -2142,6 +2342,31 @@
                 "duration": 2.3,
                 "annotationLines": "1.200000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "LeitoBedAnalReCow-1",
+                    "duration": 1.333333
+                },
+                {
+                    "id": "LeitoBedAnalReCow-2",
+                    "duration": 1.666667
+                },
+                {
+                    "id": "LeitoBedAnalReCow-3",
+                    "duration": 0.533333
+                },
+                {
+                    "id": "LeitoBedAnalReCow-4",
+                    "duration": 0.333333
+                },
+                {
+                    "id": "LeitoBedAnalReCow-5",
+                    "duration": 1.333333
+                }
+            ],
+            "tags": []
         }
     },
     "LeitoBedCowgirl": {
@@ -2387,6 +2612,31 @@
                 "duration": 2.3,
                 "annotationLines": "1.200000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "LeitoBedCowgirl-1",
+                    "duration": 1.333333
+                },
+                {
+                    "id": "LeitoBedCowgirl-2",
+                    "duration": 1
+                },
+                {
+                    "id": "LeitoBedCowgirl-3",
+                    "duration": 0.533333
+                },
+                {
+                    "id": "LeitoBedCowgirl-4",
+                    "duration": 0.333333
+                },
+                {
+                    "id": "LeitoBedCowgirl-5",
+                    "duration": 1.333333
+                }
+            ],
+            "tags": []
         }
     },
     "LeitoBedDoggy": {
@@ -2627,6 +2877,31 @@
                 "duration": 2.3,
                 "annotationLines": "1.200000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "LeitoBedDoggy-1",
+                    "duration": 1.333333
+                },
+                {
+                    "id": "LeitoBedDoggy-2",
+                    "duration": 0.533333
+                },
+                {
+                    "id": "LeitoBedDoggy-3",
+                    "duration": 0.466667
+                },
+                {
+                    "id": "LeitoBedDoggy-4",
+                    "duration": 0.4
+                },
+                {
+                    "id": "LeitoBedDoggy-5",
+                    "duration": 1.333333
+                }
+            ],
+            "tags": []
         }
     },
     "LeitoBedFeetMissionary": {
@@ -2871,6 +3146,31 @@
                 "duration": 2.9,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "LeitoBedFeetMissionary-1",
+                    "duration": 2.666667
+                },
+                {
+                    "id": "LeitoBedFeetMissionary-2",
+                    "duration": 1
+                },
+                {
+                    "id": "LeitoBedFeetMissionary-3",
+                    "duration": 0.933333
+                },
+                {
+                    "id": "LeitoBedFeetMissionary-4",
+                    "duration": 0.933333
+                },
+                {
+                    "id": "LeitoBedFeetMissionary-5",
+                    "duration": 1.666667
+                }
+            ],
+            "tags": []
         }
     },
     "LeitoBedMissionary": {
@@ -3086,6 +3386,31 @@
                 "duration": 2.9,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "LeitoBedMissionary-1",
+                    "duration": 1.333333
+                },
+                {
+                    "id": "LeitoBedMissionary-2",
+                    "duration": 0.666667
+                },
+                {
+                    "id": "LeitoBedMissionary-3",
+                    "duration": 0.533333
+                },
+                {
+                    "id": "LeitoBedMissionary-4",
+                    "duration": 0.4
+                },
+                {
+                    "id": "LeitoBedMissionary-5",
+                    "duration": 1.666667
+                }
+            ],
+            "tags": []
         }
     },
     "LeitoBj2": {
@@ -3298,6 +3623,31 @@
                 "duration": 1.9,
                 "annotationLines": "1.000000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "LeitoBj2-1",
+                    "duration": 1
+                },
+                {
+                    "id": "LeitoBj2-2",
+                    "duration": 0.666667
+                },
+                {
+                    "id": "LeitoBj2-3",
+                    "duration": 0.6
+                },
+                {
+                    "id": "LeitoBj2-4",
+                    "duration": 0.533333
+                },
+                {
+                    "id": "LeitoBj2-5",
+                    "duration": 1.066667
+                }
+            ],
+            "tags": []
         }
     },
     "LeitoBj3": {
@@ -3515,6 +3865,31 @@
                 "duration": 1.9,
                 "annotationLines": "1.000000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "LeitoBj3-1",
+                    "duration": 1
+                },
+                {
+                    "id": "LeitoBj3-2",
+                    "duration": 0.866667
+                },
+                {
+                    "id": "LeitoBj3-3",
+                    "duration": 0.8
+                },
+                {
+                    "id": "LeitoBj3-4",
+                    "duration": 1.066667
+                },
+                {
+                    "id": "LeitoBj3-5",
+                    "duration": 1.066667
+                }
+            ],
+            "tags": []
         }
     },
     "LeitoCowgirl2": {
@@ -3748,6 +4123,31 @@
                 "duration": 2.1,
                 "annotationLines": "1.100000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "LeitoCowgirl2-1",
+                    "duration": 1
+                },
+                {
+                    "id": "LeitoCowgirl2-2",
+                    "duration": 0.6
+                },
+                {
+                    "id": "LeitoCowgirl2-3",
+                    "duration": 0.466667
+                },
+                {
+                    "id": "LeitoCowgirl2-4",
+                    "duration": 0.333333
+                },
+                {
+                    "id": "LeitoCowgirl2-5",
+                    "duration": 1.133333
+                }
+            ],
+            "tags": []
         }
     },
     "LeitoCunnilingus2": {
@@ -3963,6 +4363,31 @@
                 "duration": 4.1,
                 "annotationLines": "2.100000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "LeitoCunnilingus2-1",
+                    "duration": 2.666667
+                },
+                {
+                    "id": "LeitoCunnilingus2-2",
+                    "duration": 2.333333
+                },
+                {
+                    "id": "LeitoCunnilingus2-3",
+                    "duration": 1.5
+                },
+                {
+                    "id": "LeitoCunnilingus2-4",
+                    "duration": 1.333333
+                },
+                {
+                    "id": "LeitoCunnilingus2-5",
+                    "duration": 2.333333
+                }
+            ],
+            "tags": []
         }
     },
     "LeitoDoggy2": {
@@ -4188,6 +4613,31 @@
                 "duration": 2.1,
                 "annotationLines": "1.100000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "LeitoDoggy2-1",
+                    "duration": 1
+                },
+                {
+                    "id": "LeitoDoggy2-2",
+                    "duration": 0.533333
+                },
+                {
+                    "id": "LeitoDoggy2-3",
+                    "duration": 0.333333
+                },
+                {
+                    "id": "LeitoDoggy2-4",
+                    "duration": 0.3
+                },
+                {
+                    "id": "LeitoDoggy2-5",
+                    "duration": 1.133333
+                }
+            ],
+            "tags": []
         }
     },
     "LeitoFSoloChair": {
@@ -4217,7 +4667,8 @@
                         "type": "femalemasturbation",
                         "actor": 0
                     }
-                ]
+                ],
+                "noRandomSelection": true
             },
             {
                 "actors": [
@@ -4242,7 +4693,8 @@
                         "type": "femalemasturbation",
                         "actor": 0
                     }
-                ]
+                ],
+                "noRandomSelection": true
             },
             {
                 "actors": [
@@ -4267,7 +4719,8 @@
                         "type": "femalemasturbation",
                         "actor": 0
                     }
-                ]
+                ],
+                "noRandomSelection": true
             },
             {
                 "actors": [
@@ -4277,7 +4730,10 @@
                         "feetOnGround": true,
                         "tags": [
                             "sitting"
-                        ]
+                        ],
+                        "autoTransitions": {
+                            "climax": "LeitoFSoloChair-5"
+                        }
                     }
                 ],
                 "meta": {
@@ -4292,7 +4748,8 @@
                         "type": "femalemasturbation",
                         "actor": 0
                     }
-                ]
+                ],
+                "noRandomSelection": true
             },
             {
                 "actors": [
@@ -4308,7 +4765,8 @@
                 ],
                 "meta": {
                     "tags": [
-                        "leito"
+                        "leito",
+                        "transition"
                     ]
                 },
                 "id": "LeitoFSoloChair-5",
@@ -4318,7 +4776,8 @@
                         "type": "femalemasturbation",
                         "actor": 0
                     }
-                ]
+                ],
+                "noRandomSelection": true
             }
         ],
         "folders": {
@@ -4331,6 +4790,31 @@
                 "duration": 2.9,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "LeitoFSoloChair-1",
+                    "duration": 2.666667
+                },
+                {
+                    "id": "LeitoFSoloChair-2",
+                    "duration": 2
+                },
+                {
+                    "id": "LeitoFSoloChair-3",
+                    "duration": 1.8
+                },
+                {
+                    "id": "LeitoFSoloChair-4",
+                    "duration": 0.8
+                },
+                {
+                    "id": "LeitoFSoloChair-5",
+                    "duration": 1.666667
+                }
+            ],
+            "tags": []
         }
     },
     "LeitoFSoloDildoAnal": {
@@ -4491,6 +4975,31 @@
                 "duration": 4.9,
                 "annotationLines": "2.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "LeitoFSoloDildoAnal-1",
+                    "duration": 2
+                },
+                {
+                    "id": "LeitoFSoloDildoAnal-2",
+                    "duration": 2
+                },
+                {
+                    "id": "LeitoFSoloDildoAnal-3",
+                    "duration": 2
+                },
+                {
+                    "id": "LeitoFSoloDildoAnal-4",
+                    "duration": 1.4
+                },
+                {
+                    "id": "LeitoFSoloDildoAnal-5",
+                    "duration": 2.666667
+                }
+            ],
+            "tags": []
         }
     },
     "LeitoFSoloDildoVag": {
@@ -4644,6 +5153,31 @@
                 "duration": 4.9,
                 "annotationLines": "2.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "LeitoFSoloDildoVag-1",
+                    "duration": 2
+                },
+                {
+                    "id": "LeitoFSoloDildoVag-2",
+                    "duration": 1.333333
+                },
+                {
+                    "id": "LeitoFSoloDildoVag-3",
+                    "duration": 1.333333
+                },
+                {
+                    "id": "LeitoFSoloDildoVag-4",
+                    "duration": 0.933333
+                },
+                {
+                    "id": "LeitoFSoloDildoVag-5",
+                    "duration": 2.666667
+                }
+            ],
+            "tags": []
         }
     },
     "LeitoFSoloToyCowgirlVag": {
@@ -4663,7 +5197,8 @@
                 ],
                 "meta": {
                     "tags": [
-                        "leito"
+                        "leito",
+                        "transition"
                     ]
                 },
                 "id": "LeitoFSoloToyCowgirlVag-1",
@@ -4825,7 +5360,40 @@
             "LeitoFSoloToyCowgirlVag_6_0.hkx": {
                 "duration": 2.9,
                 "annotationLines": "1.500000 OStimClimax"
+            },
+            "LeitoFSoloToyCowgirlVag_1_0.hkx": {
+                "duration": 2.333333,
+                "annotationLines": ""
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "LeitoFSoloToyCowgirlVag-1",
+                    "duration": 2.333333
+                },
+                {
+                    "id": "LeitoFSoloToyCowgirlVag-2",
+                    "duration": 1.333333
+                },
+                {
+                    "id": "LeitoFSoloToyCowgirlVag-3",
+                    "duration": 2.333333
+                },
+                {
+                    "id": "LeitoFSoloToyCowgirlVag-4",
+                    "duration": 0.8
+                },
+                {
+                    "id": "LeitoFSoloToyCowgirlVag-5",
+                    "duration": 0.666667
+                },
+                {
+                    "id": "LeitoFSoloToyCowgirlVag-6",
+                    "duration": 1.666667
+                }
+            ],
+            "tags": []
         }
     },
     "LeitoFSoloToyReCowAnal": {
@@ -4845,7 +5413,8 @@
                 ],
                 "meta": {
                     "tags": [
-                        "leito"
+                        "leito",
+                        "transition"
                     ]
                 },
                 "id": "LeitoFSoloToyReCowAnal-1",
@@ -5002,7 +5571,40 @@
             "LeitoFSoloToyReCowAnal_6_0.hkx": {
                 "duration": 2.9,
                 "annotationLines": "1.500000 OStimClimax"
+            },
+            "LeitoFSoloToyReCowAnal_1_0.hkx": {
+                "duration": 1.333333,
+                "annotationLines": ""
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "LeitoFSoloToyReCowAnal-1",
+                    "duration": 1.333333
+                },
+                {
+                    "id": "LeitoFSoloToyReCowAnal-2",
+                    "duration": 2
+                },
+                {
+                    "id": "LeitoFSoloToyReCowAnal-3",
+                    "duration": 2
+                },
+                {
+                    "id": "LeitoFSoloToyReCowAnal-4",
+                    "duration": 1
+                },
+                {
+                    "id": "LeitoFSoloToyReCowAnal-5",
+                    "duration": 0.666667
+                },
+                {
+                    "id": "LeitoFSoloToyReCowAnal-6",
+                    "duration": 1.666667
+                }
+            ],
+            "tags": []
         }
     },
     "LeitoFfm1": {
@@ -5337,6 +5939,31 @@
                 "duration": 3.5,
                 "annotationLines": "1.800000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "LeitoFfm1-1",
+                    "duration": 1.333333
+                },
+                {
+                    "id": "LeitoFfm1-2",
+                    "duration": 1.066667
+                },
+                {
+                    "id": "LeitoFfm1-3",
+                    "duration": 0.533333
+                },
+                {
+                    "id": "LeitoFfm1-4",
+                    "duration": 0.533333
+                },
+                {
+                    "id": "LeitoFfm1-5",
+                    "duration": 2
+                }
+            ],
+            "tags": []
         }
     },
     "LeitoFfm2": {
@@ -5639,6 +6266,31 @@
                 "duration": 2.9,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "LeitoFfm2-1",
+                    "duration": 1.333333
+                },
+                {
+                    "id": "LeitoFfm2-2",
+                    "duration": 1
+                },
+                {
+                    "id": "LeitoFfm2-3",
+                    "duration": 1.066667
+                },
+                {
+                    "id": "LeitoFfm2-4",
+                    "duration": 0.533333
+                },
+                {
+                    "id": "LeitoFfm2-5",
+                    "duration": 1.666667
+                }
+            ],
+            "tags": []
         }
     },
     "LeitoFfm3": {
@@ -5815,7 +6467,10 @@
                         "feetOnGround": true,
                         "tags": [
                             "standing"
-                        ]
+                        ],
+                        "autoTransitions": {
+                            "climax": "LeitoFfm3-5"
+                        }
                     },
                     {
                         "intendedSex": "female",
@@ -5824,7 +6479,10 @@
                         "tags": [
                             "allfours",
                             "ontop"
-                        ]
+                        ],
+                        "autoTransitions": {
+                            "climax": "LeitoFfm3-5"
+                        }
                     },
                     {
                         "intendedSex": "female",
@@ -5833,7 +6491,10 @@
                         "tags": [
                             "allfours",
                             "onbottom"
-                        ]
+                        ],
+                        "autoTransitions": {
+                            "climax": "LeitoFfm3-5"
+                        }
                     }
                 ],
                 "meta": {
@@ -5890,7 +6551,8 @@
                 ],
                 "meta": {
                     "tags": [
-                        "leito"
+                        "leito",
+                        "transition"
                     ]
                 },
                 "id": "LeitoFfm3-5",
@@ -5935,6 +6597,31 @@
                 "duration": 2.9,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "LeitoFfm3-1",
+                    "duration": 1
+                },
+                {
+                    "id": "LeitoFfm3-2",
+                    "duration": 0.666667
+                },
+                {
+                    "id": "LeitoFfm3-3",
+                    "duration": 0.533333
+                },
+                {
+                    "id": "LeitoFfm3-4",
+                    "duration": 0.466667
+                },
+                {
+                    "id": "LeitoFfm3-5",
+                    "duration": 1.666667
+                }
+            ],
+            "tags": []
         }
     },
     "LeitoKissingFemaleStart": {
@@ -5963,7 +6650,8 @@
                 ],
                 "meta": {
                     "tags": [
-                        "leito"
+                        "leito",
+                        "transition"
                     ]
                 },
                 "id": "LeitoKissingFemaleStart-1",
@@ -6043,7 +6731,8 @@
                 ],
                 "meta": {
                     "tags": [
-                        "leito"
+                        "leito",
+                        "transition"
                     ]
                 },
                 "id": "LeitoKissingFemaleStart-3",
@@ -6066,6 +6755,41 @@
             "moduleName": "LeitoHuman",
             "posFolderName": "fmPos",
             "animName": "LeitoKissingFemaleStart"
+        },
+        "hkxAnnotations": {
+            "LeitoKissingFemaleStart_1_0.hkx": {
+                "duration": 2.133333,
+                "annotationLines": ""
+            },
+            "LeitoKissingFemaleStart_1_1.hkx": {
+                "duration": 2.133333,
+                "annotationLines": ""
+            },
+            "LeitoKissingFemaleStart_3_0.hkx": {
+                "duration": 1.3,
+                "annotationLines": ""
+            },
+            "LeitoKissingFemaleStart_3_1.hkx": {
+                "duration": 1.3,
+                "annotationLines": ""
+            }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "LeitoKissingFemaleStart-1",
+                    "duration": 2.133333
+                },
+                {
+                    "id": "LeitoKissingFemaleStart-2",
+                    "duration": 4.666667
+                },
+                {
+                    "id": "LeitoKissingFemaleStart-3",
+                    "duration": 1.3
+                }
+            ],
+            "tags": []
         }
     },
     "LeitoLesbian1": {
@@ -6297,6 +7021,31 @@
                 "duration": 3.5,
                 "annotationLines": "1.800000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "LeitoLesbian1-1",
+                    "duration": 1.333333
+                },
+                {
+                    "id": "LeitoLesbian1-2",
+                    "duration": 1.333333
+                },
+                {
+                    "id": "LeitoLesbian1-3",
+                    "duration": 0.666667
+                },
+                {
+                    "id": "LeitoLesbian1-4",
+                    "duration": 0.533333
+                },
+                {
+                    "id": "LeitoLesbian1-5",
+                    "duration": 2
+                }
+            ],
+            "tags": []
         }
     },
     "LeitoLesbian2": {
@@ -6517,6 +7266,31 @@
                 "duration": 3.5,
                 "annotationLines": "1.800000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "LeitoLesbian2-1",
+                    "duration": 2
+                },
+                {
+                    "id": "LeitoLesbian2-2",
+                    "duration": 1.066667
+                },
+                {
+                    "id": "LeitoLesbian2-3",
+                    "duration": 1
+                },
+                {
+                    "id": "LeitoLesbian2-4",
+                    "duration": 0.666667
+                },
+                {
+                    "id": "LeitoLesbian2-5",
+                    "duration": 2
+                }
+            ],
+            "tags": []
         }
     },
     "LeitoLesbianDildo1": {
@@ -6742,6 +7516,31 @@
                 "duration": 4.9,
                 "annotationLines": "2.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "LeitoLesbianDildo1-1",
+                    "duration": 2.333333
+                },
+                {
+                    "id": "LeitoLesbianDildo1-2",
+                    "duration": 1.333333
+                },
+                {
+                    "id": "LeitoLesbianDildo1-3",
+                    "duration": 1
+                },
+                {
+                    "id": "LeitoLesbianDildo1-4",
+                    "duration": 0.533333
+                },
+                {
+                    "id": "LeitoLesbianDildo1-5",
+                    "duration": 2.666667
+                }
+            ],
+            "tags": []
         }
     },
     "LeitoLesbianDildo2": {
@@ -6965,6 +7764,31 @@
                 "duration": 4.1,
                 "annotationLines": "2.100000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "LeitoLesbianDildo2-1",
+                    "duration": 2
+                },
+                {
+                    "id": "LeitoLesbianDildo2-2",
+                    "duration": 1.333333
+                },
+                {
+                    "id": "LeitoLesbianDildo2-3",
+                    "duration": 1
+                },
+                {
+                    "id": "LeitoLesbianDildo2-4",
+                    "duration": 0.466667
+                },
+                {
+                    "id": "LeitoLesbianDildo2-5",
+                    "duration": 2.333333
+                }
+            ],
+            "tags": []
         }
     },
     "LeitoLotus": {
@@ -7250,6 +8074,31 @@
                 "duration": 2.9,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "LeitoLotus-1",
+                    "duration": 1.133333
+                },
+                {
+                    "id": "LeitoLotus-2",
+                    "duration": 0.666667
+                },
+                {
+                    "id": "LeitoLotus-3",
+                    "duration": 0.533333
+                },
+                {
+                    "id": "LeitoLotus-4",
+                    "duration": 0.533333
+                },
+                {
+                    "id": "LeitoLotus-5",
+                    "duration": 1.666667
+                }
+            ],
+            "tags": []
         }
     },
     "LeitoMissionary3": {
@@ -7500,6 +8349,31 @@
                 "duration": 2.1,
                 "annotationLines": "1.100000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "LeitoMissionary3-1",
+                    "duration": 1.2
+                },
+                {
+                    "id": "LeitoMissionary3-2",
+                    "duration": 0.8
+                },
+                {
+                    "id": "LeitoMissionary3-3",
+                    "duration": 0.933333
+                },
+                {
+                    "id": "LeitoMissionary3-4",
+                    "duration": 1.6
+                },
+                {
+                    "id": "LeitoMissionary3-5",
+                    "duration": 1.133333
+                }
+            ],
+            "tags": []
         }
     },
     "LeitoMmf1": {
@@ -7788,6 +8662,31 @@
                 "duration": 3.5,
                 "annotationLines": "1.800000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "LeitoMmf1-1",
+                    "duration": 2
+                },
+                {
+                    "id": "LeitoMmf1-2",
+                    "duration": 0.533333
+                },
+                {
+                    "id": "LeitoMmf1-3",
+                    "duration": 1
+                },
+                {
+                    "id": "LeitoMmf1-4",
+                    "duration": 0.4
+                },
+                {
+                    "id": "LeitoMmf1-5",
+                    "duration": 2
+                }
+            ],
+            "tags": []
         }
     },
     "LeitoMmf2": {
@@ -8113,6 +9012,31 @@
                 "duration": 3.5,
                 "annotationLines": "1.800000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "LeitoMmf2-1",
+                    "duration": 1.6
+                },
+                {
+                    "id": "LeitoMmf2-2",
+                    "duration": 0.666667
+                },
+                {
+                    "id": "LeitoMmf2-3",
+                    "duration": 1
+                },
+                {
+                    "id": "LeitoMmf2-4",
+                    "duration": 0.4
+                },
+                {
+                    "id": "LeitoMmf2-5",
+                    "duration": 2
+                }
+            ],
+            "tags": []
         }
     },
     "LeitoMmf3": {
@@ -8486,6 +9410,31 @@
                 "duration": 2.9,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "LeitoMmf3-1",
+                    "duration": 1.333333
+                },
+                {
+                    "id": "LeitoMmf3-2",
+                    "duration": 1
+                },
+                {
+                    "id": "LeitoMmf3-3",
+                    "duration": 0.533333
+                },
+                {
+                    "id": "LeitoMmf3-4",
+                    "duration": 0.4
+                },
+                {
+                    "id": "LeitoMmf3-5",
+                    "duration": 1.666667
+                }
+            ],
+            "tags": []
         }
     },
     "LeitoPilloryDoggy": {
@@ -8892,6 +9841,31 @@
                 "duration": 3.5,
                 "annotationLines": "1.800000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "LeitoStanding2-1",
+                    "duration": 2.2
+                },
+                {
+                    "id": "LeitoStanding2-2",
+                    "duration": 0.8
+                },
+                {
+                    "id": "LeitoStanding2-3",
+                    "duration": 0.6
+                },
+                {
+                    "id": "LeitoStanding2-4",
+                    "duration": 0.4
+                },
+                {
+                    "id": "LeitoStanding2-5",
+                    "duration": 2
+                }
+            ],
+            "tags": []
         }
     },
     "LeitoThroneAnalDoggy": {
@@ -9115,6 +10089,31 @@
                 "duration": 2.9,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "LeitoThroneAnalDoggy-1",
+                    "duration": 1
+                },
+                {
+                    "id": "LeitoThroneAnalDoggy-2",
+                    "duration": 0.666667
+                },
+                {
+                    "id": "LeitoThroneAnalDoggy-3",
+                    "duration": 0.6
+                },
+                {
+                    "id": "LeitoThroneAnalDoggy-4",
+                    "duration": 0.666667
+                },
+                {
+                    "id": "LeitoThroneAnalDoggy-5",
+                    "duration": 1.666667
+                }
+            ],
+            "tags": []
         }
     },
     "LeitoThroneAnalReCow": {
@@ -9336,6 +10335,31 @@
                 "duration": 4.9,
                 "annotationLines": "2.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "LeitoThroneAnalReCow-1",
+                    "duration": 2
+                },
+                {
+                    "id": "LeitoThroneAnalReCow-2",
+                    "duration": 1.333333
+                },
+                {
+                    "id": "LeitoThroneAnalReCow-3",
+                    "duration": 1.333333
+                },
+                {
+                    "id": "LeitoThroneAnalReCow-4",
+                    "duration": 1
+                },
+                {
+                    "id": "LeitoThroneAnalReCow-5",
+                    "duration": 2.666667
+                }
+            ],
+            "tags": []
         }
     },
     "LeitoThroneBj": {
@@ -9546,6 +10570,31 @@
                 "duration": 2.3,
                 "annotationLines": "1.200000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "LeitoThroneBj-1",
+                    "duration": 2
+                },
+                {
+                    "id": "LeitoThroneBj-2",
+                    "duration": 2
+                },
+                {
+                    "id": "LeitoThroneBj-3",
+                    "duration": 1.666667
+                },
+                {
+                    "id": "LeitoThroneBj-4",
+                    "duration": 1.333333
+                },
+                {
+                    "id": "LeitoThroneBj-5",
+                    "duration": 1.333333
+                }
+            ],
+            "tags": []
         }
     },
     "LeitoThroneCowgirl": {
@@ -9770,6 +10819,31 @@
                 "duration": 2.9,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "LeitoThroneCowgirl-1",
+                    "duration": 2
+                },
+                {
+                    "id": "LeitoThroneCowgirl-2",
+                    "duration": 1.333333
+                },
+                {
+                    "id": "LeitoThroneCowgirl-3",
+                    "duration": 1.333333
+                },
+                {
+                    "id": "LeitoThroneCowgirl-4",
+                    "duration": 0.533333
+                },
+                {
+                    "id": "LeitoThroneCowgirl-5",
+                    "duration": 1.666667
+                }
+            ],
+            "tags": []
         }
     },
     "LeitoThroneCunnilingus": {
@@ -9997,6 +11071,31 @@
                 "duration": 4.9,
                 "annotationLines": "2.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "LeitoThroneCunnilingus-1",
+                    "duration": 4
+                },
+                {
+                    "id": "LeitoThroneCunnilingus-2",
+                    "duration": 2
+                },
+                {
+                    "id": "LeitoThroneCunnilingus-3",
+                    "duration": 1.333333
+                },
+                {
+                    "id": "LeitoThroneCunnilingus-4",
+                    "duration": 2
+                },
+                {
+                    "id": "LeitoThroneCunnilingus-5",
+                    "duration": 3.333333
+                }
+            ],
+            "tags": []
         }
     },
     "LeitoThroneDoggy": {
@@ -10214,6 +11313,31 @@
                 "duration": 2.9,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "LeitoThroneDoggy-1",
+                    "duration": 1
+                },
+                {
+                    "id": "LeitoThroneDoggy-2",
+                    "duration": 0.666667
+                },
+                {
+                    "id": "LeitoThroneDoggy-3",
+                    "duration": 0.533333
+                },
+                {
+                    "id": "LeitoThroneDoggy-4",
+                    "duration": 0.533333
+                },
+                {
+                    "id": "LeitoThroneDoggy-5",
+                    "duration": 1.666667
+                }
+            ],
+            "tags": []
         }
     },
     "LeitoThroneMissionary": {
@@ -10435,6 +11559,31 @@
                 "duration": 2.9,
                 "annotationLines": "1.500000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "LeitoThroneMissionary-1",
+                    "duration": 1
+                },
+                {
+                    "id": "LeitoThroneMissionary-2",
+                    "duration": 0.666667
+                },
+                {
+                    "id": "LeitoThroneMissionary-3",
+                    "duration": 0.533333
+                },
+                {
+                    "id": "LeitoThroneMissionary-4",
+                    "duration": 0.533333
+                },
+                {
+                    "id": "LeitoThroneMissionary-5",
+                    "duration": 1.666667
+                }
+            ],
+            "tags": []
         }
     },
     "LeitoUnicorn": {
@@ -10692,6 +11841,31 @@
                 "duration": 2.3,
                 "annotationLines": "1.200000 OStimClimax"
             }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "LeitoUnicorn-1",
+                    "duration": 2.333333
+                },
+                {
+                    "id": "LeitoUnicorn-2",
+                    "duration": 1
+                },
+                {
+                    "id": "LeitoUnicorn-3",
+                    "duration": 0.666667
+                },
+                {
+                    "id": "LeitoUnicorn-4",
+                    "duration": 0.533333
+                },
+                {
+                    "id": "LeitoUnicorn-5",
+                    "duration": 1.333333
+                }
+            ],
+            "tags": []
         }
     },
     "LeitoXcrossDoggy": {
