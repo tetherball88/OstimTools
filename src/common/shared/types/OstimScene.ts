@@ -21,7 +21,7 @@ export type OstimSceneNavigationCommon = {
     /**
      * the display text of the navigation in game
      */
-    description: string
+    description?: string
     /**
      * the path to the .dds file to be used as the icon
      * this path will be appended to "../Data/Interface/OStim/icons", the file ending ".dds" will be added automatically
@@ -241,22 +241,19 @@ interface OstimSceneCommon {
     actions?: OstimSceneAction[]
 }
 
-interface OstimSceneOrigin extends OstimSceneCommon {
-    /**
-     * (only for transition) the sceneID of the transition origin
-     * if the transition is already in the navigations of the origin scene this field doesn't have to (and shouldn't) be filled
-     * if this field is filled you can also add the "priority", "description", "icon", "border" and "noWarnings" fields directly to the scene and use them like you would for a regular navigation
-     */
-    origin: string
-}
-
-interface OstimSceneDestination extends OstimSceneCommon {
+interface OstimSceneTransition extends OstimSceneCommon, OstimSceneNavigationCommon {
     /**
      * (only for transition) the sceneID of the transition destination
      * adding this property turns this node into a transition, that means it will be played once and then automatically moves to the destination scene
      * if this property is filled the "navigations" property will be ignored
      */
     destination: string
+    /**
+     * (only for transition) the sceneID of the transition origin
+     * if the transition is already in the navigations of the origin scene this field doesn't have to (and shouldn't) be filled
+     * if this field is filled you can also add the "priority", "description", "icon", "border" and "noWarnings" fields directly to the scene and use them like you would for a regular navigation
+     */
+    origin?: string
 }
 
 interface OstimSceneWithNavigation extends OstimSceneCommon {
@@ -274,4 +271,4 @@ interface OstimSceneWithNavigation extends OstimSceneCommon {
  * If two files have the same filename one of them will overwrite the other, the order of which is overwriting which is not predictable.
  * So it is recommended to start all your scene names with your personal signature to avoid incompatibilities.
  */
-export type OstimScene = OstimSceneOrigin | OstimSceneDestination | OstimSceneWithNavigation
+export type OstimScene = OstimSceneTransition | OstimSceneWithNavigation

@@ -94,7 +94,7 @@ export const buildEdgeId = (edge: Omit<ScenesGraphEdge['data'], 'id'>) => {
 
 export const buildScenesGraphEdge = (scene: ExplorerOstimScene, edgesData: ModEdgesConfig): ScenesGraphEdge[] => {
     const edges: ScenesGraphEdge[] = []
-    if ('origin' in scene.content) {
+    if ('origin' in scene.content && typeof scene.content.origin !== 'undefined') {
         const newEdge: { data: Omit<ScenesGraphEdge['data'], 'id'> } = {
             data: {
                 source: scene.content.origin,
@@ -137,7 +137,7 @@ export const buildScenesGraphEdge = (scene: ExplorerOstimScene, edgesData: ModEd
                     data: {
                         source: nav.origin,
                         target: scene.fileName,
-                        label: nav.description,
+                        label: nav.description || '',
                         type: 'navOrigin'
                     }
                 }
@@ -154,7 +154,7 @@ export const buildScenesGraphEdge = (scene: ExplorerOstimScene, edgesData: ModEd
                     data: {
                         source: scene.fileName,
                         target: nav.destination,
-                        label: nav.description,
+                        label: nav.description || '',
                         type: 'navDestination'
                     }
                 }

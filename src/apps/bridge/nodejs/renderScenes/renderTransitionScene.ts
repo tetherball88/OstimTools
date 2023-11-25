@@ -25,7 +25,8 @@ export const renderTransitionScene = async (sceneConfig: OstimConfigAnimation, c
     const stageIndexFromOne = stageIndex + 1;
     const nextStage: OstimConfigAnimationStage | undefined = sceneConfig.stages[stageIndex + 1]
     const hasNextStage = !!sceneConfig.stages[stageIndex + 1]
-    
+    const isFirst = stageIndex === 0;
+
     const actors: OstimSceneActor[] = stageConfig.actors?.map((actor, index) => {
         let autoTransitions: Record<string, string> | null = null
         const actorFromNextStage = nextStage?.actors[index]
@@ -65,13 +66,16 @@ export const renderTransitionScene = async (sceneConfig: OstimConfigAnimation, c
         }
     })
 
-    console.log(name, destination || hasNextStage ? `${animName}-${stageIndexFromOne + 1}` : `${animName}-${stageIndexFromOne - 1}`)
-
     const content: OstimScene = {
         name,
         modpack: `${author}Animations`,
         length: durationFromAnnotations,
         destination: destination || (hasNextStage ? `${animName}-${stageIndexFromOne + 1}` : `${animName}-${stageIndexFromOne - 1}`),
+        ...(isFirst ? { 
+            origin: hub.name,
+            description: sceneConfig.name
+
+        } : {}),
         speeds: [
             {
                 animation: stageConfig.fileName,

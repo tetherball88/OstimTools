@@ -3,7 +3,7 @@ import schema from './ostimSceneJsonSchema.json'
 
 const getObjByPath = <Obj extends Record<string, any>>(obj: Obj, path: string) => path.split('.').reduce((o, i) => o[i], obj)
 
-const pathsToScenesObjects = ['OstimSceneDestination', 'OstimSceneWithNavigation', 'OstimSceneOrigin'] as const
+const pathsToScenesObjects = ['OstimSceneWithNavigation', 'OstimSceneTransition'] as const
 const actorPropsPath = (scenePath: typeof pathsToScenesObjects[number]) => `definitions.${scenePath}.properties.actors.items.properties`
 const actionPropsPath = (scenePath: typeof pathsToScenesObjects[number]) => `definitions.${scenePath}.properties.actions.items.properties`
 const scenePropsPath = (scenePath: typeof pathsToScenesObjects[number]) => `definitions.${scenePath}.properties`
