@@ -7,7 +7,7 @@ import Box from '@mui/material/Box';
 import TreeItem from '@mui/lab/TreeItem';
 
 import { useSendCommand } from '~bridge/ui/hooks/useSendCommand';
-import { ARCHIVE_PACK_SEQUENCES, REMOVE_PACK } from '~bridge/events/events';
+import { ARCHIVE_FOMOD, ARCHIVE_PACK_SEQUENCES, REMOVE_PACK } from '~bridge/events/events';
 import { ConfirmRemoveButton } from '~bridge/ui/components/ConfirmRemoveButton';
 import { ModulesList } from '~bridge/ui/components/ModulesList';
 import { EditPackConfigModal } from '~bridge/ui/components/Dialogs';
@@ -79,6 +79,18 @@ export const PacksItem: FC<PacksItemProps> = ({ packKey }) => {
                                 }}
                             >
                                 Archive sequences
+                            </Button>
+                        </Tooltip>
+                        <Tooltip title="Create zip with generated sequences">
+                            <Button
+                                variant="outlined"
+                                sx={{ marginLeft: 2, marginRight: '15px' }}
+                                onClick={(e) => {
+                                    e.stopPropagation();
+                                    sendCommand(ARCHIVE_FOMOD, 'Archiving fomod...', packConfig, packConfig.modules[0])
+                                }}
+                            >
+                                Archive FOMOD
                             </Button>
                         </Tooltip>
                         <ConfirmRemoveButton tooltip="Remove pack with all modules config files along with output files" onConfirm={removePackHandler} />

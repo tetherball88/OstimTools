@@ -21,22 +21,32 @@ export const FurnitureMapConfigForm: FC<FurnitureMapConfigFormProps> = ({ select
         <Grid container spacing={2} sx={{ paddingTop: '16px' }}>
             <Alert severity='info'>Provide mapping between animation name and furniture type. Script can't guess furniture type since it's not always the case slal animation name or config has this information(or this information is relevant for OSTIM, like: sofa furniture which doesn't exist in OSTIM)</Alert>
             {
-                furnitures.map(furniture => (
-                    <Grid key={furniture} item xs={12}>
-                        <AutocompleteWithCheckboxesControlled<ModuleSpecificConfig, string>
-                            formControl={{
-                                name: `furnitureMap.${furniture}`
-                            }}
-                            disabled={!values.module.inputPath}
-                            options={Object.keys(selectedAnimations)}
-                            getOptionLabel={o => o}
-                            FieldProps={{
-                                label: furniture,
-                                placeholder: "Select animations",
-                            }}
-                        />
-                    </Grid>
-                ))
+                furnitures.map(furniture => {
+                    const assignedAnimations = Object.entries(values.furnitureMap).map(([furn, animations]) => {
+                        if(furniture === furn) {
+                            return []
+                        }
+
+                        return animations
+                    }).flat()
+                    const allOptions = Object.keys(selectedAnimations).filter(anim => !assignedAnimations.includes(anim))
+                    return (
+                        <Grid key={furniture} item xs={12}>
+                            <AutocompleteWithCheckboxesControlled<ModuleSpecificConfig, string>
+                                formControl={{
+                                    name: `furnitureMap.${furniture}`
+                                }}
+                                disabled={!values.module.inputPath}
+                                options={allOptions}
+                                getOptionLabel={o => o}
+                                FieldProps={{
+                                    label: furniture,
+                                    placeholder: "Select animations",
+                                }}
+                            />
+                        </Grid>
+                    )}
+                )
             }
         </Grid>
     )

@@ -1,7 +1,7 @@
 import { logger, readJson } from "~common/nodejs/utils";
-import { readObjectsFromSource } from "~bridge/nodejs/configs/readObjectsFromSource";
 import { formatAnimName, parseSlalName } from "~bridge/nodejs/utils";
-import { ParsedSlalConfig, ParsedSlalConfigAnimation, SlalConfig } from "~bridge/types";
+import { CombinedConfig, ParsedSlalConfig, ParsedSlalConfigAnimation, SlalConfig } from "~bridge/types";
+import { readObjects } from "~bridge/nodejs/configs/readObjects/readObjects";
 
 
 /**
@@ -10,17 +10,26 @@ import { ParsedSlalConfig, ParsedSlalConfigAnimation, SlalConfig } from "~bridge
  * @param prefix 
  * @returns 
  */
-export const readSlalConfig = async (slalJsonConfig: string, prefix: string, author: string, inputPath: string) => {
+export const readSlalConfig = async (config: CombinedConfig, prefix: string) => {
+    const {
+        module: {
+            slalJsonConfig,
+            idPrefix = ""
+        },
+        pack: {
+            author
+        }
+    } = config
     if (!slalJsonConfig) {
         logger.warn('No slal config path was provided.')
         return;
     }
     
-    const objects = await readObjectsFromSource(slalJsonConfig, prefix, author, inputPath);
+    const objects = await readObjects(config, prefix);
 
     return (await readJson(slalJsonConfig) as SlalConfig).animations.reduce<ParsedSlalConfig>((acc, animConfig) => {
         let { id } = animConfig;
-        id = formatAnimName(id, prefix, author);
+        id = formatAnimName(id, prefix, author, idPrefix);
 
         acc[id] = acc[id] || {} as ParsedSlalConfigAnimation;
         acc[id].tags = animConfig.tags;
@@ -52,7 +61,7 @@ export const readSlalConfig = async (slalJsonConfig: string, prefix: string, aut
 
                 currentStage.actors[actorIndex].gender = actor.type.toLowerCase() as 'male' | 'female';
 
-                const actorObjects = objects[id]?.[actorIndex]
+                const actorObjects = objects?.[id]?.[actorIndex]
 
                 currentStage.actors[actorIndex].objects = actorObjects?.[0].stage === 'all' ? actorObjects[0] : actorObjects?.find(obj => obj.stage === stageIndex);
             });

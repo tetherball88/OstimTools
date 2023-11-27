@@ -1,0 +1,28 @@
+module:
+    name: AnubsAdapted
+    inputPath: D:\animations\anubs\1537070476_AnubSLAL022023SSELLver\00 Data\SLAL
+        H\Meshes\actors\character\animations\Anubs Human
+    slalJsonConfig: D:\animations\anubs\1537070476_AnubSLAL022023SSELLver\00
+        Data\SLAL H\SLAnims\json\HUMAN NEW.json
+    include:
+        - AnubsAfABedsleep
+        - AnubsAfAChairCg
+        - AnubsAfAdultBarTable
+        - AnubsAfAdultBath
+        - AnubsAfAdultStool
+        - AnubsAfASide
+        - AnubsAfASofa
+        - AnubsAfBedP
+        - AnubsAfCaged
+        - AnubsAfDrunk
+        - AnubsAfAdultRbed2
+        - AnubsAfFfmBed
+        - AnubsAfTw
+        - AnubsAfChairDoggy
+        - AnubsAfThroneFemdom
+        - AnubsAfAdultBench
+        - AnubsAfChairfemdom
+        - AnubsAfFfmFemdom3
+    exclude: []
+    nemesisPrefix: anuafu
+    idPrefix: AF

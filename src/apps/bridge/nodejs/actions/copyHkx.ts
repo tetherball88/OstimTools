@@ -24,6 +24,7 @@ const copyFilesForOneSeries = async (
             name: moduleName,
             include,
             exclude,
+            idPrefix = "",
 
         },
         outputAnimPath,
@@ -45,7 +46,7 @@ const copyFilesForOneSeries = async (
         }
 
         const { id } = parsedSlalName;
-        const formattedAnimName = formatAnimName(id, prefix, pack.author);
+        const formattedAnimName = formatAnimName(id, prefix, pack.author, idPrefix);
         
         /**
          * include only animations from include(if empty all animations) and which aren't in exclude
@@ -121,7 +122,7 @@ export const copyHkx = async (config: CombinedConfig) => {
         logger.warn('Couldn\'t find SLAL animation prefix from SLAL source txt file');
     }
 
-    const slalConfig = await readSlalConfig(slalJsonConfig, slalPrefix, pack.author, inputPath);
+    const slalConfig = await readSlalConfig(config, slalPrefix);
 
     if (!slalConfig) {
         logger.error(`Couldn't parse and read slal config for files copying for module ${moduleName}`)

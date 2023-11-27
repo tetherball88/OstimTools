@@ -36,6 +36,10 @@ export interface ModuleConfig {
          * max - 6 symbols, letters and digits
          */
         nemesisPrefix: string
+        /**
+         * Optional prefix for scene ids
+         */
+        idPrefix?: string
     }
 
 }
@@ -57,9 +61,21 @@ export interface ModuleTransitionsConfig {
     transitions?: TransitionConfig[]
 }
 
+/**
+ * Animation objects to skip in animation
+ * useful uf you want to adapt scene with spawned furniture to regular furniture
+ */
+export interface ModuleObjectsConfig {
+    objects?: {
+        skipObjects?: Record<string, string[]>
+        replaceObjects?: Record<string, Record<string, string>>
+    }
+
+}
+
 export type ModuleSections = 'module' | 'furnitureMap' | 'transitions';
 
 /**
  * Other configs which should be set up per pack
  */
-export interface ModuleSpecificConfig extends ModuleConfig, ModuleFurnitureMapConfig, ModuleTransitionsConfig {}
+export interface ModuleSpecificConfig extends ModuleConfig, ModuleFurnitureMapConfig, ModuleTransitionsConfig, ModuleObjectsConfig { }

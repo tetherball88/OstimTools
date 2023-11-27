@@ -389,5 +389,12 @@
             "AnubsBm-4",
             "AnubsBm-5"
         ]
+    },
+    "external": {
+        "id": "external",
+        "name": "External",
+        "children": [
+            "OStim2PStandingCloseFF"
+        ]
     }
 }

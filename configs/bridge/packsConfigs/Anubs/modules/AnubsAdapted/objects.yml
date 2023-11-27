@@ -1,0 +1,54 @@
+objects:
+    skipObjects:
+        AnubsAfChairDoggy:
+            - Anubchairstatic
+        AnubsAfThroneFemdom:
+            - AOThroneR
+        AnubsAfAdultBarTable:
+            - AOtableround
+        AnubsAfBedP:
+            - MMBED
+        AnubsAfAdultBench:
+            - AnubBench
+        AnubsAfAChairCg:
+            - Anubbuttchair
+        AnubsAfASofa:
+            - Anubsofa
+        AnubsAfDrunk: []
+        AnubsAfChairfemdom:
+            - Anubchair
+        AnubsAfASide:
+            - AnubbuttchairB
+        AnubsAfAdultStool: []
+        AnubsAfABedsleep:
+            - AnubBedA
+            - AnubPillow
+        AnubsAfTw:
+            - AOThroneR
+        AnubsAfFfmBed: []
+        AnubsAfAdultRbed2: []
+        AnubsAfFfmFemdom3:
+            - AOcuffL2
+            - AOcuffR2
+            - AOchair4
+    replaceObjects:
+        AnubsAfChairDoggy: {}
+        AnubsAfThroneFemdom: {}
+        AnubsAfAdultBarTable: {}
+        AnubsAfAdultBath: {}
+        AnubsAfBedP: {}
+        AnubsAfAdultBench: {}
+        AnubsAfAChairCg: {}
+        AnubsAfASofa: {}
+        AnubsAfDrunk: {}
+        AnubsAfChairfemdom: {}
+        AnubsAfCaged: {}
+        AnubsAfASide: {}
+        AnubsAfAdultStool: {}
+        AnubsAfABedsleep: {}
+        AnubsAfFfmFemdom3: {}
+        AnubsAfTw: {}
+        AnubsAfFfmBed:
+            MMBED: MMBEDPillowsOnly
+        AnubsAfAdultRbed2:
+            MMBED2: MMBEDPillowsOnly

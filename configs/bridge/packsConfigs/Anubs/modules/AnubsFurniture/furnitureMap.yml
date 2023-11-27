@@ -1,20 +1,20 @@
 furnitureMap:
     bed:
-        - abed2
-        - adultbed
-        - ffmbed2
+        - AnubsABed2
+        - AnubsAdultBed
+        - AnubsFfmBed2
     bench: []
     chair: []
     cookingpot: []
     shelf: []
     table:
-        - ainvtable
-        - atable
-        - anubcounter
+        - AnubsAInvTable
+        - AnubsATable
+        - AnubsAnubCounter
     wall:
-        - awall4
-        - awallc
-        - lesbianwc
-        - wallback
-        - wallside
+        - AnubsAWall4
+        - AnubsAWallc
+        - AnubsLesbianWc
+        - AnubsWallback
+        - AnubsWallside
         - AnubsWallfront

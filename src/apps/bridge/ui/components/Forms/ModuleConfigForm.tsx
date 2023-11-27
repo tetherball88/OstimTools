@@ -112,6 +112,21 @@ export const ModuleConfigForm: FC<ModuleConfigFormProps> = ({ disableModuleName 
                     }}
                 />
             </Grid>
+            <Grid item xs={12}>
+                <Controller
+                    name="module.idPrefix"
+                    control={control}
+                    render={({ field }) => (
+                        <Tooltip title="ID prefix - is optional if you are using same animation with same names in different modules. Keep it empty if you don't have animations with same names. Keep it short.">
+                            <TextField
+                                {...field}
+                                fullWidth
+                                label="ID prefix"
+                            />
+                        </Tooltip>
+                    )}
+                />
+            </Grid>
         </Grid>
     )
 }

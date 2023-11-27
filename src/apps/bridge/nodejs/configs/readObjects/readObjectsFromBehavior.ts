@@ -1,10 +1,18 @@
+import { AnimObjects } from '~bridge/nodejs/configs/readObjects/AnimObjects';
+import { CombinedConfig } from '../../../types/CombinedConfig';
 import { formatAnimName, parseSlalName } from '~bridge/nodejs/utils';
 import { glob, logger, readFile } from '~common/nodejs/utils';
 
-export type SlalObjectsActor = { stage: number | 'all'; objects: string[] }
-export type SlalObjects = Record<string, SlalObjectsActor[]>
-
-export const readObjectsFromBehavior = async function (inputPath: string, prefix: string, author: string) {
+export const readObjectsFromBehavior = async function (config: CombinedConfig, prefix: string) {
+    const {
+        pack: {
+            author
+        },
+        module: {
+            inputPath,
+            idPrefix = ""
+        },
+    } = config
     const behaviorTxtFile = (await glob(`${inputPath}/FNIS*.{txt,TXT}`))[0];
     let content = ''
 
@@ -17,7 +25,7 @@ export const readObjectsFromBehavior = async function (inputPath: string, prefix
     const regex = /.*-o.*/g;
     const matches = content.match(regex);
 
-    const res: Record<string, SlalObjects> = {}
+    const res: Record<string, AnimObjects> = {}
 
     if (matches) {
         matches.forEach(line => {
@@ -39,7 +47,11 @@ export const readObjectsFromBehavior = async function (inputPath: string, prefix
             }
 
             const { id, actorIndex, stageIndex } = parsedSlalName;
-            const formattedAnimName = formatAnimName(id, prefix, author);
+            const formattedAnimName = formatAnimName(id, prefix, author, idPrefix);
+
+            if(!objects.length) {
+                return
+            }
 
             const animObjects = res[formattedAnimName] = res[formattedAnimName] || []
             const actorObjectMap = animObjects[actorIndex] = animObjects[actorIndex] || []

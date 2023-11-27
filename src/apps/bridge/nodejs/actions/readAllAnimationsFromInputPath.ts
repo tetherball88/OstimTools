@@ -4,7 +4,7 @@ import { logger, isHkxFile, glob  } from '~common/nodejs/utils';
 import { formatAnimName, parseSlalName } from "~bridge/nodejs/utils";
 import { AnimationFromModule, CombinedConfig } from '~bridge/types';
 
-export const readAllAnimationsFromInputPath = async (inputPath: string, prefix: string, author: string): Promise<AnimationFromModule | void> => {
+export const readAllAnimationsFromInputPath = async (inputPath: string, prefix: string, author: string, idPrefix: string): Promise<AnimationFromModule | void> => {
     const map: Record<string, { name: string, actors: Set<number>, stages: Set<number> }> = {};
     const files = await fs.promises.readdir(inputPath);
 
@@ -19,7 +19,7 @@ export const readAllAnimationsFromInputPath = async (inputPath: string, prefix: 
             return;
         }
         const { id, actorIndex, stageIndex } = parsedSlalName;
-        const name = formatAnimName(id, prefix, author);
+        const name = formatAnimName(id, prefix, author, idPrefix);
 
         map[name] = map[name] || { name, actors: new Set, stages: new Set };
         map[name].actors.add(actorIndex);

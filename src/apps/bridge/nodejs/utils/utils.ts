@@ -44,8 +44,9 @@ const removeSlalPrefix = (name: string, prefix: string) => {
     return name;
 }
 
-export function formatAnimName(name: string, prefix: string, author: string) {
-    const nameParts = removeSlalPrefix(name, prefix).split('_');
+export function formatAnimName(name: string, slalPrefix: string, author: string, idPrefix: string) {
+    const nameParts = removeSlalPrefix(name, slalPrefix).split('_');
+    idPrefix && nameParts.unshift(idPrefix)
     if(!nameParts[0].toLowerCase().startsWith(author.toLowerCase()))
         nameParts.unshift(author)
     return nameParts.map(word => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase()).join('');
@@ -55,12 +56,12 @@ export function oldFormatAnimName(name: string, prefix: string) {
     return removeSlalPrefix(name, prefix).split('_').map(word => word.toLowerCase()).join('');
 }
 
-export const getAnimNameFromSlalFile = (file: string, prefix: string, author: string) => {
+export const getAnimNameFromSlalFile = (file: string, slalPrefix: string, author: string, idPrefix: string) => {
     const parsed = parseSlalName(file);
     if(!parsed) {
         return;
     }
-    return formatAnimName(parsed.id, prefix, author);
+    return formatAnimName(parsed.id, slalPrefix, author, idPrefix);
 }
 
 export const getActorIndexFromSlalFile = (file: string) => {

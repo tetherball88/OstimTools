@@ -12,6 +12,7 @@ import { invokeValidateInputPath, invokeValidateSlalJsonPath } from '~bridge/eve
 import { GET_ALL_ANIMATIONS } from '~bridge/events/events';
 import { useSendCommand } from '~bridge/ui/hooks/useSendCommand';
 import { TransitionsConfigForm } from '~bridge/ui/components/Forms/TransitionsConfigForm';
+import { ObjectsConfigForm } from '~bridge/ui/components/Forms/ObjectsConfigForm/ObjectsConfigForm';
 
 export interface ModuleFormsProps {
     disableModuleName?: boolean
@@ -42,7 +43,7 @@ export const ModuleForms: FC<ModuleFormsProps> = ({ disableModuleName = false, a
                 && !(await invokeValidateSlalJsonPath(watchSlalConfigPath))
             ) {
                 
-                const animations = await sendCommand(GET_ALL_ANIMATIONS, 'Searching animations from input path...', watchInputPath, getValues('module.slalJsonConfig'), author);
+                const animations = await sendCommand(GET_ALL_ANIMATIONS, 'Searching animations from input path...', watchInputPath, getValues('module.slalJsonConfig'), author, getValues('module.idPrefix') || "");
 
                 setAllAnimations(animations || {});
             } else {
@@ -77,11 +78,13 @@ export const ModuleForms: FC<ModuleFormsProps> = ({ disableModuleName = false, a
             >
                 <Tab label={<Badge badgeContent="!" color="error" invisible={!errors.module}>Base</Badge>} />
                 <Tab label="Transitions" disabled={!Object.keys(selectedAnimations).length} />
+                <Tab label="Objects" disabled={!Object.keys(selectedAnimations).length} />
                 <Tab label="Furniture map" disabled={!Object.keys(selectedAnimations).length} />
             </Tabs>
             {currentTab === 0 && <ModuleConfigForm disableModuleName={disableModuleName} allAnimations={allAnimations} />}
             {currentTab === 1 && <TransitionsConfigForm selectedAnimations={selectedAnimations} />}
-            {currentTab === 2 && <FurnitureMapConfigForm selectedAnimations={selectedAnimations} />}
+            {currentTab === 2 && <ObjectsConfigForm selectedAnimations={selectedAnimations} />}
+            {currentTab === 3 && <FurnitureMapConfigForm selectedAnimations={selectedAnimations} />}
         </>
     )
 }

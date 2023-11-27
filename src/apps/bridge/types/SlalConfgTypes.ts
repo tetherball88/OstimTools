@@ -1,4 +1,4 @@
-import { SlalObjectsActor } from "~bridge/nodejs/configs/readObjectsFromSource"
+import { AnimObjectsActor } from "~bridge/nodejs/configs/readObjects/AnimObjects"
 
 export interface SlalConfigAnimationStage {
     id: string
@@ -24,7 +24,7 @@ export interface SlalConfig {
 
 export interface ParsedSlalConfigActor {
     gender: 'male' | 'female'
-    objects?: SlalObjectsActor
+    objects?: AnimObjectsActor
 }
 
 export interface ParsedSlalConfigStage {

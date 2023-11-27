@@ -1,5 +1,6 @@
-import { LOAD_CONFIGS, LOAD_GLOBAL_CONFIG, VALIDATE_NEMESIS_PATH, VALIDATE_INPUT_PATH, VALIDATE_SLAL_JSON_PATH, LOAD_STARTING_SCENES_CONFIG, SEARCH_STARTING_SCENES } from "~bridge/events/events";
+import { LOAD_CONFIGS, LOAD_GLOBAL_CONFIG, VALIDATE_NEMESIS_PATH, VALIDATE_INPUT_PATH, VALIDATE_SLAL_JSON_PATH, LOAD_STARTING_SCENES_CONFIG, SEARCH_STARTING_SCENES, READ_MODULE_ANIM_OBJECTS } from "~bridge/events/events";
 import { eventsMap } from "~bridge/events/eventsMap";
+import { ModuleSpecificConfig, PackFullConfig } from "~bridge/types";
 
 
 export const invokeLoadConfigs: typeof eventsMap[typeof LOAD_CONFIGS] = () => {
@@ -28,4 +29,8 @@ export const invokeValidateSlalJsonPath: typeof eventsMap[typeof VALIDATE_SLAL_J
 
 export const invokeSearchStartingScenes: typeof eventsMap[typeof SEARCH_STARTING_SCENES] = (path) => {
     return window.api.invoke(SEARCH_STARTING_SCENES, path);
+}
+
+export const invokeReadObjects: typeof eventsMap[typeof READ_MODULE_ANIM_OBJECTS] = (...args) => {
+    return window.api.invoke(READ_MODULE_ANIM_OBJECTS, ...args)
 }

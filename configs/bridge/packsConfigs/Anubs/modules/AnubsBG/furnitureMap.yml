@@ -6,4 +6,4 @@ furnitureMap:
     shelf: []
     table: []
     wall:
-        - bgwall
+        - AnubsBgWall

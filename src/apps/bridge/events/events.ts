@@ -36,3 +36,6 @@ export const BUILD_SEQUENCES = 'bridge-build-sequences';
 
 export const ARCHIVE_MOD = 'archive-mod';
 export const ARCHIVE_PACK_SEQUENCES = 'archive-pack-sequences';
+export const ARCHIVE_FOMOD = 'archive-fomod';
+
+export const READ_MODULE_ANIM_OBJECTS = "read-module-anim-objects"

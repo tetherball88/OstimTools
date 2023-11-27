@@ -21,7 +21,7 @@ export const initialOstimConfigOnFileCopy = async ({
     ostimConfig: OstimConfig
 }, animationsWithoutSlal: Set<string>, prefix: string) => {
     const {
-        module: { name: moduleName },
+        module: { name: moduleName, idPrefix },
         furnitureMap,
         pack
     } = config;
@@ -34,7 +34,7 @@ export const initialOstimConfigOnFileCopy = async ({
     }
     const { id, actorIndex, stageIndex } = parsed;
     const nStageIndex = stageIndex - 1;
-    const animName = formatAnimName(id, prefix, pack.author);
+    const animName = formatAnimName(id, prefix, pack.author, idPrefix || "");
     const oldAnimName = oldFormatAnimName(id, prefix)
 
     if(!slalConfig[animName]) {
@@ -103,7 +103,7 @@ export const initialOstimConfigOnFileCopy = async ({
 
     ostimStageConfig.meta = ostimStageConfig.meta || {} as OstimConfigAnimationMeta;
     ostimStageConfig.meta.tags = ostimStageConfig.meta.tags || slalSceneConfig?.tags?.toLowerCase().split(',') || [];
-    ostimStageConfig.meta.furniture = ostimStageConfig.meta.furniture || getFurniture(furnitureMap, animName);
+    ostimStageConfig.meta.furniture = getFurniture(furnitureMap, animName);
 
     const posFolderName = `${getAnimPrefix(ostimSceneConfig.actorsKeyword, getFurniture(furnitureMap, animName))}Pos`;
     ostimStageConfig.id = `${animName}-${stageIndex}`;

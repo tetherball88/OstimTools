@@ -23,6 +23,10 @@ const findHubOrigin = async (actorsKeyword: string, furniture?: FurnitureTypes) 
             fit = fit && furniture === origin.furniture
         }
 
+        if(furniture === "chair" && fit) {
+            console.log(origin, fit, actorsKeyword)
+        }
+
         return fit
     })
 

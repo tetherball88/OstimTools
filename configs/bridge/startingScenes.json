@@ -1,6 +1,7 @@
 {
     "sources": [
-        "D:\\MO2\\mods\\OStim Standalone - Advanced Adult Animation Framework"
+        "D:\\MO2\\mods\\OStim Standalone - Advanced Adult Animation Framework",
+        "D:\\MO2 Development\\mods\\AnubsAdaptedAdditionalIntro"
     ],
     "scenes": [
         {
@@ -2055,6 +2056,44 @@
                         "standing"
                     ],
                     "feetOnGround": true
+                }
+            ]
+        },
+        {
+            "name": "AnubsTmpFFMChair",
+            "furniture": "chair",
+            "actorsKeyword": "ffm",
+            "length": 2,
+            "speeds": [
+                {
+                    "animation": "AnubsAfTw_1"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "male",
+                    "sosBend": 2,
+                    "scale": 1,
+                    "feetOnGround": true,
+                    "tags": [
+                        "sitting"
+                    ]
+                },
+                {
+                    "intendedSex": "female",
+                    "scale": 1,
+                    "feetOnGround": true,
+                    "tags": [
+                        "sitting"
+                    ]
+                },
+                {
+                    "intendedSex": "female",
+                    "scale": 1,
+                    "feetOnGround": false,
+                    "tags": [
+                        "kneeling"
+                    ]
                 }
             ]
         }

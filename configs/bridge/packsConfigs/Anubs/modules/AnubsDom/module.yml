@@ -6,8 +6,6 @@ module:
         Data\SLAL H\SLAnims\json\HUMAN NEW.json
     include:
         - AnubsFfmfemdom2
-        - AnubsFfmfemdom
-        - AnubsFfmFemdom3
         - AnubsAAmazon
         - AnubsAnubdomcow
         - AnubsAnubfemdom
@@ -21,5 +19,6 @@ module:
         - AnubsMbf
         - AnubsSwordCg
         - AnubsHypno
+        - AnubsFfmfemdom
     exclude: []
     nemesisPrefix: anudom
