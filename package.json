@@ -1,7 +1,7 @@
 {
   "name": "ostim-tools",
   "productName": "Ostim tools",
-  "version": "3.1.1",
+  "version": "3.2.0",
   "description": "Ostim animations managing tools",
   "main": ".webpack/main",
   "scripts": {
@@ -12,6 +12,7 @@
     "lint": "eslint --ext .ts,.tsx .",
     "pack": "electron-builder -p --win",
     "ostim-scene-to-schema": "typescript-json-schema \".\\src\\common\\shared\\types\\OstimScene.ts\" OstimScene --required --strictNullChecks --noExtraProps --out \".\\src\\common\\shared\\jsonValidators\\ostimSceneJsonSchema.json\"",
+    "ostim-config-to-schema": "typescript-json-schema \".\\src\\apps\\bridge\\types\\OstimConfigTypes.ts\" OstimConfig --required --strictNullChecks --noExtraProps --out \".\\src\\common\\shared\\jsonValidators\\ostimConfigJsonSchema.json\"",
     "global-to-schema": "typescript-json-schema \".\\src\\apps\\explorer\\types\\GlobalTheme.ts\" GlobalTheme --required --strictNullChecks --noExtraProps --out \".\\src\\common\\shared\\jsonValidators\\explorerGlobalTheme.json\"",
     "child-scenes-to-schema": "typescript-json-schema \".\\src\\apps\\explorer\\types\\ModThemeConfig.ts\" ModThemeConfigScene --required --strictNullChecks --noExtraProps --out \".\\src\\common\\shared\\jsonValidators\\explorerScenesStyles.json\"",
     "group-scenes-to-schema": "typescript-json-schema \".\\src\\apps\\explorer\\types\\ModThemeConfig.ts\" GroupThemeConfigScene --required --strictNullChecks --noExtraProps --out \".\\src\\common\\shared\\jsonValidators\\explorerGroupsStyles.json\""

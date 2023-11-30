@@ -12239,5 +12239,4029 @@
             "posFolderName": "fmPos",
             "animName": "LeitoXcrossStanding"
         }
+    },
+    "LeitoAfBed69": {
+        "name": "Leito Bed 69",
+        "actorsKeyword": "fm",
+        "stages": [
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 1,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "lyingfront"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito"
+                    ],
+                    "furniture": "bed"
+                },
+                "id": "LeitoAfBed69-1",
+                "fileName": "LeitoAfBed69_1",
+                "actions": [
+                    {
+                        "type": "pattinghead",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "lickingpenis",
+                        "actor": 1,
+                        "target": 0
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": -2,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "lyingback"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito"
+                    ],
+                    "furniture": "bed"
+                },
+                "id": "LeitoAfBed69-2",
+                "fileName": "LeitoAfBed69_2",
+                "actions": [
+                    {
+                        "type": "femalemasturbation",
+                        "actor": 1
+                    },
+                    {
+                        "type": "blowjob",
+                        "actor": 1,
+                        "target": 0,
+                        "performer": 0
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "lyingback"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "allfours",
+                            "facingaway"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito",
+                        "69",
+                        "sixtynine"
+                    ],
+                    "furniture": "bed"
+                },
+                "id": "LeitoAfBed69-3",
+                "fileName": "LeitoAfBed69_3",
+                "actions": [
+                    {
+                        "type": "lickingvagina",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "handjob",
+                        "actor": 1,
+                        "target": 0
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "lyingback"
+                        ],
+                        "autoTransitions": {
+                            "climax": "LeitoAfBed69-5"
+                        }
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "allfours",
+                            "facingaway"
+                        ],
+                        "autoTransitions": {
+                            "climax": "LeitoAfBed69-5"
+                        }
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito",
+                        "69",
+                        "sixtynine"
+                    ],
+                    "furniture": "bed"
+                },
+                "id": "LeitoAfBed69-4",
+                "fileName": "LeitoAfBed69_4",
+                "actions": [
+                    {
+                        "type": "lickingvagina",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "blowjob",
+                        "actor": 1,
+                        "target": 0
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "lyingback",
+                            "climaxing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "allfours",
+                            "facingaway",
+                            "climaxing"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito",
+                        "69",
+                        "sixtynine",
+                        "transition"
+                    ],
+                    "furniture": "bed"
+                },
+                "id": "LeitoAfBed69-5",
+                "fileName": "LeitoAfBed69_5",
+                "actions": [
+                    {
+                        "type": "lickingvagina",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "blowjob",
+                        "actor": 1,
+                        "target": 0
+                    }
+                ]
+            }
+        ],
+        "folders": {
+            "moduleName": "LeitoAdapted",
+            "posFolderName": "fmBedPos",
+            "animName": "LeitoAfBed69"
+        },
+        "hkxAnnotations": {
+            "LeitoAfBed69_5_0.hkx": {
+                "duration": 2.9,
+                "annotationLines": "1.500000 OStimClimax"
+            },
+            "LeitoAfBed69_5_1.hkx": {
+                "duration": 2.9,
+                "annotationLines": "1.500000 OStimClimax"
+            }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "LeitoAfBed69-1",
+                    "duration": 1.333333
+                },
+                {
+                    "id": "LeitoAfBed69-2",
+                    "duration": 1.333333
+                },
+                {
+                    "id": "LeitoAfBed69-3",
+                    "duration": 0.666667
+                },
+                {
+                    "id": "LeitoAfBed69-4",
+                    "duration": 0.6
+                },
+                {
+                    "id": "LeitoAfBed69-5",
+                    "duration": 1.666667
+                }
+            ],
+            "tags": []
+        }
+    },
+    "LeitoAfBedAnalDoggy": {
+        "name": "Leito Bed Anal Doggy",
+        "actorsKeyword": "fm",
+        "stages": [
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "allfours",
+                            "facingaway"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito"
+                    ],
+                    "furniture": "bed"
+                },
+                "id": "LeitoAfBedAnalDoggy-1",
+                "fileName": "LeitoAfBedAnalDoggy_1",
+                "actions": [
+                    {
+                        "type": "vaginalfingering",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 3,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "allfours",
+                            "facingaway"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito",
+                        "doggystyle"
+                    ],
+                    "furniture": "bed"
+                },
+                "id": "LeitoAfBedAnalDoggy-2",
+                "fileName": "LeitoAfBedAnalDoggy_2",
+                "actions": [
+                    {
+                        "type": "analsex",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 3,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "allfours",
+                            "facingaway"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito",
+                        "doggystyle"
+                    ],
+                    "furniture": "bed"
+                },
+                "id": "LeitoAfBedAnalDoggy-3",
+                "fileName": "LeitoAfBedAnalDoggy_3",
+                "actions": [
+                    {
+                        "type": "analsex",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "femalemasturbation",
+                        "actor": 1
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 5,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ],
+                        "autoTransitions": {
+                            "climax": "LeitoAfBedAnalDoggy-5"
+                        }
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "allfours",
+                            "facingaway"
+                        ],
+                        "autoTransitions": {
+                            "climax": "LeitoAfBedAnalDoggy-5"
+                        }
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito",
+                        "doggystyle"
+                    ],
+                    "furniture": "bed"
+                },
+                "id": "LeitoAfBedAnalDoggy-4",
+                "fileName": "LeitoAfBedAnalDoggy_4",
+                "actions": [
+                    {
+                        "type": "analsex",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "pullinghair",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "femalemasturbation",
+                        "actor": 1
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 5,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing",
+                            "climaxing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "allfours",
+                            "facingaway",
+                            "climaxing"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito",
+                        "doggystyle",
+                        "transition"
+                    ],
+                    "furniture": "bed"
+                },
+                "id": "LeitoAfBedAnalDoggy-5",
+                "fileName": "LeitoAfBedAnalDoggy_5",
+                "actions": [
+                    {
+                        "type": "analsex",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "pullinghair",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "femalemasturbation",
+                        "actor": 1
+                    }
+                ]
+            }
+        ],
+        "folders": {
+            "moduleName": "LeitoAdapted",
+            "posFolderName": "fmBedPos",
+            "animName": "LeitoAfBedAnalDoggy"
+        },
+        "hkxAnnotations": {
+            "LeitoAfBedAnalDoggy_5_0.hkx": {
+                "duration": 2.3,
+                "annotationLines": "1.200000 OStimClimax"
+            },
+            "LeitoAfBedAnalDoggy_5_1.hkx": {
+                "duration": 2.3,
+                "annotationLines": "1.200000 OStimClimax"
+            }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "LeitoAfBedAnalDoggy-1",
+                    "duration": 1.2
+                },
+                {
+                    "id": "LeitoAfBedAnalDoggy-2",
+                    "duration": 1.2
+                },
+                {
+                    "id": "LeitoAfBedAnalDoggy-3",
+                    "duration": 0.4
+                },
+                {
+                    "id": "LeitoAfBedAnalDoggy-4",
+                    "duration": 0.4
+                },
+                {
+                    "id": "LeitoAfBedAnalDoggy-5",
+                    "duration": 1.333333
+                }
+            ],
+            "tags": []
+        }
+    },
+    "LeitoAfBedAnalReCow": {
+        "name": "Leito Bed Anal Reverse Cowgirl",
+        "actorsKeyword": "fm",
+        "stages": [
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 3,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "sitting"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing",
+                            "bendover"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito"
+                    ],
+                    "furniture": "bed"
+                },
+                "id": "LeitoAfBedAnalReCow-1",
+                "fileName": "LeitoAfBedAnalReCow_1",
+                "actions": [
+                    {
+                        "type": "blowjob",
+                        "actor": 1,
+                        "target": 0
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": -1,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "sitting"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "squatting",
+                            "facingaway"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito",
+                        "reversecowgirl"
+                    ],
+                    "furniture": "bed"
+                },
+                "id": "LeitoAfBedAnalReCow-2",
+                "fileName": "LeitoAfBedAnalReCow_2",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1,
+                        "performer": 1
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": -1,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "sitting"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "squatting",
+                            "facingaway"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito",
+                        "reversecowgirl"
+                    ],
+                    "furniture": "bed"
+                },
+                "id": "LeitoAfBedAnalReCow-3",
+                "fileName": "LeitoAfBedAnalReCow_3",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1,
+                        "performer": 1
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "lyingback"
+                        ],
+                        "autoTransitions": {
+                            "climax": "LeitoAfBedAnalReCow-5"
+                        }
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "squatting",
+                            "facingaway"
+                        ],
+                        "autoTransitions": {
+                            "climax": "LeitoAfBedAnalReCow-5"
+                        }
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito",
+                        "reversecowgirl"
+                    ],
+                    "furniture": "bed"
+                },
+                "id": "LeitoAfBedAnalReCow-4",
+                "fileName": "LeitoAfBedAnalReCow_4",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "femalemasturbation",
+                        "actor": 1
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "lyingback",
+                            "climaxing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "squatting",
+                            "facingaway",
+                            "climaxing"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito",
+                        "reversecowgirl",
+                        "transition"
+                    ],
+                    "furniture": "bed"
+                },
+                "id": "LeitoAfBedAnalReCow-5",
+                "fileName": "LeitoAfBedAnalReCow_5",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "femalemasturbation",
+                        "actor": 1
+                    }
+                ]
+            }
+        ],
+        "folders": {
+            "moduleName": "LeitoAdapted",
+            "posFolderName": "fmBedPos",
+            "animName": "LeitoAfBedAnalReCow"
+        },
+        "hkxAnnotations": {
+            "LeitoAfBedAnalReCow_5_0.hkx": {
+                "duration": 2.3,
+                "annotationLines": "1.200000 OStimClimax"
+            },
+            "LeitoAfBedAnalReCow_5_1.hkx": {
+                "duration": 2.3,
+                "annotationLines": "1.200000 OStimClimax"
+            }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "LeitoAfBedAnalReCow-1",
+                    "duration": 1.333333
+                },
+                {
+                    "id": "LeitoAfBedAnalReCow-2",
+                    "duration": 1.666667
+                },
+                {
+                    "id": "LeitoAfBedAnalReCow-3",
+                    "duration": 0.533333
+                },
+                {
+                    "id": "LeitoAfBedAnalReCow-4",
+                    "duration": 0.333333
+                },
+                {
+                    "id": "LeitoAfBedAnalReCow-5",
+                    "duration": 1.333333
+                }
+            ],
+            "tags": []
+        }
+    },
+    "LeitoAfBedCowgirl": {
+        "name": "Leito Bed Cowgirl",
+        "actorsKeyword": "fm",
+        "stages": [
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 1,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "sitting"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "kneeling"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito"
+                    ],
+                    "furniture": "bed"
+                },
+                "id": "LeitoAfBedCowgirl-1",
+                "fileName": "LeitoAfBedCowgirl_1",
+                "actions": [
+                    {
+                        "type": "blowjob",
+                        "actor": 1,
+                        "target": 0
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 4,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "sitting",
+                            "onbottom"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "sitting",
+                            "ontop"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito",
+                        "cowgirl"
+                    ],
+                    "furniture": "bed"
+                },
+                "id": "LeitoAfBedCowgirl-2",
+                "fileName": "LeitoAfBedCowgirl_2",
+                "actions": [
+                    {
+                        "type": "hug",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1,
+                        "performer": 1
+                    },
+                    {
+                        "type": "hug",
+                        "actor": 1,
+                        "target": 0
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 1,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "lyingback",
+                            "onbottom"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "sitting",
+                            "ontop"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito",
+                        "cowgirl"
+                    ],
+                    "furniture": "bed"
+                },
+                "id": "LeitoAfBedCowgirl-3",
+                "fileName": "LeitoAfBedCowgirl_3",
+                "actions": [
+                    {
+                        "type": "holdinghand",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1,
+                        "performer": 1
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 1,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "lyingback"
+                        ],
+                        "autoTransitions": {
+                            "climax": "LeitoAfBedCowgirl-5"
+                        }
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "squatting"
+                        ],
+                        "autoTransitions": {
+                            "climax": "LeitoAfBedCowgirl-5"
+                        }
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito",
+                        "cowgirl"
+                    ],
+                    "furniture": "bed"
+                },
+                "id": "LeitoAfBedCowgirl-4",
+                "fileName": "LeitoAfBedCowgirl_4",
+                "actions": [
+                    {
+                        "type": "holdinghand",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 1,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "lyingback",
+                            "climaxing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "squatting",
+                            "climaxing"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito",
+                        "cowgirl",
+                        "transition"
+                    ],
+                    "furniture": "bed"
+                },
+                "id": "LeitoAfBedCowgirl-5",
+                "fileName": "LeitoAfBedCowgirl_5",
+                "actions": [
+                    {
+                        "type": "holdinghand",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ]
+            }
+        ],
+        "folders": {
+            "moduleName": "LeitoAdapted",
+            "posFolderName": "fmBedPos",
+            "animName": "LeitoAfBedCowgirl"
+        },
+        "hkxAnnotations": {
+            "LeitoAfBedCowgirl_5_0.hkx": {
+                "duration": 2.3,
+                "annotationLines": "1.200000 OStimClimax"
+            },
+            "LeitoAfBedCowgirl_5_1.hkx": {
+                "duration": 2.3,
+                "annotationLines": "1.200000 OStimClimax"
+            }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "LeitoAfBedCowgirl-1",
+                    "duration": 1.333333
+                },
+                {
+                    "id": "LeitoAfBedCowgirl-2",
+                    "duration": 1
+                },
+                {
+                    "id": "LeitoAfBedCowgirl-3",
+                    "duration": 0.533333
+                },
+                {
+                    "id": "LeitoAfBedCowgirl-4",
+                    "duration": 0.333333
+                },
+                {
+                    "id": "LeitoAfBedCowgirl-5",
+                    "duration": 1.333333
+                }
+            ],
+            "tags": []
+        }
+    },
+    "LeitoAfBedDoggy": {
+        "name": "Leito Bed Doggy",
+        "actorsKeyword": "fm",
+        "stages": [
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing",
+                            "bendover",
+                            "facingaway"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito",
+                        "doggystyle"
+                    ],
+                    "furniture": "bed"
+                },
+                "id": "LeitoAfBedDoggy-1",
+                "fileName": "LeitoAfBedDoggy_1",
+                "actions": [
+                    {
+                        "type": "rubbingclitoris",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 3,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing",
+                            "bendover",
+                            "facingaway"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito",
+                        "doggystyle"
+                    ],
+                    "furniture": "bed"
+                },
+                "id": "LeitoAfBedDoggy-2",
+                "fileName": "LeitoAfBedDoggy_2",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 2,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing",
+                            "bendover",
+                            "facingaway"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito",
+                        "doggystyle"
+                    ],
+                    "furniture": "bed"
+                },
+                "id": "LeitoAfBedDoggy-3",
+                "fileName": "LeitoAfBedDoggy_3",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "holdinghip",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 2,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ],
+                        "autoTransitions": {
+                            "climax": "LeitoAfBedDoggy-5"
+                        }
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing",
+                            "bendover",
+                            "facingaway"
+                        ],
+                        "autoTransitions": {
+                            "climax": "LeitoAfBedDoggy-5"
+                        }
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito",
+                        "doggystyle"
+                    ],
+                    "furniture": "bed"
+                },
+                "id": "LeitoAfBedDoggy-4",
+                "fileName": "LeitoAfBedDoggy_4",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "holdingarm",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 3,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing",
+                            "climaxing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing",
+                            "bendover",
+                            "facingaway",
+                            "climaxing"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito",
+                        "doggystyle",
+                        "transition"
+                    ],
+                    "furniture": "bed"
+                },
+                "id": "LeitoAfBedDoggy-5",
+                "fileName": "LeitoAfBedDoggy_5",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "holdingarm",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ]
+            }
+        ],
+        "folders": {
+            "moduleName": "LeitoAdapted",
+            "posFolderName": "fmBedPos",
+            "animName": "LeitoAfBedDoggy"
+        },
+        "hkxAnnotations": {
+            "LeitoAfBedDoggy_5_0.hkx": {
+                "duration": 2.3,
+                "annotationLines": "1.200000 OStimClimax"
+            },
+            "LeitoAfBedDoggy_5_1.hkx": {
+                "duration": 2.3,
+                "annotationLines": "1.200000 OStimClimax"
+            }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "LeitoAfBedDoggy-1",
+                    "duration": 1.333333
+                },
+                {
+                    "id": "LeitoAfBedDoggy-2",
+                    "duration": 0.533333
+                },
+                {
+                    "id": "LeitoAfBedDoggy-3",
+                    "duration": 0.466667
+                },
+                {
+                    "id": "LeitoAfBedDoggy-4",
+                    "duration": 0.4
+                },
+                {
+                    "id": "LeitoAfBedDoggy-5",
+                    "duration": 1.333333
+                }
+            ],
+            "tags": []
+        }
+    },
+    "LeitoAfBedFeetMissionary": {
+        "name": "Leito Bed Footjob",
+        "actorsKeyword": "fm",
+        "stages": [
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "sitting"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito"
+                    ],
+                    "furniture": "bed"
+                },
+                "id": "LeitoAfBedFeetMissionary-1",
+                "fileName": "LeitoAfBedFeetMissionary_1",
+                "actions": [
+                    {
+                        "type": "footjob",
+                        "actor": 1,
+                        "target": 0
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "sitting"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito",
+                        "missionary"
+                    ],
+                    "furniture": "bed"
+                },
+                "id": "LeitoAfBedFeetMissionary-2",
+                "fileName": "LeitoAfBedFeetMissionary_2",
+                "actions": [
+                    {
+                        "type": "kissingfoot",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "footjob",
+                        "actor": 1,
+                        "target": 0
+                    },
+                    {
+                        "type": "femalemasturbation",
+                        "actor": 1
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "lyingback"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito",
+                        "missionary"
+                    ],
+                    "furniture": "bed"
+                },
+                "id": "LeitoAfBedFeetMissionary-3",
+                "fileName": "LeitoAfBedFeetMissionary_3",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "holdingleg",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ],
+                        "autoTransitions": {
+                            "climax": "LeitoAfBedFeetMissionary-5"
+                        }
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "lyingback"
+                        ],
+                        "autoTransitions": {
+                            "climax": "LeitoAfBedFeetMissionary-5"
+                        }
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito",
+                        "missionary"
+                    ],
+                    "furniture": "bed"
+                },
+                "id": "LeitoAfBedFeetMissionary-4",
+                "fileName": "LeitoAfBedFeetMissionary_4",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "holdingleg",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "kissingfoot",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing",
+                            "climaxing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "lyingback",
+                            "climaxing"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito",
+                        "missionary",
+                        "transition"
+                    ],
+                    "furniture": "bed"
+                },
+                "id": "LeitoAfBedFeetMissionary-5",
+                "fileName": "LeitoAfBedFeetMissionary_5",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "holdingleg",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "kissingfoot",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ]
+            }
+        ],
+        "folders": {
+            "moduleName": "LeitoAdapted",
+            "posFolderName": "fmBedPos",
+            "animName": "LeitoAfBedFeetMissionary"
+        },
+        "hkxAnnotations": {
+            "LeitoAfBedFeetMissionary_5_0.hkx": {
+                "duration": 2.9,
+                "annotationLines": "1.500000 OStimClimax"
+            },
+            "LeitoAfBedFeetMissionary_5_1.hkx": {
+                "duration": 2.9,
+                "annotationLines": "1.500000 OStimClimax"
+            }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "LeitoAfBedFeetMissionary-1",
+                    "duration": 2.666667
+                },
+                {
+                    "id": "LeitoAfBedFeetMissionary-2",
+                    "duration": 1
+                },
+                {
+                    "id": "LeitoAfBedFeetMissionary-3",
+                    "duration": 0.933333
+                },
+                {
+                    "id": "LeitoAfBedFeetMissionary-4",
+                    "duration": 0.933333
+                },
+                {
+                    "id": "LeitoAfBedFeetMissionary-5",
+                    "duration": 1.666667
+                }
+            ],
+            "tags": []
+        }
+    },
+    "LeitoAfBedMissionary": {
+        "name": "Leito Bed Missionary",
+        "actorsKeyword": "fm",
+        "stages": [
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "sitting"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito"
+                    ],
+                    "furniture": "bed"
+                },
+                "id": "LeitoAfBedMissionary-1",
+                "fileName": "LeitoAfBedMissionary_1",
+                "actions": [
+                    {
+                        "type": "kissing",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "rubbingclitoris",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "squatting"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "lyingback"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito"
+                    ],
+                    "furniture": "bed"
+                },
+                "id": "LeitoAfBedMissionary-2",
+                "fileName": "LeitoAfBedMissionary_2",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "holdinghip",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "squatting"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "lyingback"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito"
+                    ],
+                    "furniture": "bed"
+                },
+                "id": "LeitoAfBedMissionary-3",
+                "fileName": "LeitoAfBedMissionary_3",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "kneeling"
+                        ],
+                        "autoTransitions": {
+                            "climax": "LeitoAfBedMissionary-5"
+                        }
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "lyingback"
+                        ],
+                        "autoTransitions": {
+                            "climax": "LeitoAfBedMissionary-5"
+                        }
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito"
+                    ],
+                    "furniture": "bed"
+                },
+                "id": "LeitoAfBedMissionary-4",
+                "fileName": "LeitoAfBedMissionary_4",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "kneeling",
+                            "climaxing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "lyingback",
+                            "climaxing"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito",
+                        "transition"
+                    ],
+                    "furniture": "bed"
+                },
+                "id": "LeitoAfBedMissionary-5",
+                "fileName": "LeitoAfBedMissionary_5",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ]
+            }
+        ],
+        "folders": {
+            "moduleName": "LeitoAdapted",
+            "posFolderName": "fmBedPos",
+            "animName": "LeitoAfBedMissionary"
+        },
+        "hkxAnnotations": {
+            "LeitoAfBedMissionary_5_0.hkx": {
+                "duration": 2.9,
+                "annotationLines": "1.500000 OStimClimax"
+            },
+            "LeitoAfBedMissionary_5_1.hkx": {
+                "duration": 2.9,
+                "annotationLines": "1.500000 OStimClimax"
+            }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "LeitoAfBedMissionary-1",
+                    "duration": 1.333333
+                },
+                {
+                    "id": "LeitoAfBedMissionary-2",
+                    "duration": 0.666667
+                },
+                {
+                    "id": "LeitoAfBedMissionary-3",
+                    "duration": 0.533333
+                },
+                {
+                    "id": "LeitoAfBedMissionary-4",
+                    "duration": 0.4
+                },
+                {
+                    "id": "LeitoAfBedMissionary-5",
+                    "duration": 1.666667
+                }
+            ],
+            "tags": []
+        }
+    },
+    "LeitoAfThroneAnalDoggy": {
+        "name": "Leito Throne Anal Doggy",
+        "actorsKeyword": "fm",
+        "stages": [
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": -1,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing",
+                            "bendover",
+                            "facingaway"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito",
+                        "doggystyle"
+                    ],
+                    "furniture": "chair"
+                },
+                "id": "LeitoAfThroneAnalDoggy-1",
+                "fileName": "LeitoAfThroneAnalDoggy_1",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing",
+                            "bendover",
+                            "facingaway"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito",
+                        "doggystyle"
+                    ],
+                    "furniture": "chair"
+                },
+                "id": "LeitoAfThroneAnalDoggy-2",
+                "fileName": "LeitoAfThroneAnalDoggy_2",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": -2,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing",
+                            "bendover",
+                            "facingaway"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito",
+                        "doggystyle"
+                    ],
+                    "furniture": "chair"
+                },
+                "id": "LeitoAfThroneAnalDoggy-3",
+                "fileName": "LeitoAfThroneAnalDoggy_3",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 4,
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "kneeling"
+                        ],
+                        "autoTransitions": {
+                            "climax": "LeitoAfThroneAnalDoggy-5"
+                        }
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "squatting",
+                            "facingaway"
+                        ],
+                        "autoTransitions": {
+                            "climax": "LeitoAfThroneAnalDoggy-5"
+                        }
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito"
+                    ],
+                    "furniture": "chair"
+                },
+                "id": "LeitoAfThroneAnalDoggy-4",
+                "fileName": "LeitoAfThroneAnalDoggy_4",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1,
+                        "performer": 1
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 4,
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "kneeling",
+                            "climaxing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "squatting",
+                            "facingaway",
+                            "climaxing"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito",
+                        "transition"
+                    ],
+                    "furniture": "chair"
+                },
+                "id": "LeitoAfThroneAnalDoggy-5",
+                "fileName": "LeitoAfThroneAnalDoggy_5",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1,
+                        "performer": 1
+                    }
+                ]
+            }
+        ],
+        "folders": {
+            "moduleName": "LeitoAdapted",
+            "posFolderName": "fmChairPos",
+            "animName": "LeitoAfThroneAnalDoggy"
+        },
+        "hkxAnnotations": {
+            "LeitoAfThroneAnalDoggy_5_0.hkx": {
+                "duration": 2.9,
+                "annotationLines": "1.500000 OStimClimax"
+            },
+            "LeitoAfThroneAnalDoggy_5_1.hkx": {
+                "duration": 2.9,
+                "annotationLines": "1.500000 OStimClimax"
+            }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "LeitoAfThroneAnalDoggy-1",
+                    "duration": 1
+                },
+                {
+                    "id": "LeitoAfThroneAnalDoggy-2",
+                    "duration": 0.666667
+                },
+                {
+                    "id": "LeitoAfThroneAnalDoggy-3",
+                    "duration": 0.6
+                },
+                {
+                    "id": "LeitoAfThroneAnalDoggy-4",
+                    "duration": 0.666667
+                },
+                {
+                    "id": "LeitoAfThroneAnalDoggy-5",
+                    "duration": 1.666667
+                }
+            ],
+            "tags": []
+        }
+    },
+    "LeitoAfThroneAnalReCow": {
+        "name": "Leito Throne Anal Reverse Cowgirl",
+        "actorsKeyword": "fm",
+        "stages": [
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "sitting"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "squatting",
+                            "facingaway"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito",
+                        "reversecowgirl"
+                    ],
+                    "furniture": "chair"
+                },
+                "id": "LeitoAfThroneAnalReCow-1",
+                "fileName": "LeitoAfThroneAnalReCow_1",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1,
+                        "performer": 1
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 2,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "sitting"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "sitting",
+                            "facingaway"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito",
+                        "reversecowgirl"
+                    ],
+                    "furniture": "chair"
+                },
+                "id": "LeitoAfThroneAnalReCow-2",
+                "fileName": "LeitoAfThroneAnalReCow_2",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1,
+                        "performer": 1
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 4,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "sitting"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "squatting"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito",
+                        "reversecowgirl"
+                    ],
+                    "furniture": "chair"
+                },
+                "id": "LeitoAfThroneAnalReCow-3",
+                "fileName": "LeitoAfThroneAnalReCow_3",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 7,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "sitting"
+                        ],
+                        "autoTransitions": {
+                            "climax": "LeitoAfThroneAnalReCow-5"
+                        }
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "squatting",
+                            "facingaway"
+                        ],
+                        "autoTransitions": {
+                            "climax": "LeitoAfThroneAnalReCow-5"
+                        }
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito",
+                        "reversecowgirl"
+                    ],
+                    "furniture": "chair"
+                },
+                "id": "LeitoAfThroneAnalReCow-4",
+                "fileName": "LeitoAfThroneAnalReCow_4",
+                "actions": [
+                    {
+                        "type": "analsex",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 7,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "sitting",
+                            "climaxing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "squatting",
+                            "facingaway",
+                            "climaxing"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito",
+                        "reversecowgirl",
+                        "transition"
+                    ],
+                    "furniture": "chair"
+                },
+                "id": "LeitoAfThroneAnalReCow-5",
+                "fileName": "LeitoAfThroneAnalReCow_5",
+                "actions": [
+                    {
+                        "type": "analsex",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ]
+            }
+        ],
+        "folders": {
+            "moduleName": "LeitoAdapted",
+            "posFolderName": "fmChairPos",
+            "animName": "LeitoAfThroneAnalReCow"
+        },
+        "hkxAnnotations": {
+            "LeitoAfThroneAnalReCow_5_0.hkx": {
+                "duration": 4.9,
+                "annotationLines": "2.500000 OStimClimax"
+            },
+            "LeitoAfThroneAnalReCow_5_1.hkx": {
+                "duration": 4.9,
+                "annotationLines": "2.500000 OStimClimax"
+            }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "LeitoAfThroneAnalReCow-1",
+                    "duration": 2
+                },
+                {
+                    "id": "LeitoAfThroneAnalReCow-2",
+                    "duration": 1.333333
+                },
+                {
+                    "id": "LeitoAfThroneAnalReCow-3",
+                    "duration": 1.333333
+                },
+                {
+                    "id": "LeitoAfThroneAnalReCow-4",
+                    "duration": 1
+                },
+                {
+                    "id": "LeitoAfThroneAnalReCow-5",
+                    "duration": 2.666667
+                }
+            ],
+            "tags": []
+        }
+    },
+    "LeitoAfThroneBj": {
+        "name": "Leito Throne Blowjob",
+        "actorsKeyword": "fm",
+        "stages": [
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 1,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "sitting"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "kneeling"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito"
+                    ],
+                    "furniture": "chair"
+                },
+                "id": "LeitoAfThroneBj-1",
+                "fileName": "LeitoAfThroneBj_1",
+                "actions": [
+                    {
+                        "type": "handjob",
+                        "actor": 1,
+                        "target": 0
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "sitting"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "kneeling"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito"
+                    ],
+                    "furniture": "chair"
+                },
+                "id": "LeitoAfThroneBj-2",
+                "fileName": "LeitoAfThroneBj_2",
+                "actions": [
+                    {
+                        "type": "blowjob",
+                        "actor": 1,
+                        "target": 0
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "sitting"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "kneeling"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito"
+                    ],
+                    "furniture": "chair"
+                },
+                "id": "LeitoAfThroneBj-3",
+                "fileName": "LeitoAfThroneBj_3",
+                "actions": [
+                    {
+                        "type": "blowjob",
+                        "actor": 1,
+                        "target": 0
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 1,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "sitting"
+                        ],
+                        "autoTransitions": {
+                            "climax": "LeitoAfThroneBj-5"
+                        }
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing",
+                            "bendover"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito"
+                    ],
+                    "furniture": "chair"
+                },
+                "id": "LeitoAfThroneBj-4",
+                "fileName": "LeitoAfThroneBj_4",
+                "actions": [
+                    {
+                        "type": "blowjob",
+                        "actor": 1,
+                        "target": 0
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 2,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "sitting",
+                            "climaxing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing",
+                            "bendover"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito",
+                        "transition"
+                    ],
+                    "furniture": "chair"
+                },
+                "id": "LeitoAfThroneBj-5",
+                "fileName": "LeitoAfThroneBj_5",
+                "actions": [
+                    {
+                        "type": "holdinghead",
+                        "actor": 1,
+                        "target": 0
+                    },
+                    {
+                        "type": "deepthroat",
+                        "actor": 1,
+                        "target": 0,
+                        "performer": 0
+                    }
+                ]
+            }
+        ],
+        "folders": {
+            "moduleName": "LeitoAdapted",
+            "posFolderName": "fmChairPos",
+            "animName": "LeitoAfThroneBj"
+        },
+        "hkxAnnotations": {
+            "LeitoAfThroneBj_5_0.hkx": {
+                "duration": 2.3,
+                "annotationLines": "1.200000 OStimClimax"
+            }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "LeitoAfThroneBj-1",
+                    "duration": 2
+                },
+                {
+                    "id": "LeitoAfThroneBj-2",
+                    "duration": 2
+                },
+                {
+                    "id": "LeitoAfThroneBj-3",
+                    "duration": 1.666667
+                },
+                {
+                    "id": "LeitoAfThroneBj-4",
+                    "duration": 1.333333
+                },
+                {
+                    "id": "LeitoAfThroneBj-5",
+                    "duration": 1.333333
+                }
+            ],
+            "tags": []
+        }
+    },
+    "LeitoAfThroneCowgirl": {
+        "name": "Leito Throne Cowgirl",
+        "actorsKeyword": "fm",
+        "stages": [
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 2,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "sitting",
+                            "onbottom"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "sitting",
+                            "ontop"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito",
+                        "cowgirl"
+                    ],
+                    "furniture": "chair"
+                },
+                "id": "LeitoAfThroneCowgirl-1",
+                "fileName": "LeitoAfThroneCowgirl_1",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1,
+                        "performer": 1
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 2,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "sitting",
+                            "onbottom"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "sitting",
+                            "ontop"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito",
+                        "cowgirl"
+                    ],
+                    "furniture": "chair"
+                },
+                "id": "LeitoAfThroneCowgirl-2",
+                "fileName": "LeitoAfThroneCowgirl_2",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1,
+                        "performer": 1
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 2,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "sitting",
+                            "onbottom"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "sitting",
+                            "ontop"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito",
+                        "cowgirl"
+                    ],
+                    "furniture": "chair"
+                },
+                "id": "LeitoAfThroneCowgirl-3",
+                "fileName": "LeitoAfThroneCowgirl_3",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1,
+                        "performer": 1
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": -5,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ],
+                        "autoTransitions": {
+                            "climax": "LeitoAfThroneCowgirl-5"
+                        }
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "lyingback"
+                        ],
+                        "autoTransitions": {
+                            "climax": "LeitoAfThroneCowgirl-5"
+                        }
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito",
+                        "cowgirl"
+                    ],
+                    "furniture": "chair"
+                },
+                "id": "LeitoAfThroneCowgirl-4",
+                "fileName": "LeitoAfThroneCowgirl_4",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": -1,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing",
+                            "climaxing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "lyingback",
+                            "climaxing"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito",
+                        "cowgirl",
+                        "transition"
+                    ],
+                    "furniture": "chair"
+                },
+                "id": "LeitoAfThroneCowgirl-5",
+                "fileName": "LeitoAfThroneCowgirl_5",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ]
+            }
+        ],
+        "folders": {
+            "moduleName": "LeitoAdapted",
+            "posFolderName": "fmChairPos",
+            "animName": "LeitoAfThroneCowgirl"
+        },
+        "hkxAnnotations": {
+            "LeitoAfThroneCowgirl_5_0.hkx": {
+                "duration": 2.9,
+                "annotationLines": "1.500000 OStimClimax"
+            },
+            "LeitoAfThroneCowgirl_5_1.hkx": {
+                "duration": 2.9,
+                "annotationLines": "1.500000 OStimClimax"
+            }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "LeitoAfThroneCowgirl-1",
+                    "duration": 2
+                },
+                {
+                    "id": "LeitoAfThroneCowgirl-2",
+                    "duration": 1.333333
+                },
+                {
+                    "id": "LeitoAfThroneCowgirl-3",
+                    "duration": 1.333333
+                },
+                {
+                    "id": "LeitoAfThroneCowgirl-4",
+                    "duration": 0.533333
+                },
+                {
+                    "id": "LeitoAfThroneCowgirl-5",
+                    "duration": 1.666667
+                }
+            ],
+            "tags": []
+        }
+    },
+    "LeitoAfThroneCunnilingus": {
+        "name": "Leito Throne Cunnilingus",
+        "actorsKeyword": "fm",
+        "stages": [
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "kneeling"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "sitting"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito"
+                    ],
+                    "furniture": "chair"
+                },
+                "id": "LeitoAfThroneCunnilingus-1",
+                "fileName": "LeitoAfThroneCunnilingus_1",
+                "actions": [
+                    {
+                        "type": "holdingfoot",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "kissingfoot",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "kneeling"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "sitting"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito"
+                    ],
+                    "furniture": "chair"
+                },
+                "id": "LeitoAfThroneCunnilingus-2",
+                "fileName": "LeitoAfThroneCunnilingus_2",
+                "actions": [
+                    {
+                        "type": "lickingvagina",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "kneeling"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "sitting"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito"
+                    ],
+                    "furniture": "chair"
+                },
+                "id": "LeitoAfThroneCunnilingus-3",
+                "fileName": "LeitoAfThroneCunnilingus_3",
+                "actions": [
+                    {
+                        "type": "lickingvagina",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "vaginalfingering",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "kneeling"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "sitting"
+                        ],
+                        "autoTransitions": {
+                            "climax": "LeitoAfThroneCunnilingus-5"
+                        }
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito"
+                    ],
+                    "furniture": "chair"
+                },
+                "id": "LeitoAfThroneCunnilingus-4",
+                "fileName": "LeitoAfThroneCunnilingus_4",
+                "actions": [
+                    {
+                        "type": "lickingvagina",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "vaginalfingering",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "kneeling"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "sitting",
+                            "climaxing"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito",
+                        "transition"
+                    ],
+                    "furniture": "chair"
+                },
+                "id": "LeitoAfThroneCunnilingus-5",
+                "fileName": "LeitoAfThroneCunnilingus_5",
+                "actions": [
+                    {
+                        "type": "lickingvagina",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "vaginalfingering",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "pullinghair",
+                        "actor": 1,
+                        "target": 0
+                    }
+                ]
+            }
+        ],
+        "folders": {
+            "moduleName": "LeitoAdapted",
+            "posFolderName": "fmChairPos",
+            "animName": "LeitoAfThroneCunnilingus"
+        },
+        "hkxAnnotations": {
+            "LeitoAfThroneCunnilingus_5_1.hkx": {
+                "duration": 4.9,
+                "annotationLines": "2.500000 OStimClimax"
+            }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "LeitoAfThroneCunnilingus-1",
+                    "duration": 4
+                },
+                {
+                    "id": "LeitoAfThroneCunnilingus-2",
+                    "duration": 2
+                },
+                {
+                    "id": "LeitoAfThroneCunnilingus-3",
+                    "duration": 1.333333
+                },
+                {
+                    "id": "LeitoAfThroneCunnilingus-4",
+                    "duration": 2
+                },
+                {
+                    "id": "LeitoAfThroneCunnilingus-5",
+                    "duration": 3.333333
+                }
+            ],
+            "tags": []
+        }
+    },
+    "LeitoAfThroneDoggy": {
+        "name": "Leito Throne Doggy",
+        "actorsKeyword": "fm",
+        "stages": [
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 2,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing",
+                            "bendover",
+                            "facingaway"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito",
+                        "doggystyle"
+                    ],
+                    "furniture": "chair"
+                },
+                "id": "LeitoAfThroneDoggy-1",
+                "fileName": "LeitoAfThroneDoggy_1",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 3,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing",
+                            "bendover",
+                            "facingaway"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito",
+                        "doggystyle"
+                    ],
+                    "furniture": "chair"
+                },
+                "id": "LeitoAfThroneDoggy-2",
+                "fileName": "LeitoAfThroneDoggy_2",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 2,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "kneeling",
+                            "facingaway"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito",
+                        "doggystyle"
+                    ],
+                    "furniture": "chair"
+                },
+                "id": "LeitoAfThroneDoggy-3",
+                "fileName": "LeitoAfThroneDoggy_3",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 2,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ],
+                        "autoTransitions": {
+                            "climax": "LeitoAfThroneDoggy-5"
+                        }
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "kneeling",
+                            "facingaway"
+                        ],
+                        "autoTransitions": {
+                            "climax": "LeitoAfThroneDoggy-5"
+                        }
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito",
+                        "doggystyle"
+                    ],
+                    "furniture": "chair"
+                },
+                "id": "LeitoAfThroneDoggy-4",
+                "fileName": "LeitoAfThroneDoggy_4",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 2,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing",
+                            "climaxing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "kneeling",
+                            "facingaway",
+                            "climaxing"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito",
+                        "doggystyle",
+                        "transition"
+                    ],
+                    "furniture": "chair"
+                },
+                "id": "LeitoAfThroneDoggy-5",
+                "fileName": "LeitoAfThroneDoggy_5",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ]
+            }
+        ],
+        "folders": {
+            "moduleName": "LeitoAdapted",
+            "posFolderName": "fmChairPos",
+            "animName": "LeitoAfThroneDoggy"
+        },
+        "hkxAnnotations": {
+            "LeitoAfThroneDoggy_5_0.hkx": {
+                "duration": 2.9,
+                "annotationLines": "1.500000 OStimClimax"
+            },
+            "LeitoAfThroneDoggy_5_1.hkx": {
+                "duration": 2.9,
+                "annotationLines": "1.500000 OStimClimax"
+            }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "LeitoAfThroneDoggy-1",
+                    "duration": 1
+                },
+                {
+                    "id": "LeitoAfThroneDoggy-2",
+                    "duration": 0.666667
+                },
+                {
+                    "id": "LeitoAfThroneDoggy-3",
+                    "duration": 0.533333
+                },
+                {
+                    "id": "LeitoAfThroneDoggy-4",
+                    "duration": 0.533333
+                },
+                {
+                    "id": "LeitoAfThroneDoggy-5",
+                    "duration": 1.666667
+                }
+            ],
+            "tags": []
+        }
+    },
+    "LeitoAfThroneMissionary": {
+        "name": "Leito Throne Missionary",
+        "actorsKeyword": "fm",
+        "stages": [
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": -1,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "squatting"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "lyingback"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito",
+                        "missionary"
+                    ],
+                    "furniture": "chair"
+                },
+                "id": "LeitoAfThroneMissionary-1",
+                "fileName": "LeitoAfThroneMissionary_1",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": -1,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "squatting"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "lyingback",
+                            "spreadlegs"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito",
+                        "missionary"
+                    ],
+                    "furniture": "chair"
+                },
+                "id": "LeitoAfThroneMissionary-2",
+                "fileName": "LeitoAfThroneMissionary_2",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "holdingleg",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": -1,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "squatting"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "lyingback"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito",
+                        "missionary"
+                    ],
+                    "furniture": "chair"
+                },
+                "id": "LeitoAfThroneMissionary-3",
+                "fileName": "LeitoAfThroneMissionary_3",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": -3,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "squatting"
+                        ],
+                        "autoTransitions": {
+                            "climax": "LeitoAfThroneMissionary-5"
+                        }
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "lyingback"
+                        ],
+                        "autoTransitions": {
+                            "climax": "LeitoAfThroneMissionary-5"
+                        }
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito",
+                        "missionary"
+                    ],
+                    "furniture": "chair"
+                },
+                "id": "LeitoAfThroneMissionary-4",
+                "fileName": "LeitoAfThroneMissionary_4",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": -3,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "squatting",
+                            "climaxing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "lyingback",
+                            "climaxing"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito",
+                        "missionary",
+                        "transition"
+                    ],
+                    "furniture": "chair"
+                },
+                "id": "LeitoAfThroneMissionary-5",
+                "fileName": "LeitoAfThroneMissionary_5",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ]
+            }
+        ],
+        "folders": {
+            "moduleName": "LeitoAdapted",
+            "posFolderName": "fmChairPos",
+            "animName": "LeitoAfThroneMissionary"
+        },
+        "hkxAnnotations": {
+            "LeitoAfThroneMissionary_5_0.hkx": {
+                "duration": 2.9,
+                "annotationLines": "1.500000 OStimClimax"
+            },
+            "LeitoAfThroneMissionary_5_1.hkx": {
+                "duration": 2.9,
+                "annotationLines": "1.500000 OStimClimax"
+            }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "LeitoAfThroneMissionary-1",
+                    "duration": 1
+                },
+                {
+                    "id": "LeitoAfThroneMissionary-2",
+                    "duration": 0.666667
+                },
+                {
+                    "id": "LeitoAfThroneMissionary-3",
+                    "duration": 0.533333
+                },
+                {
+                    "id": "LeitoAfThroneMissionary-4",
+                    "duration": 0.533333
+                },
+                {
+                    "id": "LeitoAfThroneMissionary-5",
+                    "duration": 1.666667
+                }
+            ],
+            "tags": []
+        }
+    },
+    "LeitoAfUnicorn": {
+        "name": "Leito Unicorn",
+        "actorsKeyword": "fm",
+        "stages": [
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "sitting"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "sitting"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito"
+                    ],
+                    "furniture": "bench"
+                },
+                "id": "LeitoAfUnicorn-1",
+                "fileName": "LeitoAfUnicorn_1",
+                "actions": [
+                    {
+                        "type": "kissing",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "hug",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "hug",
+                        "actor": 1,
+                        "target": 0
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 6,
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "sitting",
+                            "onbottom"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "sitting",
+                            "ontop"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito",
+                        "cowgirl"
+                    ],
+                    "furniture": "bench"
+                },
+                "id": "LeitoAfUnicorn-2",
+                "fileName": "LeitoAfUnicorn_2",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1,
+                        "performer": 1
+                    },
+                    {
+                        "type": "kissing",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "hug",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "hug",
+                        "actor": 1,
+                        "target": 0
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "allfours"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "lyingback"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito",
+                        "missionary"
+                    ],
+                    "furniture": "bench"
+                },
+                "id": "LeitoAfUnicorn-3",
+                "fileName": "LeitoAfUnicorn_3",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "hug",
+                        "actor": 1,
+                        "target": 0
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "allfours"
+                        ],
+                        "autoTransitions": {
+                            "climax": "LeitoAfUnicorn-5"
+                        }
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "lyingback"
+                        ],
+                        "autoTransitions": {
+                            "climax": "LeitoAfUnicorn-5"
+                        }
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito",
+                        "missionary"
+                    ],
+                    "furniture": "bench"
+                },
+                "id": "LeitoAfUnicorn-4",
+                "fileName": "LeitoAfUnicorn_4",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "hug",
+                        "actor": 1,
+                        "target": 0
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "allfours",
+                            "climaxing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "lyingback",
+                            "climaxing"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito",
+                        "missionary",
+                        "transition"
+                    ],
+                    "furniture": "bench"
+                },
+                "id": "LeitoAfUnicorn-5",
+                "fileName": "LeitoAfUnicorn_5",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "hug",
+                        "actor": 1,
+                        "target": 0
+                    }
+                ]
+            }
+        ],
+        "folders": {
+            "moduleName": "LeitoAdapted",
+            "posFolderName": "fmBenchPos",
+            "animName": "LeitoAfUnicorn"
+        },
+        "hkxAnnotations": {
+            "LeitoAfUnicorn_5_0.hkx": {
+                "duration": 2.3,
+                "annotationLines": "1.200000 OStimClimax"
+            },
+            "LeitoAfUnicorn_5_1.hkx": {
+                "duration": 2.3,
+                "annotationLines": "1.200000 OStimClimax"
+            }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "LeitoAfUnicorn-1",
+                    "duration": 2.333333
+                },
+                {
+                    "id": "LeitoAfUnicorn-2",
+                    "duration": 1
+                },
+                {
+                    "id": "LeitoAfUnicorn-3",
+                    "duration": 0.666667
+                },
+                {
+                    "id": "LeitoAfUnicorn-4",
+                    "duration": 0.533333
+                },
+                {
+                    "id": "LeitoAfUnicorn-5",
+                    "duration": 1.333333
+                }
+            ],
+            "tags": []
+        }
+    },
+    "LeitoAfFSoloChair": {
+        "name": "Leito Female Chair Solo",
+        "actorsKeyword": "f",
+        "stages": [
+            {
+                "actors": [
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "sitting"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito"
+                    ],
+                    "furniture": "chair"
+                },
+                "id": "LeitoAfFSoloChair-1",
+                "fileName": "LeitoAfFSoloChair_1",
+                "actions": [
+                    {
+                        "type": "femalemasturbation",
+                        "actor": 0
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "sitting"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito"
+                    ],
+                    "furniture": "chair"
+                },
+                "id": "LeitoAfFSoloChair-2",
+                "fileName": "LeitoAfFSoloChair_2",
+                "actions": [
+                    {
+                        "type": "femalemasturbation",
+                        "actor": 0
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "sitting"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito"
+                    ],
+                    "furniture": "chair"
+                },
+                "id": "LeitoAfFSoloChair-3",
+                "fileName": "LeitoAfFSoloChair_3",
+                "actions": [
+                    {
+                        "type": "femalemasturbation",
+                        "actor": 0
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "sitting"
+                        ],
+                        "autoTransitions": {
+                            "climax": "LeitoAfFSoloChair-5"
+                        }
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito"
+                    ],
+                    "furniture": "chair"
+                },
+                "id": "LeitoAfFSoloChair-4",
+                "fileName": "LeitoAfFSoloChair_4",
+                "actions": [
+                    {
+                        "type": "femalemasturbation",
+                        "actor": 0
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "sitting",
+                            "climaxing"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "leito",
+                        "transition"
+                    ],
+                    "furniture": "chair"
+                },
+                "id": "LeitoAfFSoloChair-5",
+                "fileName": "LeitoAfFSoloChair_5",
+                "actions": [
+                    {
+                        "type": "femalemasturbation",
+                        "actor": 0
+                    }
+                ]
+            }
+        ],
+        "folders": {
+            "moduleName": "LeitoAdapted",
+            "posFolderName": "fChairPos",
+            "animName": "LeitoAfFSoloChair"
+        },
+        "hkxAnnotations": {
+            "LeitoAfFSoloChair_5_0.hkx": {
+                "duration": 2.9,
+                "annotationLines": "1.500000 OStimClimax"
+            }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "LeitoAfFSoloChair-1",
+                    "duration": 2.666667
+                },
+                {
+                    "id": "LeitoAfFSoloChair-2",
+                    "duration": 2
+                },
+                {
+                    "id": "LeitoAfFSoloChair-3",
+                    "duration": 1.8
+                },
+                {
+                    "id": "LeitoAfFSoloChair-4",
+                    "duration": 0.8
+                },
+                {
+                    "id": "LeitoAfFSoloChair-5",
+                    "duration": 1.666667
+                }
+            ],
+            "tags": []
+        }
     }
 }

@@ -1,0 +1,5 @@
+transitions:
+    - sceneId: Nck30Carnalcuisine-1
+      destinationId: Nck30Carnalcuisine-2
+    - sceneId: Nck30Makingout-1
+      destinationId: Nck30Makingout-2

@@ -32,7 +32,6 @@ export const EditModuleConfigModal: FC<EditModuleConfigModalProps> = ({
     const sendCommand = useSendCommand();
 
     const onSave = async (data: ModuleSpecificConfig) => {
-        console.log(data)
         await sendCommand(WRITE_MODULE_CONFIG, 'Updating module config...', packName, data);
         updateModuleConfig(data, packName);
         onClose();

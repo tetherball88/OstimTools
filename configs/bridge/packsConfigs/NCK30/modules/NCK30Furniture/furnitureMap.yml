@@ -1,0 +1,7 @@
+furnitureMap:
+    - animation: Nck30Bedtimebreeding
+      furniture: bed
+    - animation: Nck30Sundaysoulmate
+      furniture: wall
+    - animation: Nck30Wallseduction
+      furniture: wall

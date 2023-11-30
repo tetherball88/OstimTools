@@ -1,0 +1,20 @@
+module:
+    name: BillyysAdapted
+    inputPath: D:\animations\billyy\SLAL_Billyy_Animations v7.1
+        SE\SLAL_Billyy_HumanFurniture\meshes\actors\character\animations\Billyy_HumanFurniture
+    slalJsonConfig: D:\animations\billyy\SLAL_Billyy_Animations v7.1
+        SE\SLAL_Billyy_HumanFurniture\SLAnims\json\Billyy_HumanFurniture.json
+    include: []
+    exclude:
+        - BillyyAfPilloryfuck1
+        - BillyyAfXcrossfuck
+        - BillyyAfXcrossfuck2
+        - BillyyAfXcrossreverseanal
+        - BillyyAfTiltwmiss
+        - BillyyAfTiltwside
+        - BillyyAfTiltwfist
+        - BillyyAfTiltwff
+        - BillyyAfTiltwff2
+        - BillyyAfStockadefuckmachine
+    nemesisPrefix: bilafu
+    idPrefix: AF

@@ -46,9 +46,12 @@ const removeSlalPrefix = (name: string, prefix: string) => {
 
 export function formatAnimName(name: string, slalPrefix: string, author: string, idPrefix: string) {
     const nameParts = removeSlalPrefix(name, slalPrefix).split('_');
+    if(nameParts[0].toLowerCase().startsWith(author.toLowerCase())) {
+        nameParts[0] = nameParts[0].replace(new RegExp(author, 'i'), '')
+    }
+        
     idPrefix && nameParts.unshift(idPrefix)
-    if(!nameParts[0].toLowerCase().startsWith(author.toLowerCase()))
-        nameParts.unshift(author)
+    nameParts.unshift(author)
     return nameParts.map(word => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase()).join('');
 }
 
@@ -92,4 +95,15 @@ export function getHubName(config: CombinedConfig, actors: string, furniture?: s
 export function getTabs(amount: number) {
     const tab = '    ';
     return Array.from({ length: amount }, () => tab).join('')
+}
+
+export const getActorsKeyword = <T extends { intendedSex?: string }>(actors?: T[]) => {
+    if(!actors?.length) {
+        return ''
+    }
+
+    const fCount = actors.reduce((acc, { intendedSex }) => intendedSex === 'female' ? ++acc : acc, 0) || 0
+    const mCount = actors.reduce((acc, { intendedSex }) => intendedSex === 'male' ? ++acc : acc, 0) || 0
+
+    return 'f'.repeat(fCount) + 'm'.repeat(mCount)
 }

@@ -1,9 +1,9 @@
 import { isSceneClimax } from '../../shared/isAnimationClimax';
 import { CombinedConfig, OstimConfigAnimation, AnimationGroup } from '~bridge/types';
-import { OstimScene, OstimSceneNavigation } from '~bridge/types/OstimSAScene';
 import { writeFile } from '~common/nodejs/utils';
 import { renderScene } from '~bridge/nodejs/renderScenes/renderScene';
 import { renderTransitionScene } from '~bridge/nodejs/renderScenes/renderTransitionScene';
+import { OstimScene, OstimSceneNavigation } from '~common/shared/types/OstimScene';
 
 /**
  * Render hub content
@@ -17,15 +17,17 @@ export const renderHub = async (
     config: CombinedConfig,
 ) => {
     const { name } = group;
-    const { outputScenePath } = config
+    const { outputScenePath, pack: { icon: packIcon }, module: { icon: moduleIcon } } = config
 
     const navigations: OstimSceneNavigation[] = []
+    const icon = group.origin.icon || moduleIcon || packIcon
 
     if (group.origin) {
         navigations.push(
             {
                 origin: group.origin.name,
                 description: group.name,
+                ...(icon ? { icon } : {})
             },
             {
                 destination: group.origin.name,

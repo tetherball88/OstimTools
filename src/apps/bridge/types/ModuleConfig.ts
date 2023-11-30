@@ -40,8 +40,25 @@ export interface ModuleConfig {
          * Optional prefix for scene ids
          */
         idPrefix?: string
+        /**
+         * Icon which will be used for all hubs rendered in this module
+         * It overrides any icon provided in pack config
+         */
+        icon?: string
     }
 
+}
+
+export interface ModuleFurnitureMapConfigDeprecated {
+    /**
+     * if pack has furniture animations, you should manually map animName to type of furniture
+     * you can find different furniture types in ostim, here is list of furniture at this moment:
+    */
+    furnitureMap: Record<FurnitureTypes, string[]>
+}
+
+export interface ModuleFurnitureMapConfigItem {
+    animation: string, furniture: string
 }
 
 export interface ModuleFurnitureMapConfig {
@@ -49,7 +66,7 @@ export interface ModuleFurnitureMapConfig {
      * if pack has furniture animations, you should manually map animName to type of furniture
      * you can find different furniture types in ostim, here is list of furniture at this moment:
     */
-    furnitureMap: Record<FurnitureTypes, string[]>
+    furnitureMap: ModuleFurnitureMapConfigItem[]
 }
 
 export interface TransitionConfig {
@@ -59,6 +76,14 @@ export interface TransitionConfig {
 
 export interface ModuleTransitionsConfig {
     transitions?: TransitionConfig[]
+}
+
+export interface AnimationIconConfig {
+    sceneId: string
+    icon: string
+}
+export interface ModuleAnimationIconsConfig {
+    icons?: AnimationIconConfig[]
 }
 
 /**
@@ -73,9 +98,9 @@ export interface ModuleObjectsConfig {
 
 }
 
-export type ModuleSections = 'module' | 'furnitureMap' | 'transitions';
+export type ModuleSections = 'module' | 'furnitureMap' | 'transitions' | 'objects' | 'icons';
 
 /**
  * Other configs which should be set up per pack
  */
-export interface ModuleSpecificConfig extends ModuleConfig, ModuleFurnitureMapConfig, ModuleTransitionsConfig, ModuleObjectsConfig { }
+export interface ModuleSpecificConfig extends ModuleConfig, ModuleFurnitureMapConfig, ModuleTransitionsConfig, ModuleObjectsConfig, ModuleAnimationIconsConfig { }

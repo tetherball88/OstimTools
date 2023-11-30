@@ -1,0 +1,20 @@
+module:
+    name: NCK30Adapted
+    inputPath: D:\animations\NCK30 SLAL 3.9 SE\Meshes\actors\character\animations\NCK30
+    slalJsonConfig: D:\animations\NCK30 SLAL 3.9 SE\SLAnims\json\NCK30.json
+    include:
+        - Nck30AfAssmasterpiece
+        - Nck30AfBeachball
+        - Nck30AfChair1
+        - Nck30AfGreekgoddess
+        - Nck30AfHottub
+        - Nck30AfMassagemadness
+        - Nck30AfMountmilf
+        - Nck30AfShelf1
+        - Nck30AfSleazyrider
+        - Nck30AfTable1
+        - Nck30AfTable2
+        - Nck30AfWildweekend
+    exclude: []
+    nemesisPrefix: nckafu
+    idPrefix: AF

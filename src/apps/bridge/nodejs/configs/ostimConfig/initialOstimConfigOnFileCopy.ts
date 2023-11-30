@@ -1,7 +1,7 @@
 import { logger } from "~common/nodejs/utils";
 import { formatAnimName, getAnimPrefix, getFurniture, oldFormatAnimName, parseSlalName, swapActors } from "~bridge/nodejs/utils";
 import { CombinedConfig, OstimConfig, OstimConfigAnimation, OstimConfigAnimationMeta, OstimConfigAnimationStage, ParsedSlalConfig } from "~bridge/types";
-import { OstimSceneActor } from "~bridge/types/OstimSAScene";
+import { OstimSceneActor } from "~common/shared/types/OstimScene";
 
 
 /**

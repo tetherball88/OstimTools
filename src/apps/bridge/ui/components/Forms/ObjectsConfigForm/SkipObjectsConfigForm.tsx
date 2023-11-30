@@ -17,7 +17,7 @@ export const SkipObjectsConfigForm: FC<SkipObjectsConfigFormProps> = ({ moduleOb
             <Alert severity='info'>Select animation objects you want to skip from resulting animation. Useful if you are adapting spawned furniture scenes to regular furniture</Alert>
             {
                 Object.entries(moduleObjects).map(([name, objects]) => (
-                    <Grid key={name} item xs={12}>
+                    <Grid key={name} item xs={12} sx={{ mt: 2 }}>
                         <AutocompleteWithCheckboxesControlled<ModuleSpecificConfig, string>
                             formControl={{
                                 name: `objects.skipObjects.${name}`

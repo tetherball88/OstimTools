@@ -1,6 +1,6 @@
 import { OstimConfigAnimation, CombinedConfig, AnimationGroup, OstimConfigAnimationStage } from '~bridge/types';
-import { OstimScene, OstimSceneAction, OstimSceneActor } from '~bridge/types/OstimSAScene';
 import { writeFile } from '~common/nodejs/utils';
+import { OstimScene, OstimSceneAction, OstimSceneActor } from '~common/shared/types/OstimScene';
 
 
 /**
@@ -20,6 +20,7 @@ export const renderTransitionScene = async (sceneConfig: OstimConfigAnimation, c
     const {
         pack: { author },
         outputScenePath,
+        icons
     } = config
     const stageConfig = sceneConfig.stages[stageIndex];
     const stageIndexFromOne = stageIndex + 1;
@@ -35,7 +36,7 @@ export const renderTransitionScene = async (sceneConfig: OstimConfigAnimation, c
         }
         return {
             intendedSex: actor?.intendedSex,
-            ...(typeof actor?.sosBend === 'number' ? { sosBend: actor?.sosBend } : {}),
+            ...(typeof actor?.sosBend === 'number' ? { sosBend: actor?.sosBend as any } : {}),
             scale: actor?.scale,
             feetOnGround: actor.feetOnGround,
             ...(actor.expressionOverride ? { expressionOverride: actor.expressionOverride } : {}),
@@ -47,7 +48,7 @@ export const renderTransitionScene = async (sceneConfig: OstimConfigAnimation, c
     const actions: OstimSceneAction[] = stageConfig.actions?.map(action => {
         return {
             type: action.type,
-            ...(typeof action.actor !== 'undefined' ? { actor: Number(action.actor) } : {}),
+            ...(typeof action.actor !== 'undefined' ? { actor: Number(action.actor) } : { actor: 0 }),
             ...(typeof action.target !== 'undefined' ? { target: Number(action.target) } : {}),
             ...(typeof action.performer !== 'undefined' ? { performer: Number(action.performer) } : {}),
         }
@@ -66,6 +67,8 @@ export const renderTransitionScene = async (sceneConfig: OstimConfigAnimation, c
         }
     })
 
+    const icon = icons?.find(({sceneId}) => sceneId === animName)?.icon
+
     const content: OstimScene = {
         name,
         modpack: `${author}Animations`,
@@ -73,8 +76,8 @@ export const renderTransitionScene = async (sceneConfig: OstimConfigAnimation, c
         destination: destination || (hasNextStage ? `${animName}-${stageIndexFromOne + 1}` : `${animName}-${stageIndexFromOne - 1}`),
         ...(isFirst ? { 
             origin: hub.name,
-            description: sceneConfig.name
-
+            description: sceneConfig.name,
+            ...(icon ? { icon } : {}),
         } : {}),
         speeds: [
             {

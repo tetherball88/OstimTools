@@ -1,0 +1,5 @@
+transitions:
+    - sceneId: NibblesWorkbench-1
+      destinationId: NibblesWorkbench-2
+    - sceneId: NibblesWorkbench-3
+      destinationId: NibblesWorkbench-4

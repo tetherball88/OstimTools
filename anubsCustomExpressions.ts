@@ -1,53 +1,34 @@
 import path from 'path'
 import { OstimScene } from './src/common/shared/types/OstimScene';
-import { copyFile, glob, readJson, writeJson } from "./src/common/nodejs/utils"
+import { glob, readJson, writeJson } from "./src/common/nodejs/utils"
 
-export function formatAnimName(name: string, prefix: string, author: string) {
-    const nameParts = name.split('_');
-    if(!nameParts[0].toLowerCase().startsWith(author.toLowerCase()))
-        nameParts.unshift(author)
-    return nameParts.map(word => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase()).join('');
-}
+
+const customExpressionScenesPath = "D:\\my-projects\\ostim packs\\Anub\\fomod\\host420Expressions\\SKSE\\Plugins\\OStim\\scenes"
+const anubsScenesPath = "D:\\my-projects\\ostim packs\\Anub\\SKSE\\Plugins\\OStim\\scenes"  
 
 const anubsCustomExpressions = async () => {
-    const copyPath = 'D:\\MO2\\mods\\My anubs Human converstion\\host420Expressions\\SKSE\\Plugins\\OStim\\scenes'
-    const oldAnubs = 'D:\\MO2\\mods\\Anubs Animation Ostim Standalone port\\SKSE\\Plugins\\OStim\\scenes'
-    const newAnubs = 'D:\\MO2\\mods\\My anubs Human converstion\\SKSE\\Plugins\\OStim\\scenes'
+    const customExpressionsScenesFiles = await glob(`${customExpressionScenesPath}\\**\\*.json`)
+    const anubsScenesFiles = await glob(`${anubsScenesPath}\\**\\*.json`)
 
-    const oldFiles = await glob(`${oldAnubs}\\**\\*.json`);
-    const newFiles = await glob(`${newAnubs}\\**\\*.json`);
+    for(const customExpressionsFile of customExpressionsScenesFiles) {
+        const fileName = path.basename(customExpressionsFile)
+        const anubsFile = anubsScenesFiles.find(file => file.includes(fileName))
 
-    for(const oldFile of oldFiles) {
-        const oldContent: OstimScene = await readJson(oldFile)
-        
-        if(!oldContent.actors?.some(actor => !!actor.expressionOverride)) {
+        if(!anubsFile) {
+            console.error(`Couldn't find original file - ${fileName}`)
             continue;
         }
 
-        const newFile = newFiles.find(newFile => {
-            return newFile.includes(formatAnimName(path.parse(oldFile).name, 'a_', 'Anubs'))
-        })
+        const customContent = await readJson(customExpressionsFile) as OstimScene
+        const anubsContent = await readJson(anubsFile) as OstimScene
 
-        if(!newFile || newFile.includes('Agressive')) {
-            continue;
-        }
-
-        const newContent: OstimScene = await readJson(newFile);
-
-        oldContent.actors?.forEach((actor, index) => {
-            const newActor = newContent.actors?.[index]
-            if(actor.expressionOverride && newActor) {
-                newActor.expressionOverride = actor.expressionOverride
+        for(const [actorIndex, customActor] of (customContent.actors || []).entries()) {
+            if(customActor.expressionOverride && anubsContent.actors?.[actorIndex]) {
+                anubsContent.actors[actorIndex].expressionOverride = customActor.expressionOverride
             }
-        })
+        }
 
-        const copiedPath = path.normalize(newFile).replace(newAnubs, copyPath)
-
-        console.log(path.normalize(newAnubs), copiedPath)
-
-        await copyFile(newFile, copiedPath)
-
-        await writeJson(copiedPath, newContent)
+        await writeJson(customExpressionsFile, anubsContent)
     }
 }
 

@@ -1,0 +1,24 @@
+module:
+    name: LeitoAdapted
+    inputPath: D:\animations\leito\SLAL_AnimationsByLeito_v1.6\01-NonCreature\meshes\actors\character\animations\AnimationsByLeito
+    slalJsonConfig: D:\animations\leito\SLAL_AnimationsByLeito_v1.6\01-NonCreature\SLAnims\json\AnimationsByLeito_Furniture.json
+    include:
+        - LeitoAfBed69
+        - LeitoAfBedAnalDoggy
+        - LeitoAfBedAnalReCow
+        - LeitoAfBedCowgirl
+        - LeitoAfBedDoggy
+        - LeitoAfBedFeetMissionary
+        - LeitoAfBedMissionary
+        - LeitoAfThroneAnalDoggy
+        - LeitoAfThroneAnalReCow
+        - LeitoAfThroneBj
+        - LeitoAfThroneCowgirl
+        - LeitoAfThroneCunnilingus
+        - LeitoAfThroneDoggy
+        - LeitoAfThroneMissionary
+        - LeitoAfUnicorn
+        - LeitoAfFSoloChair
+    exclude: []
+    nemesisPrefix: leiafu
+    idPrefix: AF

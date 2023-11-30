@@ -4,8 +4,8 @@ import { OstimConfig, AnimationGroup, CombinedConfig, FurnitureTypes } from '~br
 import { StartingScenesConfig } from '~bridge/types/StartingScenes';
 import { logger } from '~common/nodejs/utils';
 
-const noStandingActors = <T extends { tags?: string[] }>(actors: T[]) => {
-    return !actors.some(({ tags }) => tags?.includes('standing'))
+const noStandingActors = <T extends { tags?: string[] }>(actors?: T[]) => {
+    return !actors?.some(({ tags }) => tags?.includes('standing'))
 }
 
 const findBedCompatibleStartingScenes = (scenes: StartingScenesConfig, actorsKeyword: string) => {
@@ -106,6 +106,7 @@ export const groupByActorsAndFurniture = async (config: CombinedConfig, ostimCon
                     origin: {
                         ...hub.origin,
                         name: hub.name,
+                        icon: "OStim/symbols/placeholder",
                     }
                 }
                 hub.animations.push(pageHub)

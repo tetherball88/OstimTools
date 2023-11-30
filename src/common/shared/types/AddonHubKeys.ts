@@ -1,1 +1,0 @@
-export type AddonHubsKeys = 'main' | 'bench' | 'chair' | 'table' | 'wall'

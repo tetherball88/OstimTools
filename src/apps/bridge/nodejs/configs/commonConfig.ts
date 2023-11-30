@@ -10,6 +10,7 @@ export const commonConfig = async (packConfig: PackConfig, module: ModuleSpecifi
         oldScenesJsonConfigFilename: `${module.module.name}ScenesConfig.json`,
         nemesisTxtFileName: `ATT_${modulePath}_animlist.txt`,
         outputAnimPath: `${packConfig.pack.outputPath}\\meshes\\actors\\character\\animations\\${modulePath}`,
+        outputPackScenesPath: `${packConfig.pack.outputPath}\\SKSE\\Plugins\\OStim\\scenes`,
         outputScenePath: `${packConfig.pack.outputPath}\\SKSE\\Plugins\\OStim\\scenes\\${modulePath}`,
         outputNemesisAnimlistTxt: `${packConfig.pack.outputPath}\\meshes\\actors\\character\\Animations\\${modulePath}`,
         outputScenesJsonConfigPath: `${getBridgeConfigPath()}\\ostimConfigs`,

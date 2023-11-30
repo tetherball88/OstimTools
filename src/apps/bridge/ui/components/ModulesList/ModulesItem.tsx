@@ -10,7 +10,6 @@ import Box from '@mui/material/Box';
 import { Alert } from '@mui/material';
 
 import { ModuleSpecificConfig, PackConfig } from "~bridge/types";
-import { createEmptyFurnitureMap } from '~bridge/shared/createEmptyFurnitureMap';
 import { useRegisterFields } from '~bridge/ui/components/ModulesList/useRegisterFields';
 import { useSendCommand } from '~bridge/ui/hooks/useSendCommand';
 import { REMOVE_MODULE } from '~bridge/events/events';
@@ -44,7 +43,7 @@ export const ModulesItem: FC<ModulesItemProps> = ({ module, pack }) => {
     const methods = useForm<ModuleSpecificConfig>({
         defaultValues: {
             ...module,
-            furnitureMap: createEmptyFurnitureMap(module.furnitureMap),
+            furnitureMap: module.furnitureMap || [],
         },
         mode: 'onBlur'
     });

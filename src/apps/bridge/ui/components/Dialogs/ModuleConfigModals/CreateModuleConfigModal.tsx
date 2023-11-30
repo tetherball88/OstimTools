@@ -8,7 +8,6 @@ import DialogTitle from '@mui/material/DialogTitle';
 import Button from '@mui/material/Button';
 
 import { ModuleSpecificConfig } from '~bridge/types';
-import { createEmptyFurnitureMap } from '~bridge/shared/createEmptyFurnitureMap';
 import { useSendCommand } from '~bridge/ui/hooks/useSendCommand';
 import { WRITE_MODULE_CONFIG } from '~bridge/events/events';
 import { ModuleForms } from '~bridge/ui/components/Forms';
@@ -36,7 +35,7 @@ export const CreateModuleConfigModal: FC<CreateModuleConfigModalProps> = ({
                 include: [],
                 exclude: [],
             },
-            furnitureMap: createEmptyFurnitureMap(),
+            furnitureMap: [],
             transitions: []
         }, 
         mode: 'onBlur'

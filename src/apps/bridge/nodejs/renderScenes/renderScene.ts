@@ -1,7 +1,7 @@
 import { OstimConfigAnimation, CombinedConfig, AnimationGroup, OstimConfigAnimationStage } from '~bridge/types';
-import { OstimScene, OstimSceneAction, OstimSceneActor, OstimSceneNavigation } from '~bridge/types/OstimSAScene';
 import { writeFile } from '~common/nodejs/utils';
 import { isSceneClimax, isSceneTransition } from '~bridge/shared/isAnimationClimax';
+import { OstimScene, OstimSceneAction, OstimSceneActor, OstimSceneNavigation } from '~common/shared/types/OstimScene';
 
 
 /**
@@ -20,6 +20,7 @@ export const renderScene = async (sceneConfig: OstimConfigAnimation, config: Com
     } = sceneConfig;
     const {
         pack: { author },
+        icons,
         outputScenePath,
     } = config
     const stageConfig = sceneConfig.stages[stageIndex];
@@ -31,11 +32,13 @@ export const renderScene = async (sceneConfig: OstimConfigAnimation, config: Com
     
     const navigations: OstimSceneNavigation[] = []
 
+    const icon = icons?.find(({sceneId}) => sceneId === animName)?.icon
+
     if(isFirst) {
         navigations.push({
             origin: hub.name,
             description: sceneConfig.name,
-            icon: 'OStim/symbols/gender_mf',
+            ...(icon ? { icon } : {}),
         })
     }
 
@@ -78,7 +81,7 @@ export const renderScene = async (sceneConfig: OstimConfigAnimation, config: Com
         }
         return {
             intendedSex: actor?.intendedSex,
-            ...(typeof actor?.sosBend === 'number' ? { sosBend: actor?.sosBend } : {}),
+            ...(typeof actor?.sosBend === 'number' ? { sosBend: actor?.sosBend as any } : {}),
             scale: actor?.scale,
             feetOnGround: actor.feetOnGround,
             ...(actor.expressionOverride ? { expressionOverride: actor.expressionOverride } : {}),
@@ -90,7 +93,7 @@ export const renderScene = async (sceneConfig: OstimConfigAnimation, config: Com
     const actions: OstimSceneAction[] = stageConfig.actions?.map(action => {
         return {
             type: action.type,
-            ...(typeof action.actor !== 'undefined' ? { actor: Number(action.actor) } : {}),
+            ...(typeof action.actor !== 'undefined' ? { actor: Number(action.actor) } : { actor: 0 }),
             ...(typeof action.target !== 'undefined' ? { target: Number(action.target) } : {}),
             ...(typeof action.performer !== 'undefined' ? { performer: Number(action.performer) } : {}),
         }

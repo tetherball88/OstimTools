@@ -20,36 +20,36 @@ export const ReplaceObjectsConfigForm: FC<ReplaceObjectsConfigFormProps> = ({ mo
             {
                 Object.entries(moduleObjects).map(([name, objects]) => (
                     <Box key={name}>
-                        <Accordion sx={{ marginTop: 1 }}>
-                        <AccordionSummary
-                            expandIcon={<ExpandMoreIcon />}
-                            aria-controls="panel1a-content"
-                            id="panel1a-header"
-                        >
-                            <Typography>{name}</Typography>
-                        </AccordionSummary>
-                        <AccordionDetails>
-                            {objects.map((obj) => {
-                                return (
-                                    <Grid container key={obj}>
-                                        <Grid item xs={4}>
-                                            <TextField disabled value={obj} />
+                        <Accordion sx={{ marginTop: 2 }}>
+                            <AccordionSummary
+                                expandIcon={<ExpandMoreIcon />}
+                                aria-controls="panel1a-content"
+                                id="panel1a-header"
+                            >
+                                <Typography>{name}</Typography>
+                            </AccordionSummary>
+                            <AccordionDetails>
+                                {objects.map((obj) => {
+                                    return (
+                                        <Grid container key={obj}>
+                                            <Grid item xs={4}>
+                                                <TextField disabled value={obj} />
+                                            </Grid>
+                                            <Grid item xs={8}>
+                                                <TextFieldControlled
+                                                    formControl={{
+                                                        name: `objects.replaceObjects.${name}.${obj}`
+                                                    }}
+                                                    value={replaceObjects?.[name]?.[obj] || ""}
+                                                />
+                                            </Grid>
                                         </Grid>
-                                        <Grid item xs={8}>
-                                            <TextFieldControlled
-                                                formControl={{
-                                                    name: `objects.replaceObjects.${name}.${obj}`
-                                                }}
-                                                value={replaceObjects?.[name]?.[obj] || ""}
-                                            />
-                                        </Grid>
-                                    </Grid>
-                                )
-                            })}
-                        </AccordionDetails>
-                    </Accordion>
+                                    )
+                                })}
+                            </AccordionDetails>
+                        </Accordion>
                     </Box>
-                    
+
                 ))
             }
         </Box>

@@ -39,13 +39,14 @@ export const archiveFomod = async (combinedConfig: CombinedConfig) => {
             const nemesisEnginePath = `Nemesis_Engine\\mod\\${moduleConfig.module.nemesisPrefix}\\`
             const hkxFilesFolder = `meshes\\actors\\character\\Animations\\${moduleConfig.module.name}\\`
             const scenesFilesFolder = `SKSE\\Plugins\\OStim\\scenes\\${moduleConfig.module.name}\\`
-
+            
             archive.directory(`${packOutputPath}\\${nemesisEnginePath}`, `${moduleConfig.module.name}\\${nemesisEnginePath}`);
             archive.directory(`${packOutputPath}\\${hkxFilesFolder}`, `${moduleConfig.module.name}\\${hkxFilesFolder}`);
             archive.directory(`${packOutputPath}\\${scenesFilesFolder}`, `${moduleConfig.module.name}\\${scenesFilesFolder}`);
         })
 
         archive.directory(`${packOutputPath}\\fomod`, "")
+        archive.directory(`${packOutputPath}\\SKSE\\Plugins\\OStim\\scenes\\packHubs`, "SKSE\\Plugins\\OStim\\scenes\\packHubs")
     
         // Finalize the archive (write to the output stream)
         archive.finalize();

@@ -1,20 +1,25 @@
 furnitureMap:
-    bed:
-        - AnubsABed2
-        - AnubsAdultBed
-        - AnubsFfmBed2
-    bench: []
-    chair: []
-    cookingpot: []
-    shelf: []
-    table:
-        - AnubsAInvTable
-        - AnubsATable
-        - AnubsAnubCounter
-    wall:
-        - AnubsAWall4
-        - AnubsAWallc
-        - AnubsLesbianWc
-        - AnubsWallback
-        - AnubsWallside
-        - AnubsWallfront
+    - animation: AnubsABed2
+      furniture: bed
+    - animation: AnubsAdultBed
+      furniture: bed
+    - animation: AnubsFfmBed2
+      furniture: bed
+    - animation: AnubsAInvTable
+      furniture: table
+    - animation: AnubsATable
+      furniture: table
+    - animation: AnubsAnubCounter
+      furniture: table
+    - animation: AnubsAWall4
+      furniture: wall
+    - animation: AnubsAWallc
+      furniture: wall
+    - animation: AnubsLesbianWc
+      furniture: wall
+    - animation: AnubsWallback
+      furniture: wall
+    - animation: AnubsWallside
+      furniture: wall
+    - animation: AnubsWallfront
+      furniture: wall

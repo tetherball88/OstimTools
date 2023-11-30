@@ -1,1 +1,11 @@
-icons: {}
+icons:
+    - sceneId: AnubsBgGentle
+      icon: OStim/sexual/carryingsex_mf
+    - sceneId: AnubsBigguyDoggy
+      icon: OStim/sexual/doggystyle_mf
+    - sceneId: AnubsBigguySitting
+      icon: OStim/sexual/chair/cowgirl_mf
+    - sceneId: AnubsBgNelson
+      icon: ""
+    - sceneId: AnubsBgWall
+      icon: ""

@@ -50,7 +50,7 @@ type OstimSceneNavigationDestination = OstimSceneNavigationCommon & {
     destination: string
 }
 
-type OstimSceneNavigationOrigin = OstimSceneNavigationCommon & {
+export type OstimSceneNavigationOrigin = OstimSceneNavigationCommon & {
     /**
      * the origin of the navigation option
      * if you use this a navigation option is added to the origin scene that leads to this scene
@@ -256,7 +256,7 @@ interface OstimSceneTransition extends OstimSceneCommon, OstimSceneNavigationCom
     origin?: string
 }
 
-interface OstimSceneWithNavigation extends OstimSceneCommon {
+export interface OstimSceneWithNavigation extends OstimSceneCommon {
     /**
      * a list of navigation options from or to this scene
      */

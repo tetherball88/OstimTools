@@ -4,19 +4,6 @@
         "$ref": "#/definitions/OstimConfigAnimation"
     },
     "definitions": {
-        "FurnitureTypes": {
-            "description": "ostim supported furniture\nthe list can be changed right now you can find it ostim scripts: OStim NG - OSA Overhaul and API Next Gen\\Scripts\\Source\\OSexIntegrationMain.psc",
-            "enum": [
-                "bed",
-                "bench",
-                "chair",
-                "cookingpot",
-                "shelf",
-                "table",
-                "wall"
-            ],
-            "type": "string"
-        },
         "OstimConfigAnimation": {
             "description": "Full object represents whole animation serie with multiple stages",
             "properties": {
@@ -62,7 +49,7 @@
             "description": "Scene meta configuration, all properties will be rendered in scene file in meta tag",
             "properties": {
                 "furniture": {
-                    "$ref": "#/definitions/FurnitureTypes"
+                    "type": "string"
                 },
                 "noRandomSelection": {
                     "type": "boolean"

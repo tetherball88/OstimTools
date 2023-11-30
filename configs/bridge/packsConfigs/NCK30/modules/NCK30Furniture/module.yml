@@ -1,0 +1,10 @@
+module:
+    name: NCK30Furniture
+    inputPath: D:\animations\NCK30 SLAL 3.9 SE\Meshes\actors\character\animations\NCK30
+    slalJsonConfig: D:\animations\NCK30 SLAL 3.9 SE\SLAnims\json\NCK30.json
+    include:
+        - Nck30Bedtimebreeding
+        - Nck30Sundaysoulmate
+        - Nck30Wallseduction
+    exclude: []
+    nemesisPrefix: nckfur

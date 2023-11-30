@@ -30,4 +30,5 @@ export interface CommonConfig {
      */
     outputScenesJsonConfigPath: string
     outputSequencePath: string
+    outputPackScenesPath: string
 }

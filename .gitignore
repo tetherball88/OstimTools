@@ -87,5 +87,5 @@ typings/
 
 # Electron-Forge
 out/
-mergeAlignmentJsons.zip
+*.zip
 mergeAlignmentJsons.exe

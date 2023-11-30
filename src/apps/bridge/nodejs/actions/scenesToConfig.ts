@@ -1,8 +1,8 @@
 import fs from "fs";
 import { logger, getFileName, glob, readJson, writeJson } from '~common/nodejs/utils';
 import { OstimConfig, OstimConfigAnimation, OstimConfigAnimationStage, OstimConfigAnimationMeta, CombinedConfig, FurnitureTypes } from '~bridge/types';
-import { OstimScene } from "~bridge/types/OstimSAScene";
 import { getOstimConfig } from "~bridge/nodejs/configs";
+import { OstimScene } from "~common/shared/types/OstimScene";
 
 
 export const scenesToConfig = async (config: CombinedConfig) => {
@@ -71,7 +71,12 @@ export const scenesToConfig = async (config: CombinedConfig) => {
         else
             delete stageConfig.noRandomSelection
 
-        await writeJson(`${outputScenesJsonConfigPath}\\${scenesJsonConfigFilename}`, ostimConfig);
+        try {
+            await writeJson(`${outputScenesJsonConfigPath}\\${scenesJsonConfigFilename}`, ostimConfig);
+        }
+        catch(e) {
+            console.error(e)
+        }
     }
 
     logger.log('--- Finished generating ostim scenes config files.');

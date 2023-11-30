@@ -1,6 +1,7 @@
-import { OstimScene } from '~bridge/types/OstimSAScene';
+import { getActorsKeyword } from '~bridge/nodejs/utils';
 import { StartingScene } from '~bridge/types/StartingScenes';
 import { glob, logger, readJson } from '~common/nodejs/utils';
+import { OstimScene } from '~common/shared/types/OstimScene';
 
 export const searchStartingScenes = async (sourcePath: string) => {
     const files = await glob(`${sourcePath}\\**\\*.json`);
@@ -13,13 +14,10 @@ export const searchStartingScenes = async (sourcePath: string) => {
                 continue;
             }
     
-            const fCount = content.actors?.reduce((acc, { intendedSex }) => intendedSex === 'female' ? ++acc : acc, 0) || 0
-            const mCount = content.actors?.reduce((acc, { intendedSex }) => intendedSex === 'male' ? ++acc : acc, 0) || 0
-    
             intros.push({
                 name: file.split('/').reverse()[0].replace('.json', ''),
                 ...(content.furniture ? { furniture: content.furniture as any } : {}),
-                actorsKeyword: 'f'.repeat(fCount) + 'm'.repeat(mCount),
+                actorsKeyword: getActorsKeyword(content.actors),
                 length: content.length as any,
                 speeds: content.speeds as any,
                 actors: content.actors as any,

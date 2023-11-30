@@ -36,7 +36,7 @@ export const convertOldOstimConfig = async (configPath: string): Promise<NewOsti
             for(const [actorIndex, actor] of stage.actors.entries()) {
                 newStage.actors[actorIndex] = {
                     intendedSex: actor.gender,
-                    ...(actor.penisAngle ? {  sosBend: Number(actor.penisAngle) } : {}),
+                    ...(actor.penisAngle ? {  sosBend: Number(actor.penisAngle) as any } : {}),
                     scale: Number(actor.scale),
                     feetOnGround: actor.feetOnGround === '1',
                     tags: actor.tags?.length ? actor.tags.split(','): [],
@@ -64,7 +64,7 @@ export const convertOldOstimConfig = async (configPath: string): Promise<NewOsti
             for(const [actionIndex, action] of stage.actions?.entries() || []) {
                 newStage.actions[actionIndex] = {
                     type: action.type,
-                    ...(action.actor ? { actor: Number(action.actor) } : {}),
+                    ...(action.actor ? { actor: Number(action.actor) } : { actor: 0 }),
                     ...(action.target ? { target: Number(action.target) } : {}),
                     ...(action.performer ? { performer: Number(action.performer) } : {}),
                 }

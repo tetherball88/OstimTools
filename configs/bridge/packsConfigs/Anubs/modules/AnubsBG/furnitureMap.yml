@@ -1,9 +1,3 @@
 furnitureMap:
-    bed: []
-    bench: []
-    chair: []
-    cookingpot: []
-    shelf: []
-    table: []
-    wall:
-        - AnubsBgWall
+    - animation: AnubsBgWall
+      furniture: wall

@@ -1,5 +1,5 @@
 import { FurnitureTypes } from "~bridge/types"
-import { OstimSceneActor, OstimSceneSpeed } from "~bridge/types/OstimSAScene"
+import { OstimSceneActor, OstimSceneSpeed } from "~common/shared/types/OstimScene"
 
 export type DefaultOrigin = {
     name: string,

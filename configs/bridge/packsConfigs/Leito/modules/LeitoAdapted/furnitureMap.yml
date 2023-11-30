@@ -1,0 +1,33 @@
+furnitureMap:
+    - animation: LeitoAfBed69
+      furniture: bed
+    - animation: LeitoAfBedAnalDoggy
+      furniture: bed
+    - animation: LeitoAfBedAnalReCow
+      furniture: bed
+    - animation: LeitoAfBedCowgirl
+      furniture: bed
+    - animation: LeitoAfBedDoggy
+      furniture: bed
+    - animation: LeitoAfBedFeetMissionary
+      furniture: bed
+    - animation: LeitoAfBedMissionary
+      furniture: bed
+    - animation: LeitoAfUnicorn
+      furniture: bench
+    - animation: LeitoAfFSoloChair
+      furniture: chair
+    - animation: LeitoAfThroneAnalDoggy
+      furniture: chair
+    - animation: LeitoAfThroneAnalReCow
+      furniture: chair
+    - animation: LeitoAfThroneBj
+      furniture: chair
+    - animation: LeitoAfThroneCowgirl
+      furniture: chair
+    - animation: LeitoAfThroneCunnilingus
+      furniture: chair
+    - animation: LeitoAfThroneDoggy
+      furniture: chair
+    - animation: LeitoAfThroneMissionary
+      furniture: chair

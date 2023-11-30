@@ -1,1 +1,9 @@
-icons: {}
+icons:
+    - sceneId: AnubsBarrelMast
+      icon: OStim/sexual/femalemasturbation
+    - sceneId: AnubsDildo
+      icon: OStim/sexual/strapon_insert_vert
+    - sceneId: AnubsFMast1
+      icon: OStim/sexual/femalemasturbation
+    - sceneId: AnubsFMast2
+      icon: OStim/sexual/strapon_insert_vert

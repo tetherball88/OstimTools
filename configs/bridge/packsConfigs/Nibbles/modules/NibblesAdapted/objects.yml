@@ -1,0 +1,30 @@
+objects:
+    replaceObjects:
+        NibblesAfSpanking: {}
+        NibblesAfSpankingchair: {}
+        NibblesAfTablefuck: {}
+        NibblesAfWorkbench: {}
+        NibblesAfTablestandingbehind: {}
+        NibblesAfTablestandingfront: {}
+        NibblesAfChairdildo: {}
+        NibblesAfLesbianhaycun: {}
+        NibblesAfDrunkmasturbation: {}
+        NibblesAfMimic: {}
+        NibblesAfTentacledoggy: {}
+    skipObjects:
+        NibblesAfSpanking:
+            - Chair01
+        NibblesAfSpankingchair:
+            - Chair01
+        NibblesAfTablefuck:
+            - Table01
+        NibblesAfWorkbench:
+            - Workbench1
+        NibblesAfTablestandingbehind:
+            - Nibblesnobleendtable01
+        NibblesAfTablestandingfront:
+            - Nibblesnobleendtable02
+        NibblesAfChairdildo:
+            - Chair01
+        NibblesAfLesbianhaycun:
+            - NibblesHaybale02

@@ -13,6 +13,10 @@ export interface PackConfig {
          * @example - {outputPath}\meshes\0SA\mod\0Sex\anim\{moduleName}\{posName}\{className}\{animName}
          */
         outputPath: string
+        /**
+         * Icon which will be used for all hubs rendered in this pack
+         */
+        icon?: string
     }
 }
 

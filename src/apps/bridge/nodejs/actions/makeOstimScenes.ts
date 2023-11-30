@@ -6,6 +6,7 @@ import {
 import { cleanHubsAndScenes } from "./cleanModule";
 import { OstimConfig, CombinedConfig } from '~bridge/types';
 import { getOstimConfig } from "../configs";
+import { groupModuleHubsForSameOrigin } from '~bridge/nodejs/utils/groupModuleHubsForSameOrigin';
 
 const generateHubsAndScenesFiles = async (files: string[], config: CombinedConfig, ostimConfig: OstimConfig) => {
     logger.log('--- Started generating hub files.');
@@ -61,6 +62,7 @@ export const makeOstimScenes = async (config: CombinedConfig) => {
 
     await cleanHubsAndScenes(config);
     await generateHubsAndScenesFiles(files, config, ostimConfig);
+    await groupModuleHubsForSameOrigin(config);
 
     logger.log('--- Finished generating scene files.');
 }

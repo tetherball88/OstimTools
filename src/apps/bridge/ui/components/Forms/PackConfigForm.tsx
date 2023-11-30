@@ -7,6 +7,7 @@ import Grid from '@mui/material/Grid';
 
 import { PackConfig } from "~bridge/types";
 import { TextFieldDirectory } from '~common/ui/components';
+import { TextFieldControlled } from '~common/ui/components/Fields/TextFieldControlled';
 
 interface PackConfigFormProps {
     disablePackName?: boolean
@@ -75,6 +76,14 @@ export const PackConfigForm: FC<PackConfigFormProps> = ({ disablePackName = fals
                             />
                         </Tooltip>
                     )}
+                />
+            </Grid>
+            <Grid item xs={12}>
+                <TextFieldControlled
+                    formControl={{
+                        name: "pack.icon" 
+                    }}
+                    label="Pack's hubs icon"
                 />
             </Grid>
         </Grid>

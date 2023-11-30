@@ -1,21 +1,27 @@
 furnitureMap:
-    bed:
-        - AnubsAfAdultRbed2
-        - AnubsAfABedsleep
-        - AnubsAfBedP
-        - AnubsAfFfmBed
-    bench:
-        - AnubsAfAdultBench
-        - AnubsAfASofa
-    chair:
-        - AnubsAfAChairCg
-        - AnubsAfChairfemdom
-        - AnubsAfChairDoggy
-        - AnubsAfThroneFemdom
-        - AnubsAfTw
-        - AnubsAfFfmFemdom3
-    cookingpot: []
-    shelf: []
-    table:
-        - AnubsAfAdultBarTable
-    wall: []
+    - animation: AnubsAfAdultRbed2
+      furniture: bed
+    - animation: AnubsAfABedsleep
+      furniture: bed
+    - animation: AnubsAfBedP
+      furniture: bed
+    - animation: AnubsAfFfmBed
+      furniture: bed
+    - animation: AnubsAfAdultBench
+      furniture: bench
+    - animation: AnubsAfASofa
+      furniture: bench
+    - animation: AnubsAfAChairCg
+      furniture: chair
+    - animation: AnubsAfChairfemdom
+      furniture: chair
+    - animation: AnubsAfChairDoggy
+      furniture: chair
+    - animation: AnubsAfThroneFemdom
+      furniture: chair
+    - animation: AnubsAfTw
+      furniture: chair
+    - animation: AnubsAfFfmFemdom3
+      furniture: chair
+    - animation: AnubsAfAdultBarTable
+      furniture: table

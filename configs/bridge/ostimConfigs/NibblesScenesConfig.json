@@ -2069,7 +2069,7 @@
                 },
                 {
                     "id": "NibblesBlowjob2-5",
-                    "duration": 21.333334
+                    "duration": 7
                 }
             ],
             "tags": []
@@ -2796,7 +2796,7 @@
                 },
                 {
                     "id": "NibblesCowgirl5-5",
-                    "duration": 29.333334
+                    "duration": 12
                 }
             ],
             "tags": []
@@ -4450,7 +4450,7 @@
                 },
                 {
                     "id": "NibblesLapfuck-5",
-                    "duration": 27.666666
+                    "duration": 12
                 }
             ],
             "tags": []
@@ -5013,7 +5013,7 @@
                 },
                 {
                     "id": "NibblesMissionary2-5",
-                    "duration": 29.333334
+                    "duration": 12
                 }
             ],
             "tags": []
@@ -7560,7 +7560,7 @@
                 },
                 {
                     "id": "NibblesFingeringn-5",
-                    "duration": 29
+                    "duration": 12
                 }
             ],
             "tags": []
@@ -8516,92 +8516,6 @@
             "animName": "bondageposttoyfemdom"
         }
     },
-    "dildo": {
-        "name": "dildo",
-        "actorsKeyword": "fm",
-        "stages": [
-            {
-                "actors": [
-                    {
-                        "intendedSex": "female",
-                        "scale": 1,
-                        "feetOnGround": false,
-                        "tags": []
-                    }
-                ],
-                "meta": {
-                    "tags": []
-                },
-                "id": "dildo-1",
-                "fileName": "dildo_1"
-            },
-            {
-                "actors": [
-                    {
-                        "intendedSex": "female",
-                        "scale": 1,
-                        "feetOnGround": false,
-                        "tags": []
-                    }
-                ],
-                "meta": {
-                    "tags": []
-                },
-                "id": "dildo-2",
-                "fileName": "dildo_2"
-            },
-            {
-                "actors": [
-                    {
-                        "intendedSex": "female",
-                        "scale": 1,
-                        "feetOnGround": false,
-                        "tags": []
-                    }
-                ],
-                "meta": {
-                    "tags": []
-                },
-                "id": "dildo-3",
-                "fileName": "dildo_3"
-            },
-            {
-                "actors": [
-                    {
-                        "intendedSex": "female",
-                        "scale": 1,
-                        "feetOnGround": false,
-                        "tags": []
-                    }
-                ],
-                "meta": {
-                    "tags": []
-                },
-                "id": "dildo-4",
-                "fileName": "dildo_4"
-            },
-            {
-                "actors": [
-                    {
-                        "intendedSex": "female",
-                        "scale": 1,
-                        "feetOnGround": false,
-                        "tags": []
-                    }
-                ],
-                "meta": {
-                    "tags": []
-                },
-                "id": "dildo-5",
-                "fileName": "dildo_5"
-            }
-        ],
-        "folders": {
-            "moduleName": "NibblesObject",
-            "posFolderName": "fmPos",
-            "animName": "dildo"
-        }
-    },
     "pillory": {
         "name": "Nibbles Pillory",
         "actorsKeyword": "fm",
@@ -8944,7 +8858,7 @@
             }
         ],
         "folders": {
-            "moduleName": "NibblesObj",
+            "moduleName": "NibblesSpawnedFurniture",
             "posFolderName": "fmPos",
             "animName": "NibblesSpanking"
         },
@@ -8990,7 +8904,7 @@
                 },
                 {
                     "id": "NibblesSpanking-5",
-                    "duration": 27.066668
+                    "duration": 12
                 }
             ],
             "tags": []
@@ -9128,7 +9042,7 @@
             }
         ],
         "folders": {
-            "moduleName": "NibblesObj",
+            "moduleName": "NibblesSpawnedFurniture",
             "posFolderName": "fmPos",
             "animName": "NibblesSpankingchair"
         },
@@ -9399,7 +9313,7 @@
             }
         ],
         "folders": {
-            "moduleName": "NibblesObj",
+            "moduleName": "NibblesSpawnedFurniture",
             "posFolderName": "fmPos",
             "animName": "NibblesTablefuck"
         },
@@ -9670,7 +9584,7 @@
             }
         ],
         "folders": {
-            "moduleName": "NibblesObj",
+            "moduleName": "NibblesSpawnedFurniture",
             "posFolderName": "fmPos",
             "animName": "NibblesTablestandingbehind"
         },
@@ -9945,7 +9859,7 @@
             }
         ],
         "folders": {
-            "moduleName": "NibblesObj",
+            "moduleName": "NibblesSpawnedFurniture",
             "posFolderName": "fmPos",
             "animName": "NibblesTablestandingfront"
         },
@@ -10013,12 +9927,17 @@
                 ],
                 "meta": {
                     "tags": [
-                        "nibbles"
+                        "nibbles",
+                        "transition"
                     ]
                 },
                 "id": "NibblesWorkbench-1",
                 "fileName": "NibblesWorkbench_1",
                 "actions": [
+                    {
+                        "type": "malemasturbation",
+                        "actor": 0
+                    },
                     {
                         "type": "femalemasturbation",
                         "actor": 1
@@ -10092,7 +10011,8 @@
                 ],
                 "meta": {
                     "tags": [
-                        "nibbles"
+                        "nibbles",
+                        "transition"
                     ]
                 },
                 "id": "NibblesWorkbench-3",
@@ -10244,7 +10164,7 @@
             }
         ],
         "folders": {
-            "moduleName": "NibblesObj",
+            "moduleName": "NibblesSpawnedFurniture",
             "posFolderName": "fmPos",
             "animName": "NibblesWorkbench"
         },
@@ -10256,6 +10176,22 @@
             "NibblesWorkbench_6_1.hkx": {
                 "duration": 6,
                 "annotationLines": "1.500000 OStimClimax"
+            },
+            "NibblesWorkbench_1_0.hkx": {
+                "duration": 5.333333,
+                "annotationLines": ""
+            },
+            "NibblesWorkbench_1_1.hkx": {
+                "duration": 5.333333,
+                "annotationLines": ""
+            },
+            "NibblesWorkbench_3_0.hkx": {
+                "duration": 14.8,
+                "annotationLines": ""
+            },
+            "NibblesWorkbench_3_1.hkx": {
+                "duration": 14.8,
+                "annotationLines": ""
             }
         },
         "sequence": {
@@ -10527,13 +10463,13 @@
             }
         ],
         "folders": {
-            "moduleName": "NibblesObjLesbian",
+            "moduleName": "NibblesSpawnedFurniture",
             "posFolderName": "ffPos",
             "animName": "NibblesLesbianhaycun"
         },
         "hkxAnnotations": {
             "NibblesLesbianhaycun_6_0.hkx": {
-                "duration": 27.066668,
+                "duration": 12,
                 "annotationLines": "1.500000 OStimClimax"
             }
         },
@@ -10561,7 +10497,7 @@
                 },
                 {
                     "id": "NibblesLesbianhaycun-6",
-                    "duration": 27.066668
+                    "duration": 12
                 }
             ],
             "tags": []
@@ -10708,7 +10644,7 @@
             }
         ],
         "folders": {
-            "moduleName": "NibblesObjSolo",
+            "moduleName": "NibblesSpawnedFurniture",
             "posFolderName": "fPos",
             "animName": "NibblesChairdildo"
         },
@@ -10738,7 +10674,7 @@
                 },
                 {
                     "id": "NibblesChairdildo-5",
-                    "duration": 28
+                    "duration": 12
                 }
             ],
             "tags": []
@@ -10925,7 +10861,7 @@
             }
         ],
         "folders": {
-            "moduleName": "NibblesObjSolo",
+            "moduleName": "NibblesSpawnedFurniture",
             "posFolderName": "fPos",
             "animName": "NibblesDrunkmasturbation"
         },
@@ -11120,7 +11056,7 @@
             }
         ],
         "folders": {
-            "moduleName": "NibblesObjSolo",
+            "moduleName": "NibblesSpawnedFurniture",
             "posFolderName": "fPos",
             "animName": "NibblesMimic"
         },
@@ -11297,7 +11233,7 @@
             }
         ],
         "folders": {
-            "moduleName": "NibblesObjSolo",
+            "moduleName": "NibblesSpawnedFurniture",
             "posFolderName": "fPos",
             "animName": "NibblesTentacledoggy"
         },
@@ -11331,6 +11267,2678 @@
                 }
             ],
             "tags": []
+        }
+    },
+    "NibblesAfChairdildo": {
+        "name": "Nibbles Chair Dildo",
+        "actorsKeyword": "f",
+        "stages": [
+            {
+                "actors": [
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "sitting"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "nibbles"
+                    ],
+                    "furniture": "chair"
+                },
+                "id": "NibblesAfChairdildo-1",
+                "fileName": "NibblesAfChairdildo_1",
+                "actions": [
+                    {
+                        "type": "mdildovaginal",
+                        "actor": 0
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "sitting"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "nibbles"
+                    ],
+                    "furniture": "chair"
+                },
+                "id": "NibblesAfChairdildo-2",
+                "fileName": "NibblesAfChairdildo_2",
+                "actions": [
+                    {
+                        "type": "mdildovaginal",
+                        "actor": 0
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "sitting"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "nibbles"
+                    ],
+                    "furniture": "chair"
+                },
+                "id": "NibblesAfChairdildo-3",
+                "fileName": "NibblesAfChairdildo_3",
+                "actions": [
+                    {
+                        "type": "mdildovaginal",
+                        "actor": 0
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "sitting"
+                        ],
+                        "autoTransitions": {
+                            "climax": "NibblesAfChairdildo-5"
+                        }
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "nibbles"
+                    ],
+                    "furniture": "chair"
+                },
+                "id": "NibblesAfChairdildo-4",
+                "fileName": "NibblesAfChairdildo_4",
+                "actions": [
+                    {
+                        "type": "mdildovaginal",
+                        "actor": 0
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "sitting",
+                            "climaxing"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "nibbles",
+                        "transition"
+                    ],
+                    "furniture": "chair"
+                },
+                "id": "NibblesAfChairdildo-5",
+                "fileName": "NibblesAfChairdildo_5",
+                "actions": [
+                    {
+                        "type": "mdildovaginal",
+                        "actor": 0
+                    }
+                ]
+            }
+        ],
+        "folders": {
+            "moduleName": "NibblesAdapted",
+            "posFolderName": "fChairPos",
+            "animName": "NibblesAfChairdildo"
+        },
+        "hkxAnnotations": {
+            "NibblesAfChairdildo_5_0.hkx": {
+                "duration": 12,
+                "annotationLines": "1.500000 OStimClimax"
+            }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "NibblesAfChairdildo-1",
+                    "duration": 5.733333
+                },
+                {
+                    "id": "NibblesAfChairdildo-2",
+                    "duration": 4.6
+                },
+                {
+                    "id": "NibblesAfChairdildo-3",
+                    "duration": 4.933333
+                },
+                {
+                    "id": "NibblesAfChairdildo-4",
+                    "duration": 5
+                },
+                {
+                    "id": "NibblesAfChairdildo-5",
+                    "duration": 12
+                }
+            ],
+            "tags": []
+        }
+    },
+    "NibblesAfDrunkmasturbation": {
+        "name": "Nibbles Drunk Masturbation",
+        "actorsKeyword": "f",
+        "stages": [
+            {
+                "actors": [
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "sitting"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "nibbles"
+                    ]
+                },
+                "id": "NibblesAfDrunkmasturbation-1",
+                "fileName": "NibblesAfDrunkmasturbation_1",
+                "actions": [
+                    {
+                        "type": "femalemasturbation",
+                        "actor": 0
+                    }
+                ],
+                "noRandomSelection": true
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "sitting"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "nibbles"
+                    ]
+                },
+                "id": "NibblesAfDrunkmasturbation-2",
+                "fileName": "NibblesAfDrunkmasturbation_2",
+                "actions": [
+                    {
+                        "type": "femalemasturbation",
+                        "actor": 0
+                    }
+                ],
+                "noRandomSelection": true
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "kneeling"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "nibbles"
+                    ]
+                },
+                "id": "NibblesAfDrunkmasturbation-3",
+                "fileName": "NibblesAfDrunkmasturbation_3",
+                "actions": [
+                    {
+                        "type": "grindingobject",
+                        "actor": 0
+                    }
+                ],
+                "noRandomSelection": true
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "kneeling"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "nibbles"
+                    ]
+                },
+                "id": "NibblesAfDrunkmasturbation-4",
+                "fileName": "NibblesAfDrunkmasturbation_4",
+                "actions": [
+                    {
+                        "type": "mdildovaginal",
+                        "actor": 0
+                    },
+                    {
+                        "type": "rubbingclitoris",
+                        "actor": 0,
+                        "target": 0
+                    }
+                ],
+                "noRandomSelection": true
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "lyingfront"
+                        ],
+                        "autoTransitions": {
+                            "climax": "NibblesAfDrunkmasturbation-6"
+                        }
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "nibbles"
+                    ]
+                },
+                "id": "NibblesAfDrunkmasturbation-5",
+                "fileName": "NibblesAfDrunkmasturbation_5",
+                "actions": [
+                    {
+                        "type": "femalemasturbation",
+                        "actor": 0
+                    },
+                    {
+                        "type": "mdildoanal",
+                        "actor": 0
+                    }
+                ],
+                "noRandomSelection": true
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "lyingside",
+                            "climaxing"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "nibbles",
+                        "transition"
+                    ]
+                },
+                "id": "NibblesAfDrunkmasturbation-6",
+                "fileName": "NibblesAfDrunkmasturbation_6",
+                "actions": [
+                    {
+                        "type": "femalemasturbation",
+                        "actor": 0
+                    },
+                    {
+                        "type": "rubbingclitoris",
+                        "actor": 0,
+                        "target": 0
+                    }
+                ],
+                "noRandomSelection": true
+            }
+        ],
+        "folders": {
+            "moduleName": "NibblesAdapted",
+            "posFolderName": "fPos",
+            "animName": "NibblesAfDrunkmasturbation"
+        },
+        "hkxAnnotations": {
+            "NibblesAfDrunkmasturbation_6_0.hkx": {
+                "duration": 7.2,
+                "annotationLines": "1.500000 OStimClimax"
+            }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "NibblesAfDrunkmasturbation-1",
+                    "duration": 5.6
+                },
+                {
+                    "id": "NibblesAfDrunkmasturbation-2",
+                    "duration": 8
+                },
+                {
+                    "id": "NibblesAfDrunkmasturbation-3",
+                    "duration": 5.333333
+                },
+                {
+                    "id": "NibblesAfDrunkmasturbation-4",
+                    "duration": 6.4
+                },
+                {
+                    "id": "NibblesAfDrunkmasturbation-5",
+                    "duration": 6.4
+                },
+                {
+                    "id": "NibblesAfDrunkmasturbation-6",
+                    "duration": 7.2
+                }
+            ],
+            "tags": []
+        }
+    },
+    "NibblesAfMimic": {
+        "name": "Nibbles Mimic Trapped",
+        "actorsKeyword": "f",
+        "stages": [
+            {
+                "actors": [
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing",
+                            "bendover"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "nibbles"
+                    ]
+                },
+                "id": "NibblesAfMimic-1",
+                "fileName": "NibblesAfMimic_1",
+                "actions": [
+                    {
+                        "type": "mdildovaginal",
+                        "actor": 0
+                    }
+                ],
+                "noRandomSelection": true
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing",
+                            "bendover"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "nibbles"
+                    ]
+                },
+                "id": "NibblesAfMimic-2",
+                "fileName": "NibblesAfMimic_2",
+                "actions": [
+                    {
+                        "type": "mdildovaginal",
+                        "actor": 0
+                    }
+                ],
+                "noRandomSelection": true
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "lyingback"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "nibbles"
+                    ]
+                },
+                "id": "NibblesAfMimic-3",
+                "fileName": "NibblesAfMimic_3",
+                "actions": [
+                    {
+                        "type": "mdildovaginal",
+                        "actor": 0
+                    },
+                    {
+                        "type": "mdildoanal",
+                        "actor": 0
+                    }
+                ],
+                "noRandomSelection": true
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "lyingback"
+                        ],
+                        "autoTransitions": {
+                            "climax": "NibblesAfMimic-5"
+                        }
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "nibbles"
+                    ]
+                },
+                "id": "NibblesAfMimic-4",
+                "fileName": "NibblesAfMimic_4",
+                "actions": [
+                    {
+                        "type": "mdildovaginal",
+                        "actor": 0
+                    },
+                    {
+                        "type": "mdildoanal",
+                        "actor": 0
+                    }
+                ],
+                "noRandomSelection": true
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "lyingback",
+                            "climaxing"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "nibbles",
+                        "transition"
+                    ]
+                },
+                "id": "NibblesAfMimic-5",
+                "fileName": "NibblesAfMimic_5",
+                "actions": [
+                    {
+                        "type": "mdildovaginal",
+                        "actor": 0
+                    },
+                    {
+                        "type": "mdildoanal",
+                        "actor": 0
+                    }
+                ],
+                "noRandomSelection": true
+            }
+        ],
+        "folders": {
+            "moduleName": "NibblesAdapted",
+            "posFolderName": "fPos",
+            "animName": "NibblesAfMimic"
+        },
+        "hkxAnnotations": {
+            "NibblesAfMimic_5_0.hkx": {
+                "duration": 3.2,
+                "annotationLines": "1.500000 OStimClimax"
+            }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "NibblesAfMimic-1",
+                    "duration": 6
+                },
+                {
+                    "id": "NibblesAfMimic-2",
+                    "duration": 5.333333
+                },
+                {
+                    "id": "NibblesAfMimic-3",
+                    "duration": 5.333333
+                },
+                {
+                    "id": "NibblesAfMimic-4",
+                    "duration": 4.266667
+                },
+                {
+                    "id": "NibblesAfMimic-5",
+                    "duration": 3.2
+                }
+            ],
+            "tags": []
+        }
+    },
+    "NibblesAfTentacledoggy": {
+        "name": "Nibbles Tentacle Doggystyle",
+        "actorsKeyword": "f",
+        "stages": [
+            {
+                "actors": [
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "allfours"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "nibbles"
+                    ]
+                },
+                "id": "NibblesAfTentacledoggy-1",
+                "fileName": "NibblesAfTentacledoggy_1",
+                "actions": [
+                    {
+                        "type": "grindingobject",
+                        "actor": 0
+                    }
+                ],
+                "noRandomSelection": true
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "allfours"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "nibbles"
+                    ]
+                },
+                "id": "NibblesAfTentacledoggy-2",
+                "fileName": "NibblesAfTentacledoggy_2",
+                "actions": [
+                    {
+                        "type": "mdildovaginal",
+                        "actor": 0
+                    }
+                ],
+                "noRandomSelection": true
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "allfours"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "nibbles"
+                    ]
+                },
+                "id": "NibblesAfTentacledoggy-3",
+                "fileName": "NibblesAfTentacledoggy_3",
+                "actions": [
+                    {
+                        "type": "mdildovaginal",
+                        "actor": 0
+                    }
+                ],
+                "noRandomSelection": true
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "lyingfront"
+                        ],
+                        "autoTransitions": {
+                            "climax": "NibblesAfTentacledoggy-5"
+                        }
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "nibbles"
+                    ]
+                },
+                "id": "NibblesAfTentacledoggy-4",
+                "fileName": "NibblesAfTentacledoggy_4",
+                "actions": [
+                    {
+                        "type": "mdildovaginal",
+                        "actor": 0
+                    }
+                ],
+                "noRandomSelection": true
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "allfours",
+                            "climaxing"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "nibbles",
+                        "transition"
+                    ]
+                },
+                "id": "NibblesAfTentacledoggy-5",
+                "fileName": "NibblesAfTentacledoggy_5",
+                "actions": [
+                    {
+                        "type": "mdildovaginal",
+                        "actor": 0
+                    }
+                ],
+                "noRandomSelection": true
+            }
+        ],
+        "folders": {
+            "moduleName": "NibblesAdapted",
+            "posFolderName": "fPos",
+            "animName": "NibblesAfTentacledoggy"
+        },
+        "hkxAnnotations": {
+            "NibblesAfTentacledoggy_5_0.hkx": {
+                "duration": 5.2,
+                "annotationLines": "1.500000 OStimClimax"
+            }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "NibblesAfTentacledoggy-1",
+                    "duration": 6
+                },
+                {
+                    "id": "NibblesAfTentacledoggy-2",
+                    "duration": 6.4
+                },
+                {
+                    "id": "NibblesAfTentacledoggy-3",
+                    "duration": 4.8
+                },
+                {
+                    "id": "NibblesAfTentacledoggy-4",
+                    "duration": 5.2
+                },
+                {
+                    "id": "NibblesAfTentacledoggy-5",
+                    "duration": 5.2
+                }
+            ],
+            "tags": []
+        }
+    },
+    "NibblesAfLesbianhaycun": {
+        "name": "Nibbles Lesbian Haybale Cunnilingus",
+        "actorsKeyword": "ff",
+        "stages": [
+            {
+                "actors": [
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "sitting"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "kneeling"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "nibbles"
+                    ],
+                    "furniture": "table"
+                },
+                "id": "NibblesAfLesbianhaycun-1",
+                "fileName": "NibblesAfLesbianhaycun_1",
+                "actions": [
+                    {
+                        "type": "lickingvagina",
+                        "actor": 1,
+                        "target": 0
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "sitting"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "kneeling"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "nibbles"
+                    ],
+                    "furniture": "table"
+                },
+                "id": "NibblesAfLesbianhaycun-2",
+                "fileName": "NibblesAfLesbianhaycun_2",
+                "actions": [
+                    {
+                        "type": "holdinghead",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "lickingvagina",
+                        "actor": 1,
+                        "target": 0
+                    },
+                    {
+                        "type": "femalemasturbation",
+                        "actor": 1
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "sitting"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "kneeling"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "nibbles"
+                    ],
+                    "furniture": "table"
+                },
+                "id": "NibblesAfLesbianhaycun-3",
+                "fileName": "NibblesAfLesbianhaycun_3",
+                "actions": [
+                    {
+                        "type": "holdinghead",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "lickingvagina",
+                        "actor": 1,
+                        "target": 0
+                    },
+                    {
+                        "type": "femalemasturbation",
+                        "actor": 1
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "lyingback"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "kneeling"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "nibbles"
+                    ],
+                    "furniture": "table"
+                },
+                "id": "NibblesAfLesbianhaycun-4",
+                "fileName": "NibblesAfLesbianhaycun_4",
+                "actions": [
+                    {
+                        "type": "lickingvagina",
+                        "actor": 1,
+                        "target": 0
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "lyingback"
+                        ],
+                        "autoTransitions": {
+                            "climax": "NibblesAfLesbianhaycun-6"
+                        }
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "kneeling"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "nibbles"
+                    ],
+                    "furniture": "table"
+                },
+                "id": "NibblesAfLesbianhaycun-5",
+                "fileName": "NibblesAfLesbianhaycun_5",
+                "actions": [
+                    {
+                        "type": "lickingvagina",
+                        "actor": 1,
+                        "target": 0
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "lyingback",
+                            "climaxing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "kneeling"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "nibbles",
+                        "transition"
+                    ],
+                    "furniture": "table"
+                },
+                "id": "NibblesAfLesbianhaycun-6",
+                "fileName": "NibblesAfLesbianhaycun_6",
+                "actions": [
+                    {
+                        "type": "lickingvagina",
+                        "actor": 1,
+                        "target": 0
+                    }
+                ]
+            }
+        ],
+        "folders": {
+            "moduleName": "NibblesAdapted",
+            "posFolderName": "ffTablePos",
+            "animName": "NibblesAfLesbianhaycun"
+        },
+        "hkxAnnotations": {
+            "NibblesAfLesbianhaycun_6_0.hkx": {
+                "duration": 12,
+                "annotationLines": "1.500000 OStimClimax"
+            }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "NibblesAfLesbianhaycun-1",
+                    "duration": 5.6
+                },
+                {
+                    "id": "NibblesAfLesbianhaycun-2",
+                    "duration": 4.8
+                },
+                {
+                    "id": "NibblesAfLesbianhaycun-3",
+                    "duration": 4.8
+                },
+                {
+                    "id": "NibblesAfLesbianhaycun-4",
+                    "duration": 5.333333
+                },
+                {
+                    "id": "NibblesAfLesbianhaycun-5",
+                    "duration": 4.8
+                },
+                {
+                    "id": "NibblesAfLesbianhaycun-6",
+                    "duration": 12
+                }
+            ],
+            "tags": []
+        }
+    },
+    "NibblesAfSpanking": {
+        "name": "Nibbles Spanking (Paddle)",
+        "actorsKeyword": "fm",
+        "stages": [
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "sitting"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "lyingfront"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "nibbles",
+                        "spank"
+                    ],
+                    "furniture": "chair"
+                },
+                "id": "NibblesAfSpanking-1",
+                "fileName": "NibblesAfSpanking_1",
+                "noRandomSelection": true
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "sitting"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "lyingfront"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "nibbles",
+                        "spank"
+                    ],
+                    "furniture": "chair"
+                },
+                "id": "NibblesAfSpanking-2",
+                "fileName": "NibblesAfSpanking_2",
+                "noRandomSelection": true
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "sitting"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "lyingfront"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "nibbles",
+                        "spank"
+                    ],
+                    "furniture": "chair"
+                },
+                "id": "NibblesAfSpanking-3",
+                "fileName": "NibblesAfSpanking_3",
+                "noRandomSelection": true
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "sitting"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "lyingfront"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "nibbles",
+                        "spank"
+                    ],
+                    "furniture": "chair"
+                },
+                "id": "NibblesAfSpanking-4",
+                "fileName": "NibblesAfSpanking_4",
+                "noRandomSelection": true
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "sitting"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "lyingfront"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "nibbles",
+                        "spank"
+                    ],
+                    "furniture": "chair"
+                },
+                "id": "NibblesAfSpanking-5",
+                "fileName": "NibblesAfSpanking_5",
+                "noRandomSelection": true
+            }
+        ],
+        "folders": {
+            "moduleName": "NibblesAdapted",
+            "posFolderName": "fmChairPos",
+            "animName": "NibblesAfSpanking"
+        },
+        "hkxAnnotations": {
+            "NibblesAfSpanking_1_0.hkx": {
+                "duration": 5.2,
+                "annotationLines": "0.936000 OStimEvent.spank,1\n2.605778 OStimEvent.spank,1\n4.304444 OStimEvent.spank,1"
+            },
+            "NibblesAfSpanking_2_0.hkx": {
+                "duration": 6.4,
+                "annotationLines": "0.675554 OStimEvent.spank,1\n1.621333 OStimEvent.spank,1\n2.844443 OStimEvent.spank,1\n3.797334 OStimEvent.spank,1\n4.771555 OStimEvent.spank,1\n5.845335 OStimEvent.spank,1"
+            },
+            "NibblesAfSpanking_3_0.hkx": {
+                "duration": 6.4,
+                "annotationLines": "0.583112 OStimEvent.spank,1\n1.656887 OStimEvent.spank,1\n2.673779 OStimEvent.spank,1\n3.726221 OStimEvent.spank,1\n4.778667 OStimEvent.spank,1\n5.816888 OStimEvent.spank,1"
+            },
+            "NibblesAfSpanking_4_0.hkx": {
+                "duration": 5.733333,
+                "annotationLines": "3.338073 OStimEvent.spank,1\n4.280889 OStimEvent.spank,1\n5.210962 OStimEvent.spank,1"
+            },
+            "NibblesAfSpanking_5_0.hkx": {
+                "duration": 27.066668,
+                "annotationLines": "0.691703 OStimEvent.spank,1\n1.293185 OStimEvent.spank,1\n1.864593 OStimEvent.spank,1\n2.466074 OStimEvent.spank,1\n4.721630 OStimEvent.spank,1"
+            }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "NibblesAfSpanking-1",
+                    "duration": 5.2
+                },
+                {
+                    "id": "NibblesAfSpanking-2",
+                    "duration": 6.4
+                },
+                {
+                    "id": "NibblesAfSpanking-3",
+                    "duration": 6.4
+                },
+                {
+                    "id": "NibblesAfSpanking-4",
+                    "duration": 5.733333
+                },
+                {
+                    "id": "NibblesAfSpanking-5",
+                    "duration": 12
+                }
+            ],
+            "tags": []
+        }
+    },
+    "NibblesAfSpankingchair": {
+        "name": "Nibbles Spanking (Chair)",
+        "actorsKeyword": "fm",
+        "stages": [
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "sitting"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "lyingfront"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "nibbles",
+                        "spank"
+                    ],
+                    "furniture": "chair"
+                },
+                "id": "NibblesAfSpankingchair-1",
+                "fileName": "NibblesAfSpankingchair_1"
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "sitting"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "lyingfront"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "nibbles",
+                        "spank"
+                    ],
+                    "furniture": "chair"
+                },
+                "id": "NibblesAfSpankingchair-2",
+                "fileName": "NibblesAfSpankingchair_2"
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "sitting"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "lyingfront"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "nibbles",
+                        "spank"
+                    ],
+                    "furniture": "chair"
+                },
+                "id": "NibblesAfSpankingchair-3",
+                "fileName": "NibblesAfSpankingchair_3"
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "sitting"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "nibbles"
+                    ],
+                    "furniture": "chair"
+                },
+                "id": "NibblesAfSpankingchair-4",
+                "fileName": "NibblesAfSpankingchair_4",
+                "actions": [
+                    {
+                        "type": "teasing",
+                        "actor": 1,
+                        "target": 0
+                    }
+                ]
+            }
+        ],
+        "folders": {
+            "moduleName": "NibblesAdapted",
+            "posFolderName": "fmChairPos",
+            "animName": "NibblesAfSpankingchair"
+        },
+        "hkxAnnotations": {
+            "NibblesAfSpankingchair_1_0.hkx": {
+                "duration": 5.2,
+                "annotationLines": "0.144444 OStimEvent.spank,1\n0.988000 OStimEvent.spank,1\n1.848889 OStimEvent.spank,1\n2.698222 OStimEvent.spank,1\n3.553333 OStimEvent.spank,1\n4.396889 OStimEvent.spank,1"
+            },
+            "NibblesAfSpankingchair_2_0.hkx": {
+                "duration": 4.266667,
+                "annotationLines": "0.104296 OStimEvent.spank,1\n0.630519 OStimEvent.spank,1\n1.147259 OStimEvent.spank,1\n1.673482 OStimEvent.spank,1\n2.196544 OStimEvent.spank,1\n2.719606 OStimEvent.spank,1\n3.242668 OStimEvent.spank,1\n3.76573 OStimEvent.spank,1"
+            },
+            "NibblesAfSpankingchair_3_0.hkx": {
+                "duration": 4.266667,
+                "annotationLines": "0.104296 OStimEvent.spank,1\n0.630518 OStimEvent.spank,1\n1.147259 OStimEvent.spank,1\n1.673482 OStimEvent.spank,1\n2.196544 OStimEvent.spank,1\n2.719606 OStimEvent.spank,1\n3.242668 OStimEvent.spank,1\n3.76573 OStimEvent.spank,1"
+            }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "NibblesAfSpankingchair-1",
+                    "duration": 5.2
+                },
+                {
+                    "id": "NibblesAfSpankingchair-2",
+                    "duration": 4.266667
+                },
+                {
+                    "id": "NibblesAfSpankingchair-3",
+                    "duration": 4.266667
+                },
+                {
+                    "id": "NibblesAfSpankingchair-4",
+                    "duration": 6.4
+                }
+            ],
+            "tags": []
+        }
+    },
+    "NibblesAfTablefuck": {
+        "name": "Nibbles Table Fuck",
+        "actorsKeyword": "fm",
+        "stages": [
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "lyingback"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "nibbles"
+                    ],
+                    "furniture": "bed"
+                },
+                "id": "NibblesAfTablefuck-1",
+                "fileName": "NibblesAfTablefuck_1",
+                "actions": [
+                    {
+                        "type": "kissing",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "holdinghand",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "holdinghead",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ],
+                "noRandomSelection": true
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "lyingback"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "nibbles"
+                    ],
+                    "furniture": "bed"
+                },
+                "id": "NibblesAfTablefuck-2",
+                "fileName": "NibblesAfTablefuck_2",
+                "actions": [
+                    {
+                        "type": "grindingpenis",
+                        "actor": 1,
+                        "target": 0,
+                        "performer": 0
+                    },
+                    {
+                        "type": "holdingleg",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ],
+                "noRandomSelection": true
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 2,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "lyingback"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "nibbles"
+                    ],
+                    "furniture": "bed"
+                },
+                "id": "NibblesAfTablefuck-3",
+                "fileName": "NibblesAfTablefuck_3",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "hug",
+                        "actor": 1,
+                        "target": 0
+                    }
+                ],
+                "noRandomSelection": true
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 2,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ],
+                        "autoTransitions": {
+                            "climax": "NibblesAfTablefuck-5"
+                        }
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "lyingback"
+                        ],
+                        "autoTransitions": {
+                            "climax": "NibblesAfTablefuck-5"
+                        }
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "nibbles"
+                    ],
+                    "furniture": "bed"
+                },
+                "id": "NibblesAfTablefuck-4",
+                "fileName": "NibblesAfTablefuck_4",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "hug",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "hug",
+                        "actor": 1,
+                        "target": 0
+                    }
+                ],
+                "noRandomSelection": true
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 2,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing",
+                            "climaxing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "lyingback",
+                            "climaxing"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "nibbles",
+                        "transition"
+                    ],
+                    "furniture": "bed"
+                },
+                "id": "NibblesAfTablefuck-5",
+                "fileName": "NibblesAfTablefuck_5",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "hug",
+                        "actor": 1,
+                        "target": 0
+                    }
+                ],
+                "noRandomSelection": true
+            }
+        ],
+        "folders": {
+            "moduleName": "NibblesAdapted",
+            "posFolderName": "fmBedPos",
+            "animName": "NibblesAfTablefuck"
+        },
+        "hkxAnnotations": {
+            "NibblesAfTablefuck_5_0.hkx": {
+                "duration": 5.8,
+                "annotationLines": "1.500000 OStimClimax"
+            },
+            "NibblesAfTablefuck_5_1.hkx": {
+                "duration": 5.8,
+                "annotationLines": "1.500000 OStimClimax"
+            }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "NibblesAfTablefuck-1",
+                    "duration": 6
+                },
+                {
+                    "id": "NibblesAfTablefuck-2",
+                    "duration": 5
+                },
+                {
+                    "id": "NibblesAfTablefuck-3",
+                    "duration": 5.333333
+                },
+                {
+                    "id": "NibblesAfTablefuck-4",
+                    "duration": 6
+                },
+                {
+                    "id": "NibblesAfTablefuck-5",
+                    "duration": 5.8
+                }
+            ],
+            "tags": []
+        }
+    },
+    "NibblesAfTablestandingbehind": {
+        "name": "Nibbles Standing Fuck Behind (Table)",
+        "actorsKeyword": "fm",
+        "stages": [
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "kneeling"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing",
+                            "facingaway",
+                            "bendover"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "nibbles"
+                    ],
+                    "furniture": "table"
+                },
+                "id": "NibblesAfTablestandingbehind-1",
+                "fileName": "NibblesAfTablestandingbehind_1",
+                "actions": [
+                    {
+                        "type": "lickingvagina",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "holdinghip",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing",
+                            "facingaway",
+                            "bendover"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "nibbles"
+                    ],
+                    "furniture": "table"
+                },
+                "id": "NibblesAfTablestandingbehind-2",
+                "fileName": "NibblesAfTablestandingbehind_2",
+                "actions": [
+                    {
+                        "type": "grindingpenis",
+                        "actor": 1,
+                        "target": 0,
+                        "performer": 0
+                    },
+                    {
+                        "type": "holdinghip",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing",
+                            "facingaway",
+                            "bendover"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "nibbles"
+                    ],
+                    "furniture": "table"
+                },
+                "id": "NibblesAfTablestandingbehind-3",
+                "fileName": "NibblesAfTablestandingbehind_3",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "holdinghip",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ],
+                        "autoTransitions": {
+                            "climax": "NibblesAfTablestandingbehind-5"
+                        }
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing",
+                            "facingaway",
+                            "bendover"
+                        ],
+                        "autoTransitions": {
+                            "climax": "NibblesAfTablestandingbehind-5"
+                        }
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "nibbles"
+                    ],
+                    "furniture": "table"
+                },
+                "id": "NibblesAfTablestandingbehind-4",
+                "fileName": "NibblesAfTablestandingbehind_4",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "holdinghip",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing",
+                            "climaxing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing",
+                            "facingaway",
+                            "bendover",
+                            "climaxing"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "nibbles",
+                        "transition"
+                    ],
+                    "furniture": "table"
+                },
+                "id": "NibblesAfTablestandingbehind-5",
+                "fileName": "NibblesAfTablestandingbehind_5",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "holdinghip",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ]
+            }
+        ],
+        "folders": {
+            "moduleName": "NibblesAdapted",
+            "posFolderName": "fmTablePos",
+            "animName": "NibblesAfTablestandingbehind"
+        },
+        "hkxAnnotations": {
+            "NibblesAfTablestandingbehind_5_0.hkx": {
+                "duration": 5.8,
+                "annotationLines": "1.500000 OStimClimax"
+            },
+            "NibblesAfTablestandingbehind_5_1.hkx": {
+                "duration": 5.8,
+                "annotationLines": "1.500000 OStimClimax"
+            }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "NibblesAfTablestandingbehind-1",
+                    "duration": 5.6
+                },
+                {
+                    "id": "NibblesAfTablestandingbehind-2",
+                    "duration": 5.666667
+                },
+                {
+                    "id": "NibblesAfTablestandingbehind-3",
+                    "duration": 5.6
+                },
+                {
+                    "id": "NibblesAfTablestandingbehind-4",
+                    "duration": 5.2
+                },
+                {
+                    "id": "NibblesAfTablestandingbehind-5",
+                    "duration": 5.8
+                }
+            ],
+            "tags": []
+        }
+    },
+    "NibblesAfTablestandingfront": {
+        "name": "Nibbles Standing Fuck Front (Table)",
+        "actorsKeyword": "fm",
+        "stages": [
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 1,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "sitting"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "nibbles"
+                    ],
+                    "furniture": "table"
+                },
+                "id": "NibblesAfTablestandingfront-1",
+                "fileName": "NibblesAfTablestandingfront_1",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "hug",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "kissing",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 1,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "lyingback"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "nibbles"
+                    ],
+                    "furniture": "table"
+                },
+                "id": "NibblesAfTablestandingfront-2",
+                "fileName": "NibblesAfTablestandingfront_2",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "holdinghip",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 1,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "lyingback"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "nibbles"
+                    ],
+                    "furniture": "table"
+                },
+                "id": "NibblesAfTablestandingfront-3",
+                "fileName": "NibblesAfTablestandingfront_3",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "holdinghip",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 1,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ],
+                        "autoTransitions": {
+                            "climax": "NibblesAfTablestandingfront-5"
+                        }
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "lyingback"
+                        ],
+                        "autoTransitions": {
+                            "climax": "NibblesAfTablestandingfront-5"
+                        }
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "nibbles"
+                    ],
+                    "furniture": "table"
+                },
+                "id": "NibblesAfTablestandingfront-4",
+                "fileName": "NibblesAfTablestandingfront_4",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "hug",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 1,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing",
+                            "climaxing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": [
+                            "lyingback",
+                            "climaxing"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "nibbles",
+                        "transition"
+                    ],
+                    "furniture": "table"
+                },
+                "id": "NibblesAfTablestandingfront-5",
+                "fileName": "NibblesAfTablestandingfront_5",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "gropingbreast",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "hug",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "hug",
+                        "actor": 1,
+                        "target": 0
+                    }
+                ]
+            }
+        ],
+        "folders": {
+            "moduleName": "NibblesAdapted",
+            "posFolderName": "fmTablePos",
+            "animName": "NibblesAfTablestandingfront"
+        },
+        "hkxAnnotations": {
+            "NibblesAfTablestandingfront_5_0.hkx": {
+                "duration": 4.8,
+                "annotationLines": "1.500000 OStimClimax"
+            },
+            "NibblesAfTablestandingfront_5_1.hkx": {
+                "duration": 4.8,
+                "annotationLines": "1.500000 OStimClimax"
+            }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "NibblesAfTablestandingfront-1",
+                    "duration": 5.2
+                },
+                {
+                    "id": "NibblesAfTablestandingfront-2",
+                    "duration": 5.866667
+                },
+                {
+                    "id": "NibblesAfTablestandingfront-3",
+                    "duration": 4.8
+                },
+                {
+                    "id": "NibblesAfTablestandingfront-4",
+                    "duration": 4.8
+                },
+                {
+                    "id": "NibblesAfTablestandingfront-5",
+                    "duration": 4.8
+                }
+            ],
+            "tags": []
+        }
+    },
+    "NibblesAfWorkbench": {
+        "name": "Nibbles Smithy Fuck",
+        "actorsKeyword": "fm",
+        "stages": [
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing",
+                            "bendover",
+                            "facingaway"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "nibbles",
+                        "transition"
+                    ],
+                    "furniture": "table"
+                },
+                "id": "NibblesAfWorkbench-1",
+                "fileName": "NibblesAfWorkbench_1",
+                "actions": [
+                    {
+                        "type": "malemasturbation",
+                        "actor": 0
+                    },
+                    {
+                        "type": "femalemasturbation",
+                        "actor": 1
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing",
+                            "bendover",
+                            "facingaway"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "nibbles",
+                        "transition"
+                    ],
+                    "furniture": "table"
+                },
+                "id": "NibblesAfWorkbench-2",
+                "fileName": "NibblesAfWorkbench_2",
+                "actions": [
+                    {
+                        "type": "malemasturbation",
+                        "actor": 0
+                    },
+                    {
+                        "type": "teasing",
+                        "actor": 1,
+                        "target": 0
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing",
+                            "bendover",
+                            "facingaway"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "nibbles",
+                        "transition"
+                    ],
+                    "furniture": "table"
+                },
+                "id": "NibblesAfWorkbench-3",
+                "fileName": "NibblesAfWorkbench_3",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing",
+                            "bendover",
+                            "facingaway"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "nibbles"
+                    ],
+                    "furniture": "table"
+                },
+                "id": "NibblesAfWorkbench-4",
+                "fileName": "NibblesAfWorkbench_4",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "holdinghip",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing"
+                        ],
+                        "autoTransitions": {
+                            "climax": "NibblesAfWorkbench-6"
+                        }
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing",
+                            "spreadlegs"
+                        ],
+                        "autoTransitions": {
+                            "climax": "NibblesAfWorkbench-6"
+                        }
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "nibbles"
+                    ],
+                    "furniture": "table"
+                },
+                "id": "NibblesAfWorkbench-5",
+                "fileName": "NibblesAfWorkbench_5",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "holdingleg",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ]
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "male",
+                        "sosBend": 0,
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing",
+                            "climaxing"
+                        ]
+                    },
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": true,
+                        "tags": [
+                            "standing",
+                            "spreadlegs",
+                            "climaxing"
+                        ]
+                    }
+                ],
+                "meta": {
+                    "tags": [
+                        "nibbles",
+                        "transition"
+                    ],
+                    "furniture": "table"
+                },
+                "id": "NibblesAfWorkbench-6",
+                "fileName": "NibblesAfWorkbench_6",
+                "actions": [
+                    {
+                        "type": "vaginalsex",
+                        "actor": 0,
+                        "target": 1
+                    },
+                    {
+                        "type": "holdingleg",
+                        "actor": 0,
+                        "target": 1
+                    }
+                ]
+            }
+        ],
+        "folders": {
+            "moduleName": "NibblesAdapted",
+            "posFolderName": "fmTablePos",
+            "animName": "NibblesAfWorkbench"
+        },
+        "hkxAnnotations": {
+            "NibblesAfWorkbench_6_0.hkx": {
+                "duration": 6,
+                "annotationLines": "1.500000 OStimClimax"
+            },
+            "NibblesAfWorkbench_6_1.hkx": {
+                "duration": 6,
+                "annotationLines": "1.500000 OStimClimax"
+            },
+            "NibblesAfWorkbench_1_0.hkx": {
+                "duration": 5.333333,
+                "annotationLines": ""
+            },
+            "NibblesAfWorkbench_1_1.hkx": {
+                "duration": 5.333333,
+                "annotationLines": ""
+            },
+            "NibblesAfWorkbench_2_0.hkx": {
+                "duration": 5.333333,
+                "annotationLines": ""
+            },
+            "NibblesAfWorkbench_2_1.hkx": {
+                "duration": 5.333333,
+                "annotationLines": ""
+            },
+            "NibblesAfWorkbench_3_0.hkx": {
+                "duration": 14.8,
+                "annotationLines": ""
+            },
+            "NibblesAfWorkbench_3_1.hkx": {
+                "duration": 14.8,
+                "annotationLines": ""
+            }
+        },
+        "sequence": {
+            "scenes": [
+                {
+                    "id": "NibblesAfWorkbench-1",
+                    "duration": 5.333333
+                },
+                {
+                    "id": "NibblesAfWorkbench-2",
+                    "duration": 5.333333
+                },
+                {
+                    "id": "NibblesAfWorkbench-3",
+                    "duration": 14.8
+                },
+                {
+                    "id": "NibblesAfWorkbench-4",
+                    "duration": 8.4
+                },
+                {
+                    "id": "NibblesAfWorkbench-5",
+                    "duration": 12.533334
+                },
+                {
+                    "id": "NibblesAfWorkbench-6",
+                    "duration": 6
+                }
+            ],
+            "tags": []
+        }
+    },
+    "NibblesAfDildo": {
+        "name": "dildo",
+        "actorsKeyword": "fm",
+        "stages": [
+            {
+                "actors": [
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": []
+                    }
+                ],
+                "meta": {
+                    "tags": []
+                },
+                "id": "NibblesAfDildo-1",
+                "fileName": "NibblesAfDildo_1"
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": []
+                    }
+                ],
+                "meta": {
+                    "tags": []
+                },
+                "id": "NibblesAfDildo-2",
+                "fileName": "NibblesAfDildo_2"
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": []
+                    }
+                ],
+                "meta": {
+                    "tags": []
+                },
+                "id": "NibblesAfDildo-3",
+                "fileName": "NibblesAfDildo_3"
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": []
+                    }
+                ],
+                "meta": {
+                    "tags": []
+                },
+                "id": "NibblesAfDildo-4",
+                "fileName": "NibblesAfDildo_4"
+            },
+            {
+                "actors": [
+                    {
+                        "intendedSex": "female",
+                        "scale": 1,
+                        "feetOnGround": false,
+                        "tags": []
+                    }
+                ],
+                "meta": {
+                    "tags": []
+                },
+                "id": "NibblesAfDildo-5",
+                "fileName": "NibblesAfDildo_5"
+            }
+        ],
+        "folders": {
+            "moduleName": "NibblesAdapted",
+            "posFolderName": "fmPos",
+            "animName": "NibblesAfDildo"
         }
     }
 }

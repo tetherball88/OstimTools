@@ -1,6 +1,6 @@
-import { asyncReduce, glob, readYaml } from "~common/nodejs/utils";
+import { asyncReduce, glob, readYaml, writeYaml } from "~common/nodejs/utils";
 import { getBridgeConfigPath } from "~bridge/nodejs/utils";
-import { ModuleSections, ModuleSpecificConfig, PackFullConfig } from "~bridge/types";
+import { ModuleFurnitureMapConfigDeprecated, ModuleFurnitureMapConfigItem, ModuleSections, ModuleSpecificConfig, PackFullConfig } from "~bridge/types";
 
 const packsConfigsPath = `${getBridgeConfigPath()}\\packsConfigs`;
 
@@ -18,6 +18,23 @@ export const getPackConfigs = async (packName: string): Promise<PackFullConfig> 
             
             const moduleConfig = await asyncReduce<ModuleSpecificConfig, string>(modulePatterns, async (acc, file) => {
                 const config = await readYaml(file) as Pick<ModuleSpecificConfig, ModuleSections>;
+
+                if(file.includes('furnitureMap.yml')) {
+                    const furnitureMapConfig = config as any as ModuleFurnitureMapConfigDeprecated
+
+                    if(!Array.isArray(furnitureMapConfig.furnitureMap)) {
+                        const furnitureArr = Object.entries(furnitureMapConfig.furnitureMap).reduce<ModuleFurnitureMapConfigItem[]>((acc, [furnitureName, animations]) => {
+                            animations.forEach(anim => acc.push({
+                                animation: anim,
+                                furniture: furnitureName,
+                            }))
+
+                            return acc;
+                        }, []);
+
+                        writeYaml(file, { furnitureMap: furnitureArr })
+                    }
+                }
 
 
                 return {

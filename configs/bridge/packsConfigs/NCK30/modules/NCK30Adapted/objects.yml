@@ -1,0 +1,35 @@
+objects:
+    replaceObjects:
+        Nck30AfChair1: {}
+        Nck30AfTable1: {}
+        Nck30AfShelf1: {}
+        Nck30AfBeachball: {}
+        Nck30AfTable2: {}
+        Nck30AfHottub: {}
+        Nck30AfSleazyrider: {}
+        Nck30AfAssmasterpiece: {}
+        Nck30AfMassagemadness: {}
+        Nck30AfGreekgoddess: {}
+        Nck30AfWildweekend: {}
+        Nck30AfMountmilf: {}
+    skipObjects:
+        Nck30AfChair1:
+            - NCK30chair01
+        Nck30AfTable1:
+            - NCK30tablethin01
+        Nck30AfShelf1: []
+        Nck30AfBeachball:
+            - NCK30beachball01
+        Nck30AfTable2:
+            - NCK30tableround01
+        Nck30AfSleazyrider:
+            - NCK30sofa01
+        Nck30AfAssmasterpiece: []
+        Nck30AfMassagemadness:
+            - NCK30nobletablelow01
+        Nck30AfGreekgoddess:
+            - NCK30wallpillar01
+        Nck30AfWildweekend:
+            - NCK30sofa02
+        Nck30AfMountmilf:
+            - NCK30chair01

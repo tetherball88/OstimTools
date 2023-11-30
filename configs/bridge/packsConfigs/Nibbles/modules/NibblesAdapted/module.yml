@@ -1,0 +1,17 @@
+module:
+    name: NibblesAdapted
+    inputPath: D:\animations\nibbles\SLAL NibblesAnims
+        5.81\Objects\Meshes\actors\character\animations\NibblesAnims_Object
+    slalJsonConfig: D:\animations\nibbles\SLAL NibblesAnims
+        5.81\Objects\SLAnims\json\NibblesAnims_OBJECTS.json
+    include: []
+    exclude:
+        - NibblesAfBondagepost
+        - NibblesAfBondageposttoy
+        - NibblesAfBondageposttoyfemdom
+        - NibblesAfBondagepostfemdom
+        - NibblesAfBondagepostblowjob
+        - NibblesAfPillory
+        - NibblesAfDildo
+    nemesisPrefix: nibafu
+    idPrefix: AF

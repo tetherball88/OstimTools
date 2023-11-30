@@ -1,0 +1,51 @@
+objects:
+    replaceObjects:
+        LeitoAfBed69: {}
+        LeitoAfBedAnalDoggy: {}
+        LeitoAfBedAnalReCow: {}
+        LeitoAfBedCowgirl: {}
+        LeitoAfBedDoggy: {}
+        LeitoAfBedFeetMissionary: {}
+        LeitoAfBedMissionary: {}
+        LeitoAfFSoloChair: {}
+        LeitoAfThroneAnalDoggy: {}
+        LeitoAfThroneAnalReCow: {}
+        LeitoAfThroneBj: {}
+        LeitoAfThroneCowgirl: {}
+        LeitoAfThroneCunnilingus: {}
+        LeitoAfThroneDoggy: {}
+        LeitoAfThroneMissionary: {}
+        LeitoAfUnicorn: {}
+    skipObjects:
+        LeitoAfBed69:
+            - AOnoblebeddouble
+        LeitoAfBedAnalDoggy:
+            - AOnoblebeddouble
+        LeitoAfBedAnalReCow:
+            - AOnoblebeddouble
+        LeitoAfBedCowgirl:
+            - AOnoblebeddouble
+        LeitoAfBedDoggy:
+            - AOnoblebeddouble
+        LeitoAfBedFeetMissionary:
+            - AOnoblebeddouble
+        LeitoAfBedMissionary:
+            - AOnoblebeddouble
+        LeitoAfFSoloChair:
+            - AONobleChair
+        LeitoAfThroneAnalDoggy:
+            - AOThrone
+        LeitoAfThroneAnalReCow:
+            - AOThrone
+        LeitoAfThroneBj:
+            - AOThrone
+        LeitoAfThroneCowgirl:
+            - AOThrone
+        LeitoAfThroneCunnilingus:
+            - AOThrone
+        LeitoAfThroneDoggy:
+            - AOThrone
+        LeitoAfThroneMissionary:
+            - AOThrone
+        LeitoAfUnicorn:
+            - AOUnicorn

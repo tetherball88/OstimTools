@@ -1,7 +1,6 @@
 {
     "sources": [
-        "D:\\MO2\\mods\\OStim Standalone - Advanced Adult Animation Framework",
-        "D:\\MO2 Development\\mods\\AnubsAdaptedAdditionalIntro"
+        "D:\\MO2 Development\\mods\\OStim Standalone - Advanced Adult Animation Framework"
     ],
     "scenes": [
         {
@@ -1385,6 +1384,145 @@
             ]
         },
         {
+            "name": "OStimChair3PSittingStandingFFF",
+            "furniture": "chair",
+            "actorsKeyword": "fff",
+            "length": 2,
+            "speeds": [
+                {
+                    "animation": "OStimBench3PSittingStandingFFF"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "sitting"
+                    ],
+                    "feetOnGround": false
+                },
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                },
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                }
+            ]
+        },
+        {
+            "name": "OStimChair3PSittingStandingMFF",
+            "furniture": "chair",
+            "actorsKeyword": "ffm",
+            "length": 2,
+            "speeds": [
+                {
+                    "animation": "OStimBench3PSittingStandingMFF"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "male",
+                    "scale": 1.03,
+                    "tags": [
+                        "sitting"
+                    ],
+                    "feetOnGround": false
+                },
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                },
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                }
+            ]
+        },
+        {
+            "name": "OStimChair3PSittingStandingMMF",
+            "furniture": "chair",
+            "actorsKeyword": "fmm",
+            "length": 2,
+            "speeds": [
+                {
+                    "animation": "OStimBench3PSittingStandingMMF"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "male",
+                    "scale": 1.03,
+                    "tags": [
+                        "sitting"
+                    ],
+                    "feetOnGround": false
+                },
+                {
+                    "intendedSex": "male",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                },
+                {
+                    "intendedSex": "female",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                }
+            ]
+        },
+        {
+            "name": "OStimChair3PSittingStandingMMM",
+            "furniture": "chair",
+            "actorsKeyword": "mmm",
+            "length": 2,
+            "speeds": [
+                {
+                    "animation": "OStimBench3PSittingStandingMMM"
+                }
+            ],
+            "actors": [
+                {
+                    "intendedSex": "male",
+                    "scale": 1.03,
+                    "tags": [
+                        "sitting"
+                    ],
+                    "feetOnGround": false
+                },
+                {
+                    "intendedSex": "male",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                },
+                {
+                    "intendedSex": "male",
+                    "tags": [
+                        "standing"
+                    ],
+                    "feetOnGround": true
+                }
+            ]
+        },
+        {
             "name": "OStimCookingPot1PCookingF",
             "furniture": "cookingpot",
             "actorsKeyword": "f",
@@ -2056,44 +2194,6 @@
                         "standing"
                     ],
                     "feetOnGround": true
-                }
-            ]
-        },
-        {
-            "name": "AnubsTmpFFMChair",
-            "furniture": "chair",
-            "actorsKeyword": "ffm",
-            "length": 2,
-            "speeds": [
-                {
-                    "animation": "AnubsAfTw_1"
-                }
-            ],
-            "actors": [
-                {
-                    "intendedSex": "male",
-                    "sosBend": 2,
-                    "scale": 1,
-                    "feetOnGround": true,
-                    "tags": [
-                        "sitting"
-                    ]
-                },
-                {
-                    "intendedSex": "female",
-                    "scale": 1,
-                    "feetOnGround": true,
-                    "tags": [
-                        "sitting"
-                    ]
-                },
-                {
-                    "intendedSex": "female",
-                    "scale": 1,
-                    "feetOnGround": false,
-                    "tags": [
-                        "kneeling"
-                    ]
                 }
             ]
         }

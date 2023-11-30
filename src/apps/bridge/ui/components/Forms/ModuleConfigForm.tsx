@@ -7,6 +7,7 @@ import Tooltip from '@mui/material/Tooltip';
 
 import { ModuleSpecificConfig, AnimationFromModule } from "~bridge/types";
 import { AutocompleteWithCheckboxesControlled, TextFieldDirectory, TextFieldFile } from '~common/ui/components';
+import { TextFieldControlled } from '~common/ui/components/Fields/TextFieldControlled';
 
 interface ModuleConfigFormProps {
     disableModuleName?: boolean
@@ -125,6 +126,14 @@ export const ModuleConfigForm: FC<ModuleConfigFormProps> = ({ disableModuleName 
                             />
                         </Tooltip>
                     )}
+                />
+            </Grid>
+            <Grid item xs={12}>
+                <TextFieldControlled
+                    formControl={{
+                        name: "module.icon" 
+                    }}
+                    label="Module's hubs icon"
                 />
             </Grid>
         </Grid>

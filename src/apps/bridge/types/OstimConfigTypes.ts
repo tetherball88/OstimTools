@@ -1,5 +1,5 @@
+import { OstimSceneAction, OstimSceneActor } from "~common/shared/types/OstimScene"
 import { FurnitureTypes } from "./FurnitureTypes"
-import { OstimSceneAction, OstimSceneActor } from "./OstimSAScene"
 
 /**
  * Scene meta configuration, all properties will be rendered in scene file in meta tag
