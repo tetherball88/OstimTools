@@ -54,7 +54,7 @@ export const readObjectsFromBehavior = async function (config: CombinedConfig, p
             }
 
             const animObjects = res[formattedAnimName] = res[formattedAnimName] || []
-            const actorObjectMap = animObjects[actorIndex] = animObjects[actorIndex] || []
+            const actorObjectMap = animObjects[actorIndex-1] = animObjects[actorIndex-1] || []
 
             actorObjectMap[stageIndex-1] = {
                 stage: stageIndex,

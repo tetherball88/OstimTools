@@ -63,7 +63,7 @@ export const readSlalConfig = async (config: CombinedConfig, prefix: string) => 
 
                 const actorObjects = objects?.[id]?.[actorIndex]
 
-                currentStage.actors[actorIndex].objects = actorObjects?.[0].stage === 'all' ? actorObjects[0] : actorObjects?.find(obj => obj.stage === stageIndex);
+                currentStage.actors[actorIndex].objects = actorObjects?.[actorIndex]?.stage === 'all' ? actorObjects[actorIndex] : actorObjects?.find(obj => obj?.stage === stageIndex);
             });
         });
 
