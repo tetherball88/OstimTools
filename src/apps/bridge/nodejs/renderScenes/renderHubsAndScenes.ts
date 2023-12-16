@@ -40,7 +40,7 @@ export const renderHub = async (
 
     const content: OstimScene = {
         name,
-        modpack: config.module.name,
+        modpack: group.modpack || config.module.name,
         length: group.origin.length,
         speeds: group.origin.speeds,
         ...(group.furniture ? { furniture: group.furniture } : {}),

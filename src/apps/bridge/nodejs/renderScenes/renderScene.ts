@@ -2,6 +2,7 @@ import { OstimConfigAnimation, CombinedConfig, AnimationGroup, OstimConfigAnimat
 import { writeFile } from '~common/nodejs/utils';
 import { isSceneClimax, isSceneTransition } from '~bridge/shared/isAnimationClimax';
 import { OstimScene, OstimSceneAction, OstimSceneActor, OstimSceneNavigation } from '~common/shared/types/OstimScene';
+import { checkAlignmentJson } from '~bridge/nodejs/utils/checkAlignmentJson';
 
 
 /**
@@ -32,7 +33,7 @@ export const renderScene = async (sceneConfig: OstimConfigAnimation, config: Com
     
     const navigations: OstimSceneNavigation[] = []
 
-    const icon = icons?.find(({sceneId}) => sceneId === animName)?.icon
+    const icon = icons?.find(({sceneId}) => sceneId === animName)?.icon || 'OStim/symbols/placeholder'
 
     if(isFirst) {
         navigations.push({
@@ -113,11 +114,16 @@ export const renderScene = async (sceneConfig: OstimConfigAnimation, config: Com
         actions,
         ...(stageConfig.noRandomSelection ? { noRandomSelection: true } : {}),
         ...(stageConfig.meta.tags ? {tags: stageConfig.meta.tags} : {}),
-        ...(hub.furniture ? { furniture: hub.furniture } : {})
+        ...(hub.furniture ? { furniture: hub.furniture } : {}),
+        ...(stageConfig.offset ? { offset: stageConfig.offset } : {}),
     }
 
     const newScene = stageConfig.id
     const newSceneFile = `${newScene}.json`;
+
+    if(config.alignment) {
+        checkAlignmentJson(newScene, content, config.alignment)
+    }
 
     await writeFile(`${outputScenePath}\\${hub.folderName}\\${sceneConfig.folders.animName}\\${newSceneFile}`, JSON.stringify(content, undefined, 4));
 }

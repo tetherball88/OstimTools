@@ -38,6 +38,7 @@ export const groupModuleHubsForSameOrigin = async (config: CombinedConfig) => {
         
         await renderHub({
             name: newHubName,
+            modpack: config.pack.name,
             animations: [],
             origin: {
                 name: origin,

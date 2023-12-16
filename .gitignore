@@ -89,3 +89,5 @@ typings/
 out/
 *.zip
 mergeAlignmentJsons.exe
+configs/bridge/global.yml
+listSequencesByPath.ts

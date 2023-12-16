@@ -11,6 +11,7 @@ export interface AnimationGroupSiblingHub {
 
 export interface AnimationGroup {
     name: string
+    modpack?: string
     animations: (OstimConfigAnimation | AnimationGroup)[]
     origin: StartingScene
     folderName: string

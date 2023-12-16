@@ -71,6 +71,11 @@ export const scenesToConfig = async (config: CombinedConfig) => {
         else
             delete stageConfig.noRandomSelection
 
+
+        if(jsonScene.offset) {
+            stageConfig.offset = jsonScene.offset
+        }
+
         try {
             await writeJson(`${outputScenesJsonConfigPath}\\${scenesJsonConfigFilename}`, ostimConfig);
         }

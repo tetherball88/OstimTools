@@ -787,7 +787,13 @@
                         "type": "sleeping",
                         "actor": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetX": 15,
+                    "offsetY": 17,
+                    "offsetZ": -40,
+                    "rotation": 180
+                }
             },
             {
                 "actors": [
@@ -827,7 +833,13 @@
                         "type": "sleeping",
                         "actor": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetX": 15,
+                    "offsetY": 17,
+                    "offsetZ": -40,
+                    "rotation": 180
+                }
             },
             {
                 "actors": [
@@ -868,7 +880,13 @@
                         "type": "sleeping",
                         "actor": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetX": 15,
+                    "offsetY": 17,
+                    "offsetZ": -40,
+                    "rotation": 180
+                }
             },
             {
                 "actors": [
@@ -908,7 +926,13 @@
                         "type": "sleeping",
                         "actor": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetX": 15,
+                    "offsetY": 17,
+                    "offsetZ": -40,
+                    "rotation": 180
+                }
             },
             {
                 "actors": [
@@ -952,7 +976,13 @@
                         "type": "sleeping",
                         "actor": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetX": 15,
+                    "offsetY": 17,
+                    "offsetZ": -40,
+                    "rotation": 180
+                }
             },
             {
                 "actors": [
@@ -997,7 +1027,13 @@
                         "type": "sleeping",
                         "actor": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetX": 15,
+                    "offsetY": 17,
+                    "offsetZ": -40,
+                    "rotation": 180
+                }
             }
         ],
         "folders": {
@@ -1084,7 +1120,10 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": 15
+                }
             },
             {
                 "actors": [
@@ -1127,7 +1166,10 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": 15
+                }
             },
             {
                 "actors": [
@@ -1164,7 +1206,10 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": 15
+                }
             },
             {
                 "actors": [
@@ -1203,7 +1248,10 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": 15
+                }
             },
             {
                 "actors": [
@@ -1247,7 +1295,10 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": 15
+                }
             },
             {
                 "actors": [
@@ -1294,7 +1345,10 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": 15
+                }
             }
         ],
         "folders": {
@@ -2087,7 +2141,12 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": 30,
+                    "offsetZ": 13,
+                    "rotation": 180
+                }
             },
             {
                 "actors": [
@@ -2131,7 +2190,12 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": 30,
+                    "offsetZ": 13,
+                    "rotation": 180
+                }
             },
             {
                 "actors": [
@@ -2174,7 +2238,12 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": 30,
+                    "offsetZ": 13,
+                    "rotation": 180
+                }
             },
             {
                 "actors": [
@@ -2218,7 +2287,12 @@
                         "actor": 1,
                         "target": 0
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": 30,
+                    "offsetZ": 13,
+                    "rotation": 180
+                }
             },
             {
                 "actors": [
@@ -2262,7 +2336,12 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": 30,
+                    "offsetZ": 13,
+                    "rotation": 180
+                }
             }
         ],
         "folders": {
@@ -2852,7 +2931,12 @@
                         "actor": 1,
                         "target": 0
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": 7,
+                    "offsetZ": -38,
+                    "rotation": 180
+                }
             },
             {
                 "actors": [
@@ -2903,7 +2987,12 @@
                         "actor": 2,
                         "target": 0
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": 7,
+                    "offsetZ": -38,
+                    "rotation": 180
+                }
             },
             {
                 "actors": [
@@ -2954,7 +3043,12 @@
                         "actor": 1,
                         "target": 0
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": 7,
+                    "offsetZ": -38,
+                    "rotation": 180
+                }
             },
             {
                 "actors": [
@@ -3013,7 +3107,12 @@
                         "type": "femalemasturbation",
                         "actor": 2
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": 7,
+                    "offsetZ": -38,
+                    "rotation": 180
+                }
             },
             {
                 "actors": [
@@ -3065,7 +3164,12 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": 7,
+                    "offsetZ": -38,
+                    "rotation": 180
+                }
             }
         ],
         "folders": {
@@ -3427,7 +3531,11 @@
                 },
                 "id": "AnubsAfBedP-1",
                 "fileName": "AnubsAfBedP_1",
-                "noRandomSelection": true
+                "noRandomSelection": true,
+                "offset": {
+                    "offsetZ": -40,
+                    "rotation": 180
+                }
             },
             {
                 "actors": [
@@ -3469,7 +3577,11 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetZ": -40,
+                    "rotation": 180
+                }
             },
             {
                 "actors": [
@@ -3514,7 +3626,11 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetZ": -40,
+                    "rotation": 180
+                }
             },
             {
                 "actors": [
@@ -3553,7 +3669,11 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetZ": -40,
+                    "rotation": 180
+                }
             },
             {
                 "actors": [
@@ -3590,7 +3710,11 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetZ": -40,
+                    "rotation": 180
+                }
             },
             {
                 "actors": [
@@ -3629,7 +3753,11 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetZ": -40,
+                    "rotation": 180
+                }
             },
             {
                 "actors": [
@@ -3672,7 +3800,11 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetZ": -40,
+                    "rotation": 180
+                }
             }
         ],
         "folders": {
@@ -4478,7 +4610,10 @@
                         "target": 0
                     }
                 ],
-                "noRandomSelection": true
+                "noRandomSelection": true,
+                "offset": {
+                    "offsetY": 23
+                }
             },
             {
                 "actors": [
@@ -4516,7 +4651,10 @@
                         "target": 0
                     }
                 ],
-                "noRandomSelection": true
+                "noRandomSelection": true,
+                "offset": {
+                    "offsetY": 23
+                }
             },
             {
                 "actors": [
@@ -4555,7 +4693,10 @@
                         "target": 0
                     }
                 ],
-                "noRandomSelection": true
+                "noRandomSelection": true,
+                "offset": {
+                    "offsetY": 23
+                }
             },
             {
                 "actors": [
@@ -4597,7 +4738,10 @@
                         "performer": 1
                     }
                 ],
-                "noRandomSelection": true
+                "noRandomSelection": true,
+                "offset": {
+                    "offsetY": 23
+                }
             },
             {
                 "actors": [
@@ -5248,7 +5392,12 @@
                         "actor": 2,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": 9,
+                    "offsetZ": -38,
+                    "rotation": 180
+                }
             },
             {
                 "actors": [
@@ -5297,7 +5446,12 @@
                         "actor": 2,
                         "target": 0
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": 9,
+                    "offsetZ": -38,
+                    "rotation": 180
+                }
             },
             {
                 "actors": [
@@ -5354,7 +5508,12 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": 9,
+                    "offsetZ": -38,
+                    "rotation": 180
+                }
             },
             {
                 "actors": [
@@ -5404,7 +5563,12 @@
                         "actor": 1,
                         "target": 2
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": 9,
+                    "offsetZ": -38,
+                    "rotation": 180
+                }
             },
             {
                 "actors": [
@@ -5468,7 +5632,12 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": 9,
+                    "offsetZ": -38,
+                    "rotation": 180
+                }
             },
             {
                 "actors": [
@@ -5518,7 +5687,12 @@
                         "type": "femalemasturbation",
                         "actor": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": 9,
+                    "offsetZ": -38,
+                    "rotation": 180
+                }
             }
         ],
         "folders": {
@@ -9553,7 +9727,10 @@
                         "type": "femalemasturbation",
                         "actor": 2
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": 15
+                }
             },
             {
                 "actors": [
@@ -9608,7 +9785,10 @@
                         "actor": 2,
                         "target": 0
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": 15
+                }
             },
             {
                 "actors": [
@@ -9660,7 +9840,10 @@
                         "type": "femalemasturbation",
                         "actor": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": 15
+                }
             },
             {
                 "actors": [
@@ -9706,7 +9889,10 @@
                         "actor": 1,
                         "target": 0
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": 15
+                }
             }
         ],
         "folders": {
@@ -36168,7 +36354,11 @@
                         "target": 1
                     }
                 ],
-                "noRandomSelection": true
+                "noRandomSelection": true,
+                "offset": {
+                    "offsetY": -15,
+                    "rotation": 180
+                }
             },
             {
                 "actors": [
@@ -36211,7 +36401,11 @@
                         "target": 1
                     }
                 ],
-                "noRandomSelection": true
+                "noRandomSelection": true,
+                "offset": {
+                    "offsetY": -15,
+                    "rotation": 180
+                }
             },
             {
                 "actors": [
@@ -36256,7 +36450,11 @@
                         "target": 1
                     }
                 ],
-                "noRandomSelection": true
+                "noRandomSelection": true,
+                "offset": {
+                    "offsetY": -15,
+                    "rotation": 180
+                }
             },
             {
                 "actors": [
@@ -36301,7 +36499,11 @@
                         "target": 1
                     }
                 ],
-                "noRandomSelection": true
+                "noRandomSelection": true,
+                "offset": {
+                    "offsetY": -15,
+                    "rotation": 180
+                }
             },
             {
                 "actors": [
@@ -36351,7 +36553,11 @@
                         "target": 1
                     }
                 ],
-                "noRandomSelection": true
+                "noRandomSelection": true,
+                "offset": {
+                    "offsetY": -15,
+                    "rotation": 180
+                }
             },
             {
                 "actors": [
@@ -36391,7 +36597,11 @@
                         "target": 1
                     }
                 ],
-                "noRandomSelection": true
+                "noRandomSelection": true,
+                "offset": {
+                    "offsetY": -15,
+                    "rotation": 180
+                }
             }
         ],
         "folders": {
@@ -37561,7 +37771,12 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetX": 16,
+                    "offsetY": -64,
+                    "offsetZ": -43
+                }
             },
             {
                 "actors": [
@@ -37603,7 +37818,12 @@
                         "actor": 1,
                         "target": 0
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetX": 16,
+                    "offsetY": -64,
+                    "offsetZ": -43
+                }
             },
             {
                 "actors": [
@@ -37645,7 +37865,12 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetX": 16,
+                    "offsetY": -64,
+                    "offsetZ": -43
+                }
             },
             {
                 "actors": [
@@ -37682,7 +37907,12 @@
                         "actor": 1,
                         "target": 0
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetX": 16,
+                    "offsetY": -64,
+                    "offsetZ": -43
+                }
             },
             {
                 "actors": [
@@ -37723,7 +37953,12 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetX": 16,
+                    "offsetY": -64,
+                    "offsetZ": -43
+                }
             },
             {
                 "actors": [
@@ -37770,7 +38005,12 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetX": 16,
+                    "offsetY": -64,
+                    "offsetZ": -43
+                }
             },
             {
                 "actors": [
@@ -37814,7 +38054,12 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetX": 16,
+                    "offsetY": -64,
+                    "offsetZ": -43
+                }
             }
         ],
         "folders": {
@@ -38264,7 +38509,10 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": 20
+                }
             },
             {
                 "actors": [
@@ -38303,7 +38551,10 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": 20
+                }
             },
             {
                 "actors": [
@@ -38340,7 +38591,10 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": 20
+                }
             },
             {
                 "actors": [
@@ -38379,7 +38633,10 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": 20
+                }
             },
             {
                 "actors": [
@@ -38418,7 +38675,10 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": 20
+                }
             },
             {
                 "actors": [
@@ -38466,7 +38726,10 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": 20
+                }
             },
             {
                 "actors": [
@@ -38510,7 +38773,10 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": 20
+                }
             }
         ],
         "folders": {
@@ -38600,7 +38866,10 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": -19
+                }
             },
             {
                 "actors": [
@@ -38637,7 +38906,10 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": -19
+                }
             },
             {
                 "actors": [
@@ -38679,7 +38951,10 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": -19
+                }
             },
             {
                 "actors": [
@@ -38724,7 +38999,10 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": -19
+                }
             },
             {
                 "actors": [
@@ -38764,7 +39042,10 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": -19
+                }
             }
         ],
         "folders": {
@@ -38848,7 +39129,11 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": -20,
+                    "rotation": 180
+                }
             },
             {
                 "actors": [
@@ -38885,7 +39170,11 @@
                         "actor": 1,
                         "target": 0
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": -20,
+                    "rotation": 180
+                }
             },
             {
                 "actors": [
@@ -38924,7 +39213,11 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": -20,
+                    "rotation": 180
+                }
             },
             {
                 "actors": [
@@ -38963,7 +39256,11 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": -20,
+                    "rotation": 180
+                }
             },
             {
                 "actors": [
@@ -39001,7 +39298,11 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": -20,
+                    "rotation": 180
+                }
             },
             {
                 "actors": [
@@ -39045,7 +39346,11 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": -20,
+                    "rotation": 180
+                }
             },
             {
                 "actors": [
@@ -39085,7 +39390,11 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": -20,
+                    "rotation": 180
+                }
             }
         ],
         "folders": {
@@ -39177,7 +39486,10 @@
                         "target": 1,
                         "performer": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetZ": -41
+                }
             },
             {
                 "actors": [
@@ -39215,7 +39527,10 @@
                         "target": 1,
                         "performer": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetZ": -41
+                }
             },
             {
                 "actors": [
@@ -39252,7 +39567,10 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetZ": -41
+                }
             },
             {
                 "actors": [
@@ -39288,7 +39606,10 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetZ": -41
+                }
             },
             {
                 "actors": [
@@ -39333,7 +39654,10 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetZ": -41
+                }
             },
             {
                 "actors": [
@@ -39380,7 +39704,10 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetZ": -41
+                }
             }
         ],
         "folders": {
@@ -39809,7 +40136,12 @@
                         "actor": 2,
                         "target": 0
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetX": -20,
+                    "offsetZ": -44,
+                    "rotation": 180
+                }
             },
             {
                 "actors": [
@@ -39858,7 +40190,12 @@
                         "type": "femalemasturbation",
                         "actor": 2
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetX": -20,
+                    "offsetZ": -44,
+                    "rotation": 180
+                }
             },
             {
                 "actors": [
@@ -39908,7 +40245,12 @@
                         "actor": 1,
                         "target": 0
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetX": -20,
+                    "offsetZ": -44,
+                    "rotation": 180
+                }
             },
             {
                 "actors": [
@@ -39963,7 +40305,12 @@
                         "type": "femalemasturbation",
                         "actor": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetX": -20,
+                    "offsetZ": -44,
+                    "rotation": 180
+                }
             },
             {
                 "actors": [
@@ -40019,7 +40366,12 @@
                         "actor": 1,
                         "target": 2
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetX": -20,
+                    "offsetZ": -44,
+                    "rotation": 180
+                }
             },
             {
                 "actors": [
@@ -40077,7 +40429,12 @@
                         "actor": 1,
                         "target": 2
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetX": -20,
+                    "offsetZ": -44,
+                    "rotation": 180
+                }
             }
         ],
         "folders": {
@@ -40165,7 +40522,10 @@
                         "type": "femalemasturbation",
                         "actor": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": -17
+                }
             },
             {
                 "actors": [
@@ -40200,7 +40560,10 @@
                         "actor": 1,
                         "target": 0
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": -17
+                }
             },
             {
                 "actors": [
@@ -40244,7 +40607,10 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": -17
+                }
             },
             {
                 "actors": [
@@ -40285,7 +40651,10 @@
                         "actor": 1,
                         "target": 0
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": -17
+                }
             },
             {
                 "actors": [
@@ -40325,7 +40694,10 @@
                         "actor": 1,
                         "target": 0
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": -17
+                }
             }
         ],
         "folders": {
@@ -40404,7 +40776,11 @@
                         "actor": 1,
                         "target": 0
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": 26,
+                    "rotation": 180
+                }
             },
             {
                 "actors": [
@@ -40446,7 +40822,11 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": 26,
+                    "rotation": 180
+                }
             },
             {
                 "actors": [
@@ -40490,7 +40870,11 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": 51,
+                    "rotation": 180
+                }
             },
             {
                 "actors": [
@@ -40540,7 +40924,11 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": 50,
+                    "rotation": 180
+                }
             },
             {
                 "actors": [
@@ -40587,7 +40975,11 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": 49,
+                    "rotation": 180
+                }
             }
         ],
         "folders": {
@@ -40674,7 +41066,11 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": 37,
+                    "rotation": 180
+                }
             },
             {
                 "actors": [
@@ -40716,7 +41112,11 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": 37,
+                    "rotation": 180
+                }
             },
             {
                 "actors": [
@@ -40763,7 +41163,11 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": 37,
+                    "rotation": 180
+                }
             },
             {
                 "actors": [
@@ -40812,7 +41216,11 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": 37,
+                    "rotation": 180
+                }
             },
             {
                 "actors": [
@@ -40859,7 +41267,11 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": 37,
+                    "rotation": 180
+                }
             }
         ],
         "folders": {
@@ -40957,7 +41369,11 @@
                         "actor": 1,
                         "target": 0
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": 37,
+                    "rotation": 180
+                }
             },
             {
                 "actors": [
@@ -40998,7 +41414,11 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": 37,
+                    "rotation": 180
+                }
             },
             {
                 "actors": [
@@ -41039,7 +41459,11 @@
                         "actor": 1,
                         "target": 0
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": 37,
+                    "rotation": 180
+                }
             },
             {
                 "actors": [
@@ -41080,7 +41504,11 @@
                         "actor": 1,
                         "target": 0
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": 37,
+                    "rotation": 180
+                }
             },
             {
                 "actors": [
@@ -41132,7 +41560,11 @@
                         "actor": 1,
                         "target": 0
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": 37,
+                    "rotation": 180
+                }
             },
             {
                 "actors": [
@@ -41186,7 +41618,11 @@
                         "actor": 1,
                         "target": 0
                     }
-                ]
+                ],
+                "offset": {
+                    "offsetY": 37,
+                    "rotation": 180
+                }
             }
         ],
         "folders": {
@@ -46849,7 +47285,8 @@
                 ],
                 "meta": {
                     "tags": [
-                        "anubs"
+                        "anubs",
+                        "transition"
                     ]
                 },
                 "id": "AnubsFfmFemdom3-4",

@@ -9,6 +9,28 @@
         }
     ],
     "definitions": {
+        "OstimScene3DOffset": {
+            "additionalProperties": false,
+            "properties": {
+                "r": {
+                    "description": "the rotational offset",
+                    "type": "number"
+                },
+                "x": {
+                    "description": "the x offset",
+                    "type": "number"
+                },
+                "y": {
+                    "description": "the y offset",
+                    "type": "number"
+                },
+                "z": {
+                    "description": "the z offset",
+                    "type": "number"
+                }
+            },
+            "type": "object"
+        },
         "OstimSceneNavigation": {
             "anyOf": [
                 {
@@ -184,6 +206,10 @@
                                 "description": "if true the actor does not get undressed, no matter the actions involved",
                                 "type": "boolean"
                             },
+                            "offset": {
+                                "$ref": "#/definitions/OstimScene3DOffset",
+                                "description": "an offset for the actor\nuse with caution, unlike animations this does not have a smooth transition\nthis means a change in offset will cause the actor to teleport away and then quickly slide pack into position\ntherefore a heavy use of offsets is not recommended"
+                            },
                             "scale": {
                                 "default": 1,
                                 "description": "the scale of the actor",
@@ -289,6 +315,10 @@
                     "default": false,
                     "description": "disables warnings about origin or destination not existing\nthis can be used to prevent spamming the log when connecting to other animation packs that a user might not have installed\ndoesn't prevent warnings about mismatching furniture types or actor counts",
                     "type": "boolean"
+                },
+                "offset": {
+                    "$ref": "#/definitions/OstimScene3DOffset",
+                    "description": "an offset for the animation\nuse with caution, unlike animations this does not have a smooth transition\nthis means a change in offset will cause the actors to teleport away and then quickly slide pack into position\ntherefore a heavy use of offsets is not recommended"
                 },
                 "origin": {
                     "description": "(only for transition) the sceneID of the transition origin\nif the transition is already in the navigations of the origin scene this field doesn't have to (and shouldn't) be filled\nif this field is filled you can also add the \"priority\", \"description\", \"icon\", \"border\" and \"noWarnings\" fields directly to the scene and use them like you would for a regular navigation",
@@ -435,6 +465,10 @@
                                 "description": "if true the actor does not get undressed, no matter the actions involved",
                                 "type": "boolean"
                             },
+                            "offset": {
+                                "$ref": "#/definitions/OstimScene3DOffset",
+                                "description": "an offset for the actor\nuse with caution, unlike animations this does not have a smooth transition\nthis means a change in offset will cause the actor to teleport away and then quickly slide pack into position\ntherefore a heavy use of offsets is not recommended"
+                            },
                             "scale": {
                                 "default": 1,
                                 "description": "the scale of the actor",
@@ -525,6 +559,10 @@
                     "default": false,
                     "description": "if true this scene will never be chosen by random selections",
                     "type": "boolean"
+                },
+                "offset": {
+                    "$ref": "#/definitions/OstimScene3DOffset",
+                    "description": "an offset for the animation\nuse with caution, unlike animations this does not have a smooth transition\nthis means a change in offset will cause the actors to teleport away and then quickly slide pack into position\ntherefore a heavy use of offsets is not recommended"
                 },
                 "speeds": {
                     "description": "a list of available speeds for the scene",

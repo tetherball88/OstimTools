@@ -169,6 +169,13 @@ export type OstimSceneActor = {
      * a map of auto transition ids and destination sceneIDs for this actor
      */
     autoTransitions?: Record<string, string>
+    /**
+     * an offset for the actor
+     * use with caution, unlike animations this does not have a smooth transition
+     * this means a change in offset will cause the actor to teleport away and then quickly slide pack into position
+     * therefore a heavy use of offsets is not recommended
+     */
+    offset?: OstimScene3DOffset
 }
 
 export type OstimSceneAction = {
@@ -190,6 +197,25 @@ export type OstimSceneAction = {
      * defaults to action's actor
      */
     performer?: number
+}
+
+export interface OstimScene3DOffset {
+    /**
+     * the x offset
+     */
+    x?: number
+    /**
+     * the y offset
+     */
+    y?: number
+    /**
+     * the z offset
+     */
+    z?: number
+    /**
+     * the rotational offset
+     */
+    r?: number
 }
 
 interface OstimSceneCommon {
@@ -239,6 +265,13 @@ interface OstimSceneCommon {
      * a list of actions
      */
     actions?: OstimSceneAction[]
+    /**
+     * an offset for the animation
+     * use with caution, unlike animations this does not have a smooth transition
+     * this means a change in offset will cause the actors to teleport away and then quickly slide pack into position
+     * therefore a heavy use of offsets is not recommended
+     */
+    offset?: OstimScene3DOffset
 }
 
 interface OstimSceneTransition extends OstimSceneCommon, OstimSceneNavigationCommon {

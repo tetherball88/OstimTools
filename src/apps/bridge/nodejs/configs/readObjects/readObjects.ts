@@ -47,9 +47,7 @@ export const readObjects = async (config: CombinedConfig, prefix: string, applyO
     
                     // use replace objects if provided replaceObjects config
                     if(replaceObjects?.[animName]) {
-                        console.log('replaceObjects', replaceObjects[animName])
                         newObjects = newObjects.map((obj) => {
-                            console.log('switch: ' + obj + ' to ' + replaceObjects[animName]?.[obj])
                             return replaceObjects[animName]?.[obj] || obj
                         })
                     }

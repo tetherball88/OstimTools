@@ -1,4 +1,4 @@
-import { OstimSceneAction, OstimSceneActor } from "~common/shared/types/OstimScene"
+import { OstimScene3DOffset, OstimSceneAction, OstimSceneActor } from "~common/shared/types/OstimScene"
 import { FurnitureTypes } from "./FurnitureTypes"
 
 /**
@@ -21,6 +21,7 @@ export interface OstimConfigAnimationStage {
     fileName: string
     actions: OstimSceneAction[]
     noRandomSelection?: boolean
+    offset?: OstimScene3DOffset
 }
 
 /**

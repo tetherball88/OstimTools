@@ -80,6 +80,23 @@ export const EditBridgeGlobalConfigModal: FC<EditBridgeGlobalConfigModalProps> =
                             </Tooltip>
                         )}
                     />
+                    <Controller
+                        name="ostimAlignmentJsonPath"
+                        control={methods.control}
+                        defaultValue=''
+                        render={({ field }) => (
+                            <Tooltip title="OStim's alignment.json file path. Usually in 'Documents\My Games\Skyrim Special Edition\OStim\alignment.json'">
+                                <TextFieldFile
+                                    {...field}
+                                    value={field.value || ''}
+                                    label="OStim's alignment.json"
+                                    FieldProps={{
+                                        sx: { marginTop: 1, minWidth: '500px' }
+                                    }}
+                                />
+                            </Tooltip>
+                        )}
+                    />
                 </DialogContent>
                 <DialogActions>
                     <Button onClick={onClose}>Cancel</Button>

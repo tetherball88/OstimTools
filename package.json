@@ -1,7 +1,7 @@
 {
   "name": "ostim-tools",
   "productName": "Ostim tools",
-  "version": "3.2.0",
+  "version": "3.3.0",
   "description": "Ostim animations managing tools",
   "main": ".webpack/main",
   "scripts": {
@@ -34,6 +34,7 @@
     "@types/cytoscape-cxtmenu": "^3.4.0",
     "@types/cytoscape-klay": "^3.1.0",
     "@types/cytoscape-popper": "^2.0.0",
+    "@types/fs-extra": "^11.0.4",
     "@types/glob": "^8.0.1",
     "@types/lodash": "^4.14.201",
     "@types/react": "^18.2.30",
@@ -53,6 +54,7 @@
     "eslint-plugin-import": "^2.28.1",
     "express": "^4.18.2",
     "fork-ts-checker-webpack-plugin": "^9.0.0",
+    "fs-extra": "^11.2.0",
     "monaco-editor-webpack-plugin": "^7.1.0",
     "node-loader": "^2.0.0",
     "style-loader": "^3.3.3",

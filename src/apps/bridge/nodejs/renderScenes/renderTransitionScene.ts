@@ -1,3 +1,4 @@
+import { checkAlignmentJson } from '~bridge/nodejs/utils/checkAlignmentJson';
 import { OstimConfigAnimation, CombinedConfig, AnimationGroup, OstimConfigAnimationStage } from '~bridge/types';
 import { writeFile } from '~common/nodejs/utils';
 import { OstimScene, OstimSceneAction, OstimSceneActor } from '~common/shared/types/OstimScene';
@@ -88,11 +89,16 @@ export const renderTransitionScene = async (sceneConfig: OstimConfigAnimation, c
         actions,
         ...(stageConfig.noRandomSelection ? { noRandomSelection: true } : {}),
         ...(stageConfig.meta.tags ? {tags: stageConfig.meta.tags} : {}),
-        ...(hub.furniture ? { furniture: hub.furniture } : {})
+        ...(hub.furniture ? { furniture: hub.furniture } : {}),
+        ...(stageConfig.offset ? { offset: stageConfig.offset } : {}),
     }
 
     const newScene = stageConfig.id
     const newSceneFile = `${newScene}.json`;
+
+    if(config.alignment) {
+        checkAlignmentJson(newScene, content, config.alignment)
+    }
 
     await writeFile(`${outputScenePath}\\${hub.folderName}\\${sceneConfig.folders.animName}\\${newSceneFile}`, JSON.stringify(content, undefined, 4));
 }
