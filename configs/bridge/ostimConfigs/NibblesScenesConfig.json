@@ -12072,7 +12072,12 @@
                         "actor": 1,
                         "target": 0
                     }
-                ]
+                ],
+                "offset": {
+                    "y": 45,
+                    "z": 8,
+                    "r": 180
+                }
             },
             {
                 "actors": [
@@ -12116,7 +12121,12 @@
                         "type": "femalemasturbation",
                         "actor": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "y": 45,
+                    "z": 8,
+                    "r": 180
+                }
             },
             {
                 "actors": [
@@ -12160,7 +12170,12 @@
                         "type": "femalemasturbation",
                         "actor": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "y": 45,
+                    "z": 8,
+                    "r": 180
+                }
             },
             {
                 "actors": [
@@ -12195,7 +12210,12 @@
                         "actor": 1,
                         "target": 0
                     }
-                ]
+                ],
+                "offset": {
+                    "y": 45,
+                    "z": 8,
+                    "r": 180
+                }
             },
             {
                 "actors": [
@@ -12233,7 +12253,12 @@
                         "actor": 1,
                         "target": 0
                     }
-                ]
+                ],
+                "offset": {
+                    "y": 45,
+                    "z": 8,
+                    "r": 180
+                }
             },
             {
                 "actors": [
@@ -12270,7 +12295,12 @@
                         "actor": 1,
                         "target": 0
                     }
-                ]
+                ],
+                "offset": {
+                    "y": 45,
+                    "z": 8,
+                    "r": 180
+                }
             }
         ],
         "folders": {
@@ -12791,7 +12821,10 @@
                         "target": 1
                     }
                 ],
-                "noRandomSelection": true
+                "noRandomSelection": true,
+                "offset": {
+                    "z": -44
+                }
             },
             {
                 "actors": [
@@ -12833,7 +12866,10 @@
                         "target": 0
                     }
                 ],
-                "noRandomSelection": true
+                "noRandomSelection": true,
+                "offset": {
+                    "z": -44
+                }
             },
             {
                 "actors": [
@@ -12886,7 +12922,10 @@
                         "target": 0
                     }
                 ],
-                "noRandomSelection": true
+                "noRandomSelection": true,
+                "offset": {
+                    "z": -44
+                }
             },
             {
                 "actors": [
@@ -12931,7 +12970,10 @@
                         "target": 0
                     }
                 ],
-                "noRandomSelection": true
+                "noRandomSelection": true,
+                "offset": {
+                    "z": -44
+                }
             }
         ],
         "folders": {
@@ -13020,7 +13062,10 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "y": 30
+                }
             },
             {
                 "actors": [
@@ -13064,7 +13109,10 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "y": 30
+                }
             },
             {
                 "actors": [
@@ -13107,7 +13155,10 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "y": 30
+                }
             },
             {
                 "actors": [
@@ -13156,7 +13207,10 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "y": 30
+                }
             },
             {
                 "actors": [
@@ -13202,7 +13256,10 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "y": 30
+                }
             }
         ],
         "folders": {
@@ -13294,7 +13351,10 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "y": 30
+                }
             },
             {
                 "actors": [
@@ -13335,7 +13395,10 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "y": 30
+                }
             },
             {
                 "actors": [
@@ -13376,7 +13439,10 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "y": 30
+                }
             },
             {
                 "actors": [
@@ -13423,7 +13489,10 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "y": 30
+                }
             },
             {
                 "actors": [
@@ -13477,7 +13546,10 @@
                         "actor": 1,
                         "target": 0
                     }
-                ]
+                ],
+                "offset": {
+                    "y": 30
+                }
             }
         ],
         "folders": {
@@ -13565,7 +13637,11 @@
                         "type": "femalemasturbation",
                         "actor": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "y": 30,
+                    "r": -90
+                }
             },
             {
                 "actors": [
@@ -13608,7 +13684,11 @@
                         "actor": 1,
                         "target": 0
                     }
-                ]
+                ],
+                "offset": {
+                    "y": 30,
+                    "r": -90
+                }
             },
             {
                 "actors": [
@@ -13647,7 +13727,11 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "y": 30,
+                    "r": -90
+                }
             },
             {
                 "actors": [
@@ -13690,7 +13774,11 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "y": 30,
+                    "r": -90
+                }
             },
             {
                 "actors": [
@@ -13738,7 +13826,11 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "y": 30,
+                    "r": -90
+                }
             },
             {
                 "actors": [
@@ -13783,7 +13875,11 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "offset": {
+                    "y": 30,
+                    "r": -90
+                }
             }
         ],
         "folders": {

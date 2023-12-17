@@ -12,7 +12,7 @@ icons:
     - sceneId: AnubsAWall4
       icon: OStim/sexual/bendover_standing_mf
     - sceneId: AnubsAWallc
-      icon: ""
+      icon: OStim/sexual/bendover_standing_mf
     - sceneId: AnubsWallback
       icon: OStim/sexual/bendover_standing_mf
     - sceneId: AnubsWallfront
@@ -20,6 +20,6 @@ icons:
     - sceneId: AnubsWallside
       icon: ""
     - sceneId: AnubsFfmBed2
-      icon: ""
+      icon: OStim/sexual/doggystyle_mff
     - sceneId: AnubsLesbianWc
       icon: ""

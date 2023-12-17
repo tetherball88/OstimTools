@@ -22,7 +22,7 @@ export const checkAlignmentJson = async (stageName: string, sceneContent: OstimS
 
         const animation = group[stageName]
         let actorsAlignmentSame = true
-        const map: Record<string, number> = {}
+        const map: Partial<Record<keyof OstimAlignmentJsonActor, number>> = {}
 
         actorsLoop: for(const [, actor] of Object.entries(animation)) {
             for(const [propName, propValue] of Object.entries(actor)) {
@@ -30,31 +30,36 @@ export const checkAlignmentJson = async (stageName: string, sceneContent: OstimS
                     continue
                 }
 
-                if(typeof map[propName] === 'number' && map[propName] !== actor[propName as keyof OstimAlignmentJsonActor]) {
+                if(typeof map[propName as keyof OstimAlignmentJsonActor] === 'number' && map[propName as keyof OstimAlignmentJsonActor] !== actor[propName as keyof OstimAlignmentJsonActor]) {
                     actorsAlignmentSame = false
                     break actorsLoop;
                 }
 
-                map[propName] = propValue
+                map[propName as keyof OstimAlignmentJsonActor] = propValue
             }
         }
 
         for(const [propName, propValue] of Object.entries(map)) {
             if(propValue === 0) {
-                delete map[propName]
+                delete map[propName as keyof OstimAlignmentJsonActor]
             }
         }
 
         if(actorsAlignmentSame) {
-            sceneContent.offset = map
+            sceneContent.offset = {
+                ...(map.offsetX ? { x: map.offsetX } : {}),
+                ...(map.offsetX ? { y: map.offsetY } : {}),
+                ...(map.offsetX ? { z: map.offsetZ } : {}),
+                ...(map.offsetX ? { r: map.rotation } : {}),
+            }
         } else {
             for(const [actorIndex, actor] of Object.entries(animation)) {
                 sceneContent.actors = sceneContent.actors || []
                 sceneContent.actors[Number(actorIndex)].offset = {
-                    x: actor.offsetX,
-                    y: actor.offsetY,
-                    z: actor.offsetZ,
-                    r: actor.rotation
+                    ...(actor.offsetX ? { x: actor.offsetX } : {}),
+                    ...(actor.offsetX ? { y: actor.offsetY } : {}),
+                    ...(actor.offsetX ? { z: actor.offsetZ } : {}),
+                    ...(actor.offsetX ? { r: actor.rotation } : {}),
                 }
             }
         }
