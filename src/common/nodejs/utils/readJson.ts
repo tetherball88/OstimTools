@@ -6,6 +6,6 @@ export const readJson = async (filePath: string) => {
     try {
         return JSON.parse(content || 'null');
     } catch(e) {
-        logger.error(`Couldn't parse JSON in this file: filePath. Error: ${e.message}`)
+        console.error(`Couldn't parse JSON in this file: filePath. Error: ${e.message}`)
     }
 }

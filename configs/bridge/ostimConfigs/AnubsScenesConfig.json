@@ -138,7 +138,8 @@
                         "actor": 0
                     }
                 ],
-                "noRandomSelection": true
+                "noRandomSelection": true,
+                "length": 10.2
             }
         ],
         "folders": {
@@ -344,7 +345,8 @@
                         "type": "analtoying",
                         "actor": 0
                     }
-                ]
+                ],
+                "length": 5
             }
         ],
         "folders": {
@@ -526,7 +528,8 @@
                         "actor": 0,
                         "target": 0
                     }
-                ]
+                ],
+                "length": 10
             }
         ],
         "folders": {
@@ -701,7 +704,8 @@
                         "actor": 0,
                         "target": 0
                     }
-                ]
+                ],
+                "length": 11
             }
         ],
         "folders": {
@@ -1033,7 +1037,8 @@
                     "y": 17,
                     "z": -40,
                     "r": 180
-                }
+                },
+                "length": 12
             }
         ],
         "folders": {
@@ -1348,7 +1353,8 @@
                 ],
                 "offset": {
                     "y": 15
-                }
+                },
+                "length": 12
             }
         ],
         "folders": {
@@ -1673,7 +1679,8 @@
                         "target": 1
                     }
                 ],
-                "noRandomSelection": true
+                "noRandomSelection": true,
+                "length": 9.333333
             }
         ],
         "folders": {
@@ -2042,7 +2049,8 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "length": 11.2
             }
         ],
         "folders": {
@@ -2341,7 +2349,8 @@
                     "y": 30,
                     "z": 13,
                     "r": 180
-                }
+                },
+                "length": 6
             }
         ],
         "folders": {
@@ -2573,7 +2582,8 @@
                         "target": 0
                     }
                 ],
-                "noRandomSelection": true
+                "noRandomSelection": true,
+                "length": 5.333333
             }
         ],
         "folders": {
@@ -2817,7 +2827,8 @@
                         "target": 1,
                         "performer": 1
                     }
-                ]
+                ],
+                "length": 11.2
             }
         ],
         "folders": {
@@ -3169,7 +3180,8 @@
                     "y": 7,
                     "z": -38,
                     "r": 180
-                }
+                },
+                "length": 12
             }
         ],
         "folders": {
@@ -3451,7 +3463,8 @@
                         "target": 0
                     }
                 ],
-                "noRandomSelection": true
+                "noRandomSelection": true,
+                "length": 9.333333
             }
         ],
         "folders": {
@@ -3804,7 +3817,8 @@
                 "offset": {
                     "z": -40,
                     "r": 180
-                }
+                },
+                "length": 6
             }
         ],
         "folders": {
@@ -4190,7 +4204,8 @@
                         "target": 1
                     }
                 ],
-                "noRandomSelection": true
+                "noRandomSelection": true,
+                "length": 9.333333
             },
             {
                 "actors": [
@@ -4518,7 +4533,8 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "length": 8.666667
             }
         ],
         "folders": {
@@ -4874,7 +4890,8 @@
                         "performer": 1
                     }
                 ],
-                "noRandomSelection": true
+                "noRandomSelection": true,
+                "length": 12
             }
         ],
         "folders": {
@@ -5241,7 +5258,8 @@
                         "target": 1
                     }
                 ],
-                "noRandomSelection": true
+                "noRandomSelection": true,
+                "length": 10
             },
             {
                 "actors": [
@@ -5692,7 +5710,8 @@
                     "y": 9,
                     "z": -38,
                     "r": 180
-                }
+                },
+                "length": 11
             }
         ],
         "folders": {
@@ -5962,7 +5981,8 @@
                         "target": 0
                     }
                 ],
-                "noRandomSelection": true
+                "noRandomSelection": true,
+                "length": 5.6
             }
         ],
         "folders": {
@@ -6325,7 +6345,8 @@
                         "actor": 0,
                         "target": 2
                     }
-                ]
+                ],
+                "length": 8
             }
         ],
         "folders": {
@@ -6707,7 +6728,8 @@
                         "target": 0
                     }
                 ],
-                "noRandomSelection": true
+                "noRandomSelection": true,
+                "length": 5.333333
             }
         ],
         "folders": {
@@ -6987,7 +7009,8 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "length": 12
             }
         ],
         "folders": {
@@ -7279,7 +7302,8 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "length": 5.6
             }
         ],
         "folders": {
@@ -7639,7 +7663,8 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "length": 6
             }
         ],
         "folders": {
@@ -7937,7 +7962,8 @@
                         "actor": 1,
                         "target": 0
                     }
-                ]
+                ],
+                "length": 12
             }
         ],
         "folders": {
@@ -8261,7 +8287,8 @@
                         "actor": 1,
                         "target": 0
                     }
-                ]
+                ],
+                "length": 6
             }
         ],
         "folders": {
@@ -8534,7 +8561,8 @@
                         "actor": 1,
                         "target": 0
                     }
-                ]
+                ],
+                "length": 8.666667
             }
         ],
         "folders": {
@@ -8791,7 +8819,8 @@
                         "actor": 1,
                         "target": 0
                     }
-                ]
+                ],
+                "length": 5.8
             }
         ],
         "folders": {
@@ -9070,7 +9099,8 @@
                         "actor": 1,
                         "target": 0
                     }
-                ]
+                ],
+                "length": 1.666667
             }
         ],
         "folders": {
@@ -9326,7 +9356,8 @@
                         "actor": 1,
                         "target": 0
                     }
-                ]
+                ],
+                "length": 10.666667
             }
         ],
         "folders": {
@@ -9633,7 +9664,8 @@
                         "actor": 1,
                         "target": 0
                     }
-                ]
+                ],
+                "length": 6.666667
             }
         ],
         "folders": {
@@ -9892,7 +9924,8 @@
                 ],
                 "offset": {
                     "y": 15
-                }
+                },
+                "length": 6.4
             }
         ],
         "folders": {
@@ -10253,7 +10286,8 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "length": 12
             }
         ],
         "folders": {
@@ -10538,7 +10572,8 @@
                         "actor": 1,
                         "target": 0
                     }
-                ]
+                ],
+                "length": 6
             }
         ],
         "folders": {
@@ -10818,7 +10853,8 @@
                         "target": 2,
                         "performer": 2
                     }
-                ]
+                ],
+                "length": 7
             }
         ],
         "folders": {
@@ -11254,7 +11290,8 @@
                         "actor": 0,
                         "target": 2
                     }
-                ]
+                ],
+                "length": 12
             }
         ],
         "folders": {
@@ -11607,7 +11644,8 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "length": 12
             }
         ],
         "folders": {
@@ -11909,7 +11947,8 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "length": 6.666667
             }
         ],
         "folders": {
@@ -12166,7 +12205,8 @@
                         "performer": 1
                     }
                 ],
-                "noRandomSelection": true
+                "noRandomSelection": true,
+                "length": 11
             }
         ],
         "folders": {
@@ -12444,7 +12484,8 @@
                         "target": 1
                     }
                 ],
-                "noRandomSelection": true
+                "noRandomSelection": true,
+                "length": 6.166667
             }
         ],
         "folders": {
@@ -12752,7 +12793,8 @@
                         "type": "femalemasturbation",
                         "actor": 1
                     }
-                ]
+                ],
+                "length": 11.2
             }
         ],
         "folders": {
@@ -13000,7 +13042,8 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "length": 11.666667
             }
         ],
         "folders": {
@@ -13294,7 +13337,8 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "length": 10
             }
         ],
         "folders": {
@@ -13594,7 +13638,8 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "length": 7
             }
         ],
         "folders": {
@@ -13875,7 +13920,8 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "length": 5.733333
             }
         ],
         "folders": {
@@ -14169,7 +14215,8 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "length": 9.333333
             }
         ],
         "folders": {
@@ -14445,7 +14492,8 @@
                         "actor": 1,
                         "target": 0
                     }
-                ]
+                ],
+                "length": 11
             }
         ],
         "folders": {
@@ -14737,7 +14785,8 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "length": 4.6
             }
         ],
         "folders": {
@@ -14975,7 +15024,8 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "length": 10
             }
         ],
         "folders": {
@@ -15304,7 +15354,8 @@
                         "target": 1,
                         "performer": 1
                     }
-                ]
+                ],
+                "length": 11
             }
         ],
         "folders": {
@@ -15566,7 +15617,8 @@
                         "type": "sleeping",
                         "actor": 1
                     }
-                ]
+                ],
+                "length": 6.666667
             }
         ],
         "folders": {
@@ -15806,7 +15858,8 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "length": 7.333333
             }
         ],
         "folders": {
@@ -16071,7 +16124,8 @@
                         "actor": 1,
                         "target": 0
                     }
-                ]
+                ],
+                "length": 12
             }
         ],
         "folders": {
@@ -16364,7 +16418,8 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "length": 9.6
             }
         ],
         "folders": {
@@ -16717,7 +16772,8 @@
                         "actor": 0,
                         "target": 2
                     }
-                ]
+                ],
+                "length": 7
             }
         ],
         "folders": {
@@ -16982,7 +17038,8 @@
                         "actor": 1,
                         "target": 0
                     }
-                ]
+                ],
+                "length": 6.666667
             }
         ],
         "folders": {
@@ -17319,7 +17376,8 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "length": 5.5
             }
         ],
         "folders": {
@@ -17609,7 +17667,8 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "length": 5.733333
             }
         ],
         "folders": {
@@ -17872,7 +17931,8 @@
                         "actor": 1,
                         "target": 0
                     }
-                ]
+                ],
+                "length": 6.666667
             }
         ],
         "folders": {
@@ -18330,7 +18390,8 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "length": 7
             }
         ],
         "folders": {
@@ -18662,7 +18723,8 @@
                         "target": 0,
                         "performer": 0
                     }
-                ]
+                ],
+                "length": 7.333333
             }
         ],
         "folders": {
@@ -19017,7 +19079,8 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "length": 6.233333
             }
         ],
         "folders": {
@@ -19384,7 +19447,8 @@
                         "actor": 1,
                         "target": 2
                     }
-                ]
+                ],
+                "length": 12
             }
         ],
         "folders": {
@@ -19785,7 +19849,8 @@
                         "actor": 0,
                         "target": 2
                     }
-                ]
+                ],
+                "length": 12
             }
         ],
         "folders": {
@@ -20602,7 +20667,8 @@
                         "actor": 1,
                         "target": 2
                     }
-                ]
+                ],
+                "length": 11
             }
         ],
         "folders": {
@@ -20888,7 +20954,8 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "length": 12
             }
         ],
         "folders": {
@@ -21232,7 +21299,8 @@
                         "actor": 2,
                         "target": 3
                     }
-                ]
+                ],
+                "length": 6
             }
         ],
         "folders": {
@@ -21586,7 +21654,8 @@
                         "actor": 1,
                         "target": 0
                     }
-                ]
+                ],
+                "length": 8
             }
         ],
         "folders": {
@@ -21893,7 +21962,8 @@
                         "actor": 1,
                         "target": 0
                     }
-                ]
+                ],
+                "length": 9.066667
             }
         ],
         "folders": {
@@ -22192,7 +22262,8 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "length": 9.333333
             }
         ],
         "folders": {
@@ -22458,7 +22529,8 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "length": 4.7
             }
         ],
         "folders": {
@@ -22780,7 +22852,8 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "length": 8
             }
         ],
         "folders": {
@@ -23207,7 +23280,8 @@
                         "actor": 2
                     }
                 ],
-                "noRandomSelection": true
+                "noRandomSelection": true,
+                "length": 6.933333
             }
         ],
         "folders": {
@@ -23460,7 +23534,8 @@
                         "target": 1
                     }
                 ],
-                "noRandomSelection": true
+                "noRandomSelection": true,
+                "length": 6.5
             }
         ],
         "folders": {
@@ -23840,7 +23915,8 @@
                         "actor": 1,
                         "target": 0
                     }
-                ]
+                ],
+                "length": 6.666667
             }
         ],
         "folders": {
@@ -24487,7 +24563,8 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "length": 15
             }
         ],
         "folders": {
@@ -24757,7 +24834,8 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "length": 10
             }
         ],
         "folders": {
@@ -25062,7 +25140,8 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "length": 5.5
             }
         ],
         "folders": {
@@ -25482,7 +25561,8 @@
                         "target": 0
                     }
                 ],
-                "noRandomSelection": true
+                "noRandomSelection": true,
+                "length": 5
             }
         ],
         "folders": {
@@ -25827,7 +25907,8 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "length": 12
             }
         ],
         "folders": {
@@ -26071,7 +26152,8 @@
                         "actor": 1,
                         "target": 0
                     }
-                ]
+                ],
+                "length": 6.4
             }
         ],
         "folders": {
@@ -26402,7 +26484,8 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "length": 8.533334
             }
         ],
         "folders": {
@@ -26684,7 +26767,8 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "length": 6.666667
             }
         ],
         "folders": {
@@ -27005,7 +27089,8 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "length": 9.333333
             }
         ],
         "folders": {
@@ -27292,7 +27377,8 @@
                         "target": 1,
                         "performer": 1
                     }
-                ]
+                ],
+                "length": 10.4
             }
         ],
         "folders": {
@@ -35921,7 +36007,8 @@
                         "target": 1
                     }
                 ],
-                "noRandomSelection": true
+                "noRandomSelection": true,
+                "length": 10
             }
         ],
         "folders": {
@@ -36265,7 +36352,8 @@
                         "target": 1
                     }
                 ],
-                "noRandomSelection": true
+                "noRandomSelection": true,
+                "length": 11
             }
         ],
         "folders": {
@@ -36601,7 +36689,8 @@
                 "offset": {
                     "y": -15,
                     "r": 180
-                }
+                },
+                "length": 10
             }
         ],
         "folders": {
@@ -36909,7 +36998,8 @@
                         "target": 1
                     }
                 ],
-                "noRandomSelection": true
+                "noRandomSelection": true,
+                "length": 9.333333
             }
         ],
         "folders": {
@@ -37274,7 +37364,8 @@
                         "target": 1
                     }
                 ],
-                "noRandomSelection": true
+                "noRandomSelection": true,
+                "length": 9.333333
             }
         ],
         "folders": {
@@ -38059,7 +38150,8 @@
                     "x": 16,
                     "y": -64,
                     "z": -43
-                }
+                },
+                "length": 11
             }
         ],
         "folders": {
@@ -38417,7 +38509,8 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "length": 9.333333
             }
         ],
         "folders": {
@@ -38776,7 +38869,8 @@
                 ],
                 "offset": {
                     "y": 20
-                }
+                },
+                "length": 12
             }
         ],
         "folders": {
@@ -39045,7 +39139,8 @@
                 ],
                 "offset": {
                     "y": -19
-                }
+                },
+                "length": 10.666667
             }
         ],
         "folders": {
@@ -39394,7 +39489,8 @@
                 "offset": {
                     "y": -20,
                     "r": 180
-                }
+                },
+                "length": 11
             }
         ],
         "folders": {
@@ -39707,7 +39803,8 @@
                 ],
                 "offset": {
                     "z": -41
-                }
+                },
+                "length": 5.8
             }
         ],
         "folders": {
@@ -40033,7 +40130,8 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "length": 10.2
             }
         ],
         "folders": {
@@ -40430,7 +40528,8 @@
                     "x": -20,
                     "z": -44,
                     "r": 180
-                }
+                },
+                "length": 10.133333
             }
         ],
         "folders": {
@@ -40650,7 +40749,8 @@
                 ],
                 "offset": {
                     "y": -17
-                }
+                },
+                "length": 6
             },
             {
                 "actors": [
@@ -40975,7 +41075,8 @@
                 "offset": {
                     "y": 49,
                     "r": 180
-                }
+                },
+                "length": 2.166667
             }
         ],
         "folders": {
@@ -41267,7 +41368,8 @@
                 "offset": {
                     "y": 37,
                     "r": 180
-                }
+                },
+                "length": 2.666667
             }
         ],
         "folders": {
@@ -41618,7 +41720,8 @@
                 "offset": {
                     "y": 37,
                     "r": 180
-                }
+                },
+                "length": 4.633333
             }
         ],
         "folders": {
@@ -41947,7 +42050,8 @@
                 ],
                 "noRandomSelection": true,
                 "id": "AnubsAdultRbed2-5",
-                "fileName": "AnubsAdultRbed2_5"
+                "fileName": "AnubsAdultRbed2_5",
+                "length": 12
             }
         ],
         "hkxAnnotations": {
@@ -42305,7 +42409,8 @@
                     }
                 ],
                 "id": "AnubsFfmBed-6",
-                "fileName": "AnubsFfmBed_6"
+                "fileName": "AnubsFfmBed_6",
+                "length": 11
             }
         ],
         "hkxAnnotations": {
@@ -42674,7 +42779,8 @@
                     }
                 ],
                 "id": "AnubsTw-6",
-                "fileName": "AnubsTw_6"
+                "fileName": "AnubsTw_6",
+                "length": 8
             }
         ],
         "hkxAnnotations": {
@@ -42974,7 +43080,8 @@
                 ],
                 "noRandomSelection": true,
                 "id": "AnubsABedsleep-6",
-                "fileName": "AnubsABedsleep_6"
+                "fileName": "AnubsABedsleep_6",
+                "length": 12
             }
         ],
         "hkxAnnotations": {
@@ -43271,7 +43378,8 @@
                 ],
                 "noRandomSelection": true,
                 "id": "AnubsAChairCg-6",
-                "fileName": "AnubsAChairCg_6"
+                "fileName": "AnubsAChairCg_6",
+                "length": 12
             }
         ],
         "hkxAnnotations": {
@@ -43537,7 +43645,8 @@
                 ],
                 "noRandomSelection": true,
                 "id": "AnubsAdultBarTable-5",
-                "fileName": "AnubsAdultBarTable_5"
+                "fileName": "AnubsAdultBarTable_5",
+                "length": 6
             }
         ],
         "hkxAnnotations": {
@@ -43769,7 +43878,8 @@
                 ],
                 "noRandomSelection": true,
                 "id": "AnubsAdultBath-5",
-                "fileName": "AnubsAdultBath_5"
+                "fileName": "AnubsAdultBath_5",
+                "length": 5.333333
             }
         ],
         "hkxAnnotations": {
@@ -44013,7 +44123,8 @@
                 ],
                 "noRandomSelection": true,
                 "id": "AnubsAdultBench-5",
-                "fileName": "AnubsAdultBench_5"
+                "fileName": "AnubsAdultBench_5",
+                "length": 11.2
             }
         ],
         "hkxAnnotations": {
@@ -44299,7 +44410,8 @@
                 ],
                 "noRandomSelection": true,
                 "id": "AnubsAdultStool-6",
-                "fileName": "AnubsAdultStool_6"
+                "fileName": "AnubsAdultStool_6",
+                "length": 9.333333
             }
         ],
         "hkxAnnotations": {
@@ -44624,7 +44736,8 @@
                 ],
                 "noRandomSelection": true,
                 "id": "AnubsASide-7",
-                "fileName": "AnubsASide_7"
+                "fileName": "AnubsASide_7",
+                "length": 9.333333
             }
         ],
         "hkxAnnotations": {
@@ -44993,7 +45106,8 @@
                 ],
                 "noRandomSelection": true,
                 "id": "AnubsASofa-8",
-                "fileName": "AnubsASofa_8"
+                "fileName": "AnubsASofa_8",
+                "length": 11.2
             }
         ],
         "hkxAnnotations": {
@@ -45325,7 +45439,8 @@
                 ],
                 "noRandomSelection": true,
                 "id": "AnubsBedP-7",
-                "fileName": "AnubsBedP_7"
+                "fileName": "AnubsBedP_7",
+                "length": 6
             }
         ],
         "hkxAnnotations": {
@@ -45711,7 +45826,8 @@
                 ],
                 "noRandomSelection": true,
                 "id": "AnubsCaged-9",
-                "fileName": "AnubsCaged_9"
+                "fileName": "AnubsCaged_9",
+                "length": 9.333333
             },
             {
                 "meta": {
@@ -46039,7 +46155,8 @@
                 ],
                 "noRandomSelection": true,
                 "id": "AnubsChairDoggy-6",
-                "fileName": "AnubsChairDoggy_6"
+                "fileName": "AnubsChairDoggy_6",
+                "length": 8.666667
             }
         ],
         "hkxAnnotations": {
@@ -46375,7 +46492,8 @@
                 ],
                 "noRandomSelection": true,
                 "id": "AnubsChairfemdom-7",
-                "fileName": "AnubsChairfemdom_7"
+                "fileName": "AnubsChairfemdom_7",
+                "length": 12
             }
         ],
         "hkxAnnotations": {
@@ -46742,7 +46860,8 @@
                 ],
                 "noRandomSelection": true,
                 "id": "AnubsDrunk-8",
-                "fileName": "AnubsDrunk_8"
+                "fileName": "AnubsDrunk_8",
+                "length": 10
             },
             {
                 "meta": {
@@ -47052,7 +47171,8 @@
                 ],
                 "noRandomSelection": true,
                 "id": "AnubsThroneFemdom-5",
-                "fileName": "AnubsThroneFemdom_5"
+                "fileName": "AnubsThroneFemdom_5",
+                "length": 5.6
             }
         ],
         "hkxAnnotations": {
@@ -47293,7 +47413,8 @@
                         "actor": 1,
                         "target": 0
                     }
-                ]
+                ],
+                "length": 6.4
             }
         ],
         "folders": {

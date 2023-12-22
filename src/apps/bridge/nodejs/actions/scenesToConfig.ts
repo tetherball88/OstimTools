@@ -76,6 +76,10 @@ export const scenesToConfig = async (config: CombinedConfig) => {
             stageConfig.offset = jsonScene.offset
         }
 
+        if('destination' in jsonScene) {
+            stageConfig.length = jsonScene.length
+        }
+
         try {
             await writeJson(`${outputScenesJsonConfigPath}\\${scenesJsonConfigFilename}`, ostimConfig);
         }

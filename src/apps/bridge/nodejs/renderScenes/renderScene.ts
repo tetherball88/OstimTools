@@ -49,7 +49,7 @@ export const renderScene = async (sceneConfig: OstimConfigAnimation, config: Com
         navigations.push({
             destination: `${animName}-${stageIndexFromOne + 1}`,
             description: nextHasClimax? 'Next(climax)' : 'Next',
-            icon: 'OStim/symbols/arrow_right',
+            icon: nextHasClimax ? 'OStim/symbols/climax' : 'OStim/symbols/next',
         })
     }
 
@@ -63,7 +63,7 @@ export const renderScene = async (sceneConfig: OstimConfigAnimation, config: Com
             navigations.push({
                 destination: `${animName}-${prevSceneStageIndex}`,
                 description: 'Back',
-                icon: 'OStim/symbols/arrow_left',
+                icon: 'OStim/symbols/previous',
             })
         }
     }

@@ -418,7 +418,8 @@
                         "target": 1,
                         "performer": 1
                     }
-                ]
+                ],
+                "length": 8
             }
         ],
         "folders": {
@@ -776,7 +777,8 @@
                         "actor": 1,
                         "target": 2
                     }
-                ]
+                ],
+                "length": 5.333333
             }
         ],
         "folders": {
@@ -1043,7 +1045,8 @@
                         "actor": 1,
                         "target": 0
                     }
-                ]
+                ],
+                "length": 5.666667
             }
         ],
         "folders": {
@@ -1288,7 +1291,8 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "length": 3
             }
         ],
         "folders": {
@@ -1491,7 +1495,8 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "length": 2
             }
         ],
         "folders": {
@@ -1788,7 +1793,8 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "length": 7.4
             }
         ],
         "folders": {
@@ -2035,7 +2041,8 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "length": 7
             }
         ],
         "folders": {
@@ -2242,7 +2249,8 @@
                         "target": 1,
                         "performer": 1
                     }
-                ]
+                ],
+                "length": 5
             }
         ],
         "folders": {
@@ -2503,7 +2511,8 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "length": 5.933333
             }
         ],
         "folders": {
@@ -2758,7 +2767,8 @@
                         "actor": 1,
                         "target": 0
                     }
-                ]
+                ],
+                "length": 12
             }
         ],
         "folders": {
@@ -3039,7 +3049,8 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "length": 10.200001
             }
         ],
         "folders": {
@@ -3323,7 +3334,8 @@
                         "actor": 1,
                         "target": 0
                     }
-                ]
+                ],
+                "length": 12.6
             }
         ],
         "folders": {
@@ -3583,7 +3595,8 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "length": 6.4
             }
         ],
         "folders": {
@@ -3852,7 +3865,8 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "length": 4.666667
             }
         ],
         "folders": {
@@ -4120,7 +4134,8 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "length": 7.266667
             }
         ],
         "folders": {
@@ -4412,7 +4427,8 @@
                         "actor": 1,
                         "target": 0
                     }
-                ]
+                ],
+                "length": 14.666666
             }
         ],
         "folders": {
@@ -4695,7 +4711,8 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "length": 5.933333
             }
         ],
         "folders": {
@@ -4975,7 +4992,8 @@
                         "actor": 1,
                         "target": 0
                     }
-                ]
+                ],
+                "length": 15.333334
             }
         ],
         "folders": {
@@ -5247,7 +5265,8 @@
                         "actor": 1,
                         "target": 0
                     }
-                ]
+                ],
+                "length": 6.933333
             }
         ],
         "folders": {
@@ -5505,7 +5524,8 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "length": 5.933333
             }
         ],
         "folders": {
@@ -5806,7 +5826,8 @@
                         "target": 1,
                         "performer": 1
                     }
-                ]
+                ],
+                "length": 6
             }
         ],
         "folders": {
@@ -6132,7 +6153,8 @@
                         "actor": 1,
                         "target": 0
                     }
-                ]
+                ],
+                "length": 5.933333
             }
         ],
         "folders": {
@@ -6401,7 +6423,8 @@
                         "actor": 1,
                         "target": 1
                     }
-                ]
+                ],
+                "length": 9.333333
             }
         ],
         "folders": {
@@ -6679,7 +6702,8 @@
                         "actor": 1,
                         "target": 0
                     }
-                ]
+                ],
+                "length": 7
             }
         ],
         "folders": {
@@ -7018,7 +7042,8 @@
                         "actor": 0,
                         "target": 1
                     }
-                ]
+                ],
+                "length": 6.4
             }
         ],
         "folders": {
@@ -7335,7 +7360,8 @@
                         "actor": 2,
                         "target": 0
                     }
-                ]
+                ],
+                "length": 3.466667
             }
         ],
         "folders": {
@@ -7526,7 +7552,8 @@
                         "actor": 0,
                         "target": 0
                     }
-                ]
+                ],
+                "length": 12
             }
         ],
         "folders": {
@@ -9049,15 +9076,15 @@
         "hkxAnnotations": {
             "NibblesSpankingchair_1_0.hkx": {
                 "duration": 5.2,
-                "annotationLines": "0.144444 OStimEvent.spank,1\n0.988000 OStimEvent.spank,1\n1.848889 OStimEvent.spank,1\n2.698222 OStimEvent.spank,1\n3.553333 OStimEvent.spank,1\n4.396889 OStimEvent.spank,1"
+                "annotationLines": "0.144444 OStimEvent.spankleft,1\n0.988000 OStimEvent.spankleft,1\n1.848889 OStimEvent.spankleft,1\n2.698222 OStimEvent.spankleft,1\n3.553333 OStimEvent.spankleft,1\n4.396889 OStimEvent.spankleft,1"
             },
             "NibblesSpankingchair_2_0.hkx": {
                 "duration": 4.266667,
-                "annotationLines": "0.104296 OStimEvent.spank,1\n0.630519 OStimEvent.spank,1\n1.147259 OStimEvent.spank,1\n1.673482 OStimEvent.spank,1\n2.196544 OStimEvent.spank,1\n2.719606 OStimEvent.spank,1\n3.242668 OStimEvent.spank,1\n3.76573 OStimEvent.spank,1"
+                "annotationLines": "0.104296 OStimEvent.spankright,1\n0.630519 OStimEvent.spankleft,1\n1.147259 OStimEvent.spankright,1\n1.673482 OStimEvent.spankleft,1\n2.196544 OStimEvent.spankright,1\n2.719606 OStimEvent.spankleft,1\n3.242668 OStimEvent.spankright,1\n3.76573 OStimEvent.spankleft,1"
             },
             "NibblesSpankingchair_3_0.hkx": {
                 "duration": 4.266667,
-                "annotationLines": "0.104296 OStimEvent.spank,1\n0.630518 OStimEvent.spank,1\n1.147259 OStimEvent.spank,1\n1.673482 OStimEvent.spank,1\n2.196544 OStimEvent.spank,1\n2.719606 OStimEvent.spank,1\n3.242668 OStimEvent.spank,1\n3.76573 OStimEvent.spank,1"
+                "annotationLines": "0.104296 OStimEvent.spankright,1\n0.630518 OStimEvent.spankright,1\n1.147259 OStimEvent.spankright,1\n1.673482 OStimEvent.spankright,1\n2.196544 OStimEvent.spankright,1\n2.719606 OStimEvent.spankright,1\n3.242668 OStimEvent.spankright,1\n3.76573 OStimEvent.spankright,1"
             }
         },
         "sequence": {
@@ -9309,7 +9336,8 @@
                         "target": 0
                     }
                 ],
-                "noRandomSelection": true
+                "noRandomSelection": true,
+                "length": 5.8
             }
         ],
         "folders": {
@@ -9580,7 +9608,8 @@
                         "target": 1
                     }
                 ],
-                "noRandomSelection": true
+                "noRandomSelection": true,
+                "length": 5.8
             }
         ],
         "folders": {
@@ -9855,7 +9884,8 @@
                         "target": 0
                     }
                 ],
-                "noRandomSelection": true
+                "noRandomSelection": true,
+                "length": 4.8
             }
         ],
         "folders": {
@@ -9943,7 +9973,8 @@
                         "actor": 1
                     }
                 ],
-                "noRandomSelection": true
+                "noRandomSelection": true,
+                "length": 2.7
             },
             {
                 "actors": [
@@ -10024,7 +10055,8 @@
                         "target": 1
                     }
                 ],
-                "noRandomSelection": true
+                "noRandomSelection": true,
+                "length": 13
             },
             {
                 "actors": [
@@ -10160,7 +10192,8 @@
                         "target": 1
                     }
                 ],
-                "noRandomSelection": true
+                "noRandomSelection": true,
+                "length": 6
             }
         ],
         "folders": {
@@ -10459,7 +10492,8 @@
                         "target": 0
                     }
                 ],
-                "noRandomSelection": true
+                "noRandomSelection": true,
+                "length": 12
             }
         ],
         "folders": {
@@ -10640,7 +10674,8 @@
                         "actor": 0
                     }
                 ],
-                "noRandomSelection": true
+                "noRandomSelection": true,
+                "length": 12
             }
         ],
         "folders": {
@@ -10857,7 +10892,8 @@
                         "target": 0
                     }
                 ],
-                "noRandomSelection": true
+                "noRandomSelection": true,
+                "length": 7.2
             }
         ],
         "folders": {
@@ -11052,7 +11088,8 @@
                         "actor": 0
                     }
                 ],
-                "noRandomSelection": true
+                "noRandomSelection": true,
+                "length": 3.2
             }
         ],
         "folders": {
@@ -11229,7 +11266,8 @@
                         "actor": 0
                     }
                 ],
-                "noRandomSelection": true
+                "noRandomSelection": true,
+                "length": 5.2
             }
         ],
         "folders": {
@@ -11406,7 +11444,8 @@
                         "type": "mdildovaginal",
                         "actor": 0
                     }
-                ]
+                ],
+                "length": 12
             }
         ],
         "folders": {
@@ -11623,7 +11662,8 @@
                         "target": 0
                     }
                 ],
-                "noRandomSelection": true
+                "noRandomSelection": true,
+                "length": 7.2
             }
         ],
         "folders": {
@@ -11818,7 +11858,8 @@
                         "actor": 0
                     }
                 ],
-                "noRandomSelection": true
+                "noRandomSelection": true,
+                "length": 3.2
             }
         ],
         "folders": {
@@ -11995,7 +12036,8 @@
                         "actor": 0
                     }
                 ],
-                "noRandomSelection": true
+                "noRandomSelection": true,
+                "length": 5.2
             }
         ],
         "folders": {
@@ -12300,7 +12342,8 @@
                     "y": 45,
                     "z": 8,
                     "r": 180
-                }
+                },
+                "length": 12
             }
         ],
         "folders": {
@@ -12696,15 +12739,15 @@
         "hkxAnnotations": {
             "NibblesAfSpankingchair_1_0.hkx": {
                 "duration": 5.2,
-                "annotationLines": "0.144444 OStimEvent.spank,1\n0.988000 OStimEvent.spank,1\n1.848889 OStimEvent.spank,1\n2.698222 OStimEvent.spank,1\n3.553333 OStimEvent.spank,1\n4.396889 OStimEvent.spank,1"
+                "annotationLines": "0.144444 OStimEvent.spankleft,1\n0.988000 OStimEvent.spankleft,1\n1.848889 OStimEvent.spankleft,1\n2.698222 OStimEvent.spankleft,1\n3.553333 OStimEvent.spankleft,1\n4.396889 OStimEvent.spankleft,1"
             },
             "NibblesAfSpankingchair_2_0.hkx": {
                 "duration": 4.266667,
-                "annotationLines": "0.104296 OStimEvent.spank,1\n0.630519 OStimEvent.spank,1\n1.147259 OStimEvent.spank,1\n1.673482 OStimEvent.spank,1\n2.196544 OStimEvent.spank,1\n2.719606 OStimEvent.spank,1\n3.242668 OStimEvent.spank,1\n3.76573 OStimEvent.spank,1"
+                "annotationLines": "0.104296 OStimEvent.spankright,1\n0.630519 OStimEvent.spankleft,1\n1.147259 OStimEvent.spankright,1\n1.673482 OStimEvent.spankleft,1\n2.196544 OStimEvent.spankright,1\n2.719606 OStimEvent.spankleft,1\n3.242668 OStimEvent.spankright,1\n3.76573 OStimEvent.spankleft,1"
             },
             "NibblesAfSpankingchair_3_0.hkx": {
                 "duration": 4.266667,
-                "annotationLines": "0.104296 OStimEvent.spank,1\n0.630518 OStimEvent.spank,1\n1.147259 OStimEvent.spank,1\n1.673482 OStimEvent.spank,1\n2.196544 OStimEvent.spank,1\n2.719606 OStimEvent.spank,1\n3.242668 OStimEvent.spank,1\n3.76573 OStimEvent.spank,1"
+                "annotationLines": "0.104296 OStimEvent.spankright,1\n0.630518 OStimEvent.spankright,1\n1.147259 OStimEvent.spankright,1\n1.673482 OStimEvent.spankright,1\n2.196544 OStimEvent.spankright,1\n2.719606 OStimEvent.spankright,1\n3.242668 OStimEvent.spankright,1\n3.76573 OStimEvent.spankright,1"
             }
         },
         "sequence": {
@@ -12778,7 +12821,10 @@
                         "target": 1
                     }
                 ],
-                "noRandomSelection": true
+                "noRandomSelection": true,
+                "offset": {
+                    "z": -44
+                }
             },
             {
                 "actors": [
@@ -12973,7 +13019,8 @@
                 "noRandomSelection": true,
                 "offset": {
                     "z": -44
-                }
+                },
+                "length": 5.8
             }
         ],
         "folders": {
@@ -13259,7 +13306,8 @@
                 ],
                 "offset": {
                     "y": 30
-                }
+                },
+                "length": 5.8
             }
         ],
         "folders": {
@@ -13549,7 +13597,8 @@
                 ],
                 "offset": {
                     "y": 30
-                }
+                },
+                "length": 4.8
             }
         ],
         "folders": {
@@ -13641,7 +13690,8 @@
                 "offset": {
                     "y": 30,
                     "r": -90
-                }
+                },
+                "length": 2.7
             },
             {
                 "actors": [
@@ -13731,7 +13781,8 @@
                 "offset": {
                     "y": 30,
                     "r": -90
-                }
+                },
+                "length": 13
             },
             {
                 "actors": [
@@ -13879,7 +13930,8 @@
                 "offset": {
                     "y": 30,
                     "r": -90
-                }
+                },
+                "length": 6
             }
         ],
         "folders": {

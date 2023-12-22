@@ -84,7 +84,7 @@ export const updateAnnotations = async (hkxFile:string, oldContent: string | nul
 
     await writeFile(tmpFilePath, newContent)
 
-    await exec(`${hkannoExe} update -i "${tmpFilePath}" "${hkxFile}"`, {
+    await exec(`"${hkannoExe}" update -i "${tmpFilePath}" "${hkxFile}"`, {
         cwd: hkAnnoFolder
     });
 

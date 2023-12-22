@@ -73,7 +73,7 @@ export const renderTransitionScene = async (sceneConfig: OstimConfigAnimation, c
     const content: OstimScene = {
         name,
         modpack: `${author}Animations`,
-        length: durationFromAnnotations,
+        length: stageConfig.length || durationFromAnnotations,
         destination: destination || (hasNextStage ? `${animName}-${stageIndexFromOne + 1}` : `${animName}-${stageIndexFromOne - 1}`),
         ...(isFirst ? { 
             origin: hub.name,

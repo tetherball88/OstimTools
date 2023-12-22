@@ -22,6 +22,7 @@ export interface OstimConfigAnimationStage {
     actions: OstimSceneAction[]
     noRandomSelection?: boolean
     offset?: OstimScene3DOffset
+    length?: number
 }
 
 /**
